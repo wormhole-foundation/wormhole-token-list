@@ -1,0 +1,79 @@
+{
+  "description": "a schema for defining markets for wormhole-wrapped assets",
+  "type": "object",
+  "properties": {
+    "markets": {
+      "type": "object",
+      "additionalProperties": {
+        "$ref": "#/$defs/marketInfo"
+      }
+    },
+    "marketsBySource": {
+      "description": "keys of source chain id",
+      "type": "object",
+      "properties": {
+        "1": { "$ref": "#/$defs/sourceChain" },
+        "2": { "$ref": "#/$defs/sourceChain" },
+        "3": { "$ref": "#/$defs/sourceChain" },
+        "4": { "$ref": "#/$defs/sourceChain" },
+        "5": { "$ref": "#/$defs/sourceChain" }
+      },
+      "additionalProperties": false
+    }
+  },
+  "required": ["markets", "marketsBySource"],
+  "additionalProperties": false,
+  "$defs": {
+    "marketInfo": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "link": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "sourceChain": {
+      "description": "keys of target chain id",
+      "type": "object",
+      "properties": {
+        "1": { "$ref": "#/$defs/targetChain" },
+        "2": { "$ref": "#/$defs/targetChain" },
+        "3": { "$ref": "#/$defs/targetChain" },
+        "4": { "$ref": "#/$defs/targetChain" },
+        "5": { "$ref": "#/$defs/targetChain" }
+      },
+      "additionalProperties": false
+    },
+    "targetChain": {
+      "description": "keys of token addresses",
+      "type": "object",
+      "additionalProperties": {
+        "$ref": "#/$defs/tokenInfo"
+      }
+    },
+    "tokenInfo": {
+      "description": "contains list of markets for a given source - target - address tuple",
+      "type": "object",
+      "properties": {
+        "symbol": {
+          "description": "for maintainer reference only",
+          "type": "string"
+        },
+        "markets": {
+          "description": "list of market ids that support this token",
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        }
+      },
+      "required": ["symbol", "markets"],
+      "additionalProperties": false
+    }
+  }
+}
