@@ -1,0 +1,130 @@
+{
+  "markets": {
+    "saber": {
+      "name": "Saber",
+      "link": "https://www.saber.so/"
+    },
+    "mercurial": {
+      "name": "Mercurial",
+      "link": "https://mercurial.finance/"
+    },
+    "jupiter": {
+      "name": "Jupiter",
+      "link": "https://jup.ag/"
+    },
+    "raydium": {
+      "name": "Raydium",
+      "link": "https://raydium.io/swap/"
+    },
+    "tulip": {
+      "name": "Tulip",
+      "link": "https://tulip.garden/"
+    },
+    "almond": {
+      "name": "Almond",
+      "link": "https://almond.so/"
+    },
+    "orca": {
+      "name": "Orca",
+      "link": "https://www.orca.so/"
+    },
+    "curve": {
+      "name": "Curve",
+      "link": "https://curve.fi/"
+    },
+    "uniswap": {
+      "name": "Uniswap",
+      "link": "https://app.uniswap.org/"
+    },
+    "anchor": {
+      "name": "Anchor",
+      "link": "https://app.anchorprotocol.com/"
+    },
+    "loop": {
+      "name": "Loop Markets",
+      "link": "https://dex.loop.markets/"
+    },
+    "quickswap": {
+      "name": "Quickswap",
+      "link": "https://quickswap.exchange/"
+    },
+    "sushi": {
+      "name": "Sushi",
+      "link": "https://app.sushi.com/"
+    }
+  },
+  "marketsBySource": {
+    "2": {
+      "1": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
+          "symbol": "USDC",
+          "markets": ["saber", "mercurial", "jupiter"]
+        },
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": {
+          "symbol": "USDT",
+          "markets": ["saber", "mercurial", "jupiter"]
+        },
+        "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9": {
+          "symbol": "FTX Token",
+          "markets": ["saber", "almond", "tulip"]
+        },
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
+          "symbol": "WETH",
+          "markets": ["orca", "saber", "tulip"]
+        },
+        "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff": {
+          "symbol": "SRM",
+          "markets": ["orca", "saber", "tulip"]
+        },
+        "0x6b175474e89094c44da98b954eedeac495271d0f": {
+          "symbol": "DAI",
+          "markets": ["saber", "mercurial", "jupiter"]
+        },
+        "0xa693B19d2931d498c5B318dF961919BB4aee87a5": {
+          "symbol": "UST",
+          "markets": ["saber", "mercurial", "jupiter"]
+        },
+        "0x4fabb145d64652a948d72533023f6e7a623c7c53": {
+          "symbol": "BUSD",
+          "markets": ["saber"]
+        },
+        "0xdf574c24545e5ffecb9a659c229253d4111d87e1": {
+          "symbol": "HUSD",
+          "markets": ["saber"]
+        },
+        "0x1c48f86ae57291f7686349f12601910bd8d470bb": {
+          "symbol": "USDK",
+          "markets": ["saber"]
+        },
+        "0x853d955acef822db058eb8505911ed77f175b99e": {
+          "symbol": "FRAX",
+          "markets": ["saber"]
+        },
+        "0x0316eb71485b0ab14103307bf65a021042c6d380": {
+          "symbol": "HBTC",
+          "markets": ["saber"]
+        },
+        "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE": {
+          "symbol": "SHIB",
+          "markets": ["saber"]
+        },
+        "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b": {
+          "symbol": "AXS",
+          "markets": ["raydium"]
+        },
+        "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2": {
+          "symbol": "SUSHI",
+          "markets": ["raydium", "tulip"]
+        },
+        "0x92d6c1e31e14520e676a687f0a93788b716beff5": {
+          "symbol": "DYDX",
+          "markets": ["raydium"]
+        },
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": {
+          "symbol": "UNI",
+          "markets": ["raydium", "tulip"]
+        }
+      }
+    }
+  }
+}

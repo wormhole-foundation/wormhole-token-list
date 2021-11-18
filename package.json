@@ -1,0 +1,29 @@
+{
+  "name": "@certusone/wormhole-token-list",
+  "version": "0.0.1",
+  "description": "A token list for featured markets",
+  "homepage": "https://wormholenetwork.com",
+  "repository": "https://github.com/certusone/wormhole-token-list",
+  "scripts": {
+    "test": "jest --config jestconfig.json --verbose"
+  },
+  "keywords": [
+    "wormhole",
+    "bridge",
+    "token",
+    "sdk",
+    "solana",
+    "ethereum",
+    "terra",
+    "bsc"
+  ],
+  "author": "certusone",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "@types/node": "^16.6.1",
+    "ajv": "^8.8.1",
+    "jest": "^27.3.1",
+    "prettier": "^2.3.2"
+  }
+}
