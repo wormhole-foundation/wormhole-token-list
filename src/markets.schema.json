@@ -8,20 +8,32 @@
         "$ref": "#/$defs/marketInfo"
       }
     },
-    "marketsBySource": {
+    "tokens": {
       "description": "keys of source chain id",
       "type": "object",
       "properties": {
-        "1": { "$ref": "#/$defs/sourceChain" },
-        "2": { "$ref": "#/$defs/sourceChain" },
-        "3": { "$ref": "#/$defs/sourceChain" },
-        "4": { "$ref": "#/$defs/sourceChain" },
-        "5": { "$ref": "#/$defs/sourceChain" }
+        "1": { "$ref": "#/$defs/tokenSourceChain" },
+        "2": { "$ref": "#/$defs/tokenSourceChain" },
+        "3": { "$ref": "#/$defs/tokenSourceChain" },
+        "4": { "$ref": "#/$defs/tokenSourceChain" },
+        "5": { "$ref": "#/$defs/tokenSourceChain" }
+      },
+      "additionalProperties": false
+    },
+    "tokenMarkets": {
+      "description": "keys of source chain id",
+      "type": "object",
+      "properties": {
+        "1": { "$ref": "#/$defs/tokenMarketSourceChain" },
+        "2": { "$ref": "#/$defs/tokenMarketSourceChain" },
+        "3": { "$ref": "#/$defs/tokenMarketSourceChain" },
+        "4": { "$ref": "#/$defs/tokenMarketSourceChain" },
+        "5": { "$ref": "#/$defs/tokenMarketSourceChain" }
       },
       "additionalProperties": false
     }
   },
-  "required": ["markets", "marketsBySource"],
+  "required": ["markets", "tokens", "tokenMarkets"],
   "additionalProperties": false,
   "$defs": {
     "marketInfo": {
@@ -34,35 +46,52 @@
           "type": "string"
         }
       },
+      "required": ["name", "link"],
       "additionalProperties": false
     },
-    "sourceChain": {
+    "tokenSourceChain": {
       "description": "keys of target chain id",
-      "type": "object",
-      "properties": {
-        "1": { "$ref": "#/$defs/targetChain" },
-        "2": { "$ref": "#/$defs/targetChain" },
-        "3": { "$ref": "#/$defs/targetChain" },
-        "4": { "$ref": "#/$defs/targetChain" },
-        "5": { "$ref": "#/$defs/targetChain" }
-      },
-      "additionalProperties": false
-    },
-    "targetChain": {
-      "description": "keys of token addresses",
       "type": "object",
       "additionalProperties": {
         "$ref": "#/$defs/tokenInfo"
       }
     },
     "tokenInfo": {
-      "description": "contains list of markets for a given source - target - address tuple",
       "type": "object",
       "properties": {
         "symbol": {
-          "description": "for maintainer reference only",
           "type": "string"
         },
+        "logo": {
+          "type": "string"
+        }
+      },
+      "required": ["symbol", "logo"],
+      "additionalProperties": false
+    },
+    "tokenMarketSourceChain": {
+      "description": "keys of target chain id",
+      "type": "object",
+      "properties": {
+        "1": { "$ref": "#/$defs/tokenMarketTargetChain" },
+        "2": { "$ref": "#/$defs/tokenMarketTargetChain" },
+        "3": { "$ref": "#/$defs/tokenMarketTargetChain" },
+        "4": { "$ref": "#/$defs/tokenMarketTargetChain" },
+        "5": { "$ref": "#/$defs/tokenMarketTargetChain" }
+      },
+      "additionalProperties": false
+    },
+    "tokenMarketTargetChain": {
+      "description": "keys of token addresses",
+      "type": "object",
+      "additionalProperties": {
+        "$ref": "#/$defs/tokenMarketInfo"
+      }
+    },
+    "tokenMarketInfo": {
+      "description": "contains list of markets for a given source - target - address tuple",
+      "type": "object",
+      "properties": {
         "markets": {
           "description": "list of market ids that support this token",
           "type": "array",
@@ -72,7 +101,7 @@
           "uniqueItems": true
         }
       },
-      "required": ["symbol", "markets"],
+      "required": ["markets"],
       "additionalProperties": false
     }
   }
