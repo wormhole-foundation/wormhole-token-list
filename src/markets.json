@@ -53,75 +53,130 @@
       "link": "https://app.sushi.com/"
     }
   },
-  "marketsBySource": {
+  "tokens": {
+    "2": {
+      "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
+        "symbol": "USDC",
+        "logo": "https://etherscan.io/token/images/centre-usdc_28.png"
+      },
+      "0xdac17f958d2ee523a2206206994597c13d831ec7": {
+        "symbol": "USDT",
+        "logo": "https://etherscan.io/token/images/tether_32.png"
+      },
+      "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9": {
+        "symbol": "FTX Token",
+        "logo": "https://etherscan.io/token/images/ftexchange_28.png"
+      },
+      "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
+        "symbol": "WETH",
+        "logo": "https://etherscan.io/token/images/weth_28.png"
+      },
+      "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff": {
+        "symbol": "SRM",
+        "logo": "https://etherscan.io/token/images/serum_32.png"
+      },
+      "0x6b175474e89094c44da98b954eedeac495271d0f": {
+        "symbol": "DAI",
+        "logo": "https://etherscan.io/token/images/MCDDai_32.png"
+      },
+      "0xa693B19d2931d498c5B318dF961919BB4aee87a5": {
+        "symbol": "UST",
+        "logo": "https://etherscan.io/token/images/terra-ust_32.png"
+      },
+      "0x4fabb145d64652a948d72533023f6e7a623c7c53": {
+        "symbol": "BUSD",
+        "logo": "https://etherscan.io/token/images/binanceusd_32.png"
+      },
+      "0xdf574c24545e5ffecb9a659c229253d4111d87e1": {
+        "symbol": "HUSD",
+        "logo": "https://etherscan.io/token/images/husd_32.png"
+      },
+      "0x1c48f86ae57291f7686349f12601910bd8d470bb": {
+        "symbol": "USDK",
+        "logo": "https://etherscan.io/token/images/usdk_32.png"
+      },
+      "0x853d955acef822db058eb8505911ed77f175b99e": {
+        "symbol": "FRAX",
+        "logo": "https://etherscan.io/token/images/fraxfinance_32.png"
+      },
+      "0x0316eb71485b0ab14103307bf65a021042c6d380": {
+        "symbol": "HBTC",
+        "logo": "https://etherscan.io/token/images/huobibtc_32.png"
+      },
+      "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE": {
+        "symbol": "SHIB",
+        "logo": "https://etherscan.io/token/images/shibatoken_32.png"
+      },
+      "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b": {
+        "symbol": "AXS",
+        "logo": "https://etherscan.io/token/images/axieinfinityshard_32.png"
+      },
+      "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2": {
+        "symbol": "SUSHI",
+        "logo": "https://etherscan.io/token/images/sushitoken_32.png"
+      },
+      "0x92d6c1e31e14520e676a687f0a93788b716beff5": {
+        "symbol": "DYDX",
+        "logo": "https://etherscan.io/token/images/dydx2_32.png"
+      },
+      "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": {
+        "symbol": "UNI",
+        "logo": "https://etherscan.io/token/images/uniswap_32.png"
+      }
+    }
+  },
+  "tokenMarkets": {
     "2": {
       "1": {
         "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
-          "symbol": "USDC",
           "markets": ["saber", "mercurial", "jupiter"]
         },
         "0xdac17f958d2ee523a2206206994597c13d831ec7": {
-          "symbol": "USDT",
           "markets": ["saber", "mercurial", "jupiter"]
         },
         "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9": {
-          "symbol": "FTX Token",
           "markets": ["saber", "almond", "tulip"]
         },
         "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
-          "symbol": "WETH",
           "markets": ["orca", "saber", "tulip"]
         },
         "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff": {
-          "symbol": "SRM",
           "markets": ["orca", "saber", "tulip"]
         },
         "0x6b175474e89094c44da98b954eedeac495271d0f": {
-          "symbol": "DAI",
           "markets": ["saber", "mercurial", "jupiter"]
         },
         "0xa693B19d2931d498c5B318dF961919BB4aee87a5": {
-          "symbol": "UST",
           "markets": ["saber", "mercurial", "jupiter"]
         },
         "0x4fabb145d64652a948d72533023f6e7a623c7c53": {
-          "symbol": "BUSD",
           "markets": ["saber"]
         },
         "0xdf574c24545e5ffecb9a659c229253d4111d87e1": {
-          "symbol": "HUSD",
           "markets": ["saber"]
         },
         "0x1c48f86ae57291f7686349f12601910bd8d470bb": {
-          "symbol": "USDK",
           "markets": ["saber"]
         },
         "0x853d955acef822db058eb8505911ed77f175b99e": {
-          "symbol": "FRAX",
           "markets": ["saber"]
         },
         "0x0316eb71485b0ab14103307bf65a021042c6d380": {
-          "symbol": "HBTC",
           "markets": ["saber"]
         },
         "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE": {
-          "symbol": "SHIB",
           "markets": ["saber"]
         },
         "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b": {
-          "symbol": "AXS",
           "markets": ["raydium"]
         },
         "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2": {
-          "symbol": "SUSHI",
           "markets": ["raydium", "tulip"]
         },
         "0x92d6c1e31e14520e676a687f0a93788b716beff5": {
-          "symbol": "DYDX",
           "markets": ["raydium"]
         },
         "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": {
-          "symbol": "UNI",
           "markets": ["raydium", "tulip"]
         }
       }
