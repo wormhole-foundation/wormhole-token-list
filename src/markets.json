@@ -224,6 +224,10 @@
       "0x156ab3346823B651294766e23e6Cf87254d68962": {
         "symbol": "LUNA",
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W/logo.png"
+      },
+      "0xe9e7cea3dedca5984780bafc599bd69add087d56": {
+        "symbol": "BUSD",
+        "logo": "https://bscscan.com/token/images/busdt_32.png"
       }
     },
     "5": {
@@ -260,10 +264,13 @@
       },
       "5": {
         "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M": {
-          "markets": ["quickswap", "uniswap"]
+          "markets": ["quickswap", "sushi"]
         },
         "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1": {
-          "markets": ["quickswap", "uniswap"]
+          "markets": ["quickswap", "sushi"]
+        },
+        "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
+          "markets": ["quickswap"]
         }
       }
     },
@@ -334,6 +341,14 @@
         "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
           "markets": ["loop"]
         }
+      },
+      "5": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
+          "markets": ["quickswap"]
+        },
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": {
+          "markets": ["quickswap"]
+        }
       }
     },
     "3": {
@@ -374,6 +389,11 @@
         },
         "0x156ab3346823B651294766e23e6Cf87254d68962": {
           "markets": ["anchor"]
+        }
+      },
+      "4": {
+        "0xe9e7cea3dedca5984780bafc599bd69add087d56": {
+          "markets": ["quickswap"]
         }
       }
     },
