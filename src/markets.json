@@ -238,6 +238,10 @@
       "0xc2132d05d31c914a87c6611c10748aeb04b58e8f": {
         "symbol": "USDT",
         "logo": "https://polygonscan.com/token/images/tether_32.png"
+      },
+      "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270":{
+        "symbol": "MATIC",
+        "logo": "https://polygonscan.com/token/images/wMatic_32.png"
       }
     }
   },
@@ -262,7 +266,18 @@
           "markets": ["anchor"]
         }
       },
-      "5": {
+      "4":{
+        "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
+          "markets":["pancakeswap"]
+        },
+        "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": {
+          "markets":["pancakeswap"]
+        },
+        "So11111111111111111111111111111111111111112":{
+          "markets":["pancakeswap"]
+        }
+      },
+      "5": { 
         "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M": {
           "markets": ["quickswap", "sushi"]
         },
@@ -342,6 +357,17 @@
           "markets": ["loop"]
         }
       },
+      "4":{
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48":{
+          "markets":["pancakeswap"]
+        },
+        "0xdac17f958d2ee523a2206206994597c13d831ec7":{
+          "markets":["pancakeswap"]
+        },
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2":{
+          "markets":["pancakeswap"]
+        }
+      },
       "5": {
         "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
           "markets": ["quickswap"]
@@ -364,6 +390,16 @@
         "uusd": {
           "markets": ["curve", "uniswap"]
         }
+      },
+      "4":{
+        "uusdt": {
+          "markets":["pancakeswap"]
+        }
+      },
+      "5": {
+        "0xe9e7cea3dedca5984780bafc599bd69add087d56": {
+          "markets":["quickswap"]
+        }
       }
     },
     "4": {
@@ -376,6 +412,15 @@
         },
         "0x156ab3346823B651294766e23e6Cf87254d68962": {
           "markets": ["saber", "mercurial"]
+        },
+        "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d": { 
+          "markets":["mercurial"]
+        },
+        "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56": { 
+          "markets": ["mercurial"]
+        },
+        "0x55d398326f99059fF775485246999027B3197955": {
+          "markets":["mercurial"]
         }
       },
       "2": {
@@ -391,9 +436,9 @@
           "markets": ["anchor"]
         }
       },
-      "4": {
+      "5":{
         "0xe9e7cea3dedca5984780bafc599bd69add087d56": {
-          "markets": ["quickswap"]
+          "markets":["quickswap"]
         }
       }
     },
@@ -404,7 +449,17 @@
         },
         "0xc2132d05d31c914a87c6611c10748aeb04b58e8f": {
           "markets": ["saber"]
+        },
+      "2":{
+        "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270": {
+          "markets":["uniswap"]
         }
+      },
+      "4":{
+        "0x2791bca1f2de4661ed88a30c99a7a9449aa84174":{
+          "markets":["pancakeswap"]
+        }
+      }
       }
     }
   }
