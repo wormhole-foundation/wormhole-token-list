@@ -224,6 +224,18 @@
       "0x156ab3346823B651294766e23e6Cf87254d68962": {
         "symbol": "LUNA",
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W/logo.png"
+      },
+      "0x91ca579b0d47e5cfd5d0862c21d5659d39c8ecf0": {
+        "symbol": "wsUSDC",
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM/logo.png"
+      },
+      "0x49d5cc521f75e13fa8eb4e89e9d381352c897c96": {
+        "symbol": "wsUSDT",
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1/logo.png"
+      },
+      "0xfa54ff1a158b5189ebba6ae130ced6bbd3aea76e": {
+        "symbol": "wSOL",
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
       }
     },
     "5": {
@@ -234,6 +246,22 @@
       "0xc2132d05d31c914a87c6611c10748aeb04b58e8f": {
         "symbol": "USDT",
         "logo": "https://polygonscan.com/token/images/tether_32.png"
+      },
+      "0x576cf361711cd940cd9c397bb98c4c896cbd38de": {
+        "symbol": "wsUSDC",
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM/logo.png"
+      },
+      "0x4318cb63a2b8edf2de971e2f17f77097e499459d": {
+        "symbol": "weUSDC",
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM/logo.png"
+      },
+      "0xa8d394fe7380b8ce6145d5f85e6ac22d4e91acde": {
+        "symbol": "weUSDT",
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1/logo.png"
+      },
+      "0xa8d394fe7380b8ce6145d5f85e6ac22d4e91acde": {
+        "symbol": "wBUSD",
+        "logo": "https://bscscan.com/token/images/busdt_32.png"
       }
     }
   },
@@ -258,13 +286,26 @@
           "markets": ["anchor"]
         }
       },
+      "4": {
+        "0x91ca579b0d47e5cfd5d0862c21d5659d39c8ecf0": {
+          "markets": ["pancakeswap"]
+        },
+        "0x49d5cc521f75e13fa8eb4e89e9d381352c897c96": {
+          "markets": ["pancakeswap"]
+        },
+        "0xfa54ff1a158b5189ebba6ae130ced6bbd3aea76e": {
+          "markets": ["pancakeswap"]
+        }
+      },
       "5": {
         "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M": {
           "markets": ["quickswap", "uniswap"]
         },
         "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1": {
           "markets": ["quickswap", "uniswap"]
-        }
+        },
+         "0x576cf361711cd940cd9c397bb98c4c896cbd38de": {
+          "markets": ["quickswap"]
       }
     },
     "2": {
@@ -334,6 +375,11 @@
         "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
           "markets": ["loop"]
         }
+      },
+      "4": {
+        "0x4318cb63a2b8edf2de971e2f17f77097e499459d": {
+          "markets": ["quickswap"]
+        }
       }
     },
     "3": {
@@ -349,6 +395,10 @@
         "uusd": {
           "markets": ["curve", "uniswap"]
         }
+      },
+      "5": {
+        "0xe6469ba6d2fd6130788e0ea9c0a0515900563b59": {
+          "markets" ["quickswap"]
       }
     },
     "4": {
@@ -374,6 +424,11 @@
         },
         "0x156ab3346823B651294766e23e6Cf87254d68962": {
           "markets": ["anchor"]
+        }
+      },
+      "5": {
+        "0xa8d394fe7380b8ce6145d5f85e6ac22d4e91acde": {
+          "markets": ["quickswap"]
         }
       }
     },
