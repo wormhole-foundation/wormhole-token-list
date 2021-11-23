@@ -306,6 +306,7 @@
         },
          "0x576cf361711cd940cd9c397bb98c4c896cbd38de": {
           "markets": ["quickswap"]
+         }
       }
     },
     "2": {
@@ -399,6 +400,7 @@
       "5": {
         "0xe6469ba6d2fd6130788e0ea9c0a0515900563b59": {
           "markets" ["quickswap"]
+        }
       }
     },
     "4": {
