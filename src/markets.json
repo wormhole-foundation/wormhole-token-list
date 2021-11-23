@@ -118,6 +118,10 @@
       "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1": {
         "symbol": "wpUSDT",
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1/logo.png"
+      },
+      "So11111111111111111111111111111111111111112": {
+        "symbol": "SOL",
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
       }
     },
     "2": {
@@ -240,6 +244,9 @@
           "markets": ["uniswap"]
         },
         "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": {
+          "markets": ["uniswap"]
+        },
+        "So11111111111111111111111111111111111111112": {
           "markets": ["uniswap"]
         }
       },
