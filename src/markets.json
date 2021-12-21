@@ -151,15 +151,15 @@
         "symbol": "SOL",
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png"
       },
-      "0x83850D97018f665EB746FBb8f18351e977d1b0D6": {
+      "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx": {
         "symbol": "ATLAS",
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png"
       },
-      "0xF5a367b7809e5683538C93Ce638B9258A0B88271": {
+      "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP": {
         "symbol": "AURY",
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP/logo.png"
       },
-      "0x13b6A55662f6591f8B8408Af1C73B017E32eEdB8": {
+      "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R": {
         "symbol": "RAY",
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/logo.png"
       }
@@ -372,13 +372,13 @@
         "So11111111111111111111111111111111111111112": {
           "markets": ["pancakeswap"]
         },
-        "0x83850D97018f665EB746FBb8f18351e977d1b0D6": {
+        "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx": {
           "markets": ["pancakeswap"]
         },
-        "0xF5a367b7809e5683538C93Ce638B9258A0B88271": {
+        "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP": {
           "markets": ["pancakeswap"]
         },
-        "0x13b6A55662f6591f8B8408Af1C73B017E32eEdB8": {
+        "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R": {
           "markets": ["pancakeswap"]
         }
       },
