@@ -44,7 +44,15 @@ and
 }
 ```
 
-### Chain Ids
+## Running the tests
+```
+npm test
+```
+
+You might need to run `npm install` once before this.
+
+
+## Chain Ids
 
 This file uses the Wormhole chain ids to reference the chains. For reference, these are:
 
