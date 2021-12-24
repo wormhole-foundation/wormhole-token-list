@@ -61,13 +61,13 @@ for idx, token_data in enumerate(token_list):
   for field in ['symbol', 'name', 'address']:
     data[field] = token_data[field]
   data['origin'] = origin
-  for field in ['coingeckoId', 'serumV3Usdc']:
-    if field in token_data.get('extensions', []):
-      data[field] = token_data['extensions'][field]
   if 'address' in token_data.get('extensions', []):
     data['sourceAddress'] = token_data['extensions']['address']
   if 'assetContract' in token_data.get('extensions', []):
     data['sourceContract'] = token_data['extensions']['assetContract']
+  for field in ['coingeckoId', 'serumV3Usdc', 'serumV3Usdt']:
+    if field in token_data.get('extensions', []):
+      data[field] = token_data['extensions'][field]
 
   useful_data[symbol] = data
 
