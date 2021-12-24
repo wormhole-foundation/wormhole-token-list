@@ -563,6 +563,7 @@ def gen_markdown():
                          zip(df['sourceAddress'].values, df['sourceContract'].values)]
   df['serumV3Usdc'] = ['' if pd.isna(x) else x for x in df['serumV3Usdc'].values]
   df['serumV3Usdt'] = ['' if pd.isna(x) else x for x in df['serumV3Usdt'].values]
+  df['symbol_reprise'] = df['symbol']
 
   df = df.drop(['coingeckoId', 'sourceContract'], axis=1)
 
@@ -572,7 +573,7 @@ def gen_markdown():
   }
   df.columns = [col_rename.get(x, x) for x in df.columns]
 
-  txt = df.to_markdown(index=False)
+  txt = df.to_markdown(index=False).replace('symbol_reprise', 'symbol')
   header = """
 Known tokens (wormholed to Solana)
 ===================================
