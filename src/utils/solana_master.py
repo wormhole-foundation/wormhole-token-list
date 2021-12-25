@@ -163,7 +163,7 @@ TOKENS = {
   "COMP": {
     "symbol": "COMP",
     "name": "Compound (Wormhole)",
-    "address": "CU5L8JC83hyYZdf1phzy6a7X58eTtPjs7mHL3QKCcLfh",
+    "address": "AwEauVaTMQRB71WeDnwf1DWSBxaMKjEPuxyLr1uixFom",
     "origin": "ethereum",
     "sourceAddress": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
     "sourceContract": "https://etherscan.io/address/0xc00e94Cb662C3520282E6f5717214004A7f26888",
