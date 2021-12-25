@@ -56,6 +56,15 @@ TOKENS = {
     "serumV3Usdc": "Fw4mvuE7KZmTjQPxP2sRpHwPDfRMWnKBupFZGyW9CAQH",
     "serumV3Usdt": "GZeHR8uCTVoHVDZFRVXTgm386DK1EKehy9yMS3BFChcL"
   },
+  "ALICE": {
+    "symbol": "ALICE",
+    "name": "My Neighbor Alice (Wormhole)",
+    "address": "9ARQsBfAn65q522cEqSJuse3cLhA31jgWDBGQHeiq7Mg",
+    "origin": "ethereum",
+    "sourceAddress": "0xac51066d7bec65dc4589368da368b212745d63e8",
+    "sourceContract": "https://etherscan.io/address/0xac51066d7bec65dc4589368da368b212745d63e8",
+    "coingeckoId": "my-neighbor-alice"
+  },
   "AUDIO": {
     "symbol": "AUDIO",
     "name": "Audius (Wormhole)",
@@ -74,6 +83,15 @@ TOKENS = {
     "sourceContract": "https://snowtrace.io/token/0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
     "coingeckoId": "avalanche",
     "serumV3Usdc": "E8JQstcwjuqN5kdMyUJLNuaectymnhffkvfg1j286UCr"
+  },
+  "AXSet": {
+    "symbol": "AXSet",
+    "name": "Axie Infinity Shard (Wormhole from Ethereum)",
+    "address": "HysWcbHiYY9888pHbaqhwLYZQeZrcQMXKQWRqS7zcPK5",
+    "origin": "ethereum",
+    "sourceAddress": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+    "sourceContract": "https://etherscan.io/address/0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+    "coingeckoId": "axie-infinity"
   },
   "BAT": {
     "symbol": "BAT",
@@ -133,6 +151,15 @@ TOKENS = {
     "serumV3Usdc": "79ESpYSb2hM14KTRXPZUwDkxUGC5irE2esd1vxdXfnZz",
     "serumV3Usdt": "J9ww1yufRNDDbUbDXmew2mW2ozkx7cme7dMvKjMQVHrL"
   },
+  "CHZ": {
+    "symbol": "CHZ",
+    "name": "Chiliz (Wormhole)",
+    "address": "5TtSKAamFq88grN1QGrEaZ1AjjyciqnCya1aiMhAgFvG",
+    "origin": "ethereum",
+    "sourceAddress": "0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+    "sourceContract": "https://etherscan.io/address/0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+    "coingeckoId": "chiliz"
+  },
   "COMP": {
     "symbol": "COMP",
     "name": "Compound (Wormhole)",
@@ -155,6 +182,15 @@ TOKENS = {
     "serumV3Usdc": "4pdQ2D4gehMhGu4z9jeQbEPUFbTxB5qcPr3zCynjJGyp",
     "serumV3Usdt": "6fspxMfBmYFTGFBDN5MU33A55i2MkGr7eSjBLPCAU6y9"
   },
+  "CRV": {
+    "symbol": "CRV",
+    "name": "Curve DAO Token (Wormhole)",
+    "address": "7gjNiPun3AzEazTZoFEjZgcBMeuaXdpjHq2raZTmTrfs",
+    "origin": "ethereum",
+    "sourceAddress": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+    "sourceContract": "https://etherscan.io/address/0xd533a949740bb3306d119cc777fa900ba034cd52",
+    "coingeckoId": "curve-dao-token"
+  },
   "DAI": {
     "symbol": "DAI",
     "name": "Dai Stablecoin (Wormhole)",
@@ -172,6 +208,33 @@ TOKENS = {
     "sourceAddress": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
     "sourceContract": "https://polygonscan.com/token/0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
     "coingeckoId": "dai"
+  },
+  "DYDX": {
+    "symbol": "DYDX",
+    "name": "dYdX (Wormhole)",
+    "address": "4Hx6Bj56eGyw8EJrrheM6LBQAvVYRikYCWsALeTrwyRU",
+    "origin": "ethereum",
+    "sourceAddress": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+    "sourceContract": "https://etherscan.io/address/0x92d6c1e31e14520e676a687f0a93788b716beff5",
+    "coingeckoId": "dydx"
+  },
+  "ELON": {
+    "symbol": "ELON",
+    "name": "Dogelon Mars (Wormhole)",
+    "address": "6nKUU36URHkewHg5GGGAgxs6szkE4VTioGUT5txQqJFU",
+    "origin": "ethereum",
+    "sourceAddress": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+    "sourceContract": "https://etherscan.io/address/0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+    "coingeckoId": "dogelon-mars"
+  },
+  "ENJ": {
+    "symbol": "ENJ",
+    "name": "Enjin (Wormhole)",
+    "address": "EXExWvT6VyYxEjFzF5BrUxt5GZMPVZnd48y3iWrRefMq",
+    "origin": "ethereum",
+    "sourceAddress": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+    "sourceContract": "https://etherscan.io/address/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+    "coingeckoId": "enjin-coin"
   },
   "ETH": {
     "symbol": "ETH",
@@ -275,6 +338,24 @@ TOKENS = {
     "serumV3Usdc": "CBb5zXwNRB73WVjs2m21P5prcEZa6SWmej74Vzxh8dRm",
     "serumV3Usdt": "3BScwNxtMrEcQ5VTHyXHYQR98dTaxfyXGaLkuSjBY1dW"
   },
+  "ICE": {
+    "symbol": "ICE",
+    "name": "IceToken (Wormhole)",
+    "address": "DiJut4U3CU8b3bRgwfyqtJMJ4wjzJHaX6hudamjH46Km",
+    "origin": "ethereum",
+    "sourceAddress": "0xf16e81dce15b08f326220742020379b855b87df9",
+    "sourceContract": "https://etherscan.io/address/0xf16e81dce15b08f326220742020379b855b87df9",
+    "coingeckoId": "popsicle-finance"
+  },
+  "KEEP": {
+    "symbol": "KEEP",
+    "name": "Keep Network (Wormhole)",
+    "address": "64L6o4G2H7Ln1vN7AHZsUMW4pbFciHyuwn4wUdSbcFxh",
+    "origin": "ethereum",
+    "sourceAddress": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+    "sourceContract": "https://etherscan.io/address/0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+    "coingeckoId": "keep-network"
+  },
   "LINK": {
     "symbol": "LINK",
     "name": "ChainLink Token (Wormhole)",
@@ -285,6 +366,15 @@ TOKENS = {
     "coingeckoId": "chainlink",
     "serumV3Usdc": "FJMjxMCiDKn16TLhXUdEbVDH5wC6k9EHYJTcrH6NcbDE",
     "serumV3Usdt": "Gr2KmhK7Upr4uW56B1QQrJuhhgmot6zAHJeZALTMStiX"
+  },
+  "LRC": {
+    "symbol": "LRC",
+    "name": "LoopringCoin V2 (Wormhole)",
+    "address": "HCTVFTzHL21a1dPzKxAUeWwqbE8QMUyvgChFDL4XYoi1",
+    "origin": "ethereum",
+    "sourceAddress": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+    "sourceContract": "https://etherscan.io/address/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+    "coingeckoId": "loopring"
   },
   "LUA": {
     "symbol": "LUA",
@@ -305,6 +395,15 @@ TOKENS = {
     "sourceAddress": "uluna",
     "coingeckoId": "terra-luna",
     "serumV3Usdc": "HBTu8hNaoT3VyiSSzJYa8jwt9sDGKtJviSwFa11iXdmE"
+  },
+  "MANA": {
+    "symbol": "MANA",
+    "name": "Decentraland (Wormhole)",
+    "address": "7dgHoN8wBZCc5wbnQ2C47TDnBMAxG4Q5L3KjP67z8kNi",
+    "origin": "ethereum",
+    "sourceAddress": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+    "sourceContract": "https://etherscan.io/address/0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+    "coingeckoId": "decentraland"
   },
   "MATH": {
     "symbol": "MATH",
@@ -335,6 +434,24 @@ TOKENS = {
     "sourceContract": "https://polygonscan.com/address/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
     "coingeckoId": "polygon",
     "serumV3Usdc": "5WRoQxE59966N2XfD2wYy1uhuyKeoVJ9NBMH6r6RNYEF"
+  },
+  "MIMet": {
+    "symbol": "MIMet",
+    "name": "Magic Internet Money (Wormhole from Ethereum)",
+    "address": "HRQke5DKdDo3jV7wnomyiM8AA3EzkVnxMDdo2FQ5XUe1",
+    "origin": "ethereum",
+    "sourceAddress": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+    "sourceContract": "https://etherscan.io/address/0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+    "coingeckoId": "magic-internet-money"
+  },
+  "OHM": {
+    "symbol": "OHM",
+    "name": "Olympus (Wormhole)",
+    "address": "Afe9gSG8NcWicJtC58tUPGWG6pUcdK29d59BJuSAsePJ",
+    "origin": "ethereum",
+    "sourceAddress": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
+    "sourceContract": "https://etherscan.io/address/0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
+    "coingeckoId": "olympus"
   },
   "PAXG": {
     "symbol": "PAXG",
@@ -377,6 +494,24 @@ TOKENS = {
     "coingeckoId": "reserve-rights-token",
     "serumV3Usdc": "GqgkxEswUwHBntmzb5GpUhKrVpJhzreSruZycuJwdNwB",
     "serumV3Usdt": "2j2or38X2FUbpkK4gkgvjDtqN3ibkKw3v5yn7o2gHqPc"
+  },
+  "SHIB": {
+    "symbol": "SHIB",
+    "name": "SHIBA INU (Wormhole)",
+    "address": "CiKu4eHsVrc1eueVQeHn7qhXTcVu95gSQmBpX4utjL9z",
+    "origin": "ethereum",
+    "sourceAddress": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "sourceContract": "https://etherscan.io/address/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "coingeckoId": "shiba-inu"
+  },
+  "SPELL": {
+    "symbol": "SPELL",
+    "name": "Spell Token (Wormhole)",
+    "address": "BCsFXYm81iqXyYmrLKgAp3AePcgLHnirb8FjTs6sjM7U",
+    "origin": "ethereum",
+    "sourceAddress": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+    "sourceContract": "https://etherscan.io/address/0x090185f2135308bad17527004364ebcc2d37e5f6",
+    "coingeckoId": "spell-token"
   },
   "SRMet": {
     "symbol": "SRMet",
