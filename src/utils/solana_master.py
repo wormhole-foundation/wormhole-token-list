@@ -65,6 +65,24 @@ TOKENS = {
     "sourceContract": "https://etherscan.io/address/0xac51066d7bec65dc4589368da368b212745d63e8",
     "coingeckoId": "my-neighbor-alice"
   },
+  "AMP": {
+    "symbol": "AMP",
+    "name": "Amp (Wormhole)",
+    "address": "D559HwgjYGDYsXpmFUKxhFTEwutvS9sya1kXiyCVogCV",
+    "origin": "ethereum",
+    "sourceAddress": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+    "sourceContract": "https://etherscan.io/address/0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+    "coingeckoId": "amp"
+  },
+  "AMPL": {
+    "symbol": "AMPL",
+    "name": "Ampleforth (Wormhole)",
+    "address": "EHKQvJGu48ydKA4d3RivrkNyTJTkSdoS32UafxSX1yak",
+    "origin": "ethereum",
+    "sourceAddress": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+    "sourceContract": "https://etherscan.io/address/0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+    "coingeckoId": "ampleforth"
+  },
   "AUDIO": {
     "symbol": "AUDIO",
     "name": "Audius (Wormhole)",
@@ -112,6 +130,15 @@ TOKENS = {
     "coingeckoId": "binance-coin",
     "serumV3Usdc": "4UPUurKveNEJgBqJzqHPyi8DhedvpYsMXi7d43CjAg2f",
     "serumV3Usdt": "FjbKNZME5yVSC1R3HJM99kB3yir3q3frS5MteMFD72sV"
+  },
+  "BNT": {
+    "symbol": "BNT",
+    "name": "Bancor (Wormhole)",
+    "address": "EDVVEYW4fPJ6vKw5LZXRGUSPzxoHrv6eWvTqhCr8oShs",
+    "origin": "ethereum",
+    "sourceAddress": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+    "sourceContract": "https://etherscan.io/address/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+    "coingeckoId": "bancor-network"
   },
   "BUSDbs": {
     "symbol": "BUSDbs",
@@ -182,6 +209,15 @@ TOKENS = {
     "serumV3Usdc": "4pdQ2D4gehMhGu4z9jeQbEPUFbTxB5qcPr3zCynjJGyp",
     "serumV3Usdt": "6fspxMfBmYFTGFBDN5MU33A55i2MkGr7eSjBLPCAU6y9"
   },
+  "CRO": {
+    "symbol": "CRO",
+    "name": "Crypto.com Coin (Wormhole)",
+    "address": "DvjMYMVeXgKxaixGKpzQThLoG98nc7HSU7eanzsdCboA",
+    "origin": "ethereum",
+    "sourceAddress": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+    "sourceContract": "https://etherscan.io/address/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+    "coingeckoId": "crypto-com-coin"
+  },
   "CRV": {
     "symbol": "CRV",
     "name": "Curve DAO Token (Wormhole)",
@@ -190,6 +226,15 @@ TOKENS = {
     "sourceAddress": "0xd533a949740bb3306d119cc777fa900ba034cd52",
     "sourceContract": "https://etherscan.io/address/0xd533a949740bb3306d119cc777fa900ba034cd52",
     "coingeckoId": "curve-dao-token"
+  },
+  "CVX": {
+    "symbol": "CVX",
+    "name": "Convex Token (Wormhole)",
+    "address": "BLvmrccP4g1B6SpiVvmQrLUDya1nZ4B2D1nm9jzKF7sz",
+    "origin": "ethereum",
+    "sourceAddress": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+    "sourceContract": "https://etherscan.io/address/0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+    "coingeckoId": "convex-finance"
   },
   "DAI": {
     "symbol": "DAI",
@@ -267,6 +312,15 @@ TOKENS = {
     "serumV3Usdc": "B95oZN5HCLGmFAhbzReWBA9cuSGPFQAXeuhm2FfpdrML",
     "serumV3Usdt": "DZTYyy1L5Pr6DmTtYY5bEuU9g3LQ4XGvuYiN3zS25yG7"
   },
+  "FTMet": {
+    "symbol": "FTMet",
+    "name": "Fantom Token (Wormhole from Ethereum)",
+    "address": "8gC27rQF4NEDYfyf5aS8ZmQJUum5gufowKGYRRba4ENN",
+    "origin": "ethereum",
+    "sourceAddress": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+    "sourceContract": "https://etherscan.io/address/0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+    "coingeckoId": "fantom"
+  },
   "FTT": {
     "symbol": "FTT",
     "name": "FTX Token (Wormhole)",
@@ -286,6 +340,15 @@ TOKENS = {
     "sourceAddress": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
     "sourceContract": "https://etherscan.io/address/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
     "coingeckoId": "frax-share"
+  },
+  "GALA": {
+    "symbol": "GALA",
+    "name": "Gala (Wormhole)",
+    "address": "AuGz22orMknxQHTVGwAu7e3dJikTJKgcjFwMNDikEKmF",
+    "origin": "ethereum",
+    "sourceAddress": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da",
+    "sourceContract": "https://etherscan.io/address/0x15d4c048f83bd7e37d49ea4c83a07267ec4203da",
+    "coingeckoId": "gala"
   },
   "GRT": {
     "symbol": "GRT",
@@ -347,6 +410,24 @@ TOKENS = {
     "sourceContract": "https://etherscan.io/address/0xf16e81dce15b08f326220742020379b855b87df9",
     "coingeckoId": "popsicle-finance"
   },
+  "ILV": {
+    "symbol": "ILV",
+    "name": "Illuvium (Wormhole)",
+    "address": "8UJbtpsEubDVkY53rk7d61hNYKkvouicczB2XmuwiG4g",
+    "origin": "ethereum",
+    "sourceAddress": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+    "sourceContract": "https://etherscan.io/address/0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+    "coingeckoId": "illuvium"
+  },
+  "JOE": {
+    "symbol": "JOE",
+    "name": "JoeToken (Wormhole)",
+    "address": "CriXdFS9iRAYbGEQiTcUqbWwG9RBmYt5B6LwTnoJ61Sm",
+    "origin": "avalanche",
+    "sourceAddress": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+    "sourceContract": "https://snowtrace.io/address/0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+    "coingeckoId": "joe"
+  },
   "KEEP": {
     "symbol": "KEEP",
     "name": "Keep Network (Wormhole)",
@@ -355,6 +436,15 @@ TOKENS = {
     "sourceAddress": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
     "sourceContract": "https://etherscan.io/address/0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
     "coingeckoId": "keep-network"
+  },
+  "KP3R": {
+    "symbol": "KP3R",
+    "name": "Keep3rV1 (Wormhole)",
+    "address": "3a2VW9t5N6p4baMW3M6yLH1UJ9imMt7VsyUk6ouXPVLq",
+    "origin": "ethereum",
+    "sourceAddress": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
+    "sourceContract": "https://etherscan.io/address/0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
+    "coingeckoId": "keep3rv1"
   },
   "LINK": {
     "symbol": "LINK",
@@ -444,6 +534,15 @@ TOKENS = {
     "sourceContract": "https://etherscan.io/address/0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
     "coingeckoId": "magic-internet-money"
   },
+  "NXM": {
+    "symbol": "NXM",
+    "name": "Nexus Mutual (Wormhole)",
+    "address": "Aqs5ydqKXEK2cjotDXxHmk8N9PknqQ5q4ZED4ymY1eeh",
+    "origin": "ethereum",
+    "sourceAddress": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
+    "sourceContract": "https://etherscan.io/address/0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
+    "coingeckoId": "nexus-mutual"
+  },
   "OHM": {
     "symbol": "OHM",
     "name": "Olympus (Wormhole)",
@@ -484,6 +583,24 @@ TOKENS = {
     "sourceContract": "https://polygonscan.com/address/0x831753dd7087cac61ab5644b308642cc1c33dc13",
     "coingeckoId": "quickswap"
   },
+  "RGT": {
+    "symbol": "RGT",
+    "name": "Rari Governance Token (Wormhole)",
+    "address": "ASk8bss7PoxfFVJfXnSJepj9KupTX15QaRnhdjs6DdYe",
+    "origin": "ethereum",
+    "sourceAddress": "0xd291e7a03283640fdc51b121ac401383a46cc623",
+    "sourceContract": "https://etherscan.io/address/0xd291e7a03283640fdc51b121ac401383a46cc623",
+    "coingeckoId": "rari-governance-token"
+  },
+  "RPL": {
+    "symbol": "RPL",
+    "name": "Rocket Pool (Wormhole)",
+    "address": "HUCyuyqESEUV4YWTKFvvB4JiQLqoovscTBpRXfGzW4Wx",
+    "origin": "ethereum",
+    "sourceAddress": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
+    "sourceContract": "https://etherscan.io/address/0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
+    "coingeckoId": "rocket-pool"
+  },
   "RSR": {
     "symbol": "RSR",
     "name": "Reserve Rights (Wormhole)",
@@ -503,6 +620,24 @@ TOKENS = {
     "sourceAddress": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "sourceContract": "https://etherscan.io/address/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "coingeckoId": "shiba-inu"
+  },
+  "SLP": {
+    "symbol": "SLP",
+    "name": "Smooth Love Potion (Wormhole)",
+    "address": "4hpngEp1v3CXpeKB81Gw4sv7YvwUVRKvY3SGag9ND8Q4",
+    "origin": "ethereum",
+    "sourceAddress": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25",
+    "sourceContract": "https://etherscan.io/address/0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25",
+    "coingeckoId": "smooth-love-potion"
+  },
+  "SNX": {
+    "symbol": "SNX",
+    "name": "Synthetix Network Token (Wormhole)",
+    "address": "8cTNUtcV2ueC3royJ642uRnvTxorJAWLZc58gxAo7y56",
+    "origin": "ethereum",
+    "sourceAddress": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+    "sourceContract": "https://etherscan.io/address/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+    "coingeckoId": "synthetix-network-token"
   },
   "SPELL": {
     "symbol": "SPELL",
@@ -555,6 +690,24 @@ TOKENS = {
     "serumV3Usdc": "G5F84rfqmWqzZv5GBpSn8mMwW8zJ2B4Y1GpGupiwjHNM",
     "serumV3Usdt": "2FQbPW1ticJz2SMMbEXxbKWJKmw1wLc6ggSP2HyzdMen"
   },
+  "TOKE": {
+    "symbol": "TOKE",
+    "name": "Tokemak (Wormhole)",
+    "address": "3EQ6LqLkiFcoxTeGEsHMFpSLWNVPe9yT7XPX2HYSFyxX",
+    "origin": "ethereum",
+    "sourceAddress": "0x2e9d63788249371f1dfc918a52f8d799f4a38c94",
+    "sourceContract": "https://etherscan.io/address/0x2e9d63788249371f1dfc918a52f8d799f4a38c94",
+    "coingeckoId": "tokemak"
+  },
+  "TRIBE": {
+    "symbol": "TRIBE",
+    "name": "Tribe (Wormhole)",
+    "address": "DPgNKZJAG2w1S6vfYHDBT62R4qrWWH5f45CnxtbQduZE",
+    "origin": "ethereum",
+    "sourceAddress": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
+    "sourceContract": "https://etherscan.io/address/0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
+    "coingeckoId": "tribe"
+  },
   "UBXT": {
     "symbol": "UBXT",
     "name": "UpBots (Wormhole)",
@@ -565,6 +718,15 @@ TOKENS = {
     "coingeckoId": "upbots",
     "serumV3Usdc": "Hh4p7tJpqkGW6xsHM2LiPPMpJg43fwn5TbmVmfrURdLY",
     "serumV3Usdt": "5xhjc3ZtAwnBK3qsaro28VChL7WrxY9N4SG6UZpYxpGc"
+  },
+  "UFO": {
+    "symbol": "UFO",
+    "name": "UFO Gaming (Wormhole)",
+    "address": "GWdkYFnXnSJAsCBvmsqFLiPPe2tpvXynZcJdxf11Fu3U",
+    "origin": "ethereum",
+    "sourceAddress": "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b",
+    "sourceContract": "https://etherscan.io/address/0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b",
+    "coingeckoId": "ufo-gaming"
   },
   "UNI": {
     "symbol": "UNI",
@@ -667,6 +829,24 @@ TOKENS = {
     "coingeckoId": "yearn-finance",
     "serumV3Usdc": "BiJXGFc1c4gyPpv9HLRJoKbZewWQrTCHGuxYKjYMQJpC",
     "serumV3Usdt": "9sue9TZAeUhNtNAPPGb9dke7rkJeXktGD3u8ZC37GWnQ"
+  },
+  "YGG": {
+    "symbol": "YGG",
+    "name": "Yield Guild Games Token (Wormhole)",
+    "address": "EzZp7LRN1xwu3QsB2RJRrWwEGjJGsuWzuMCeQDB3NSPK",
+    "origin": "ethereum",
+    "sourceAddress": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+    "sourceContract": "https://etherscan.io/address/0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+    "coingeckoId": "yield-guild-games"
+  },
+  "ZRX": {
+    "symbol": "ZRX",
+    "name": "ZRX (Wormhole)",
+    "address": "GJa1VeEYLTRoHbaeqcxfzHmjGCGtZGF3CUqxv9znZZAY",
+    "origin": "ethereum",
+    "sourceAddress": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "sourceContract": "https://etherscan.io/address/0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "coingeckoId": "0x"
   }
 }
 
