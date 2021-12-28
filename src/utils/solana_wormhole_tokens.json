@@ -548,6 +548,15 @@
     "sourceContract": "https://etherscan.io/address/0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
     "coingeckoId": "magic-internet-money"
   },
+  "NFD": {
+    "symbol": "NFD",
+    "name": "Feisty Doge NFT (Wormhole)",
+    "address": "CY2E69dSG9vBsMoaXDvYmMDSMEP4SZtRY1rqVQ9tkNDu",
+    "origin": "ethereum",
+    "sourceAddress": "0xdfdb7f72c1f195c5951a234e8db9806eb0635346",
+    "sourceContract": "https://etherscan.io/address/0xdfdb7f72c1f195c5951a234e8db9806eb0635346",
+    "coingeckoId": "feisty-doge-nft"
+  },
   "NXM": {
     "symbol": "NXM",
     "name": "Nexus Mutual (Wormhole)",

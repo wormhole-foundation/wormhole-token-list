@@ -14,6 +14,51 @@ TOKENS = {
   ##################
   # 1. Solana native
   ##################
+  "ATLAS": {
+    "symbol": "ATLAS",
+    "name": "Star Atlas (Wormhole)",
+    "destAddresses": {
+      "eth": "0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7",
+      "terra": "terra1rg8f993m9834afwazersesgx7jjxv4p87q9wvc",
+      "bsc": "0x83850D97018f665EB746FBb8f18351e977d1b0D6",
+    },
+    "origin": "sol",
+    "sourceAddress": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
+    "coingeckoId": "star-atlas",
+  },
+  "AURY": {
+    "symbol": "AURY",
+    "name": "Aurory (Wormhole)",
+    "destAddresses": {
+      "bsc": "0xF5a367b7809e5683538C93Ce638B9258A0B88271",
+    },
+    "origin": "sol",
+    "sourceAddress": "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP",
+    "coingeckoId": "aurory",
+  },
+  "RAY": {
+    "symbol": "RAY",
+    "name": "Raydium (Wormhole)",
+    "destAddresses": {
+      "eth": "0xE617dd80c621a5072bD8cBa65E9d76c07327004d",
+      "terra": "terra1ht5sepn28z999jx33sdduuxm9acthad507jg9q",
+      "bsc": "0x13b6A55662f6591f8B8408Af1C73B017E32eEdB8",
+    },
+    "origin": "sol",
+    "sourceAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+    "coingeckoId": "raydium",
+  },
+  "SBR": {
+    "symbol": "SBR",
+    "name": "Saber (Wormhole)",
+    "destAddresses": {
+      "terra": "terra17h82zsq6q8x5tsgm5ugcx4gytw3axguvzt4pkc",
+      "bsc": "0x75344E5693ed5ecAdF4f292fFeb866c2cF8afCF1",
+    },
+    "origin": "sol",
+    "sourceAddress": "0x75344E5693ed5ecAdF4f292fFeb866c2cF8afCF1",
+    "coingeckoId": "saber",
+  },
   "SOL": {
     "symbol": "SOL",  # technically wrapped SOL
     "name": "SOL (Wormhole)",
@@ -27,16 +72,17 @@ TOKENS = {
     "sourceAddress": "So11111111111111111111111111111111111111112",
     "coingeckoId": "solana",
   },
-  "mSOL": {
-    "symbol": "mSOL",
-    "name": "Marinade staked SOL (Wormhole)",
+  "SRMso": {
+    "symbol": "SRMso",
+    "name": "Serum (Wormhole from Solana)",
     "destAddresses": {
-      "eth": "0x756bFb452cFE36A5Bc82e4F5f4261A89a18c242b",
-      "terra": "terra1qvlpf2v0zmru3gtex40sqq02wxp39x3cjh359y",
+      "eth": "0xE3ADAA4fb7c92AB833Ee08B3561D9c434aA2A3eE",
+      "terra": "terra1dkam9wd5yvaswv4yq3n2aqd4wm5j8n82qc0c7c",
+      "bsc": "0x12BeffdCEcb547640DC30e1495E4B9cdc21922b4",
     },
     "origin": "sol",
-    "sourceAddress": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
-    "coingeckoId": "marinade-staked-sol",
+    "sourceAddress": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+    "coingeckoId": "serum",
   },
   "USDCso": {
     "symbol": "USDCso",
@@ -64,45 +110,42 @@ TOKENS = {
     "sourceAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
     "coingeckoId": "tether",
   },
-  "RAY": {
-    "symbol": "RAY",
-    "name": "Raydium (Wormhole)",
+  "mSOL": {
+    "symbol": "mSOL",
+    "name": "Marinade staked SOL (Wormhole)",
     "destAddresses": {
-      "eth": "0xE617dd80c621a5072bD8cBa65E9d76c07327004d",
-      "terra": "terra1ht5sepn28z999jx33sdduuxm9acthad507jg9q",
-      "bsc": "0x13b6A55662f6591f8B8408Af1C73B017E32eEdB8",
+      "eth": "0x756bFb452cFE36A5Bc82e4F5f4261A89a18c242b",
+      "terra": "terra1qvlpf2v0zmru3gtex40sqq02wxp39x3cjh359y",
     },
     "origin": "sol",
-    "sourceAddress": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
-    "coingeckoId": "raydium",
-  },
-  "SBR": {
-    "symbol": "SBR",
-    "name": "Saber (Wormhole)",
-    "destAddresses": {
-      "terra": "terra17h82zsq6q8x5tsgm5ugcx4gytw3axguvzt4pkc",
-      "bsc": "0x75344E5693ed5ecAdF4f292fFeb866c2cF8afCF1",
-    },
-    "origin": "sol",
-    "sourceAddress": "0x75344E5693ed5ecAdF4f292fFeb866c2cF8afCF1",
-    "coingeckoId": "saber",
-  },
-  "SRMso": {
-    "symbol": "SRMso",
-    "name": "Serum (Wormhole from Solana)",
-    "destAddresses": {
-      "eth": "0xE3ADAA4fb7c92AB833Ee08B3561D9c434aA2A3eE",
-      "terra": "terra1dkam9wd5yvaswv4yq3n2aqd4wm5j8n82qc0c7c",
-      "bsc": "0x12BeffdCEcb547640DC30e1495E4B9cdc21922b4",
-    },
-    "origin": "sol",
-    "sourceAddress": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
-    "coingeckoId": "serum",
+    "sourceAddress": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+    "coingeckoId": "marinade-staked-sol",
   },
 
   #####################
   # 2. Ethereum native
   #####################
+  "1SOL": {
+    "symbol": "1SOL",
+    "name": "1sol.io (Wormhole)",
+    "destAddresses": {
+      "sol": "4ThReWAbAVZjNVgs5Ui9Pk3cZ5TYaD9u6Y89fp6EFzoF",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x009178997aff09a67d4caccfeb897fb79d036214",
+    "coingeckoId": "1sol",
+  },
+  "AXSet": {
+    "symbol": "AXSet",
+    "name": "Axie Infinity Shard (Wormhole from Ethereum)",
+    "destAddresses": {
+      "sol": "HysWcbHiYY9888pHbaqhwLYZQeZrcQMXKQWRqS7zcPK5",
+      "bsc": "0x556b60c53fbC1518Ad17E03d52E47368dD4d81B3",
+    },
+    "origin": "eth",
+    "sourceAddress": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+    "coingeckoId": "axie-infinity",
+  },
   "BUSDet": {
     "symbol": "BUSDet",
     "name": "Binance USD (Wormhole from Ethereum)",
@@ -113,6 +156,28 @@ TOKENS = {
     "origin": "eth",
     "sourceAddress": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
     "coingeckoId": "binance-usd",
+  },
+  "DAI": {
+    "symbol": "DAI",
+    "name": "DAI (Wormhole)",
+    "destAddresses": {
+      "sol": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
+      "bsc": "0x3413a030EF81a3dD5a302F4B4D11d911e12ed337",
+      "terra": "terra1zmclyfepfmqvfqflu8r3lv6f75trmg05z7xq95",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "coingeckoId": "dai",
+  },
+  "DYDX": {
+    "symbol": "DYDX",
+    "name": "dYdX (Wormhole)",
+    "destAddresses": {
+      "sol": "4Hx6Bj56eGyw8EJrrheM6LBQAvVYRikYCWsALeTrwyRU",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+    "coingeckoId": "dydx",
   },
   "ETH": {  # WETH
     "symbol": "ETH",
@@ -137,6 +202,39 @@ TOKENS = {
     "origin": "eth",
     "sourceAddress": "0x853d955acef822db058eb8505911ed77f175b99e",
     "coingeckoId": "frax",
+  },
+  "FTT": {
+    "symbol": "FTT",
+    "name": "FTX Token (Wormhole)",
+    "destAddresses": {
+      "sol": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
+      "bsc": "0x49BA054B9664e99ac335667a917c63bB94332E84",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+    "coingeckoId": "ftx-token",
+  },
+  "FXS": {
+    "symbol": "FXS",
+    "name": "Frax Share (Wormhole)",
+    "destAddresses": {
+      "sol": "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+    "coingeckoId": "frax-share",
+  },
+  "LDO": {
+    "symbol": "LDO",
+    "name": "Lido DAO (Wormhole)",
+    "destAddresses": {
+      "bsc": "0x986854779804799C1d68867F5E03e601E781e41b",
+      "sol": "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p",
+      "terra": "terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+    "coingeckoId": "lido-dao",
   },
   "LINK": {
     "symbol": "LINK",
@@ -172,6 +270,29 @@ TOKENS = {
     "sourceAddress": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "coingeckoId": "shiba-inu",
   },
+  "SRMet": {
+    "symbol": "SRMet",
+    "name": "Serum (Wormhole from Ethereum)",
+    "destAddresses": {
+      "sol": "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
+      "bsc": "0xd63CDf02853D759831550fAe7dF8FFfE0B317b39",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+    "coingeckoId": "serum",
+  },
+  "SUSHI": {
+    "symbol": "SUSHI",
+    "name": "SushiToken (Wormhole)",
+    "destAddresses": {
+      "sol": "ChVzxWRmrTeSgwd3Ui3UumcN8KX7VK3WaD4KGeSKpypj",
+      "bsc": "0x3524fd7488fdb1F4723BBc22C9cbD1Bf89f46E3B",
+      "terra": "terra1csvuzlf92nyemu6tv25h0l79etpe8hz3h5vn4a",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+    "coingeckoId": "sushi",
+  },
   "UNI": {
     "symbol": "Uni",
     "name": "Uniswap (Wormhole)",
@@ -195,6 +316,16 @@ TOKENS = {
     "origin": "eth",
     "sourceAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
     "coingeckoId": "usd-coin",
+  },
+  "USDK": {
+    "symbol": "USDK",
+    "name": "USDK (Wormhole)",
+    "destAddresses": {
+      "sol": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x1c48f86ae57291f7686349f12601910bd8d470bb",
+    "coingeckoId": "usdk",
   },
   "USDTet": {
     "symbol": "USDTet",
@@ -221,18 +352,38 @@ TOKENS = {
     "sourceAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
     "coingeckoId": "wrapped-bitcoin",
   },
-  # "": {
-  #   "symbol": "",
-  #   "name": " (Wormhole)",
-  #   "destAddresses": {
-  #     "eth": "",
-  #     "bsc": "",
-  #     "terra": "",
-  #   },
-  #   "origin": "",
-  #   "sourceAddress": "",
-  #   "coingeckoId": "",
-  # },
+  "gOHM": {
+    "symbol": "gOHM",
+    "name": "Governance OHM (Wormhole)",
+    "destAddresses": {
+      "sol": "FUGsN8H74WjRBBMfQWcf9Kk32gebA9VnNaGxqwcVvUW7",
+      "terra": "terra1fpfn2kkr8mv390wx4dtpfk3vkjx9ch3thvykl3",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x0ab87046fbb341d058f17cbc4c1133f25a20a52f",
+    "coingeckoId": "governance-ohm",
+  },
+  "ibBTC": {
+    "symbol": "ibBTC",
+    "name": "Interest Bearing Bitcoin (Wormhole)",
+    "destAddresses": {
+      "sol": "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi",
+    },
+    "origin": "eth",
+    "sourceAddress": "0xc4e15973e6ff2a35cc804c2cf9d2a1b817a8b40f",
+    "coingeckoId": "interest-bearing-bitcoin",
+  },
+  "stETH": {
+    "symbol": "stETH",
+    "name": "Lido Staked Ether (Wormhole)",
+    "destAddresses": {
+      "sol": "H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw5sE",
+      "terra": "terra1w7ywr6waxtjuvn5svk5wqydqpjj0q9ps7qct4d",
+    },
+    "origin": "eth",
+    "sourceAddress": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "coingeckoId": "lido-staked-ether",
+  },
 
   #################
   # 3. Terra native
@@ -293,6 +444,18 @@ TOKENS = {
     "sourceAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
     "coingeckoId": "binance-usd",
   },
+  "CAKE": {
+    "symbol": "CAKE",
+    "name": "PancakeSwap Token (Wormhole)",
+    "destAddresses": {
+      "eth": "J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S",
+      "terra": "terra1xvqlpjl2dxyel9qrp6qvtrg04xe3jh9cyxc6av",
+      "avax": "0x98a4d09036Cc5337810096b1D004109686E56Afc",
+    },
+    "origin": "bsc",
+    "sourceAddress": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "coingeckoId": "pancakeswap",
+  },
   "USDCbs": {
     "symbol": "USDCbs",
     "name": "USD Coin (Wormhole from BSC)",
@@ -319,18 +482,6 @@ TOKENS = {
     "sourceAddress": "0x55d398326f99059fF775485246999027B3197955",
     "coingeckoId": "tether",
   },
-  # "": {
-  #   "symbol": "",
-  #   "name": " (Wormhole)",
-  #   "destAddresses": {
-  #     "eth": "",
-  #     "bsc": "",
-  #     "terra": "",
-  #   },
-  #   "origin": "",
-  #   "sourceAddress": "",
-  #   "coingeckoId": "",
-  # },
 
   ###################
   # 5. Polygon native
@@ -395,6 +546,7 @@ TOKENS = {
     "sourceAddress": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
     "coingeckoId": "joe",
   },
+
   #################
   # 7. Oasis native
   #################
