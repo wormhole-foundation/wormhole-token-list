@@ -100,6 +100,71 @@ TOKENS = {
     "coingeckoId": "serum",
   },
 
+  #####################
+  # 2. Ethereum native
+  #####################
+  "ETH": {  # WETH
+    "symbol": "ETH",
+    "name": " (Wormhole)",
+    "destAddresses": {
+      "sol": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+      "bsc": "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA",
+      "terra": "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r",
+      "matic": "0x11CD37bb86F65419713f30673A480EA33c826872",
+      "avax": "0x8b82A291F83ca07Af22120ABa21632088fC92931",
+    },
+    "origin": "eth",
+    "sourceAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "coingeckoId": "ether",
+  },
+  "USDCet": {
+    "symbol": "USDCet",
+    "name": "USD Coin (Wormhole from Ethereum)",
+    "destAddresses": {
+      "sol": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
+      "terra": "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06",
+      "bsc": "0xB04906e95AB5D797aDA81508115611fee694c2b3",
+      "avax": "0xB24CA28D4e2742907115fECda335b40dbda07a4C",
+    },
+    "origin": "eth",
+    "sourceAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "coingeckoId": "usd-coin",
+  },
+  "USDTet": {
+    "symbol": "USDTet",
+    "name": "Tether USD (Wormhole from Ethereum)",
+    "destAddresses": {
+      "sol": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
+      "terra": "terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva",
+      "bsc": "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc",
+      "matic": "0x9417669fBF23357D2774e9D421307bd5eA1006d2",
+    },
+    "origin": "eth",
+    "sourceAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "coingeckoId": "tether",
+  },
+  "BUSDet": {
+    "symbol": "BUSDet",
+    "name": "Binance USD (Wormhole from Ethereum)",
+    "destAddresses": {
+      "sol": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
+      "bsc": "0x035de3679E692C471072d1A09bEb9298fBB2BD31",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+    "coingeckoId": "binance-usd",
+  },
+  "FRAX": {
+    "symbol": "FRAX",
+    "name": "Frax (Wormhole)",
+    "destAddresses": {
+      "sol": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x853d955acef822db058eb8505911ed77f175b99e",
+    "coingeckoId": "frax",
+  },
+
   #################
   # 3. Terra native
   #################
@@ -122,6 +187,7 @@ TOKENS = {
     "destAddresses": {
       "eth": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
       "bsc": "0x156ab3346823B651294766e23e6Cf87254d68962",
+      "matic": "0x9cd6746665D9557e1B9a775819625711d0693439",
       "avax": "0x70928E5B188def72817b7775F0BF6325968e563B",
     },
     "origin": "terra",
@@ -134,7 +200,7 @@ TOKENS = {
   ###################
   "USDCpo": {
     "symbol": "USDCpo",  # double-bridged tether: ERC-20 -> Polygon (via PoS bridge)
-    "name": "USD Coin (PoS) (Wormhole)",
+    "name": "USD Coin (PoS) (Wormhole from Polygon)",
     "destAddresses": {
       "sol": "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M",
       "eth": "0x566957eF80F9fd5526CD2BEF8BE67035C0b81130",
@@ -192,6 +258,9 @@ TOKENS = {
     "sourceAddress": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
     "coingeckoId": "joe",
   },
+  #################
+  # 6. Oasis native
+  #################
   # "": {
   #   "symbol": "",
   #   "name": " (Wormhole)",
@@ -200,13 +269,10 @@ TOKENS = {
   #     "bsc": "",
   #     "terra": "",
   #   },
-  #   "origin": "sol",
+  #   "origin": "",
   #   "sourceAddress": "",
   #   "coingeckoId": "",
   # },
-  #################
-  # 6. Oasis native
-  #################
 }
 
 SOURCE_INFO = {
