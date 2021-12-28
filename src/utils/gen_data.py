@@ -89,7 +89,7 @@ TOKENS = {
   },
   "SRMso": {
     "symbol": "SRMso",
-    "name": "Serum (Wormhole)",
+    "name": "Serum (Wormhole from Solana)",
     "destAddresses": {
       "eth": "0xE3ADAA4fb7c92AB833Ee08B3561D9c434aA2A3eE",
       "terra": "terra1dkam9wd5yvaswv4yq3n2aqd4wm5j8n82qc0c7c",
@@ -103,6 +103,17 @@ TOKENS = {
   #####################
   # 2. Ethereum native
   #####################
+  "BUSDet": {
+    "symbol": "BUSDet",
+    "name": "Binance USD (Wormhole from Ethereum)",
+    "destAddresses": {
+      "sol": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
+      "bsc": "0x035de3679E692C471072d1A09bEb9298fBB2BD31",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+    "coingeckoId": "binance-usd",
+  },
   "ETH": {  # WETH
     "symbol": "ETH",
     "name": " (Wormhole)",
@@ -116,6 +127,61 @@ TOKENS = {
     "origin": "eth",
     "sourceAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
     "coingeckoId": "ether",
+  },
+  "FRAX": {
+    "symbol": "FRAX",
+    "name": "Frax (Wormhole)",
+    "destAddresses": {
+      "sol": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x853d955acef822db058eb8505911ed77f175b99e",
+    "coingeckoId": "frax",
+  },
+  "LINK": {
+    "symbol": "LINK",
+    "name": "Chainlink (Wormhole)",
+    "destAddresses": {
+      "sol": "2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX",
+      "terra": "terra12dfv3f0e6m22z6cnhfn3nxk2en3z3zeqy6ctym",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x514910771af9ca656af840dff83e8264ecf986ca",
+    "coingeckoId": "chainlink",
+  },
+  "MIMet": {
+    "symbol": "MIMet",
+    "name": "Magic Internet Money (Wormhole from Ethereum)",
+    "destAddresses": {
+      "sol": "HRQke5DKdDo3jV7wnomyiM8AA3EzkVnxMDdo2FQ5XUe1",
+      "terra": "terra15a9dr3a2a2lj5fclrw35xxg9yuxg0d908wpf2y",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+    "coingeckoId": "magic-internet-money",
+  },
+  "SHIB": {
+    "symbol": "SHIB",
+    "name": "Shiba Inu (Wormhole)",
+    "destAddresses": {
+      "sol": "CiKu4eHsVrc1eueVQeHn7qhXTcVu95gSQmBpX4utjL9z",
+      "bsc": "0xb1547683DA678f2e1F003A780143EC10Af8a832B",
+      "terra": "terra1huku2lecfjhq9d00k5a8dh73gw7dwe6vvuf2dd",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "coingeckoId": "shiba-inu",
+  },
+  "UNI": {
+    "symbol": "Uni",
+    "name": "Uniswap (Wormhole)",
+    "destAddresses": {
+      "sol": "8FU95xFJhUUkyyCLU13HSzDLs7oC4QZdXQHL6SCeab36",
+      "terra": "terra1wyxkuy5jq545fn7xfn3enpvs5zg9f9dghf6gxf",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "coingeckoId": "uniswap",
   },
   "USDCet": {
     "symbol": "USDCet",
@@ -143,27 +209,30 @@ TOKENS = {
     "sourceAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
     "coingeckoId": "tether",
   },
-  "BUSDet": {
-    "symbol": "BUSDet",
-    "name": "Binance USD (Wormhole from Ethereum)",
+  "WBTC": {
+    "symbol": "WBTC",
+    "name": "Wrapped BTC (Wormhole)",
     "destAddresses": {
-      "sol": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
-      "bsc": "0x035de3679E692C471072d1A09bEb9298fBB2BD31",
+      "sol": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+      "terra": "terra1aa7upykmmqqc63l924l5qfap8mrmx5rfdm0v55",
+      "matic": "0x5D49c278340655B56609FdF8976eb0612aF3a0C3",
     },
     "origin": "eth",
-    "sourceAddress": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
-    "coingeckoId": "binance-usd",
+    "sourceAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "coingeckoId": "wrapped-bitcoin",
   },
-  "FRAX": {
-    "symbol": "FRAX",
-    "name": "Frax (Wormhole)",
-    "destAddresses": {
-      "sol": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
-    },
-    "origin": "eth",
-    "sourceAddress": "0x853d955acef822db058eb8505911ed77f175b99e",
-    "coingeckoId": "frax",
-  },
+  # "": {
+  #   "symbol": "",
+  #   "name": " (Wormhole)",
+  #   "destAddresses": {
+  #     "eth": "",
+  #     "bsc": "",
+  #     "terra": "",
+  #   },
+  #   "origin": "",
+  #   "sourceAddress": "",
+  #   "coingeckoId": "",
+  # },
 
   #################
   # 3. Terra native
@@ -196,7 +265,75 @@ TOKENS = {
   },
 
   ###################
-  # 4. Polygon native
+  # 4. BSC native
+  ###################
+  "BNB": {
+    "symbol": "BNB",
+    "name": "Binance Coin (Wormhole)",
+    "destAddresses": {
+      "sol": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
+      "eth": "0x418D75f65a02b3D53B2418FB8E1fe493759c7605",
+      "terra": "terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8",
+      "avax": "0x442F7f22b1EE2c842bEAFf52880d4573E9201158",
+    },
+    "origin": "bsc",
+    "sourceAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "coingeckoId": "binance-coin",
+  },
+  "BUSDbs": {
+    "symbol": "BUSDbs",
+    "name": "Binance USD (Wormhole from BSC)",
+    "destAddresses": {
+      "sol": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
+      "eth": "0x7B4B0B9b024109D182dCF3831222fbdA81369423",
+      "terra": "terra1skjr69exm6v8zellgjpaa2emhwutrk5a6dz7dd",
+      "avax": "0xA41a6c7E25DdD361343e8Cb8cFa579bbE5eEdb7a",
+    },
+    "origin": "bsc",
+    "sourceAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "coingeckoId": "binance-usd",
+  },
+  "USDCbs": {
+    "symbol": "USDCbs",
+    "name": "USD Coin (Wormhole from BSC)",
+    "destAddresses": {
+      "sol": "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
+      "eth": "0x7cd167B101D2808Cfd2C45d17b2E7EA9F46b74B6",
+      "terra": "terra1yljlrxvkar0c6ujpvf8g57m5rpcwl7r032zyvu",
+      "avax": "0x6145E8a910aE937913426BF32De2b26039728ACF",
+    },
+    "origin": "bsc",
+    "sourceAddress": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "coingeckoId": "usd-coin",
+  },
+  "USDTbs": {
+    "symbol": "USDTbs",
+    "name": "Tether USD (Wormhole from BSC)",
+    "destAddresses": {
+      "sol": "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
+      "eth": "0xDe60aDfDdAAbaAAC3dAFa57B26AcC91Cb63728c4",
+      "terra": "terra1vlqeghv5mt5udh96kt5zxlh2wkh8q4kewkr0dd",
+      "avax": "0xA67BCC0D06d7d13A13A2AE30bF30f1B434f5a28B",
+    },
+    "origin": "bsc",
+    "sourceAddress": "0x55d398326f99059fF775485246999027B3197955",
+    "coingeckoId": "tether",
+  },
+  # "": {
+  #   "symbol": "",
+  #   "name": " (Wormhole)",
+  #   "destAddresses": {
+  #     "eth": "",
+  #     "bsc": "",
+  #     "terra": "",
+  #   },
+  #   "origin": "",
+  #   "sourceAddress": "",
+  #   "coingeckoId": "",
+  # },
+
+  ###################
+  # 5. Polygon native
   ###################
   "USDCpo": {
     "symbol": "USDCpo",  # double-bridged tether: ERC-20 -> Polygon (via PoS bridge)
@@ -232,7 +369,7 @@ TOKENS = {
   },
 
   #################
-  # 5. AVAX native
+  # 6. AVAX native
   #################
   "AVAX": {
     "symbol": "AVAX",  # technically wrapped AVAX
@@ -259,7 +396,7 @@ TOKENS = {
     "coingeckoId": "joe",
   },
   #################
-  # 6. Oasis native
+  # 7. Oasis native
   #################
   # "": {
   #   "symbol": "",
