@@ -191,6 +191,8 @@ def gen_markdown(dest):
 
   df = df.drop(['coingeckoId'], axis=1)
 
+  df = df[['symbol', 'name', 'address', 'origin', 'sourceAddress', 'symbol_reprise']]
+
   # col_rename = {
   # }
   # df.columns = [col_rename.get(x, x) for x in df.columns]
