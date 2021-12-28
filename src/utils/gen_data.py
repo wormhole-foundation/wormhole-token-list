@@ -15,7 +15,7 @@ TOKENS = {
   # Solana native
   ###############
   "SOL": {
-    "symbol": "SOL",
+    "symbol": "SOL",  # technically wrapped SOL
     "name": "SOL (Wormhole)",
     "destAddresses": {
       "eth": "0xD31a59c85aE9D8edEFeC411D448f90841571b89c",
@@ -99,6 +99,7 @@ TOKENS = {
     "sourceAddress": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
     "coingeckoId": "serum",
   },
+
   ###############
   # Terra native
   ###############
@@ -127,6 +128,34 @@ TOKENS = {
     "sourceAddress": "uluna",
     "coingeckoId": "terra-luna",
   },
+
+  ###############
+  # AVAX native
+  ###############
+  "AVAX": {
+    "symbol": "AVAX",  # technically wrapped AVAX
+    "name": "AVAX (Wormhole)",
+    "destAddresses": {
+      "eth": "0x85f138bfEE4ef8e540890CFb48F620571d67Eda3",
+      "bsc": "0x96412902aa9aFf61E13f085e70D3152C6ef2a817",
+      "terra": "terra1hj8de24c3yqvcsv9r8chr03fzwsak3hgd8gv3m",
+      "matic": "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a",
+      "sol": "KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE",  # covered by token-list
+    },
+    "origin": "avax",
+    "sourceAddress": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+    "coingeckoId": "avalanche",
+  },
+  "JOE": {
+    "symbol": "JOE",
+    "name": "JoeToken (Wormhole)",
+    "destAddresses": {
+      "sol": "CriXdFS9iRAYbGEQiTcUqbWwG9RBmYt5B6LwTnoJ61Sm",  # covered by token-list
+    },
+    "origin": "avax",
+    "sourceAddress": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+    "coingeckoId": "joe",
+  },
   # "": {
   #   "symbol": "",
   #   "name": " (Wormhole)",
@@ -153,7 +182,8 @@ SOURCE_INFO = {
 
 
 def _link_address(dest, addr):
-  return "[%s](%s/token/%s)" % (addr, SOURCE_INFO[dest][2], addr)
+  category = 'address' if dest == 'terra' else 'token'
+  return "[%s](%s/%s/%s)" % (addr, SOURCE_INFO[dest][2], category, addr)
 
 
 def _link_coingecko(name, coingecko_id):
@@ -187,6 +217,7 @@ def gen_markdown(dest):
   df['address'] = [_link_address(dest, x) for x in df['address'].values]
   df['sourceAddress'] = [_link_source_address(x, y) for (x,y) in
                          zip(df['origin'].values, df['sourceAddress'].values)]
+  df['origin'] = [SOURCE_INFO[x][0].lower() for x in df['origin'].values]
   df['symbol_reprise'] = df['symbol']
 
   df = df.drop(['coingeckoId'], axis=1)
