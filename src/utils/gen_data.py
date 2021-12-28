@@ -181,7 +181,7 @@ TOKENS = {
   },
   "ETH": {  # WETH
     "symbol": "ETH",
-    "name": " (Wormhole)",
+    "name": "Ether (Wormhole)",
     "destAddresses": {
       "sol": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
       "bsc": "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA",
@@ -294,7 +294,7 @@ TOKENS = {
     "coingeckoId": "sushi",
   },
   "UNI": {
-    "symbol": "Uni",
+    "symbol": "UNI",
     "name": "Uniswap (Wormhole)",
     "destAddresses": {
       "sol": "8FU95xFJhUUkyyCLU13HSzDLs7oC4QZdXQHL6SCeab36",
