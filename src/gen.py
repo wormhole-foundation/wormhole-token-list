@@ -60,7 +60,7 @@ def _link_source_address(source_chain, source_addr):
 
 def _get_markets_cell(markets_list):
   if isinstance(markets_list, list):
-    return ", ".join(["[%s](%s)" % (MARKETS[m]["name"], MARKETS[m]["link"]) for m in markets_list])
+    return ", ".join(["[%s](%s)" % (MARKETS[m]["name"].lower(), MARKETS[m]["link"]) for m in markets_list])
   return ''
 
 
@@ -89,7 +89,11 @@ def get_df(dest):
 def get_df_solana(dest):
   with open(SOLANA_DATA_PATH, 'r') as f:
     TOKENS = json.load(f)
-  return pd.DataFrame(TOKENS.values())
+  df = pd.DataFrame(TOKENS.values())
+  base_df = get_df('sol')
+  sym_markets = dict(zip(base_df['symbol'].values, base_df['markets'].values))
+  df['markets'] = [sym_markets.get(s, '') for s in df['symbol'].values]
+  return df
 
 
 def gen_markdown(dest):
