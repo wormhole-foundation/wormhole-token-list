@@ -54,6 +54,8 @@ def _link_coingecko(name, coingecko_id):
 
 
 def _link_source_address(source_chain, source_addr):
+  if source_addr is None:
+    return ''
   source_contract = "%s/address/%s" % (SOURCE_INFO[source_chain][2] , source_addr)
   return "[%s](%s)" % (source_addr, source_contract)
 
@@ -64,7 +66,7 @@ def _get_markets_cell(markets_list):
   return ''
 
 
-def get_df(dest):
+def get_dest_df(dest):
   tokens = {}
   for source_chain, chain_tokens in sorted(TOKENS.items()):
     for coin, entry in chain_tokens.items():
@@ -86,23 +88,23 @@ def get_df(dest):
   return pd.DataFrame(tokens.values())
 
 
-def get_df_solana(dest):
+def get_dest_df_solana():
   with open(SOLANA_DATA_PATH, 'r') as f:
     TOKENS = json.load(f)
   df = pd.DataFrame(TOKENS.values())
-  base_df = get_df('sol')
+  base_df = get_dest_df('sol')
   sym_markets = dict(zip(base_df['symbol'].values, base_df['markets'].values))
   df['markets'] = [sym_markets.get(s, '') for s in df['symbol'].values]
   return df
 
 
-def gen_markdown(dest):
+def gen_dest_info(dest):
   dest_full = SOURCE_INFO[dest][0]
 
   if dest == 'sol':
-    df = get_df_solana(dest)
+    df = get_dest_df_solana()
   else:
-    df = get_df(dest)
+    df = get_dest_df(dest)
 
   if df.shape[0] == 0:
     print('no tokens for dest=%s' % dest)
@@ -131,9 +133,11 @@ def gen_markdown(dest):
 
   df = df.drop(['coingeckoId'], axis=1)
 
+  # reorder for readability
   order = ['symbol', 'name', 'address', 'origin', 'sourceAddress',
            'markets', 'serumAddressUSDC', 'serumAddressUSDT', 'symbol_reprise']
   df = df[[c for c in order if c in df.columns]]
+
   txt = df.to_markdown(index=False).replace('symbol_reprise', 'symbol')
   header = """
 Known tokens (wormholed to %s)
@@ -145,9 +149,64 @@ Known tokens (wormholed to %s)
   print('wrote %s' % outpath)
 
 
+def get_source_df(source):
+  chain_tokens = TOKENS[source]
+  tokens = {}
+  for coin, entry in chain_tokens.items():
+    entry = copy.deepcopy(entry)
+    for dest in CHAIN_NAMES_TO_IDS.keys():
+      if dest == source:
+        continue
+      entry['%sAddress' % dest] = entry['destAddresses'].get(dest, None)
+      if 'markets' in entry:
+        entry['%sMarkets' % dest] = entry['markets'].get(dest, None)
+      else:
+        entry['%sMarkets' % dest] = None
+      tokens[coin] = entry
+
+  return pd.DataFrame(tokens.values()).sort_values(by='symbol')
+
+
+def gen_source_info(source):
+  source_full = SOURCE_INFO[source][0]
+  df = get_source_df(source)
+
+  if df.shape[0] == 0:
+    print('no tokens for source=%s' % source)
+    return
+
+  df['name'] = [_link_coingecko(n, c) for (n, c) in zip(df['name'].values, df['coingeckoId'].values)]
+  df['sourceAddress'] = [_link_source_address(source, x) for x in df['sourceAddress'].values]
+  for dest in CHAIN_NAMES_TO_IDS.keys():
+    if dest == source:
+      continue
+    df['%sAddress' % dest] = [_link_source_address(dest, x) for x in df['%sAddress' % dest].values]
+    df['%sMarkets' % dest] = [_get_markets_cell(x) for x in df['%sMarkets' % dest].values]
+
+  df['symbol_reprise'] = df['symbol']
+
+  df = df.drop(['coingeckoId'], axis=1)
+
+  # reorder for readability
+  order = ['symbol', 'name', 'sourceAddress']
+  for dest in CHAIN_NAMES_TO_IDS:
+    order.extend(['%sAddress' % dest, '%sMarkets' % dest])
+  order.append('symbol_reprise')
+  df = df[[c for c in order if c in df.columns]]
+
+  txt = df.to_markdown(index=False).replace('symbol_reprise', 'symbol')
+  header = """
+Resultant wrapped-asset addresses (wormholing from %s)
+===================================
+  """ % source_full
+  outpath = os.path.join(dir_path, 'source_%s.md' % source_full.lower())
+  with open(outpath, 'w') as f:
+    f.write(header + '\n' + txt)
+  print('wrote %s' % outpath)
+
+
 def gen_markets_json():
   output = OrderedDict()
-
   output['markets'] = MARKETS
 
   # tokens: {sourceChain -> {addr -> {symbol, logo}}}
@@ -205,12 +264,12 @@ def gen_markets_json():
   print('wrote %s' % outpath)
 
 
-
 def gen_outputs():
-  for dest in ['sol', 'eth', 'bsc', 'terra', 'avax', 'matic']:
-    gen_markdown(dest)
+  for chain in ['sol', 'eth', 'bsc', 'terra', 'avax', 'matic']:
+    gen_dest_info(chain)
+    gen_source_info(chain)
+  gen_markets_json()
 
 
 if __name__ == "__main__":
   gen_outputs()
-  gen_markets_json()
