@@ -58,6 +58,12 @@ def _link_source_address(source_chain, source_addr):
   return "[%s](%s)" % (source_addr, source_contract)
 
 
+def _get_markets_cell(markets_list):
+  if isinstance(markets_list, list):
+    return ", ".join(["[%s](%s)" % (MARKETS[m]["name"], MARKETS[m]["link"]) for m in markets_list])
+  return ''
+
+
 def get_df(dest):
   tokens = {}
   for source_chain, chain_tokens in sorted(TOKENS.items()):
@@ -65,10 +71,16 @@ def get_df(dest):
       if dest not in entry['destAddresses']:
         continue
       entry = copy.deepcopy(entry)
-      entry['address'] = entry['destAddresses'][dest]
-      entry['origin'] = source_chain
 
+      entry['origin'] = source_chain
+      entry['address'] = entry['destAddresses'][dest]
       entry.pop('destAddresses')
+
+      if 'markets' in entry:
+        markets = entry.pop('markets', {})
+        if dest in markets:
+          entry['markets'] = markets[dest]
+
       tokens[coin] = entry
 
   return pd.DataFrame(tokens.values())
@@ -99,6 +111,9 @@ def gen_markdown(dest):
                          zip(df['origin'].values, df['sourceAddress'].values)]
   df['origin'] = [SOURCE_INFO[x][0].lower() for x in df['origin'].values]
 
+  if 'markets' in df.columns:
+    df['markets'] = [_get_markets_cell(x) for x in df['markets'].values]
+
   if dest == 'sol':
     df['serumV3Usdc'] = ['' if pd.isna(x) else x for x in df['serumV3Usdc'].values]
     df['serumV3Usdt'] = ['' if pd.isna(x) else x for x in df['serumV3Usdt'].values]
@@ -113,7 +128,7 @@ def gen_markdown(dest):
   df = df.drop(['coingeckoId'], axis=1)
 
   order = ['symbol', 'name', 'address', 'origin', 'sourceAddress',
-           'serumAddressUSDC', 'serumAddressUSDT', 'symbol_reprise']
+           'markets', 'serumAddressUSDC', 'serumAddressUSDT', 'symbol_reprise']
   df = df[[c for c in order if c in df.columns]]
   txt = df.to_markdown(index=False).replace('symbol_reprise', 'symbol')
   header = """
