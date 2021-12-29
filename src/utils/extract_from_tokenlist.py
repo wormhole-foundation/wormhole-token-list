@@ -45,15 +45,15 @@ for idx, token_data in enumerate(token_list):
   is_avax = bc == "https://snowtrace.io/address/0x0e082f06ff657d94310cb8ce8b0d9a04541d8052"
 
   if is_eth:
-    origin = 'ethereum'
+    origin = 'eth'
   elif is_bsc:
     origin = 'bsc'
   elif is_polygon:
-    origin = 'polygon'
+    origin = 'matic'
   elif is_terra:
     origin = 'terra'
   elif is_avax:
-    origin = 'avalanche'
+    origin = 'avax'
   else:
     continue
 
