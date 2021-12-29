@@ -766,6 +766,16 @@ TOKENS = {
       "sourceAddress": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
       "coingeckoId": "joe",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CriXdFS9iRAYbGEQiTcUqbWwG9RBmYt5B6LwTnoJ61Sm/logo.png"
+    },
+    "USDCav": {
+      "symbol": "USDCav",
+      "name": "USD Coin (Wormhole from Avalanche)",
+      "destAddresses": {
+        "terra": "terra1pvel56a2hs93yd429pzv9zp5aptcjg5ulhkz7w"
+      },
+      "sourceAddress": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "coingeckoId": "usd-coin",
+      "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CriXdFS9iRAYbGEQiTcUqbWwG9RBmYt5B6LwTnoJ61Sm/logo.png"
     }
   },
 
