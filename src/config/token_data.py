@@ -15,9 +15,7 @@ TOKENS = {
       "coingeckoId": "star-atlas",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png",
       "markets": {
-        "bsc": [
-          "pancakeswap"
-        ]
+        "bsc": ["pancakeswap"],
       }
     },
     "AURY": {
@@ -30,9 +28,7 @@ TOKENS = {
       "coingeckoId": "aurory",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP/logo.png",
       "markets": {
-        "bsc": [
-          "pancakeswap"
-        ]
+        "bsc": ["pancakeswap"],
       }
     },
     "RAY": {
@@ -47,9 +43,7 @@ TOKENS = {
       "coingeckoId": "raydium",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/logo.png",
       "markets": {
-        "bsc": [
-          "pancakeswap"
-        ]
+        "bsc": ["pancakeswap"],
       }
     },
     "SBR": {
@@ -76,15 +70,9 @@ TOKENS = {
       "coingeckoId": "solana",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
       "markets": {
-        "eth": [
-          "uniswap"
-        ],
-        "bsc": [
-          "pancakeswap"
-        ],
-        "matic": [
-          "quickswap"
-        ]
+        "eth": ["uniswap"],
+        "bsc": ["pancakeswap"],
+        "matic": ["quickswap"],
       }
     },
     "SRMso": {
@@ -112,15 +100,9 @@ TOKENS = {
       "coingeckoId": "usd-coin",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
       "markets": {
-        "eth": [
-          "uniswap"
-        ],
-        "bsc": [
-          "pancakeswap"
-        ],
-        "matic": [
-          "quickswap"
-        ]
+        "eth": ["uniswap"],
+        "bsc": ["pancakeswap"],
+        "matic": ["quickswap"],
       }
     },
     "USDTso": {
@@ -136,15 +118,9 @@ TOKENS = {
       "coingeckoId": "tether",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
       "markets": {
-        "eth": [
-          "uniswap"
-        ],
-        "bsc": [
-          "pancakeswap"
-        ],
-        "matic": [
-          "quickswap"
-        ]
+        "eth": ["uniswap"],
+        "bsc": ["pancakeswap"],
+        "matic": ["quickswap"],
       }
     },
     "mSOL": {
@@ -184,10 +160,7 @@ TOKENS = {
       "coingeckoId": "axie-infinity",
       "logo": "https://etherscan.io/token/images/axieinfinityshard_32.png",
       "markets": {
-        "sol": [
-          "raydium",
-          "francium"
-        ]
+        "sol": ["raydium", "francium"],
       }
     },
     "BUSDet": {
@@ -201,13 +174,8 @@ TOKENS = {
       "coingeckoId": "binance-usd",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX/logo.png",
       "markets": {
-        "eth": [
-          "curve"
-        ],
-        "sol": [
-          "saber",
-          "sunny"
-        ]
+        "eth": ["curve"],
+        "sol": ["saber", "sunny"],
       }
     },
     "DAI": {
@@ -222,15 +190,8 @@ TOKENS = {
       "coingeckoId": "dai",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG/logo.png",
       "markets": {
-        "eth": [
-          "curve"
-        ],
-        "sol": [
-          "saber",
-          "mercurial",
-          "jupiter",
-          "sunny"
-        ]
+        "eth": ["curve"],
+        "sol": ["saber", "mercurial", "jupiter", "sunny"],
       }
     },
     "DYDX": {
@@ -243,10 +204,7 @@ TOKENS = {
       "coingeckoId": "dydx",
       "logo": "https://etherscan.io/token/images/dydx2_32.png",
       "markets": {
-        "sol": [
-          "raydium",
-          "francium"
-        ]
+        "sol": ["raydium", "francium"],
       }
     },
     "ETH": {
@@ -263,27 +221,11 @@ TOKENS = {
       "coingeckoId": "ether",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
       "markets": {
-        "eth": [
-          "curve"
-        ],
-        "sol": [
-          "orca",
-          "saber",
-          "tulip",
-          "port",
-          "sunny",
-          "francium",
-          "atrix"
-        ],
-        "terra": [
-          "loop"
-        ],
-        "bsc": [
-          "pancakeswap"
-        ],
-        "matic": [
-          "quickswap"
-        ]
+        "eth": ["curve"],
+        "sol": ["orca", "saber", "tulip", "port", "sunny", "francium", "atrix"],
+        "terra": ["loop"],
+        "bsc": ["pancakeswap"],
+        "matic": ["quickswap"],
       }
     },
     "FRAX": {
@@ -296,13 +238,8 @@ TOKENS = {
       "coingeckoId": "frax",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp/logo.png",
       "markets": {
-        "eth": [
-          "curve"
-        ],
-        "sol": [
-          "saber",
-          "sunny"
-        ]
+        "eth": ["curve"],
+        "sol": ["saber", "sunny"],
       }
     },
     "FTT": {
@@ -316,16 +253,8 @@ TOKENS = {
       "coingeckoId": "ftx-token",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv/logo.png",
       "markets": {
-        "eth": [
-          "curve"
-        ],
-        "sol": [
-          "saber",
-          "almond",
-          "tulip",
-          "mercurial",
-          "sunny"
-        ]
+        "eth": ["curve"],
+        "sol": ["saber", "almond", "tulip", "mercurial", "sunny"],
       }
     },
     "FXS": {
@@ -348,9 +277,7 @@ TOKENS = {
       "coingeckoId": "huobi-btc",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8/logo.png",
       "markets": {
-        "sol": [
-          "saber"
-        ]
+        "sol": ["saber"],
       }
     },
     "HUSD": {
@@ -363,13 +290,8 @@ TOKENS = {
       "coingeckoId": "husd",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw/logo.png",
       "markets": {
-        "eth": [
-          "curve"
-        ],
-        "sol": [
-          "saber",
-          "sunny"
-        ]
+        "eth": ["curve"],
+        "sol": ["saber", "sunny"],
       }
     },
     "LDO": {
@@ -405,10 +327,7 @@ TOKENS = {
       "coingeckoId": "decentraland",
       "logo": "https://assets.coingecko.com/coins/images/878/thumb/decentraland-mana.png",
       "markets": {
-        "sol": [
-          "raydium",
-          "francium"
-        ]
+        "sol": ["raydium", "francium"],
       }
     },
     "MIMet": {
@@ -432,10 +351,7 @@ TOKENS = {
       "coingeckoId": "the-sandbox",
       "logo": "https://gemini.com/images/currencies/icons/default/sand.svg",
       "markets": {
-        "sol": [
-          "raydium",
-          "francium"
-        ]
+        "sol": ["raydium", "francium"],
       }
     },
     "SHIB": {
@@ -450,10 +366,7 @@ TOKENS = {
       "coingeckoId": "shiba-inu",
       "logo": "https://etherscan.io/token/images/shibatoken_32.png",
       "markets": {
-        "sol": [
-          "raydium",
-          "francium"
-        ]
+        "sol": ["raydium", "francium"],
       }
     },
     "SRMet": {
@@ -467,13 +380,8 @@ TOKENS = {
       "coingeckoId": "serum",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG/logo.png",
       "markets": {
-        "eth": [
-          "curve"
-        ],
-        "sol": [
-          "saber",
-          "almond"
-        ]
+        "eth": ["curve"],
+        "sol": ["saber", "almond"],
       }
     },
     "SUSHI": {
@@ -488,12 +396,7 @@ TOKENS = {
       "coingeckoId": "sushi",
       "logo": "https://etherscan.io/token/images/sushitoken_32.png",
       "markets": {
-        "sol": [
-          "raydium",
-          "tulip",
-          "francium",
-          "atrix"
-        ]
+        "sol": ["raydium", "tulip", "francium", "atrix"],
       }
     },
     "UNI": {
@@ -507,11 +410,7 @@ TOKENS = {
       "coingeckoId": "uniswap",
       "logo": "https://etherscan.io/token/images/uniswap_32.png",
       "markets": {
-        "sol": [
-          "raydium",
-          "tulip",
-          "francium"
-        ]
+        "sol": ["raydium", "tulip", "francium"],
       }
     },
     "USDCet": {
@@ -527,21 +426,10 @@ TOKENS = {
       "coingeckoId": "usd-coin",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
       "markets": {
-        "eth": [
-          "curve"
-        ],
-        "sol": [
-          "saber",
-          "mercurial",
-          "jupiter",
-          "sunny"
-        ],
-        "bsc": [
-          "pancakeswap"
-        ],
-        "matic": [
-          "quickswap"
-        ]
+        "eth": ["curve"],
+        "sol": ["saber", "mercurial", "jupiter", "sunny"],
+        "bsc": ["pancakeswap"],
+        "matic": ["quickswap"],
       }
     },
     "USDK": {
@@ -554,13 +442,8 @@ TOKENS = {
       "coingeckoId": "usdk",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F/logo.png",
       "markets": {
-        "eth": [
-          "curve"
-        ],
-        "sol": [
-          "saber",
-          "sunny"
-        ]
+        "eth": ["curve"],
+        "sol": ["saber", "sunny"],
       }
     },
     "USDTet": {
@@ -576,21 +459,10 @@ TOKENS = {
       "coingeckoId": "tether",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
       "markets": {
-        "eth": [
-          "curve"
-        ],
-        "sol": [
-          "saber",
-          "mercurial",
-          "jupiter",
-          "sunny"
-        ],
-        "bsc": [
-          "pancakeswap"
-        ],
-        "matic": [
-          "quickswap"
-        ]
+        "eth": ["curve"],
+        "sol": ["saber", "mercurial", "jupiter", "sunny"],
+        "bsc": ["pancakeswap"],
+        "matic": ["quickswap"],
       }
     },
     "WBTC": {
@@ -605,9 +477,7 @@ TOKENS = {
       "coingeckoId": "wrapped-bitcoin",
       "logo": "https://etherscan.io/token/images/wbtc_28.png?v=1",
       "markets": {
-        "terra": [
-          "loop"
-        ]
+        "terra": ["loop"],
       }
     },
     "gOHM": {
@@ -631,9 +501,7 @@ TOKENS = {
       "coingeckoId": "interest-bearing-bitcoin",
       "logo": "https://etherscan.io/token/images/badgeribtc_32.png",
       "markets": {
-        "sol": [
-          "saber"
-        ]
+        "sol": ["saber"],
       }
     },
     "stETH": {
@@ -667,27 +535,11 @@ TOKENS = {
       "coingeckoId": "terra-usd",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/logo.png",
       "markets": {
-        "eth": [
-          "curve",
-          "uniswap"
-        ],
-        "terra": [
-          "anchor"
-        ],
-        "sol": [
-          "saber",
-          "mercurial",
-          "jupiter",
-          "aldrin",
-          "sunny",
-          "apricot"
-        ],
-        "bsc": [
-          "pancakeswap"
-        ],
-        "matic": [
-          "quickswap"
-        ]
+        "eth": ["curve", "uniswap"],
+        "terra": ["anchor"],
+        "sol": ["saber", "mercurial", "jupiter", "aldrin", "sunny", "apricot"],
+        "bsc": ["pancakeswap"],
+        "matic": ["quickswap"],
       }
     },
     "LUNA": {
@@ -704,20 +556,10 @@ TOKENS = {
       "coingeckoId": "terra-luna",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W/logo.png",
       "markets": {
-        "eth": [
-          "uniswap"
-        ],
-        "terra": [
-          "anchor"
-        ],
-        "sol": [
-          "saber",
-          "mercurial",
-          "sunny"
-        ],
-        "matic": [
-          "quickswap"
-        ]
+        "eth": ["uniswap"],
+        "terra": ["anchor"],
+        "sol": ["saber", "mercurial", "sunny"],
+        "matic": ["quickswap"],
       }
     },
   },
@@ -739,13 +581,8 @@ TOKENS = {
       "coingeckoId": "binance-coin",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/logo.png",
       "markets": {
-        "sol": [
-          "mercurial",
-          "atrix"
-        ],
-        "matic": [
-          "quickswap"
-        ]
+        "sol": ["mercurial", "atrix"],
+        "matic": ["quickswap"],
       }
     },
     "BUSDbs": {
@@ -761,17 +598,9 @@ TOKENS = {
       "coingeckoId": "binance-usd",
       "logo": "https://etherscan.io/token/images/binanceusd_32.png",
       "markets": {
-        "sol": [
-          "saber",
-          "mercurial",
-          "sunny"
-        ],
-        "eth": [
-          "uniswap"
-        ],
-        "matic": [
-          "quickswap"
-        ]
+        "sol": ["saber", "mercurial", "sunny"],
+        "eth": ["uniswap"],
+        "matic": ["quickswap"],
       }
     },
     "CAKE": {
@@ -799,11 +628,7 @@ TOKENS = {
       "coingeckoId": "usd-coin",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
       "markets": {
-        "sol": [
-          "saber",
-          "mercurial",
-          "sunny"
-        ]
+        "sol": ["saber", "mercurial", "sunny"],
       }
     },
     "USDTbs": {
@@ -819,10 +644,7 @@ TOKENS = {
       "coingeckoId": "tether",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
       "markets": {
-        "sol": [
-          "saber",
-          "mercurial"
-        ]
+        "sol": ["saber", "mercurial"],
       }
     },
   },
@@ -845,12 +667,8 @@ TOKENS = {
       "coingeckoId": "polygon",
       "logo": "https://polygonscan.com/token/images/wMatic_32.png",
       "markets": {
-        "eth": [
-          "uniswap"
-        ],
-        "bsc": [
-          "pancakeswap"
-        ]
+        "eth": ["uniswap"],
+        "bsc": ["pancakeswap"],
       }
     },
     "USDCpo": {
@@ -867,19 +685,10 @@ TOKENS = {
       "coingeckoId": "usd-coin",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
       "markets": {
-        "matic": [
-          "quickswap",
-          "sushi"
-        ],
-        "sol": [
-          "saber"
-        ],
-        "eth": [
-          "uniswap"
-        ],
-        "bsc": [
-          "pancakeswap"
-        ]
+        "matic": ["quickswap", "sushi"],
+        "sol": ["saber"],
+        "eth": ["uniswap"],
+        "bsc": ["pancakeswap"],
       }
     },
     "USDTpo": {
@@ -892,13 +701,8 @@ TOKENS = {
       "coingeckoId": "tether",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1/logo.png",
       "markets": {
-        "matic": [
-          "quickswap",
-          "sushi"
-        ],
-        "sol": [
-          "saber"
-        ]
+        "matic": ["quickswap", "sushi"],
+        "sol": ["saber"],
       }
     },
   },
