@@ -5,7 +5,8 @@
   "homepage": "https://wormholenetwork.com",
   "repository": "https://github.com/certusone/wormhole-token-list",
   "scripts": {
-    "test": "jest --config jestconfig.json --verbose"
+    "test": "jest --config jestconfig.json --verbose",
+    "gen": "python3 src/gen.py"
   },
   "keywords": [
     "wormhole",
