@@ -45,7 +45,7 @@
       "name": "Orca"
     },
     "pancakeswap": {
-      "link": "https://pancakeswap.finance/swap?inputCurrency=0xfa54ff1a158b5189ebba6ae130ced6bbd3aea76e",
+      "link": "https://pancakeswap.finance/swap",
       "name": "Pancakeswap"
     },
     "port": {
