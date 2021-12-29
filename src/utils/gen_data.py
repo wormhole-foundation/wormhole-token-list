@@ -241,6 +241,28 @@ TOKENS = {
     "coingeckoId": "frax-share",
     "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct/logo.png"
   },
+  "HBTC": {
+    "symbol": "HBTC",
+    "name": "Huobi BTC (Wormhole)",
+    "destAddresses": {
+      "sol": "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8"
+    },
+    "origin": "eth",
+    "sourceAddress": "0x0316eb71485b0ab14103307bf65a021042c6d380",
+    "coingeckoId": "huobi-btc",
+    "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8/logo.png"
+  },
+  "HUSD": {
+    "symbol": "HUSD",
+    "name": "HUSD Stablecoin (Wormhole)",
+    "destAddresses": {
+      "sol": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw"
+    },
+    "origin": "eth",
+    "sourceAddress": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+    "coingeckoId": "husd",
+    "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw/logo.png"
+  },
   "LDO": {
     "symbol": "LDO",
     "name": "Lido DAO (Wormhole)",
@@ -266,6 +288,17 @@ TOKENS = {
     "coingeckoId": "chainlink",
     "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX/logo.png"
   },
+  "MANA": {
+    "symbol": "MANA",
+    "name": "Decentraland (Wormhole)",
+    "destAddresses": {
+      "sol": "7dgHoN8wBZCc5wbnQ2C47TDnBMAxG4Q5L3KjP67z8kNi",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+    "coingeckoId": "decentraland",
+    "logo": "https://assets.coingecko.com/coins/images/878/thumb/decentraland-mana.png",
+  },
   "MIMet": {
     "symbol": "MIMet",
     "name": "Magic Internet Money (Wormhole from Ethereum)",
@@ -277,6 +310,17 @@ TOKENS = {
     "sourceAddress": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
     "coingeckoId": "magic-internet-money",
     "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HRQke5DKdDo3jV7wnomyiM8AA3EzkVnxMDdo2FQ5XUe1/logo.png"
+  },
+  "SAND": {
+    "symbol": "SAND",
+    "name": "The Sandbox (Wormhole)",
+    "destAddresses": {
+      "sol": "49c7WuCZkQgc3M4qH8WuEUNXfgwupZf1xqWkDQ7gjRGt",
+    },
+    "origin": "eth",
+    "sourceAddress": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+    "coingeckoId": "the-sandbox",
+    "logo": "https://gemini.com/images/currencies/icons/default/sand.svg",
   },
   "SHIB": {
     "symbol": "SHIB",
@@ -424,7 +468,8 @@ TOKENS = {
     "symbol": "UST",
     "name": "UST (Wormhole)",
     "destAddresses": {
-      "eth": "0xa693b19d2931d498c5b318df961919bb4aee87a5",
+      "sol": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
+      "eth": "0xa693B19d2931d498c5B318dF961919BB4aee87a5",
       "bsc": "0x3d4350cD54aeF9f9b2C29435e0fa809957B3F30a",
       "matic": "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
       "avax": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1"
@@ -438,6 +483,7 @@ TOKENS = {
     "symbol": "LUNA",
     "name": "LUNA (Wormhole)",
     "destAddresses": {
+      "sol": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
       "eth": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
       "bsc": "0x156ab3346823B651294766e23e6Cf87254d68962",
       "matic": "0x9cd6746665D9557e1B9a775819625711d0693439",
@@ -525,6 +571,21 @@ TOKENS = {
   #####################
   # 5. Polygon native
   #####################
+  "MATICpo": {
+    "symbol": "MATICpo",
+    "name": "MATIC (Wormhole from Polygon)",
+    "destAddresses": {
+      "sol": "Gz7VkD4MacbEB6yC5XD3HcumEiYx2EtDYYrfikGsvopG",
+      "eth": "0x7c9f4C87d911613Fe9ca58b579f737911AAD2D43",
+      "terra": "terra1dtqlfecglk47yplfrtwjzyagkgcqqngd5lgjp8",
+      "bsc": "0xc836d8dC361E44DbE64c4862D55BA041F88Ddd39",
+      "avax": "0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb"
+    },
+    "origin": "matic",
+    "sourceAddress": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "coingeckoId": "polygon",
+    "logo": "https://polygonscan.com/token/images/wMatic_32.png"
+  },
   "USDCpo": {
     "symbol": "USDCpo",
     "name": "USD Coin (PoS) (Wormhole from Polygon)",
@@ -540,20 +601,16 @@ TOKENS = {
     "coingeckoId": "usd-coin",
     "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png"
   },
-  "MATICpo": {
-    "symbol": "MATICpo",
-    "name": "MATIC (Wormhole from Polygon)",
+  "USDTpo": {
+    "symbol": "USDTpo",
+    "name": "Tether USD (PoS) (Wormhole from Polygon)",
     "destAddresses": {
-      "sol": "Gz7VkD4MacbEB6yC5XD3HcumEiYx2EtDYYrfikGsvopG",
-      "eth": "0x7c9f4C87d911613Fe9ca58b579f737911AAD2D43",
-      "terra": "terra1dtqlfecglk47yplfrtwjzyagkgcqqngd5lgjp8",
-      "bsc": "0xc836d8dC361E44DbE64c4862D55BA041F88Ddd39",
-      "avax": "0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb"
+      "sol": "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
     },
     "origin": "matic",
-    "sourceAddress": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
-    "coingeckoId": "polygon",
-    "logo": "https://polygonscan.com/token/images/wMatic_32.png"
+    "sourceAddress": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+    "coingeckoId": "tether",
+    "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1/logo.png"
   },
 
   #####################
