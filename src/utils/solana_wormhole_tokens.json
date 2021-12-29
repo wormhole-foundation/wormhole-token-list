@@ -898,6 +898,15 @@
     "sourceContract": "https://etherscan.io/address/0xe41d2489571d322189246dafa5ebde1f4699f498",
     "coingeckoId": "0x"
   },
+  "agEUR": {
+    "symbol": "agEUR",
+    "name": "agEUR (Wormhole)",
+    "address": "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1",
+    "origin": "eth",
+    "sourceAddress": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+    "sourceContract": "https://etherscan.io/address/0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+    "coingeckoId": "ageur"
+  },
   "gOHM": {
     "symbol": "gOHM",
     "name": "Governance OHM (Wormhole)",

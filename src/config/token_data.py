@@ -222,7 +222,7 @@ TOKENS = {
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
       "markets": {
         "eth": ["curve"],
-        "sol": ["orca", "saber", "tulip", "port", "sunny", "francium", "atrix"],
+        "sol": ["orca", "saber", "tulip", "port", "sunny", "francium", "raydium", "atrix"],
         "terra": ["loop"],
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
@@ -312,6 +312,9 @@ TOKENS = {
       "destAddresses": {
         "sol": "2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX",
         "terra": "terra12dfv3f0e6m22z6cnhfn3nxk2en3z3zeqy6ctym"
+      },
+      "markets": {
+        "sol": ["atrix"],
       },
       "sourceAddress": "0x514910771af9ca656af840dff83e8264ecf986ca",
       "coingeckoId": "chainlink",
@@ -480,6 +483,19 @@ TOKENS = {
         "terra": ["loop"],
       }
     },
+    "agEUR": {
+      "symbol": "agEUR",
+      "name": "agEUR (Wormhole)",
+      "destAddresses": {
+        "sol": "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1",
+      },
+      "markets": {
+        "sol": ["saber"],
+      },
+      "sourceAddress": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+      "coingeckoId": "ageur",
+      "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1/logo.svg",
+    },
     "gOHM": {
       "symbol": "gOHM",
       "name": "Governance OHM (Wormhole)",
@@ -558,7 +574,7 @@ TOKENS = {
       "markets": {
         "eth": ["uniswap"],
         "terra": ["anchor"],
-        "sol": ["saber", "mercurial", "sunny"],
+        "sol": ["saber", "mercurial", "sunny", "atrix"],
         "matic": ["quickswap"],
       }
     },
@@ -581,7 +597,7 @@ TOKENS = {
       "coingeckoId": "binance-coin",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/logo.png",
       "markets": {
-        "sol": ["mercurial", "atrix"],
+        "sol": ["mercurial", "raydium", "atrix"],
         "matic": ["quickswap"],
       }
     },
@@ -667,6 +683,7 @@ TOKENS = {
       "coingeckoId": "polygon",
       "logo": "https://polygonscan.com/token/images/wMatic_32.png",
       "markets": {
+        "sol": ["atrix"],
         "eth": ["uniswap"],
         "bsc": ["pancakeswap"],
       }
@@ -720,6 +737,9 @@ TOKENS = {
         "terra": "terra1hj8de24c3yqvcsv9r8chr03fzwsak3hgd8gv3m",
         "bsc": "0x96412902aa9aFf61E13f085e70D3152C6ef2a817",
         "matic": "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a"
+      },
+      "markets": {
+        "sol": ["atrix"],
       },
       "sourceAddress": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
       "coingeckoId": "avalanche",

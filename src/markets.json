@@ -339,6 +339,11 @@
             "francium"
           ]
         },
+        "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8": {
+          "markets": [
+            "saber"
+          ]
+        },
         "0x1c48f86ae57291f7686349f12601910bd8d470bb": {
           "markets": [
             "saber",
@@ -361,6 +366,7 @@
         "0x418D75f65a02b3D53B2418FB8E1fe493759c7605": {
           "markets": [
             "mercurial",
+            "raydium",
             "atrix"
           ]
         },
@@ -383,6 +389,11 @@
             "tulip",
             "mercurial",
             "sunny"
+          ]
+        },
+        "0x514910771af9ca656af840dff83e8264ecf986ca": {
+          "markets": [
+            "atrix"
           ]
         },
         "0x566957eF80F9fd5526CD2BEF8BE67035C0b81130": {
@@ -413,6 +424,11 @@
             "sunny"
           ]
         },
+        "0x7c9f4C87d911613Fe9ca58b579f737911AAD2D43": {
+          "markets": [
+            "atrix"
+          ]
+        },
         "0x7cd167B101D2808Cfd2C45d17b2E7EA9F46b74B6": {
           "markets": [
             "saber",
@@ -424,6 +440,11 @@
           "markets": [
             "saber",
             "sunny"
+          ]
+        },
+        "0x85f138bfEE4ef8e540890CFb48F620571d67Eda3": {
+          "markets": [
+            "atrix"
           ]
         },
         "0x92d6c1e31e14520e676a687f0a93788b716beff5": {
@@ -472,7 +493,8 @@
           "markets": [
             "saber",
             "mercurial",
-            "sunny"
+            "sunny",
+            "atrix"
           ]
         },
         "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
@@ -483,6 +505,7 @@
             "port",
             "sunny",
             "francium",
+            "raydium",
             "atrix"
           ]
         },
@@ -647,6 +670,11 @@
     },
     "3": {
       "1": {
+        "terra12dfv3f0e6m22z6cnhfn3nxk2en3z3zeqy6ctym": {
+          "markets": [
+            "atrix"
+          ]
+        },
         "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r": {
           "markets": [
             "orca",
@@ -655,6 +683,7 @@
             "port",
             "sunny",
             "francium",
+            "raydium",
             "atrix"
           ]
         },
@@ -669,6 +698,7 @@
         "terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8": {
           "markets": [
             "mercurial",
+            "raydium",
             "atrix"
           ]
         },
@@ -677,6 +707,16 @@
             "raydium",
             "tulip",
             "francium",
+            "atrix"
+          ]
+        },
+        "terra1dtqlfecglk47yplfrtwjzyagkgcqqngd5lgjp8": {
+          "markets": [
+            "atrix"
+          ]
+        },
+        "terra1hj8de24c3yqvcsv9r8chr03fzwsak3hgd8gv3m": {
+          "markets": [
             "atrix"
           ]
         },
@@ -738,7 +778,8 @@
           "markets": [
             "saber",
             "mercurial",
-            "sunny"
+            "sunny",
+            "atrix"
           ]
         },
         "uusd": {
@@ -944,7 +985,8 @@
           "markets": [
             "saber",
             "mercurial",
-            "sunny"
+            "sunny",
+            "atrix"
           ]
         },
         "0x3413a030EF81a3dD5a302F4B4D11d911e12ed337": {
@@ -990,6 +1032,7 @@
             "port",
             "sunny",
             "francium",
+            "raydium",
             "atrix"
           ]
         },
@@ -1025,6 +1068,11 @@
             "sunny"
           ]
         },
+        "0x96412902aa9aFf61E13f085e70D3152C6ef2a817": {
+          "markets": [
+            "atrix"
+          ]
+        },
         "0xB04906e95AB5D797aDA81508115611fee694c2b3": {
           "markets": [
             "saber",
@@ -1042,6 +1090,12 @@
         "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c": {
           "markets": [
             "mercurial",
+            "raydium",
+            "atrix"
+          ]
+        },
+        "0xc836d8dC361E44DbE64c4862D55BA041F88Ddd39": {
+          "markets": [
             "atrix"
           ]
         },
@@ -1216,6 +1270,11 @@
     },
     "5": {
       "1": {
+        "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270": {
+          "markets": [
+            "atrix"
+          ]
+        },
         "0x11CD37bb86F65419713f30673A480EA33c826872": {
           "markets": [
             "orca",
@@ -1224,12 +1283,18 @@
             "port",
             "sunny",
             "francium",
+            "raydium",
             "atrix"
           ]
         },
         "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
           "markets": [
             "saber"
+          ]
+        },
+        "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a": {
+          "markets": [
+            "atrix"
           ]
         },
         "0x9417669fBF23357D2774e9D421307bd5eA1006d2": {
@@ -1244,7 +1309,8 @@
           "markets": [
             "saber",
             "mercurial",
-            "sunny"
+            "sunny",
+            "atrix"
           ]
         },
         "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59": {
@@ -1352,6 +1418,7 @@
         "0x442F7f22b1EE2c842bEAFf52880d4573E9201158": {
           "markets": [
             "mercurial",
+            "raydium",
             "atrix"
           ]
         },
@@ -1371,7 +1438,8 @@
           "markets": [
             "saber",
             "mercurial",
-            "sunny"
+            "sunny",
+            "atrix"
           ]
         },
         "0x8b82A291F83ca07Af22120ABa21632088fC92931": {
@@ -1382,6 +1450,7 @@
             "port",
             "sunny",
             "francium",
+            "raydium",
             "atrix"
           ]
         },
@@ -1406,6 +1475,11 @@
             "sunny"
           ]
         },
+        "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7": {
+          "markets": [
+            "atrix"
+          ]
+        },
         "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1": {
           "markets": [
             "saber",
@@ -1414,6 +1488,11 @@
             "aldrin",
             "sunny",
             "apricot"
+          ]
+        },
+        "0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb": {
+          "markets": [
+            "atrix"
           ]
         }
       },
@@ -1682,6 +1761,10 @@
         "logo": "https://etherscan.io/token/images/badgeribtc_32.png",
         "symbol": "ibBTC"
       },
+      "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1/logo.svg",
+        "symbol": "agEUR"
+      },
       "ChVzxWRmrTeSgwd3Ui3UumcN8KX7VK3WaD4KGeSKpypj": {
         "logo": "https://etherscan.io/token/images/sushitoken_32.png",
         "symbol": "SUSHI"
@@ -1795,6 +1878,10 @@
       "0x1CDD2EaB61112697626F7b4bB0e23Da4FeBF7B7C": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
         "symbol": "USDTso"
+      },
+      "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1/logo.svg",
+        "symbol": "agEUR"
       },
       "0x1c48f86ae57291f7686349f12601910bd8d470bb": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F/logo.png",

@@ -9,7 +9,6 @@ IGNORE = [
   'LUCHOW',
   'TMI',
   'TRYB',
-  'agEUR',
   'swtUST-9',
 ]
 
