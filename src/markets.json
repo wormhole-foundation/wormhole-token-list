@@ -1943,6 +1943,10 @@
         "logo": "https://etherscan.io/token/images/sushitoken_32.png",
         "symbol": "SUSHI"
       },
+      "0x727f064a78dc734d33eec18d5370aef32ffd46e4": {
+        "logo": "https://assets.coingecko.com/coins/images/18630/small/YtrqPIWc.png",
+        "symbol": "ORION"
+      },
       "0x756bFb452cFE36A5Bc82e4F5f4261A89a18c242b": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png",
         "symbol": "mSOL"
@@ -2117,6 +2121,10 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
         "symbol": "USDCpo"
       },
+      "terra1mddcdx0ujx89f38gu7zspk2r2ffdl5enyz2u03": {
+        "logo": "https://assets.coingecko.com/coins/images/18630/small/YtrqPIWc.png",
+        "symbol": "ORION"
+      },
       "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
         "symbol": "USDCet"
@@ -2198,6 +2206,10 @@
       "0x3d4350cD54aeF9f9b2C29435e0fa809957B3F30a": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/logo.png",
         "symbol": "UST"
+      },
+      "0x3dcB18569425930954feb191122e574b87F66abd": {
+        "logo": "https://assets.coingecko.com/coins/images/18630/small/YtrqPIWc.png",
+        "symbol": "ORION"
       },
       "0x49BA054B9664e99ac335667a917c63bB94332E84": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv/logo.png",
@@ -2300,6 +2312,10 @@
       "0x5D49c278340655B56609FdF8976eb0612aF3a0C3": {
         "logo": "https://etherscan.io/token/images/wbtc_28.png?v=1",
         "symbol": "WBTC"
+      },
+      "0x5E0294Af1732498C77F8dB015a2d52a76298542B": {
+        "logo": "https://assets.coingecko.com/coins/images/18630/small/YtrqPIWc.png",
+        "symbol": "ORION"
       },
       "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE/logo.png",
