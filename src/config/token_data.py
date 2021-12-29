@@ -344,6 +344,18 @@ TOKENS = {
       "coingeckoId": "magic-internet-money",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HRQke5DKdDo3jV7wnomyiM8AA3EzkVnxMDdo2FQ5XUe1/logo.png"
     },
+    "ORION": {
+      "symbol": "ORION",
+      "name": "Orion Money (Wormhole from Ethereum)",
+      "destAddresses": {
+        "terra": "terra1mddcdx0ujx89f38gu7zspk2r2ffdl5enyz2u03",
+        "bsc": "0x3dcB18569425930954feb191122e574b87F66abd",
+        "matic": "0x5E0294Af1732498C77F8dB015a2d52a76298542B",
+      },
+      "sourceAddress": "0x727f064a78dc734d33eec18d5370aef32ffd46e4",
+      "coingeckoId": "orion-money",
+      "logo": "https://assets.coingecko.com/coins/images/18630/small/YtrqPIWc.png",
+    },
     "SAND": {
       "symbol": "SAND",
       "name": "The Sandbox (Wormhole)",
