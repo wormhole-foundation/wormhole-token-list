@@ -775,7 +775,7 @@ TOKENS = {
       },
       "sourceAddress": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
       "coingeckoId": "usd-coin",
-      "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CriXdFS9iRAYbGEQiTcUqbWwG9RBmYt5B6LwTnoJ61Sm/logo.png"
+      "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
     }
   },
 
