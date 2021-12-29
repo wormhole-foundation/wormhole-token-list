@@ -2129,6 +2129,10 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
         "symbol": "USDCet"
       },
+      "terra1pvel56a2hs93yd429pzv9zp5aptcjg5ulhkz7w": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CriXdFS9iRAYbGEQiTcUqbWwG9RBmYt5B6LwTnoJ61Sm/logo.png",
+        "symbol": "USDCav"
+      },
       "terra1qvlpf2v0zmru3gtex40sqq02wxp39x3cjh359y": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png",
         "symbol": "mSOL"
@@ -2390,6 +2394,10 @@
       "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
         "symbol": "SOL"
+      },
+      "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CriXdFS9iRAYbGEQiTcUqbWwG9RBmYt5B6LwTnoJ61Sm/logo.png",
+        "symbol": "USDCav"
       },
       "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE/logo.png",
