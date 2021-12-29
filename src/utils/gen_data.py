@@ -312,6 +312,7 @@ TOKENS = {
       "terra": "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06",
       "bsc": "0xB04906e95AB5D797aDA81508115611fee694c2b3",
       "avax": "0xB24CA28D4e2742907115fECda335b40dbda07a4C",
+      "matic": "0x4318CB63A2b8edf2De971E2F17F77097e499459D", 
     },
     "origin": "eth",
     "sourceAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
