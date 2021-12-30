@@ -109,15 +109,26 @@ def write_logo(name, outpath, wormhole=True, chain=None, style=None):
 
 
 def write_logos(overwrite=False, style=None):
+  text = []
   for src_chain, tok_list in TOKENS.items():
+    text.append('## source chain: %s' % src_chain)
     tokens = tok_list.keys()
     for tok in tokens:
       use_chain = tok[-2:] in SUFFIXES
       outpath = get_logo_path(tok, wormhole=True, chain=src_chain if use_chain else None)
-      if not overwrite and os.path.exists(outpath):
-        continue
-      write_logo(tok, outpath, wormhole=True, chain=src_chain if use_chain else None, style=style)
-      print('wrote %s' % outpath)
+      if overwrite or not os.path.exists(outpath):
+        write_logo(tok, outpath, wormhole=True, chain=src_chain if use_chain else None, style=style)
+        print('wrote %s' % outpath)
+      text.append('### %s' % tok)
+      text.append('![%s](%s_wh.png)' % (tok, tok))
+      text.append('')
+    text.append('')
+  outpath = os.path.join(ASSET_PATH, 'preview.md')
+  header = "# logos"
+  with open(outpath, 'w') as f:
+    f.write(header + '\n\n' + '\n'.join(text))
+  print('wrote %s' % outpath)
+
 
 
 if __name__ == "__main__":
