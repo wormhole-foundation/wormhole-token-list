@@ -42,9 +42,10 @@ def get_chain_logo(chain_name):
   return img
 
 
-def get_wormhole_logo():
+def get_wormhole_logo(style=None):
   # bottom right
-  path = os.path.join(dir_path, 'components', 'wormhole.png')
+  filename = 'wormhole' if style is None else 'wormhole_%s' % style
+  path = os.path.join(dir_path, 'components', filename + '.png')
   img = Image.open(path).resize(MINI_DIM).convert('RGBA')
   img = add_margin(img, L-S-OFFSET, OFFSET, OFFSET, L-S-OFFSET)
   return img
@@ -82,10 +83,10 @@ def get_base_logo(name):
   return img.resize(STANDARD_DIM).convert('RGBA')
 
 
-def get_logo(name, wormhole=True, chain=None):
+def get_logo(name, wormhole=True, chain=None, style=None):
   stack = [get_base_logo(name)]
   if wormhole:
-    stack.append(get_wormhole_logo())
+    stack.append(get_wormhole_logo(style=style))
   if chain is not None:
     stack.append(get_chain_logo(chain))
 
@@ -102,12 +103,12 @@ def get_logo_path(name, wormhole=True, chain=None):
   return os.path.join(ASSET_PATH, '%s.png' % filename)
 
 
-def write_logo(name, outpath, wormhole=True, chain=None):
-  composite = get_logo(name, wormhole=wormhole, chain=chain)
+def write_logo(name, outpath, wormhole=True, chain=None, style=None):
+  composite = get_logo(name, wormhole=wormhole, chain=chain, style=style)
   composite.save(outpath)
 
 
-def write_logos(overwrite=False):
+def write_logos(overwrite=False, style=None):
   for src_chain, tok_list in TOKENS.items():
     tokens = tok_list.keys()
     for tok in tokens:
@@ -115,12 +116,13 @@ def write_logos(overwrite=False):
       outpath = get_logo_path(tok, wormhole=True, chain=src_chain if use_chain else None)
       if not overwrite and os.path.exists(outpath):
         continue
-      write_logo(tok, outpath, wormhole=True, chain=src_chain if use_chain else None)
+      write_logo(tok, outpath, wormhole=True, chain=src_chain if use_chain else None, style=style)
       print('wrote %s' % outpath)
 
 
 if __name__ == "__main__":
   parser = argparse.ArgumentParser()
   parser.add_argument('--overwrite', '-o', action='store_true')
+  parser.add_argument('--style', '-s', choices=['barecolor', 'color', 'thickgray', 'thingray', None])
   args, unknown_args = parser.parse_known_args()
-  write_logos(overwrite=args.overwrite)
+  write_logos(overwrite=args.overwrite, style=args.style)

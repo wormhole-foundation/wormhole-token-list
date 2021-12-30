@@ -7,7 +7,8 @@
   "scripts": {
     "test": "jest --config jestconfig.json --verbose",
     "gen": "python3 src/gen.py",
-    "genlogos": "python3 src/gen_logos.py"
+    "gen-logos": "python3 src/gen_logos.py",
+    "gen-logos-overwrite": "python3 src/gen_logos.py --overwrite"
   },
   "keywords": [
     "wormhole",
