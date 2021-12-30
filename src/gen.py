@@ -14,6 +14,7 @@ from config.token_data import TOKENS
 
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
+content_path = os.path.join(os.path.dirname(dir_path), 'content')
 
 # wormhole-specific token data is cached in digested version of file to make it
 # easier to understand diffs (eliminate distractions from shitcoins)
@@ -143,7 +144,7 @@ def gen_dest_info(dest):
 Known tokens (wormholed to %s)
 ===================================
   """ % dest_full
-  outpath = os.path.join(dir_path, 'dest_%s.md' % dest_full.lower())
+  outpath = os.path.join(content_path, 'dest_%s.md' % dest_full.lower())
   with open(outpath, 'w') as f:
     f.write(header + '\n' + txt)
   print('wrote %s' % outpath)
@@ -199,7 +200,7 @@ def gen_source_info(source):
 Resultant wrapped-asset addresses (wormholing from %s)
 ===================================
   """ % source_full
-  outpath = os.path.join(dir_path, 'source_%s.md' % source_full.lower())
+  outpath = os.path.join(content_path, 'source_%s.md' % source_full.lower())
   with open(outpath, 'w') as f:
     f.write(header + '\n' + txt)
   print('wrote %s' % outpath)
