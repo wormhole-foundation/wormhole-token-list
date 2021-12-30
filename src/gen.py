@@ -16,6 +16,7 @@ from config.token_data import TOKENS
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
 content_path = os.path.join(os.path.dirname(dir_path), 'content')
+assets_path = os.path.join(os.path.dirname(dir_path), 'assets')
 
 # wormhole-specific token data is cached in digested version of file to make it
 # easier to understand diffs (eliminate distractions from shitcoins)
@@ -39,6 +40,14 @@ def _link_source_address(source_chain, source_addr):
     return ''
   source_contract = "%s/address/%s" % (SOURCE_INFO[source_chain][2] , source_addr)
   return "[%s](%s)" % (source_addr, source_contract)
+
+
+def _get_img(tok):
+  filepath = os.path.join(assets_path, '%s_wh.png' % tok)
+  if os.path.exists(filepath):
+    return '![%s](https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/%s_wh.png)' % (tok, tok)
+  else:
+    return ''
 
 
 def _get_markets_cell(markets_list):
@@ -92,6 +101,7 @@ def gen_dest_info(dest):
     return
 
   df = df.sort_values(by='symbol')
+  df['img'] = [_get_img(tok) for tok in df['symbol'].values]
   df['name'] = [_link_coingecko(n, c) for (n, c) in zip(df['name'].values, df['coingeckoId'].values)]
   df['address'] = [_link_address(dest, x) for x in df['address'].values]
   df['sourceAddress'] = [_link_source_address(x, y) for (x,y) in
@@ -115,7 +125,7 @@ def gen_dest_info(dest):
   df = df.drop(['coingeckoId'], axis=1)
 
   # reorder for readability
-  order = ['symbol', 'name', 'address', 'origin', 'sourceAddress',
+  order = ['img', 'symbol', 'name', 'address', 'origin', 'sourceAddress',
            'markets', 'serumAddressUSDC', 'serumAddressUSDT', 'symbol_reprise']
   df = df[[c for c in order if c in df.columns]]
 
@@ -155,7 +165,7 @@ def gen_source_info(source):
   if df.shape[0] == 0:
     print('no tokens for source=%s' % source)
     return
-
+  df['img'] = [_get_img(tok) for tok in df['symbol'].values]
   df['name'] = [_link_coingecko(n, c) for (n, c) in zip(df['name'].values, df['coingeckoId'].values)]
   df['sourceAddress'] = [_link_source_address(source, x) for x in df['sourceAddress'].values]
   for dest in CHAIN_NAMES_TO_IDS.keys():
@@ -169,7 +179,7 @@ def gen_source_info(source):
   df = df.drop(['coingeckoId'], axis=1)
 
   # reorder for readability
-  order = ['symbol', 'name', 'sourceAddress']
+  order = ['img', 'symbol', 'name', 'sourceAddress']
   for dest in CHAIN_NAMES_TO_IDS:
     order.extend(['%sAddress' % dest, '%sMarkets' % dest])
   order.append('symbol_reprise')
