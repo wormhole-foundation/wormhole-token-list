@@ -121,6 +121,7 @@ def write_logos(overwrite=False, style=None):
         print('wrote %s' % outpath)
       text.append('### %s' % tok)
       text.append('![%s](%s_wh.png)' % (tok, tok))
+      text.append('\n```\nhttps://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/%s_wh.png\n```' % tok)
       text.append('')
     text.append('')
   outpath = os.path.join(ASSET_PATH, 'preview.md')
