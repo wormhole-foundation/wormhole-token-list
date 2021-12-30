@@ -52,3 +52,5 @@ After updating the above files, run the below to update the `.md` and `.json` ou
 ```
 npm run gen
 ```
+
+See the [logo generation instructions](src/logogen/README.md) for instructions on generating logos with wormhole logos.
