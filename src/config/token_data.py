@@ -635,7 +635,8 @@ TOKENS = {
       "symbol": "CAKE",
       "name": "PancakeSwap Token (Wormhole)",
       "destAddresses": {
-        "eth": "J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S",
+        "sol": "J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S",
+        "eth": "0x7c8161545717a334f3196e765d9713f8042EF338",
         "terra": "terra1xvqlpjl2dxyel9qrp6qvtrg04xe3jh9cyxc6av",
         "avax": "0x98a4d09036Cc5337810096b1D004109686E56Afc"
       },
