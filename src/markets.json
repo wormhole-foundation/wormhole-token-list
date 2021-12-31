@@ -1837,6 +1837,10 @@
         "logo": "https://etherscan.io/token/images/axieinfinityshard_32.png",
         "symbol": "AXSet"
       },
+      "J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S/logo.png",
+        "symbol": "CAKE"
+      },
       "KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE/logo.png",
         "symbol": "AVAX"
@@ -1955,6 +1959,10 @@
         "logo": "https://etherscan.io/token/images/binanceusd_32.png",
         "symbol": "BUSDbs"
       },
+      "0x7c8161545717a334f3196e765d9713f8042EF338": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S/logo.png",
+        "symbol": "CAKE"
+      },
       "0x7c9f4C87d911613Fe9ca58b579f737911AAD2D43": {
         "logo": "https://polygonscan.com/token/images/wMatic_32.png",
         "symbol": "MATICpo"
@@ -2038,10 +2046,6 @@
       "0xdf574c24545e5ffecb9a659c229253d4111d87e1": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw/logo.png",
         "symbol": "HUSD"
-      },
-      "J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S": {
-        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S/logo.png",
-        "symbol": "CAKE"
       }
     },
     "3": {
