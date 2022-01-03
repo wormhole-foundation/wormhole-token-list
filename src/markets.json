@@ -328,7 +328,18 @@
           ]
         }
       },
-      "6": {}
+      "6": {
+        "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i": {
+          "markets": [
+            "traderjoe"
+          ]
+        },
+        "So11111111111111111111111111111111111111112": {
+          "markets": [
+            "traderjoe"
+          ]
+        }
+      }
     },
     "2": {
       "1": {
@@ -670,7 +681,18 @@
           ]
         }
       },
-      "6": {}
+      "6": {
+        "0xD31a59c85aE9D8edEFeC411D448f90841571b89c": {
+          "markets": [
+            "traderjoe"
+          ]
+        },
+        "0xa693B19d2931d498c5B318dF961919BB4aee87a5": {
+          "markets": [
+            "traderjoe"
+          ]
+        }
+      }
     },
     "3": {
       "1": {
@@ -975,7 +997,18 @@
           ]
         }
       },
-      "6": {}
+      "6": {
+        "terra190tqwgqx7s8qrknz6kckct7v607cu068gfujpk": {
+          "markets": [
+            "traderjoe"
+          ]
+        },
+        "uusd": {
+          "markets": [
+            "traderjoe"
+          ]
+        }
+      }
     },
     "4": {
       "1": {
@@ -1270,7 +1303,18 @@
           ]
         }
       },
-      "6": {}
+      "6": {
+        "0x3d4350cD54aeF9f9b2C29435e0fa809957B3F30a": {
+          "markets": [
+            "traderjoe"
+          ]
+        },
+        "0xfA54fF1a158B5189Ebba6ae130CEd6bbd3aEA76e": {
+          "markets": [
+            "traderjoe"
+          ]
+        }
+      }
     },
     "5": {
       "1": {
@@ -1415,7 +1459,13 @@
           ]
         }
       },
-      "6": {}
+      "6": {
+        "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59": {
+          "markets": [
+            "traderjoe"
+          ]
+        }
+      }
     },
     "6": {
       "1": {
