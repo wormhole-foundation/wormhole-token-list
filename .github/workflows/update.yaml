@@ -1,0 +1,35 @@
+name: Update Content
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Update content
+        run: npm run gen
+
+      - name: Update logos
+        run: npm run gen-logos
+
+      - name: Check for modified files
+        id: git-check
+        run: echo ::set-output name=modified::$(if [ -n "$(git status --porcelain)" ]; then echo "true"; else echo "false"; fi)
+
+      - name: Update changes in GitHub repository
+        if: steps.git-check.outputs.modified == 'true'
+        run:  |
+          git config --global user.name 'WormholeBot'
+          git config --global user.email 'wormhole@wormholenetwork.com'
+          git add -A
+          git commit -m '[automated] update content'
+          git push
