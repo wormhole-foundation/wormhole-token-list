@@ -73,6 +73,7 @@ TOKENS = {
         "eth": ["uniswap"],
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
+        "avax": ["traderjoe"],
       }
     },
     "SRMso": {
@@ -568,6 +569,7 @@ TOKENS = {
         "sol": ["saber", "mercurial", "jupiter", "aldrin", "sunny", "apricot"],
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
+        "avax": ["traderjoe"],
       }
     },
     "LUNA": {
