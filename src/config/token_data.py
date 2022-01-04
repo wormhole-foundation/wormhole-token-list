@@ -53,7 +53,7 @@ TOKENS = {
         "terra": "terra17h82zsq6q8x5tsgm5ugcx4gytw3axguvzt4pkc",
         "bsc": "0x75344E5693ed5ecAdF4f292fFeb866c2cF8afCF1"
       },
-      "sourceAddress": "0x75344E5693ed5ecAdF4f292fFeb866c2cF8afCF1",
+      "sourceAddress": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
       "coingeckoId": "saber",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg"
     },
