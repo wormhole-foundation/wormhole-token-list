@@ -64,7 +64,8 @@ TOKENS = {
         "eth": "0xD31a59c85aE9D8edEFeC411D448f90841571b89c",
         "terra": "terra190tqwgqx7s8qrknz6kckct7v607cu068gfujpk",
         "bsc": "0xfA54fF1a158B5189Ebba6ae130CEd6bbd3aEA76e",
-        "avax": "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F"
+        "avax": "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F",
+        "matic": "0xd93f7e271cb87c23aaa73edc008a79646d1f9912"
       },
       "sourceAddress": "So11111111111111111111111111111111111111112",
       "coingeckoId": "solana",
@@ -608,7 +609,8 @@ TOKENS = {
         "sol": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
         "eth": "0x418D75f65a02b3D53B2418FB8E1fe493759c7605",
         "terra": "terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8",
-        "avax": "0x442F7f22b1EE2c842bEAFf52880d4573E9201158"
+        "avax": "0x442F7f22b1EE2c842bEAFf52880d4573E9201158",
+        "matic": "0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d"
       },
       "sourceAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "coingeckoId": "binance-coin",
@@ -625,7 +627,8 @@ TOKENS = {
         "sol": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
         "eth": "0x7B4B0B9b024109D182dCF3831222fbdA81369423",
         "terra": "terra1skjr69exm6v8zellgjpaa2emhwutrk5a6dz7dd",
-        "avax": "0xA41a6c7E25DdD361343e8Cb8cFa579bbE5eEdb7a"
+        "avax": "0xA41a6c7E25DdD361343e8Cb8cFa579bbE5eEdb7a",
+        "matic": "0xa8d394fe7380b8ce6145d5f85e6ac22d4e91acde"
       },
       "sourceAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
       "coingeckoId": "binance-usd",
