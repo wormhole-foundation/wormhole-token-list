@@ -1791,10 +1791,6 @@
   },
   "tokens": {
     "1": {
-      "0x75344E5693ed5ecAdF4f292fFeb866c2cF8afCF1": {
-        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
-        "symbol": "SBR"
-      },
       "2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX/logo.png",
         "symbol": "LINK"
@@ -1974,6 +1970,10 @@
       "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG/logo.png",
         "symbol": "SRMso"
+      },
+      "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+        "symbol": "SBR"
       },
       "So11111111111111111111111111111111111111112": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
