@@ -66,11 +66,32 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/mSOL
 
 
 ## source chain: eth
+### 1INCH
+![1INCH](1INCH_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/1INCH_wh.png
+```
+
 ### 1SOL
 ![1SOL](1SOL_wh.png)
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/1SOL_wh.png
+```
+
+### AAVE
+![AAVE](AAVE_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AAVE_wh.png
+```
+
+### AKRO
+![AKRO](AKRO_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AKRO_wh.png
 ```
 
 ### AXSet
@@ -85,6 +106,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AXSe
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BUSDet_wh.png
+```
+
+### CREAM
+![CREAM](CREAM_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CREAM_wh.png
 ```
 
 ### DAI
@@ -127,6 +155,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FTT_
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FXS_wh.png
+```
+
+### GRT
+![GRT](GRT_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/GRT_wh.png
 ```
 
 ### HBTC
@@ -176,6 +211,20 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MIMe
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ORION_wh.png
+```
+
+### PAXG
+![PAXG](PAXG_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PAXG_wh.png
+```
+
+### RSR
+![RSR](RSR_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RSR_wh.png
 ```
 
 ### SAND
@@ -239,6 +288,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDT
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WBTC_wh.png
+```
+
+### YFI
+![YFI](YFI_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/YFI_wh.png
 ```
 
 ### agEUR

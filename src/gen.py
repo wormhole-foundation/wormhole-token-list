@@ -196,6 +196,10 @@ Resultant wrapped-asset addresses (wormholing from %s)
   print('wrote %s' % outpath)
 
 
+def get_raw_logo_url(token):
+  return 'https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/%s_wh.png' % token
+
+
 def gen_markets_json():
   output = OrderedDict()
   output['markets'] = MARKETS
@@ -207,7 +211,10 @@ def gen_markets_json():
     chain_id = CHAIN_NAMES_TO_IDS[chain_name]
     for symbol, block in chain_tokens.items():
       addr = block['sourceAddress']
-      logo = block['logo']
+
+      # TODO: always use our logo?
+      logo = block['logo'] if 'logo' in block else get_raw_logo_url(symbol)
+
       mapping = {chain_id: addr}
       for dest_chain, dest_addr in block['destAddresses'].items():
         mapping[CHAIN_NAMES_TO_IDS[dest_chain]] = dest_addr

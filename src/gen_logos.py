@@ -57,7 +57,7 @@ def get_base_logo_url(name):
       if 'logo' in tok_dict[name]:
         return tok_dict[name]['logo']
       else:
-        raise Exception('either give a link to logo in token_data.py')
+        raise Exception('token %s either needs logo in src/logogen/base, or link to logo in token_data.py' % name)
 
 
 def get_base_logo(name):
