@@ -1340,6 +1340,14 @@
             "saber"
           ]
         },
+        "0x4318cb63a2b8edf2de971e2f17f77097e499459d": {
+          "markets": [
+            "saber",
+            "mercurial",
+            "jupiter",
+            "sunny"
+          ]
+        },
         "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a": {
           "markets": [
             "atrix"
@@ -1389,6 +1397,21 @@
           ]
         },
         "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
+          "markets": [
+            "uniswap"
+          ]
+        },
+        "0x3553f861dec0257bada9f8ed268bf0d74e45e89c": {
+          "markets": [
+            "uniswap"
+          ]
+        },
+        "0x4318cb63a2b8edf2de971e2f17f77097e499459d": {
+          "markets": [
+            "curve"
+          ]
+        },
+        "0x576cf361711cd940cd9c397bb98c4c896cbd38de": {
           "markets": [
             "uniswap"
           ]
@@ -1444,6 +1467,21 @@
           ]
         },
         "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
+        "0x3553f861dec0257bada9f8ed268bf0d74e45e89c": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
+        "0x4318cb63a2b8edf2de971e2f17f77097e499459d": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
+        "0x576cf361711cd940cd9c397bb98c4c896cbd38de": {
           "markets": [
             "pancakeswap"
           ]
@@ -2370,6 +2408,18 @@
       "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
         "symbol": "USDCpo"
+      },
+      "0x3553f861dec0257bada9f8ed268bf0d74e45e89c": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+        "symbol": "USDTso"
+      },
+      "0x4318cb63a2b8edf2de971e2f17f77097e499459d": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+        "symbol": "USDCet"
+      },
+      "0x576cf361711cd940cd9c397bb98c4c896cbd38de": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+        "symbol": "USDCso"
       },
       "0x5D49c278340655B56609FdF8976eb0612aF3a0C3": {
         "logo": "https://etherscan.io/token/images/wbtc_28.png?v=1",
