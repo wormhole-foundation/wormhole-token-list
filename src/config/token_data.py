@@ -143,6 +143,18 @@ TOKENS = {
   # 2. Ethereum native
   #####################
   'eth': {
+    "1INCH": {
+      "symbol": "1INCH",
+      "name": "1INCH Token (Wormhole from Ethereum)",
+      "destAddresses": {
+        "sol": "AjkPkq3nsyDe1yKcbyZT7N4aK4Evv9om9tzhQD3wsRC",
+      },
+      "sourceAddress": "0x111111111117dC0aa78b770fA6A738034120C302",
+      "coingeckoId": "1inch",
+      "markets": {
+        "sol": ["dexlab"],
+      }
+    },
     "1SOL": {
       "symbol": "1SOL",
       "name": "1sol.io (Wormhole)",
@@ -152,6 +164,31 @@ TOKENS = {
       "sourceAddress": "0x009178997aff09a67d4caccfeb897fb79d036214",
       "coingeckoId": "1sol",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4ThReWAbAVZjNVgs5Ui9Pk3cZ5TYaD9u6Y89fp6EFzoF/logo.png"
+    },
+    "AAVE": {
+      "symbol": "AAVE",
+      "name": "Aave Token (Wormhole from Ethereum)",
+      "destAddresses": {
+        "sol": "3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg",
+      },
+      "sourceAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+      "coingeckoId": "aave",
+      "markets": {
+        "sol": ["dexlab"],
+      }
+    },
+    "AKRO": {
+      "symbol": "AKRO",
+      "name": "Akropolis (Wormhole from Ethereum)",
+      "destAddresses": {
+        "sol": "12uHjozDVgyGWeLqQ8DMCRbig8amW5VmvZu3FdMMdcaG",
+      },
+      "sourceAddress": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
+      "coingeckoId": "akropolis",
+      "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G3h8NZgJozk9crme2me6sKDJuSQ12mNCtvC9NbSWqGuk/logo.png",
+      "markets": {
+        "sol": ["dexlab"],
+      }
     },
     "AXSet": {
       "symbol": "AXSet",
@@ -181,6 +218,18 @@ TOKENS = {
         "eth": ["curve"],
         "sol": ["saber", "sunny"],
       }
+    },
+    "CREAM": {
+      "symbol": "CREAM",
+      "name": "Cream (Wormhole)",
+      "destAddresses": {
+        "sol": "HihxL2iM6L6P1oqoSeiixdJ3PhPYNxvSKH9A2dDqLVDH",
+      },
+      "sourceAddress": "0x2ba592f78db6436527729929aaf6c908497cb200",
+      "coingeckoId": "cream",
+      "markets": {
+        "sol": ["dexlab"],
+      },
     },
     "DAI": {
       "symbol": "DAI",
@@ -226,7 +275,7 @@ TOKENS = {
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
       "markets": {
         "eth": ["curve"],
-        "sol": ["orca", "saber", "tulip", "port", "sunny", "francium", "raydium", "atrix"],
+        "sol": ["orca", "saber", "tulip", "port", "sunny", "francium", "raydium", "atrix", "dexlab"],
         "terra": ["loop"],
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
@@ -258,7 +307,7 @@ TOKENS = {
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv/logo.png",
       "markets": {
         "eth": ["curve"],
-        "sol": ["saber", "almond", "tulip", "mercurial", "sunny"],
+        "sol": ["saber", "almond", "tulip", "mercurial", "sunny", "dexlab"],
       }
     },
     "FXS": {
@@ -270,6 +319,18 @@ TOKENS = {
       "sourceAddress": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
       "coingeckoId": "frax-share",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct/logo.png"
+    },
+    "GRT": {
+      "symbol": "GRT",
+      "name": "Graph Token (Wormhole from Ethereum)",
+      "destAddresses": {
+        "sol": "HGsLG4PnZ28L8A4R5nPqKgZd86zUUdmfnkTRnuFJ5dAX",
+      },
+      "sourceAddress": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+      "coingeckoId": "the-graph",
+      "markets": {
+        "sol": ["dexlab"],
+      }
     },
     "HBTC": {
       "symbol": "HBTC",
@@ -318,7 +379,7 @@ TOKENS = {
         "terra": "terra12dfv3f0e6m22z6cnhfn3nxk2en3z3zeqy6ctym"
       },
       "markets": {
-        "sol": ["atrix"],
+        "sol": ["atrix", "dexlab"],
       },
       "sourceAddress": "0x514910771af9ca656af840dff83e8264ecf986ca",
       "coingeckoId": "chainlink",
@@ -359,6 +420,30 @@ TOKENS = {
       "sourceAddress": "0x727f064a78dc734d33eec18d5370aef32ffd46e4",
       "coingeckoId": "orion-money",
       "logo": "https://assets.coingecko.com/coins/images/18630/small/YtrqPIWc.png",
+    },
+    "PAXG": {
+      "symbol": "PAXG",
+      "name": "Paxos Gold (Wormhole)",
+      "destAddresses": {
+        "sol": "C6oFsE8nXRDThzrMEQ5SxaNFGKoyyfWDDVPw37JKvPTe",
+      },
+      "markets": {
+        "sol": ["dexlab"],
+      },
+      "sourceAddress": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+      "coingeckoId": "pax-gold",
+    },
+    "RSR": {
+      "symbol": "RSR",
+      "name": "Reserve Rights (Wormhole)",
+      "destAddresses": {
+        "sol": "DkbE8U4gSRuGHcVMA1LwyZPYUjYbfEbjW8DMR3iSXBzr",
+      },
+      "sourceAddress": "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8",
+      "coingeckoId": "reserve-rights-token",
+      "markets": {
+        "sol": ["dexlab"],
+      },
     },
     "SAND": {
       "symbol": "SAND",
@@ -415,7 +500,7 @@ TOKENS = {
       "coingeckoId": "sushi",
       "logo": "https://etherscan.io/token/images/sushitoken_32.png",
       "markets": {
-        "sol": ["raydium", "tulip", "francium", "atrix"],
+        "sol": ["raydium", "tulip", "francium", "atrix", "dexlab"],
       }
     },
     "UNI": {
@@ -429,7 +514,7 @@ TOKENS = {
       "coingeckoId": "uniswap",
       "logo": "https://etherscan.io/token/images/uniswap_32.png",
       "markets": {
-        "sol": ["raydium", "tulip", "francium"],
+        "sol": ["raydium", "tulip", "francium", "dexlab"],
       }
     },
     "USDCet": {
@@ -498,6 +583,18 @@ TOKENS = {
       "logo": "https://etherscan.io/token/images/wbtc_28.png?v=1",
       "markets": {
         "terra": ["loop"],
+      }
+    },
+    "YFI": {
+      "symbol": "YFI",
+      "name": "yearn.finance (Wormhole from Ethereum)",
+      "destAddresses": {
+        "sol": "BXZX2JRJFjvKazM1ibeDFxgAngKExb74MRXzXKvgikxX",
+      },
+      "sourceAddress": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+      "coingeckoId": "yearn-finance",
+      "markets": {
+        "sol": ["dexlab"],
       }
     },
     "agEUR": {
@@ -616,7 +713,7 @@ TOKENS = {
       "coingeckoId": "binance-coin",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/logo.png",
       "markets": {
-        "sol": ["mercurial", "raydium", "atrix"],
+        "sol": ["mercurial", "raydium", "atrix", "dexlab"],
         "matic": ["quickswap"],
       }
     },

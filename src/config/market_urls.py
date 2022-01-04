@@ -18,6 +18,10 @@ MARKETS = {
     "name": "Atrix",
     "link": "https://app.atrix.finance/"
   },
+  "dexlab": {
+    "name": "Dexlab",
+    "link": "https://trade.dexlab.space/"
+  },
   "francium": {
     "name": "Francium",
     "link": "https://francium.io/app/invest/farm"

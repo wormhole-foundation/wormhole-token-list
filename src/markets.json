@@ -24,6 +24,10 @@
       "link": "https://curve.fi/",
       "name": "Curve"
     },
+    "dexlab": {
+      "link": "https://trade.dexlab.space/",
+      "name": "Dexlab"
+    },
     "francium": {
       "link": "https://francium.io/app/invest/farm",
       "name": "Francium"
@@ -354,6 +358,16 @@
             "francium"
           ]
         },
+        "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e": {
+          "markets": [
+            "dexlab"
+          ]
+        },
+        "0x111111111117dC0aa78b770fA6A738034120C302": {
+          "markets": [
+            "dexlab"
+          ]
+        },
         "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8": {
           "markets": [
             "saber"
@@ -369,7 +383,13 @@
           "markets": [
             "raydium",
             "tulip",
-            "francium"
+            "francium",
+            "dexlab"
+          ]
+        },
+        "0x2ba592f78db6436527729929aaf6c908497cb200": {
+          "markets": [
+            "dexlab"
           ]
         },
         "0x3845badAde8e6dFF049820680d1F14bD3903a5d0": {
@@ -382,7 +402,13 @@
           "markets": [
             "mercurial",
             "raydium",
-            "atrix"
+            "atrix",
+            "dexlab"
+          ]
+        },
+        "0x45804880de22913dafe09f4980848ece6ecbaf78": {
+          "markets": [
+            "dexlab"
           ]
         },
         "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff": {
@@ -403,12 +429,14 @@
             "almond",
             "tulip",
             "mercurial",
-            "sunny"
+            "sunny",
+            "dexlab"
           ]
         },
         "0x514910771af9ca656af840dff83e8264ecf986ca": {
           "markets": [
-            "atrix"
+            "atrix",
+            "dexlab"
           ]
         },
         "0x566957eF80F9fd5526CD2BEF8BE67035C0b81130": {
@@ -429,7 +457,8 @@
             "raydium",
             "tulip",
             "francium",
-            "atrix"
+            "atrix",
+            "dexlab"
           ]
         },
         "0x7B4B0B9b024109D182dCF3831222fbdA81369423": {
@@ -437,6 +466,11 @@
             "saber",
             "mercurial",
             "sunny"
+          ]
+        },
+        "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9": {
+          "markets": [
+            "dexlab"
           ]
         },
         "0x7c9f4C87d911613Fe9ca58b579f737911AAD2D43": {
@@ -460,6 +494,16 @@
         "0x85f138bfEE4ef8e540890CFb48F620571d67Eda3": {
           "markets": [
             "atrix"
+          ]
+        },
+        "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8": {
+          "markets": [
+            "dexlab"
+          ]
+        },
+        "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7": {
+          "markets": [
+            "dexlab"
           ]
         },
         "0x92d6c1e31e14520e676a687f0a93788b716beff5": {
@@ -521,12 +565,18 @@
             "sunny",
             "francium",
             "raydium",
-            "atrix"
+            "atrix",
+            "dexlab"
           ]
         },
         "0xc4e15973e6ff2a35cc804c2cf9d2a1b817a8b40f": {
           "markets": [
             "saber"
+          ]
+        },
+        "0xc944E90C64B2c07662A292be6244BDf05Cda44a7": {
+          "markets": [
+            "dexlab"
           ]
         },
         "0xdac17f958d2ee523a2206206994597c13d831ec7": {
@@ -698,7 +748,8 @@
       "1": {
         "terra12dfv3f0e6m22z6cnhfn3nxk2en3z3zeqy6ctym": {
           "markets": [
-            "atrix"
+            "atrix",
+            "dexlab"
           ]
         },
         "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r": {
@@ -710,7 +761,8 @@
             "sunny",
             "francium",
             "raydium",
-            "atrix"
+            "atrix",
+            "dexlab"
           ]
         },
         "terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva": {
@@ -725,7 +777,8 @@
           "markets": [
             "mercurial",
             "raydium",
-            "atrix"
+            "atrix",
+            "dexlab"
           ]
         },
         "terra1csvuzlf92nyemu6tv25h0l79etpe8hz3h5vn4a": {
@@ -733,7 +786,8 @@
             "raydium",
             "tulip",
             "francium",
-            "atrix"
+            "atrix",
+            "dexlab"
           ]
         },
         "terra1dtqlfecglk47yplfrtwjzyagkgcqqngd5lgjp8": {
@@ -782,7 +836,8 @@
           "markets": [
             "raydium",
             "tulip",
-            "francium"
+            "francium",
+            "dexlab"
           ]
         },
         "terra1yljlrxvkar0c6ujpvf8g57m5rpcwl7r032zyvu": {
@@ -1039,7 +1094,8 @@
             "raydium",
             "tulip",
             "francium",
-            "atrix"
+            "atrix",
+            "dexlab"
           ]
         },
         "0x3d4350cD54aeF9f9b2C29435e0fa809957B3F30a": {
@@ -1058,7 +1114,8 @@
             "almond",
             "tulip",
             "mercurial",
-            "sunny"
+            "sunny",
+            "dexlab"
           ]
         },
         "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA": {
@@ -1070,7 +1127,8 @@
             "sunny",
             "francium",
             "raydium",
-            "atrix"
+            "atrix",
+            "dexlab"
           ]
         },
         "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc": {
@@ -1128,7 +1186,8 @@
           "markets": [
             "mercurial",
             "raydium",
-            "atrix"
+            "atrix",
+            "dexlab"
           ]
         },
         "0xc836d8dC361E44DbE64c4862D55BA041F88Ddd39": {
@@ -1332,7 +1391,8 @@
             "sunny",
             "francium",
             "raydium",
-            "atrix"
+            "atrix",
+            "dexlab"
           ]
         },
         "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
@@ -1395,7 +1455,8 @@
           "markets": [
             "mercurial",
             "raydium",
-            "atrix"
+            "atrix",
+            "dexlab"
           ]
         }
       },
@@ -1545,7 +1606,8 @@
           "markets": [
             "mercurial",
             "raydium",
-            "atrix"
+            "atrix",
+            "dexlab"
           ]
         },
         "0x543672E9CBEC728CBBa9C3Ccd99ed80aC3607FA8": {
@@ -1577,7 +1639,8 @@
             "sunny",
             "francium",
             "raydium",
-            "atrix"
+            "atrix",
+            "dexlab"
           ]
         },
         "0xA41a6c7E25DdD361343e8Cb8cFa579bbE5eEdb7a": {
@@ -1791,6 +1854,10 @@
   },
   "tokens": {
     "1": {
+      "12uHjozDVgyGWeLqQ8DMCRbig8amW5VmvZu3FdMMdcaG": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G3h8NZgJozk9crme2me6sKDJuSQ12mNCtvC9NbSWqGuk/logo.png",
+        "symbol": "AKRO"
+      },
       "2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX/logo.png",
         "symbol": "LINK"
@@ -1802,6 +1869,10 @@
       "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh": {
         "logo": "https://etherscan.io/token/images/wbtc_28.png?v=1",
         "symbol": "WBTC"
+      },
+      "3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AAVE_wh.png",
+        "symbol": "AAVE"
       },
       "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F/logo.png",
@@ -1879,9 +1950,21 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP/logo.png",
         "symbol": "AURY"
       },
+      "AjkPkq3nsyDe1yKcbyZT7N4aK4Evv9om9tzhQD3wsRC": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/1INCH_wh.png",
+        "symbol": "1INCH"
+      },
+      "BXZX2JRJFjvKazM1ibeDFxgAngKExb74MRXzXKvgikxX": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/YFI_wh.png",
+        "symbol": "YFI"
+      },
       "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi": {
         "logo": "https://etherscan.io/token/images/badgeribtc_32.png",
         "symbol": "ibBTC"
+      },
+      "C6oFsE8nXRDThzrMEQ5SxaNFGKoyyfWDDVPw37JKvPTe": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PAXG_wh.png",
+        "symbol": "PAXG"
       },
       "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1/logo.svg",
@@ -1898,6 +1981,10 @@
       "CriXdFS9iRAYbGEQiTcUqbWwG9RBmYt5B6LwTnoJ61Sm": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CriXdFS9iRAYbGEQiTcUqbWwG9RBmYt5B6LwTnoJ61Sm/logo.png",
         "symbol": "JOE"
+      },
+      "DkbE8U4gSRuGHcVMA1LwyZPYUjYbfEbjW8DMR3iSXBzr": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RSR_wh.png",
+        "symbol": "RSR"
       },
       "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
@@ -1947,6 +2034,10 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw5sE/logo.png",
         "symbol": "stETH"
       },
+      "HGsLG4PnZ28L8A4R5nPqKgZd86zUUdmfnkTRnuFJ5dAX": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/GRT_wh.png",
+        "symbol": "GRT"
+      },
       "HRQke5DKdDo3jV7wnomyiM8AA3EzkVnxMDdo2FQ5XUe1": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HRQke5DKdDo3jV7wnomyiM8AA3EzkVnxMDdo2FQ5XUe1/logo.png",
         "symbol": "MIMet"
@@ -1954,6 +2045,10 @@
       "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png",
         "symbol": "LDO"
+      },
+      "HihxL2iM6L6P1oqoSeiixdJ3PhPYNxvSKH9A2dDqLVDH": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CREAM_wh.png",
+        "symbol": "CREAM"
       },
       "HysWcbHiYY9888pHbaqhwLYZQeZrcQMXKQWRqS7zcPK5": {
         "logo": "https://etherscan.io/token/images/axieinfinityshard_32.png",
@@ -2005,6 +2100,14 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FUGsN8H74WjRBBMfQWcf9Kk32gebA9VnNaGxqwcVvUW7/logo.png",
         "symbol": "gOHM"
       },
+      "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/YFI_wh.png",
+        "symbol": "YFI"
+      },
+      "0x111111111117dC0aa78b770fA6A738034120C302": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/1INCH_wh.png",
+        "symbol": "1INCH"
+      },
       "0x1CDD2EaB61112697626F7b4bB0e23Da4FeBF7B7C": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
         "symbol": "USDTso"
@@ -2025,6 +2128,10 @@
         "logo": "https://etherscan.io/token/images/wbtc_28.png?v=1",
         "symbol": "WBTC"
       },
+      "0x2ba592f78db6436527729929aaf6c908497cb200": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CREAM_wh.png",
+        "symbol": "CREAM"
+      },
       "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct/logo.png",
         "symbol": "FXS"
@@ -2040,6 +2147,10 @@
       "0x41f7B8b9b897276b7AAE926a9016935280b44E97": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
         "symbol": "USDCso"
+      },
+      "0x45804880de22913dafe09f4980848ece6ecbaf78": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PAXG_wh.png",
+        "symbol": "PAXG"
       },
       "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG/logo.png",
@@ -2085,6 +2196,10 @@
         "logo": "https://etherscan.io/token/images/binanceusd_32.png",
         "symbol": "BUSDbs"
       },
+      "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AAVE_wh.png",
+        "symbol": "AAVE"
+      },
       "0x7c8161545717a334f3196e765d9713f8042EF338": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S/logo.png",
         "symbol": "CAKE"
@@ -2104,6 +2219,14 @@
       "0x85f138bfEE4ef8e540890CFb48F620571d67Eda3": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE/logo.png",
         "symbol": "AVAX"
+      },
+      "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RSR_wh.png",
+        "symbol": "RSR"
+      },
+      "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G3h8NZgJozk9crme2me6sKDJuSQ12mNCtvC9NbSWqGuk/logo.png",
+        "symbol": "AKRO"
       },
       "0x92d6c1e31e14520e676a687f0a93788b716beff5": {
         "logo": "https://etherscan.io/token/images/dydx2_32.png",
@@ -2164,6 +2287,10 @@
       "0xc4e15973e6ff2a35cc804c2cf9d2a1b817a8b40f": {
         "logo": "https://etherscan.io/token/images/badgeribtc_32.png",
         "symbol": "ibBTC"
+      },
+      "0xc944E90C64B2c07662A292be6244BDf05Cda44a7": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/GRT_wh.png",
+        "symbol": "GRT"
       },
       "0xdac17f958d2ee523a2206206994597c13d831ec7": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
