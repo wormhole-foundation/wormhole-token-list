@@ -263,7 +263,7 @@ def gen_markets_json():
 
 
 def gen_outputs():
-  for chain in ['sol', 'eth', 'bsc', 'terra', 'avax', 'matic']:
+  for chain in ['sol', 'eth', 'bsc', 'terra', 'avax', 'matic', 'oasis']:
     gen_dest_info(chain)
     gen_source_info(chain)
   gen_markets_json()

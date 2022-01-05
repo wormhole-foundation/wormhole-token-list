@@ -525,7 +525,8 @@ TOKENS = {
         "terra": "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06",
         "bsc": "0xB04906e95AB5D797aDA81508115611fee694c2b3",
         "avax": "0xB24CA28D4e2742907115fECda335b40dbda07a4C",
-        "matic": "0x4318cb63a2b8edf2de971e2f17f77097e499459d"
+        "matic": "0x4318cb63a2b8edf2de971e2f17f77097e499459d",
+        "oasis": "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD"
       },
       "sourceAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
       "coingeckoId": "usd-coin",
@@ -535,6 +536,7 @@ TOKENS = {
         "sol": ["saber", "mercurial", "jupiter", "sunny"],
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
+        "oasis": ["yuzu"],
       }
     },
     "USDK": {
@@ -558,7 +560,8 @@ TOKENS = {
         "sol": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
         "terra": "terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva",
         "bsc": "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc",
-        "matic": "0x9417669fBF23357D2774e9D421307bd5eA1006d2"
+        "matic": "0x9417669fBF23357D2774e9D421307bd5eA1006d2",
+        "oasis": "0xdC19A122e268128B5eE20366299fc7b5b199C8e3"
       },
       "sourceAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
       "coingeckoId": "tether",
@@ -568,6 +571,7 @@ TOKENS = {
         "sol": ["saber", "mercurial", "jupiter", "sunny"],
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
+        "oasis": ["yuzu"],
       }
     },
     "WBTC": {
@@ -888,4 +892,19 @@ TOKENS = {
   #################
   # 7. Oasis native
   #################
+  'oasis': {
+    "ROSE": {
+      "symbol": "ROSE",
+      "name": "ROSE (Wormhole)",
+      "destAddresses": {
+
+      },
+      "markets": {
+
+      },
+      "sourceAddress": "0xE4F5F5910b347A5AEFd12745a98eEEA97F69180e",
+      "coingeckoId": "oasis-network",
+      "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png"
+    }
+  },
 }

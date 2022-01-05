@@ -1,0 +1,7 @@
+
+Resultant wrapped-asset addresses (wormholing from Oasis)
+===================================
+  
+| img   | symbol   | name                                                           | sourceAddress                                                                                                                    | solAddress   | solMarkets   | ethAddress   | ethMarkets   | terraAddress   | terraMarkets   | bscAddress   | bscMarkets   | maticAddress   | maticMarkets   | avaxAddress   | avaxMarkets   | symbol   |
+|:------|:---------|:---------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------|:-------------|:-------------|:-------------|:-------------|:---------------|:---------------|:-------------|:-------------|:---------------|:---------------|:--------------|:--------------|:-----------------|
+|       | ROSE     | [ROSE (Wormhole)](http://coingecko.com/en/coins/oasis-network) | [0xE4F5F5910b347A5AEFd12745a98eEEA97F69180e](https://explorer.oasis.updev.si/address/0xE4F5F5910b347A5AEFd12745a98eEEA97F69180e) |              |              |              |              |                |                |              |              |                |                |               |               | ROSE             |
