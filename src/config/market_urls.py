@@ -110,4 +110,12 @@ MARKETS = {
     "name": "Trader Joe",
     "link": "https://traderjoexyz.com/#/trade"
   },
+
+  #######################
+  # 7. oasis markets
+  #######################
+  "yuzu": {
+    "name": "Yuzu Swap",
+    "link": "https://yuzu-swap.com/"
+  },
 }

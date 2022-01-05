@@ -42,6 +42,7 @@ for idx, token_data in enumerate(token_list):
   is_polygon = bc == "https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde"
   is_terra = bc == "https://finder.terra.money/columbus-5/address/terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf"
   is_avax = bc == "https://snowtrace.io/address/0x0e082f06ff657d94310cb8ce8b0d9a04541d8052"
+  is_oasis = bc == "https://explorer.oasis.updev.si/address/0x5848C791e09901b40A9Ef749f2a6735b418d7564"
 
   if is_eth:
     origin = 'eth'
@@ -53,6 +54,8 @@ for idx, token_data in enumerate(token_list):
     origin = 'terra'
   elif is_avax:
     origin = 'avax'
+  elif is_oasis:
+    origin = 'oasis'
   else:
     continue
 

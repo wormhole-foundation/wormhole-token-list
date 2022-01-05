@@ -87,6 +87,10 @@
     "uniswap": {
       "link": "https://app.uniswap.org/",
       "name": "Uniswap"
+    },
+    "yuzu": {
+      "link": "https://yuzu-swap.com/",
+      "name": "Yuzu Swap"
     }
   },
   "tokenMarkets": {
@@ -341,6 +345,18 @@
         "So11111111111111111111111111111111111111112": {
           "markets": [
             "traderjoe"
+          ]
+        }
+      },
+      "7": {
+        "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM": {
+          "markets": [
+            "yuzu"
+          ]
+        },
+        "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1": {
+          "markets": [
+            "yuzu"
           ]
         }
       }
@@ -742,6 +758,18 @@
             "traderjoe"
           ]
         }
+      },
+      "7": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
+          "markets": [
+            "yuzu"
+          ]
+        },
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": {
+          "markets": [
+            "yuzu"
+          ]
+        }
       }
     },
     "3": {
@@ -1063,6 +1091,18 @@
             "traderjoe"
           ]
         }
+      },
+      "7": {
+        "terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva": {
+          "markets": [
+            "yuzu"
+          ]
+        },
+        "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06": {
+          "markets": [
+            "yuzu"
+          ]
+        }
       }
     },
     "4": {
@@ -1373,6 +1413,18 @@
             "traderjoe"
           ]
         }
+      },
+      "7": {
+        "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc": {
+          "markets": [
+            "yuzu"
+          ]
+        },
+        "0xB04906e95AB5D797aDA81508115611fee694c2b3": {
+          "markets": [
+            "yuzu"
+          ]
+        }
       }
     },
     "5": {
@@ -1596,6 +1648,18 @@
         "0xd93f7e271cb87c23aaa73edc008a79646d1f9912": {
           "markets": [
             "traderjoe"
+          ]
+        }
+      },
+      "7": {
+        "0x4318cb63a2b8edf2de971e2f17f77097e499459d": {
+          "markets": [
+            "yuzu"
+          ]
+        },
+        "0x9417669fBF23357D2774e9D421307bd5eA1006d2": {
+          "markets": [
+            "yuzu"
           ]
         }
       }
@@ -1849,7 +1913,72 @@
             "quickswap"
           ]
         }
+      },
+      "7": {
+        "0xB24CA28D4e2742907115fECda335b40dbda07a4C": {
+          "markets": [
+            "yuzu"
+          ]
+        }
       }
+    },
+    "7": {
+      "1": {
+        "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD": {
+          "markets": [
+            "saber",
+            "mercurial",
+            "jupiter",
+            "sunny"
+          ]
+        },
+        "0xdC19A122e268128B5eE20366299fc7b5b199C8e3": {
+          "markets": [
+            "saber",
+            "mercurial",
+            "jupiter",
+            "sunny"
+          ]
+        }
+      },
+      "2": {
+        "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD": {
+          "markets": [
+            "curve"
+          ]
+        },
+        "0xdC19A122e268128B5eE20366299fc7b5b199C8e3": {
+          "markets": [
+            "curve"
+          ]
+        }
+      },
+      "3": {},
+      "4": {
+        "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
+        "0xdC19A122e268128B5eE20366299fc7b5b199C8e3": {
+          "markets": [
+            "pancakeswap"
+          ]
+        }
+      },
+      "5": {
+        "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD": {
+          "markets": [
+            "quickswap"
+          ]
+        },
+        "0xdC19A122e268128B5eE20366299fc7b5b199C8e3": {
+          "markets": [
+            "quickswap"
+          ]
+        }
+      },
+      "6": {}
     }
   },
   "tokens": {
@@ -2691,6 +2820,20 @@
       "0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb": {
         "logo": "https://polygonscan.com/token/images/wMatic_32.png",
         "symbol": "MATICpo"
+      }
+    },
+    "7": {
+      "0xE4F5F5910b347A5AEFd12745a98eEEA97F69180e": {
+        "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png",
+        "symbol": "ROSE"
+      },
+      "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+        "symbol": "USDCet"
+      },
+      "0xdC19A122e268128B5eE20366299fc7b5b199C8e3": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+        "symbol": "USDTet"
       }
     }
   }
