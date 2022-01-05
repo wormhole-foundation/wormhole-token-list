@@ -424,3 +424,12 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/JOE_
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCav_wh.png
 ```
 
+
+## source chain: oasis
+### ROSE
+![ROSE](ROSE_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ROSE_wh.png
+```
+
