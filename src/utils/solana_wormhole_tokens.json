@@ -353,7 +353,8 @@
     "origin": "eth",
     "sourceAddress": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da",
     "sourceContract": "https://etherscan.io/address/0x15d4c048f83bd7e37d49ea4c83a07267ec4203da",
-    "coingeckoId": "gala"
+    "coingeckoId": "gala",
+    "serumV3Usdc": "F7WJsoxTWQRmAwAyFe9APmuVv4HqmhchFtdbR9dvAUDm"
   },
   "GRT": {
     "symbol": "GRT",
@@ -556,15 +557,6 @@
     "sourceAddress": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
     "sourceContract": "https://etherscan.io/address/0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
     "coingeckoId": "magic-internet-money"
-  },
-  "NFD": {
-    "symbol": "NFD",
-    "name": "Feisty Doge NFT (Wormhole)",
-    "address": "CY2E69dSG9vBsMoaXDvYmMDSMEP4SZtRY1rqVQ9tkNDu",
-    "origin": "eth",
-    "sourceAddress": "0xdfdb7f72c1f195c5951a234e8db9806eb0635346",
-    "sourceContract": "https://etherscan.io/address/0xdfdb7f72c1f195c5951a234e8db9806eb0635346",
-    "coingeckoId": "feisty-doge-nft"
   },
   "NXM": {
     "symbol": "NXM",
