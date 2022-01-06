@@ -158,7 +158,7 @@ Known tokens (wormholed to %s)
   print('wrote %s' % outpath)
 
 
-def get_source_df(source):
+def get_source_df(source, include_markets=True):
   chain_tokens = TOKENS[source]
   tokens = {}
   for coin, entry in chain_tokens.items():
@@ -167,10 +167,11 @@ def get_source_df(source):
       if dest == source:
         continue
       entry['%sAddress' % dest] = entry['destAddresses'].get(dest, None)
-      if 'markets' in entry:
-        entry['%sMarkets' % dest] = entry['markets'].get(dest, None)
-      else:
-        entry['%sMarkets' % dest] = None
+      if include_markets:
+        if 'markets' in entry:
+          entry['%sMarkets' % dest] = entry['markets'].get(dest, None)
+        else:
+          entry['%sMarkets' % dest] = None
       tokens[coin] = entry
 
   return pd.DataFrame(tokens.values()).sort_values(by='symbol')
@@ -179,10 +180,12 @@ def get_source_df(source):
 def gen_source_csv():
   dfs = []
   for source in CHAINS:
-    df = get_source_df(source)
+    df = get_source_df(source, include_markets=False)
     df['source'] = source
     if 'markets' in df.columns:
       df = df.drop(['markets'], axis=1)
+    if 'destAddresses' in df.columns:
+      df = df.drop(['destAddresses'], axis=1)
     dfs.append(df)
   df = pd.concat(dfs)
   columns = ['source'] + [c for c in df.columns if c not in ['source']]
