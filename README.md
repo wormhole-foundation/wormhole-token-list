@@ -9,6 +9,7 @@ Known token addresses by destination chain:
 * to [Terra](content/dest_terra.md)
 * to [Polygon](content/dest_polygon.md)
 * to [Avalanche](content/dest_avalanche.md)
+* to [Oasis](content/dest_oasis.md)
 
 Resultant wrapped-asset addresses by source chain:
 * from [Solana](content/source_solana.md)
@@ -17,6 +18,7 @@ Resultant wrapped-asset addresses by source chain:
 * from [Terra](content/source_terra.md)
 * from [Polygon](content/source_polygon.md)
 * from [Avalanche](content/source_avalanche.md)
+* from [Oasis](content/source_oasis.md)
 
 ## Update instructions
 * [Update instructions](updating.md)
