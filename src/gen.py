@@ -14,9 +14,11 @@ from config.market_urls import MARKETS
 from config.token_data import TOKENS
 
 
+CHAINS = SOURCE_INFO.keys()
+
 dir_path = os.path.dirname(os.path.realpath(__file__))
-content_path = os.path.join(os.path.dirname(dir_path), 'content')
 assets_path = os.path.join(os.path.dirname(dir_path), 'assets')
+content_path = os.path.join(os.path.dirname(dir_path), 'content')
 
 # wormhole-specific token data is cached in digested version of file to make it
 # easier to understand diffs (eliminate distractions from shitcoins)
@@ -88,6 +90,20 @@ def get_dest_df_solana():
   return df
 
 
+def gen_dest_csv():
+  dfs = []
+  for dest in CHAINS:
+    df = get_dest_df(dest)
+    df['dest'] = dest
+    if 'markets' in df.columns:
+      df = df.drop(['markets'], axis=1)
+    dfs.append(df)
+  df = pd.concat(dfs)
+  outpath = os.path.join(content_path, 'by_dest.csv')
+  df.to_csv(outpath, index=False)
+  print('wrote %s' % outpath)
+
+
 def gen_dest_info(dest):
   dest_full = SOURCE_INFO[dest][0]
 
@@ -156,6 +172,20 @@ def get_source_df(source):
       tokens[coin] = entry
 
   return pd.DataFrame(tokens.values()).sort_values(by='symbol')
+
+
+def gen_source_csv():
+  dfs = []
+  for source in CHAINS:
+    df = get_source_df(source)
+    df['source'] = source
+    if 'markets' in df.columns:
+      df = df.drop(['markets'], axis=1)
+    dfs.append(df)
+  df = pd.concat(dfs)
+  outpath = os.path.join(content_path, 'by_source.csv')
+  df.to_csv(outpath, index=False)
+  print('wrote %s' % outpath)
 
 
 def gen_source_info(source):
@@ -263,9 +293,11 @@ def gen_markets_json():
 
 
 def gen_outputs():
-  for chain in ['sol', 'eth', 'bsc', 'terra', 'avax', 'matic', 'oasis']:
+  for chain in CHAINS:
     gen_dest_info(chain)
     gen_source_info(chain)
+  gen_dest_csv()
+  gen_source_csv()
   gen_markets_json()
 
 
