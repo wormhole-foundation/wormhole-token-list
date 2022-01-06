@@ -99,6 +99,8 @@ def gen_dest_csv():
       df = df.drop(['markets'], axis=1)
     dfs.append(df)
   df = pd.concat(dfs)
+  columns = ['dest'] + [c for c in df.columns if c not in ['dest']]
+  df = df[columns]
   outpath = os.path.join(content_path, 'by_dest.csv')
   df.to_csv(outpath, index=False)
   print('wrote %s' % outpath)
@@ -183,6 +185,8 @@ def gen_source_csv():
       df = df.drop(['markets'], axis=1)
     dfs.append(df)
   df = pd.concat(dfs)
+  columns = ['source'] + [c for c in df.columns if c not in ['source']]
+  df = df[columns]
   outpath = os.path.join(content_path, 'by_source.csv')
   df.to_csv(outpath, index=False)
   print('wrote %s' % outpath)
