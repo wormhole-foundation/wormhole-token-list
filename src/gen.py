@@ -11,7 +11,7 @@ from collections import OrderedDict
 
 from config.constants import SOURCE_INFO, CHAIN_IDS_TO_NAMES, CHAIN_NAMES_TO_IDS
 from config.market_urls import MARKETS
-from config.token_data import TOKENS
+from config.token_data import TOKENS as _ORIG_TOKENS
 
 
 CHAINS = SOURCE_INFO.keys()
@@ -23,6 +23,29 @@ content_path = os.path.join(os.path.dirname(dir_path), 'content')
 # wormhole-specific token data is cached in digested version of file to make it
 # easier to understand diffs (eliminate distractions from shitcoins)
 SOLANA_DATA_PATH = os.path.join(dir_path, 'utils', 'solana_wormhole_tokens.json')
+with open(SOLANA_DATA_PATH, 'r') as f:
+  DEST_SOLANA_TOKENS = json.load(f)
+
+TOKENS = copy.deepcopy(_ORIG_TOKENS)
+for symbol, block in DEST_SOLANA_TOKENS.items():
+  origin = block['origin']
+  sol_address = block['address']
+  if symbol not in TOKENS[origin]:
+    # synthesize new block
+    new_block = OrderedDict()
+    new_block['symbol'] = symbol
+    new_block['name'] = block['name']
+    new_block['destAddresses'] = {'sol': block['address']}
+    new_block['sourceAddress'] = block['sourceAddress']
+    new_block['coingeckoId'] = block['coingeckoId']
+    if 'logo' in block:
+      new_block['logo'] = block['logo']
+    TOKENS[origin][symbol] = new_block
+  # maybe update serum stuff
+  for field in ['serumV3Usdc', 'serumV3Usdt']:
+    if field in block:
+      TOKENS[origin][symbol][field] = block[field]
+
 
 
 def _link_address(dest, addr):
@@ -80,16 +103,6 @@ def get_dest_df(dest):
   return pd.DataFrame(tokens.values())
 
 
-def get_dest_df_solana():
-  with open(SOLANA_DATA_PATH, 'r') as f:
-    TOKENS = json.load(f)
-  df = pd.DataFrame(TOKENS.values())
-  base_df = get_dest_df('sol')
-  sym_markets = dict(zip(base_df['symbol'].values, base_df['markets'].values))
-  df['markets'] = [sym_markets.get(s, '') for s in df['symbol'].values]
-  return df
-
-
 def gen_dest_csv():
   dfs = []
   for dest in CHAINS:
@@ -99,8 +112,9 @@ def gen_dest_csv():
       df = df.drop(['markets'], axis=1)
     dfs.append(df)
   df = pd.concat(dfs)
-  columns = ['dest'] + [c for c in df.columns if c not in ['dest']]
-  df = df[columns]
+  order = ['dest', 'symbol', 'name', 'address', 'origin', 'sourceAddress', 'coingeckoId',
+           'logo', 'serumV3Usdc', 'serumV3Usdt']
+  df = df[[c for c in order if c in df.columns]]
   outpath = os.path.join(content_path, 'by_dest.csv')
   df.to_csv(outpath, index=False)
   print('wrote %s' % outpath)
@@ -109,10 +123,7 @@ def gen_dest_csv():
 def gen_dest_info(dest):
   dest_full = SOURCE_INFO[dest][0]
 
-  if dest == 'sol':
-    df = get_dest_df_solana()
-  else:
-    df = get_dest_df(dest)
+  df = get_dest_df(dest)
 
   if df.shape[0] == 0:
     print('no tokens for dest=%s' % dest)
@@ -189,7 +200,10 @@ def gen_source_csv():
     dfs.append(df)
   df = pd.concat(dfs)
   columns = ['source'] + [c for c in df.columns if c not in ['source']]
-  df = df[columns]
+
+  order = ['source','symbol','name','sourceAddress','coingeckoId','logo'] + \
+          ['%sAddress' % bc for bc in CHAINS]
+  df = df[[c for c in order if c in columns]]
   outpath = os.path.join(content_path, 'by_source.csv')
   df.to_csv(outpath, index=False)
   print('wrote %s' % outpath)

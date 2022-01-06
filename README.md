@@ -1,7 +1,7 @@
 Wormhole Token List
 =====================
 
-## Reference information
+## Reference information for humans
 Known token addresses by destination chain:
 * to [Solana](content/dest_solana.md)
 * to [Ethereum](content/dest_ethereum.md)
@@ -19,6 +19,10 @@ Resultant wrapped-asset addresses by source chain:
 * from [Polygon](content/source_polygon.md)
 * from [Avalanche](content/source_avalanche.md)
 * from [Oasis](content/source_oasis.md)
+
+## CSV (use raw version)
+* [by_dest.csv](content/by_dest.csv)
+* [by_source.csv](content/by_source.csv)
 
 ## Update instructions
 * [Update instructions](updating.md)

@@ -1987,6 +1987,10 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G3h8NZgJozk9crme2me6sKDJuSQ12mNCtvC9NbSWqGuk/logo.png",
         "symbol": "AKRO"
       },
+      "2ueY1bLcPHfuFzEJq7yN1V2Wrpu8nkun9xG2TVCE1mhD": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/HGET_wh.png",
+        "symbol": "HGET"
+      },
       "2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX/logo.png",
         "symbol": "LINK"
@@ -1995,9 +1999,25 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX/logo.png",
         "symbol": "BUSDet"
       },
+      "3CyiEDRehaGufzkpXJitCP5tvh7cNhRqd9rPBxZrgK5z": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SXP_wh.png",
+        "symbol": "SXP"
+      },
+      "3EQ6LqLkiFcoxTeGEsHMFpSLWNVPe9yT7XPX2HYSFyxX": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TOKE_wh.png",
+        "symbol": "TOKE"
+      },
       "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh": {
         "logo": "https://etherscan.io/token/images/wbtc_28.png?v=1",
         "symbol": "WBTC"
+      },
+      "3UCMiSnkcnkPE1pgQ5ggPCBv6dXgVUy16TmMUe1WpG9x": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ALEPH_wh.png",
+        "symbol": "ALEPH"
+      },
+      "3a2VW9t5N6p4baMW3M6yLH1UJ9imMt7VsyUk6ouXPVLq": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/KP3R_wh.png",
+        "symbol": "KP3R"
       },
       "3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AAVE_wh.png",
@@ -2011,6 +2031,10 @@
         "logo": "https://gemini.com/images/currencies/icons/default/sand.svg",
         "symbol": "SAND"
       },
+      "4Fo67MYQpVhZj9R7jQTd63FPAnWbPpaafAUxsMGX2geP": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/DAIpo_wh.png",
+        "symbol": "DAIpo"
+      },
       "4Hx6Bj56eGyw8EJrrheM6LBQAvVYRikYCWsALeTrwyRU": {
         "logo": "https://etherscan.io/token/images/dydx2_32.png",
         "symbol": "DYDX"
@@ -2018,6 +2042,10 @@
       "4ThReWAbAVZjNVgs5Ui9Pk3cZ5TYaD9u6Y89fp6EFzoF": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4ThReWAbAVZjNVgs5Ui9Pk3cZ5TYaD9u6Y89fp6EFzoF/logo.png",
         "symbol": "1SOL"
+      },
+      "4hpngEp1v3CXpeKB81Gw4sv7YvwUVRKvY3SGag9ND8Q4": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SLP_wh.png",
+        "symbol": "SLP"
       },
       "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/logo.png",
@@ -2027,13 +2055,41 @@
         "logo": "https://etherscan.io/token/images/binanceusd_32.png",
         "symbol": "BUSDbs"
       },
+      "5TtSKAamFq88grN1QGrEaZ1AjjyciqnCya1aiMhAgFvG": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CHZ_wh.png",
+        "symbol": "CHZ"
+      },
+      "5Wc4U1ZoQRzF4tPdqKQzBwRSjYe8vEf3EvZMuXgtKUW6": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LUA_wh.png",
+        "symbol": "LUA"
+      },
       "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1/logo.png",
         "symbol": "USDTpo"
       },
+      "5hcdG6NjQwiNhVa9bcyaaDsCyA1muPQ6WRzQwHfgeeKo": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SWAG_wh.png",
+        "symbol": "SWAG"
+      },
+      "5njTmK53Ss5jkiHHZvzabVzZj6ztu6WYWpAPYgbVnbjs": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/QUICK_wh.png",
+        "symbol": "QUICK"
+      },
+      "64L6o4G2H7Ln1vN7AHZsUMW4pbFciHyuwn4wUdSbcFxh": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/KEEP_wh.png",
+        "symbol": "KEEP"
+      },
       "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct/logo.png",
         "symbol": "FXS"
+      },
+      "6Q5fvsJ6kgAFmisgDqqyaFd9FURYzHf8MCUbpAUaGZnE": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SOS_wh.png",
+        "symbol": "SOS"
+      },
+      "6nKUU36URHkewHg5GGGAgxs6szkE4VTioGUT5txQqJFU": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ELON_wh.png",
+        "symbol": "ELON"
       },
       "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw/logo.png",
@@ -2047,6 +2103,10 @@
         "logo": "https://assets.coingecko.com/coins/images/878/thumb/decentraland-mana.png",
         "symbol": "MANA"
       },
+      "7gjNiPun3AzEazTZoFEjZgcBMeuaXdpjHq2raZTmTrfs": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CRV_wh.png",
+        "symbol": "CRV"
+      },
       "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
         "symbol": "ETH"
@@ -2055,9 +2115,33 @@
         "logo": "https://etherscan.io/token/images/uniswap_32.png",
         "symbol": "UNI"
       },
+      "8UJbtpsEubDVkY53rk7d61hNYKkvouicczB2XmuwiG4g": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ILV_wh.png",
+        "symbol": "ILV"
+      },
+      "8cTNUtcV2ueC3royJ642uRnvTxorJAWLZc58gxAo7y56": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SNX_wh.png",
+        "symbol": "SNX"
+      },
+      "8gC27rQF4NEDYfyf5aS8ZmQJUum5gufowKGYRRba4ENN": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FTMet_wh.png",
+        "symbol": "FTMet"
+      },
       "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
         "symbol": "USDTbs"
+      },
+      "9ARQsBfAn65q522cEqSJuse3cLhA31jgWDBGQHeiq7Mg": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ALICE_wh.png",
+        "symbol": "ALICE"
+      },
+      "9BsnSWDPfbusseZfnXyZ3un14CyPMZYvsKjWY3Y8Gbqn": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PERP_wh.png",
+        "symbol": "PERP"
+      },
+      "9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AUDIO_wh.png",
+        "symbol": "AUDIO"
       },
       "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/logo.png",
@@ -2067,9 +2151,21 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/logo.png",
         "symbol": "UST"
       },
+      "A9ik2NrpKRRG2snyTjofZQcTuav9yH3mNVHLsLiDQmYt": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FRONT_wh.png",
+        "symbol": "FRONT"
+      },
       "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
         "symbol": "USDCet"
+      },
+      "ABAq2R9gSpDDGguQxBk4u13s4ZYW6zbwKVBx15mCMG8": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/GT_wh.png",
+        "symbol": "GT"
+      },
+      "ASk8bss7PoxfFVJfXnSJepj9KupTX15QaRnhdjs6DdYe": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RGT_wh.png",
+        "symbol": "RGT"
       },
       "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png",
@@ -2079,9 +2175,33 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP/logo.png",
         "symbol": "AURY"
       },
+      "Afe9gSG8NcWicJtC58tUPGWG6pUcdK29d59BJuSAsePJ": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/OHM_wh.png",
+        "symbol": "OHM"
+      },
       "AjkPkq3nsyDe1yKcbyZT7N4aK4Evv9om9tzhQD3wsRC": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/1INCH_wh.png",
         "symbol": "1INCH"
+      },
+      "Aqs5ydqKXEK2cjotDXxHmk8N9PknqQ5q4ZED4ymY1eeh": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/NXM_wh.png",
+        "symbol": "NXM"
+      },
+      "AuGz22orMknxQHTVGwAu7e3dJikTJKgcjFwMNDikEKmF": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/GALA_wh.png",
+        "symbol": "GALA"
+      },
+      "AwEauVaTMQRB71WeDnwf1DWSBxaMKjEPuxyLr1uixFom": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/COMP_wh.png",
+        "symbol": "COMP"
+      },
+      "BCsFXYm81iqXyYmrLKgAp3AePcgLHnirb8FjTs6sjM7U": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SPELL_wh.png",
+        "symbol": "SPELL"
+      },
+      "BLvmrccP4g1B6SpiVvmQrLUDya1nZ4B2D1nm9jzKF7sz": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CVX_wh.png",
+        "symbol": "CVX"
       },
       "BXZX2JRJFjvKazM1ibeDFxgAngKExb74MRXzXKvgikxX": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/YFI_wh.png",
@@ -2095,6 +2215,18 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PAXG_wh.png",
         "symbol": "PAXG"
       },
+      "C7NNPWuZCNjZBfW5p6JvGsR8pUdsRpEdP1ZAhnoDwj7h": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATICet_wh.png",
+        "symbol": "MATICet"
+      },
+      "CLQsDGoGibdNPnVCFp8BAsN2unvyvb41Jd5USYwAnzAg": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ENS_wh.png",
+        "symbol": "ENS"
+      },
+      "CaGa7pddFXS65Gznqwp42kBhkJQdceoFVT7AQYo8Jr8Q": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATH_wh.png",
+        "symbol": "MATH"
+      },
       "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1/logo.svg",
         "symbol": "agEUR"
@@ -2107,9 +2239,25 @@
         "logo": "https://etherscan.io/token/images/shibatoken_32.png",
         "symbol": "SHIB"
       },
+      "CobcsUrt3p91FwvULYKorQejgsm5HoQdv5T8RUZ6PnLA": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PEOPLE_wh.png",
+        "symbol": "PEOPLE"
+      },
       "CriXdFS9iRAYbGEQiTcUqbWwG9RBmYt5B6LwTnoJ61Sm": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CriXdFS9iRAYbGEQiTcUqbWwG9RBmYt5B6LwTnoJ61Sm/logo.png",
         "symbol": "JOE"
+      },
+      "D559HwgjYGDYsXpmFUKxhFTEwutvS9sya1kXiyCVogCV": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AMP_wh.png",
+        "symbol": "AMP"
+      },
+      "DPgNKZJAG2w1S6vfYHDBT62R4qrWWH5f45CnxtbQduZE": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TRIBE_wh.png",
+        "symbol": "TRIBE"
+      },
+      "DiJut4U3CU8b3bRgwfyqtJMJ4wjzJHaX6hudamjH46Km": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ICE_wh.png",
+        "symbol": "ICE"
       },
       "DkbE8U4gSRuGHcVMA1LwyZPYUjYbfEbjW8DMR3iSXBzr": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RSR_wh.png",
@@ -2119,13 +2267,33 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
         "symbol": "USDTet"
       },
+      "DvjMYMVeXgKxaixGKpzQThLoG98nc7HSU7eanzsdCboA": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CRO_wh.png",
+        "symbol": "CRO"
+      },
       "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
         "symbol": "USDCpo"
       },
+      "EDVVEYW4fPJ6vKw5LZXRGUSPzxoHrv6eWvTqhCr8oShs": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BNT_wh.png",
+        "symbol": "BNT"
+      },
+      "EHKQvJGu48ydKA4d3RivrkNyTJTkSdoS32UafxSX1yak": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AMPL_wh.png",
+        "symbol": "AMPL"
+      },
+      "EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BAT_wh.png",
+        "symbol": "BAT"
+      },
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
         "symbol": "USDCso"
+      },
+      "EXExWvT6VyYxEjFzF5BrUxt5GZMPVZnd48y3iWrRefMq": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ENJ_wh.png",
+        "symbol": "ENJ"
       },
       "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG/logo.png",
@@ -2134,6 +2302,10 @@
       "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
         "symbol": "USDTso"
+      },
+      "EzZp7LRN1xwu3QsB2RJRrWwEGjJGsuWzuMCeQDB3NSPK": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/YGG_wh.png",
+        "symbol": "YGG"
       },
       "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv/logo.png",
@@ -2151,9 +2323,25 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp/logo.png",
         "symbol": "FRAX"
       },
+      "FTtXEUosNn6EKG2SQtfbGuYB4rBttreQQcoWn1YDsuTq": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/UBXT_wh.png",
+        "symbol": "UBXT"
+      },
       "FUGsN8H74WjRBBMfQWcf9Kk32gebA9VnNaGxqwcVvUW7": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FUGsN8H74WjRBBMfQWcf9Kk32gebA9VnNaGxqwcVvUW7/logo.png",
         "symbol": "gOHM"
+      },
+      "GJa1VeEYLTRoHbaeqcxfzHmjGCGtZGF3CUqxv9znZZAY": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ZRX_wh.png",
+        "symbol": "ZRX"
+      },
+      "GWdkYFnXnSJAsCBvmsqFLiPPe2tpvXynZcJdxf11Fu3U": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/UFO_wh.png",
+        "symbol": "UFO"
+      },
+      "Gq2norJ1kBemBp3mPfkgAUMhMMmnFmY4zEyi26tRcxFB": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ANKR_wh.png",
+        "symbol": "ANKR"
       },
       "Gz7VkD4MacbEB6yC5XD3HcumEiYx2EtDYYrfikGsvopG": {
         "logo": "https://polygonscan.com/token/images/wMatic_32.png",
@@ -2163,6 +2351,10 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw5sE/logo.png",
         "symbol": "stETH"
       },
+      "HCTVFTzHL21a1dPzKxAUeWwqbE8QMUyvgChFDL4XYoi1": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LRC_wh.png",
+        "symbol": "LRC"
+      },
       "HGsLG4PnZ28L8A4R5nPqKgZd86zUUdmfnkTRnuFJ5dAX": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/GRT_wh.png",
         "symbol": "GRT"
@@ -2171,6 +2363,10 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HRQke5DKdDo3jV7wnomyiM8AA3EzkVnxMDdo2FQ5XUe1/logo.png",
         "symbol": "MIMet"
       },
+      "HUCyuyqESEUV4YWTKFvvB4JiQLqoovscTBpRXfGzW4Wx": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RPL_wh.png",
+        "symbol": "RPL"
+      },
       "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png",
         "symbol": "LDO"
@@ -2178,6 +2374,10 @@
       "HihxL2iM6L6P1oqoSeiixdJ3PhPYNxvSKH9A2dDqLVDH": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CREAM_wh.png",
         "symbol": "CREAM"
+      },
+      "HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/HXRO_wh.png",
+        "symbol": "HXRO"
       },
       "HysWcbHiYY9888pHbaqhwLYZQeZrcQMXKQWRqS7zcPK5": {
         "logo": "https://etherscan.io/token/images/axieinfinityshard_32.png",
@@ -2207,6 +2407,10 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png",
         "symbol": "mSOL"
       },
+      "nRtfwU9G82CSHhHGJNxFhtn7FLvWP2rqvQvje1WtL69": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CEL_wh.png",
+        "symbol": "CEL"
+      },
       "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG/logo.png",
         "symbol": "SRMet"
@@ -2220,6 +2424,18 @@
       "0x0316eb71485b0ab14103307bf65a021042c6d380": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8/logo.png",
         "symbol": "HBTC"
+      },
+      "0x08d967bb0134f2d07f7cfb6e246680c53927dd30": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATH_wh.png",
+        "symbol": "MATH"
+      },
+      "0x090185f2135308bad17527004364ebcc2d37e5f6": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SPELL_wh.png",
+        "symbol": "SPELL"
+      },
+      "0x0D8775F648430679A709E98d2b0Cb6250d2887EF": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BAT_wh.png",
+        "symbol": "BAT"
       },
       "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942": {
         "logo": "https://assets.coingecko.com/coins/images/878/thumb/decentraland-mana.png",
@@ -2237,6 +2453,14 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/1INCH_wh.png",
         "symbol": "1INCH"
       },
+      "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/GALA_wh.png",
+        "symbol": "GALA"
+      },
+      "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AUDIO_wh.png",
+        "symbol": "AUDIO"
+      },
       "0x1CDD2EaB61112697626F7b4bB0e23Da4FeBF7B7C": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
         "symbol": "USDTso"
@@ -2249,6 +2473,14 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F/logo.png",
         "symbol": "USDK"
       },
+      "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/KP3R_wh.png",
+        "symbol": "KP3R"
+      },
+      "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BNT_wh.png",
+        "symbol": "BNT"
+      },
       "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": {
         "logo": "https://etherscan.io/token/images/uniswap_32.png",
         "symbol": "UNI"
@@ -2257,17 +2489,41 @@
         "logo": "https://etherscan.io/token/images/wbtc_28.png?v=1",
         "symbol": "WBTC"
       },
+      "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/UFO_wh.png",
+        "symbol": "UFO"
+      },
+      "0x25f8087ead173b73d6e8b84329989a8eea16cf73": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/YGG_wh.png",
+        "symbol": "YGG"
+      },
+      "0x27702a26126e0B3702af63Ee09aC4d1A084EF628": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ALEPH_wh.png",
+        "symbol": "ALEPH"
+      },
       "0x2ba592f78db6436527729929aaf6c908497cb200": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CREAM_wh.png",
         "symbol": "CREAM"
+      },
+      "0x2e9d63788249371f1dfc918a52f8d799f4a38c94": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TOKE_wh.png",
+        "symbol": "TOKE"
       },
       "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct/logo.png",
         "symbol": "FXS"
       },
+      "0x3506424f91fd33084466f402d5d97f05f8e3b4af": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CHZ_wh.png",
+        "symbol": "CHZ"
+      },
       "0x3845badAde8e6dFF049820680d1F14bD3903a5d0": {
         "logo": "https://gemini.com/images/currencies/icons/default/sand.svg",
         "symbol": "SAND"
+      },
+      "0x3b484b82567a09e2588a13d54d032153f0c0aee0": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SOS_wh.png",
+        "symbol": "SOS"
       },
       "0x418D75f65a02b3D53B2418FB8E1fe493759c7605": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/logo.png",
@@ -2284,6 +2540,18 @@
       "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG/logo.png",
         "symbol": "SRMet"
+      },
+      "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/HXRO_wh.png",
+        "symbol": "HXRO"
+      },
+      "0x4e15361fd6b4bb609fa63c81a2be19d873717870": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FTMet_wh.png",
+        "symbol": "FTMet"
+      },
+      "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CVX_wh.png",
+        "symbol": "CVX"
       },
       "0x4fabb145d64652a948d72533023f6e7a623c7c53": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX/logo.png",
@@ -2305,6 +2573,10 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png",
         "symbol": "LDO"
       },
+      "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/OHM_wh.png",
+        "symbol": "OHM"
+      },
       "0x6b175474e89094c44da98b954eedeac495271d0f": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG/logo.png",
         "symbol": "DAI"
@@ -2321,6 +2593,18 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png",
         "symbol": "mSOL"
       },
+      "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ELON_wh.png",
+        "symbol": "ELON"
+      },
+      "0x767fe9edc9e0df98e07454847909b5e959d7ca0e": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ILV_wh.png",
+        "symbol": "ILV"
+      },
+      "0x7968bc6a03017eA2de509AAA816F163Db0f35148": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/HGET_wh.png",
+        "symbol": "HGET"
+      },
       "0x7B4B0B9b024109D182dCF3831222fbdA81369423": {
         "logo": "https://etherscan.io/token/images/binanceusd_32.png",
         "symbol": "BUSDbs"
@@ -2328,6 +2612,10 @@
       "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AAVE_wh.png",
         "symbol": "AAVE"
+      },
+      "0x7a58c0be72be218b41c608b7fe7c5bb630736c71": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PEOPLE_wh.png",
+        "symbol": "PEOPLE"
       },
       "0x7c8161545717a334f3196e765d9713f8042EF338": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S/logo.png",
@@ -2341,9 +2629,25 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
         "symbol": "USDCbs"
       },
+      "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATICet_wh.png",
+        "symbol": "MATICet"
+      },
+      "0x8290333cef9e6d528dd5618fb97a76f268f3edd4": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ANKR_wh.png",
+        "symbol": "ANKR"
+      },
       "0x853d955acef822db058eb8505911ed77f175b99e": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp/logo.png",
         "symbol": "FRAX"
+      },
+      "0x8564653879a18C560E7C0Ea0E084c516C62F5653": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/UBXT_wh.png",
+        "symbol": "UBXT"
+      },
+      "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/KEEP_wh.png",
+        "symbol": "KEEP"
       },
       "0x85f138bfEE4ef8e540890CFb48F620571d67Eda3": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE/logo.png",
@@ -2353,9 +2657,17 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RSR_wh.png",
         "symbol": "RSR"
       },
+      "0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SWAG_wh.png",
+        "symbol": "SWAG"
+      },
       "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G3h8NZgJozk9crme2me6sKDJuSQ12mNCtvC9NbSWqGuk/logo.png",
         "symbol": "AKRO"
+      },
+      "0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SXP_wh.png",
+        "symbol": "SXP"
       },
       "0x92d6c1e31e14520e676a687f0a93788b716beff5": {
         "logo": "https://etherscan.io/token/images/dydx2_32.png",
@@ -2385,6 +2697,10 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/logo.png",
         "symbol": "RAY"
       },
+      "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CRO_wh.png",
+        "symbol": "CRO"
+      },
       "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
         "symbol": "USDCet"
@@ -2393,33 +2709,93 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/logo.png",
         "symbol": "UST"
       },
+      "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CEL_wh.png",
+        "symbol": "CEL"
+      },
+      "0xac51066d7bec65dc4589368da368b212745d63e8": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ALICE_wh.png",
+        "symbol": "ALICE"
+      },
       "0xae7ab96520de3a18e5e111b5eaab095312d7fe84": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw5sE/logo.png",
         "symbol": "stETH"
+      },
+      "0xb1f66997a5760428d3a87d68b90bfe0ae64121cc": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LUA_wh.png",
+        "symbol": "LUA"
       },
       "0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png",
         "symbol": "ATLAS"
       },
+      "0xbC396689893D065F41bc2C6EcbeE5e0085233447": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PERP_wh.png",
+        "symbol": "PERP"
+      },
       "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b": {
         "logo": "https://etherscan.io/token/images/axieinfinityshard_32.png",
         "symbol": "AXSet"
+      },
+      "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LRC_wh.png",
+        "symbol": "LRC"
       },
       "0xbd31ea8212119f94a611fa969881cba3ea06fa3d": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W/logo.png",
         "symbol": "LUNA"
       },
+      "0xc00e94Cb662C3520282E6f5717214004A7f26888": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/COMP_wh.png",
+        "symbol": "COMP"
+      },
+      "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SNX_wh.png",
+        "symbol": "SNX"
+      },
       "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
         "symbol": "ETH"
+      },
+      "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ENS_wh.png",
+        "symbol": "ENS"
       },
       "0xc4e15973e6ff2a35cc804c2cf9d2a1b817a8b40f": {
         "logo": "https://etherscan.io/token/images/badgeribtc_32.png",
         "symbol": "ibBTC"
       },
+      "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TRIBE_wh.png",
+        "symbol": "TRIBE"
+      },
       "0xc944E90C64B2c07662A292be6244BDf05Cda44a7": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/GRT_wh.png",
         "symbol": "GRT"
+      },
+      "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SLP_wh.png",
+        "symbol": "SLP"
+      },
+      "0xd291e7a03283640fdc51b121ac401383a46cc623": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RGT_wh.png",
+        "symbol": "RGT"
+      },
+      "0xd33526068d116ce69f19a9ee46f0bd304f21a51f": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RPL_wh.png",
+        "symbol": "RPL"
+      },
+      "0xd46ba6d942050d489dbd938a2c909a5d5039a161": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AMPL_wh.png",
+        "symbol": "AMPL"
+      },
+      "0xd533a949740bb3306d119cc777fa900ba034cd52": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CRV_wh.png",
+        "symbol": "CRV"
+      },
+      "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/NXM_wh.png",
+        "symbol": "NXM"
       },
       "0xdac17f958d2ee523a2206206994597c13d831ec7": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
@@ -2428,6 +2804,30 @@
       "0xdf574c24545e5ffecb9a659c229253d4111d87e1": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw/logo.png",
         "symbol": "HUSD"
+      },
+      "0xe41d2489571d322189246dafa5ebde1f4699f498": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ZRX_wh.png",
+        "symbol": "ZRX"
+      },
+      "0xe66747a101bff2dba3697199dcce5b743b454759": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/GT_wh.png",
+        "symbol": "GT"
+      },
+      "0xf16e81dce15b08f326220742020379b855b87df9": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ICE_wh.png",
+        "symbol": "ICE"
+      },
+      "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ENJ_wh.png",
+        "symbol": "ENJ"
+      },
+      "0xf8C3527CC04340b208C854E985240c02F7B7793f": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FRONT_wh.png",
+        "symbol": "FRONT"
+      },
+      "0xff20817765cb7f73d4bde2e66e067e58d11095c2": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AMP_wh.png",
+        "symbol": "AMP"
       }
     },
     "3": {
@@ -2722,6 +3122,14 @@
       "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE/logo.png",
         "symbol": "AVAX"
+      },
+      "0x831753dd7087cac61ab5644b308642cc1c33dc13": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/QUICK_wh.png",
+        "symbol": "QUICK"
+      },
+      "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/DAIpo_wh.png",
+        "symbol": "DAIpo"
       },
       "0x9417669fBF23357D2774e9D421307bd5eA1006d2": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
