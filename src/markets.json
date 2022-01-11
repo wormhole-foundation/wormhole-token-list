@@ -1924,6 +1924,50 @@
     },
     "7": {
       "1": {
+        "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F": {
+          "markets": [
+            "orca",
+            "saber",
+            "tulip",
+            "port",
+            "sunny",
+            "francium",
+            "raydium",
+            "atrix",
+            "dexlab"
+          ]
+        },
+        "0x32847e63E99D3a044908763056e25694490082F8": {
+          "markets": [
+            "atrix"
+          ]
+        },
+        "0x366EF31C8dc715cbeff5fA54Ad106dC9c25C6153": {
+          "markets": [
+            "saber",
+            "mercurial"
+          ]
+        },
+        "0x3E62a9c3aF8b810dE79645C4579acC8f0d06a241": {
+          "markets": [
+            "saber"
+          ]
+        },
+        "0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823": {
+          "markets": [
+            "saber",
+            "mercurial",
+            "sunny",
+            "atrix"
+          ]
+        },
+        "0x4cA2A3De42eabC8fd8b0AC46127E64DB08b9150e": {
+          "markets": [
+            "saber",
+            "mercurial",
+            "sunny"
+          ]
+        },
         "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD": {
           "markets": [
             "saber",
@@ -1932,30 +1976,152 @@
             "sunny"
           ]
         },
+        "0xFffD69E757d8220CEA60dc80B9Fe1a30b58c94F3": {
+          "markets": [
+            "saber"
+          ]
+        },
+        "0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2": {
+          "markets": [
+            "saber",
+            "mercurial",
+            "jupiter",
+            "aldrin",
+            "sunny",
+            "apricot"
+          ]
+        },
+        "0xd79Ef9A91b56c690C7b80570a3c060678667f469": {
+          "markets": [
+            "mercurial",
+            "raydium",
+            "atrix",
+            "dexlab"
+          ]
+        },
         "0xdC19A122e268128B5eE20366299fc7b5b199C8e3": {
           "markets": [
             "saber",
             "mercurial",
             "jupiter",
+            "sunny"
+          ]
+        },
+        "0xf6568FD76f9fcD1f60f73b730F142853c5eF627E": {
+          "markets": [
+            "saber",
+            "mercurial",
             "sunny"
           ]
         }
       },
       "2": {
+        "0x1d1149a53deB36F2836Ae7877c9176413aDfA4A8": {
+          "markets": [
+            "uniswap"
+          ]
+        },
+        "0x24285C5232ce3858F00bacb950Cae1f59d1b2704": {
+          "markets": [
+            "uniswap"
+          ]
+        },
+        "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F": {
+          "markets": [
+            "curve"
+          ]
+        },
+        "0x3E62a9c3aF8b810dE79645C4579acC8f0d06a241": {
+          "markets": [
+            "uniswap"
+          ]
+        },
+        "0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823": {
+          "markets": [
+            "uniswap"
+          ]
+        },
         "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD": {
           "markets": [
             "curve"
+          ]
+        },
+        "0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2": {
+          "markets": [
+            "curve",
+            "uniswap"
+          ]
+        },
+        "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc": {
+          "markets": [
+            "uniswap"
           ]
         },
         "0xdC19A122e268128B5eE20366299fc7b5b199C8e3": {
           "markets": [
             "curve"
           ]
+        },
+        "0xf6568FD76f9fcD1f60f73b730F142853c5eF627E": {
+          "markets": [
+            "uniswap"
+          ]
         }
       },
-      "3": {},
+      "3": {
+        "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F": {
+          "markets": [
+            "loop"
+          ]
+        },
+        "0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823": {
+          "markets": [
+            "anchor"
+          ]
+        },
+        "0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2": {
+          "markets": [
+            "anchor"
+          ]
+        },
+        "0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb": {
+          "markets": [
+            "loop"
+          ]
+        }
+      },
       "4": {
+        "0x1d1149a53deB36F2836Ae7877c9176413aDfA4A8": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
+        "0x24285C5232ce3858F00bacb950Cae1f59d1b2704": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
+        "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
+        "0x3E62a9c3aF8b810dE79645C4579acC8f0d06a241": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
         "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
+        "0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
+        "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc": {
           "markets": [
             "pancakeswap"
           ]
@@ -1967,7 +2133,54 @@
         }
       },
       "5": {
+        "0x1d1149a53deB36F2836Ae7877c9176413aDfA4A8": {
+          "markets": [
+            "quickswap"
+          ]
+        },
+        "0x24285C5232ce3858F00bacb950Cae1f59d1b2704": {
+          "markets": [
+            "quickswap"
+          ]
+        },
+        "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F": {
+          "markets": [
+            "quickswap"
+          ]
+        },
+        "0x3E62a9c3aF8b810dE79645C4579acC8f0d06a241": {
+          "markets": [
+            "quickswap",
+            "sushi"
+          ]
+        },
+        "0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823": {
+          "markets": [
+            "quickswap"
+          ]
+        },
         "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD": {
+          "markets": [
+            "quickswap"
+          ]
+        },
+        "0xFffD69E757d8220CEA60dc80B9Fe1a30b58c94F3": {
+          "markets": [
+            "quickswap",
+            "sushi"
+          ]
+        },
+        "0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2": {
+          "markets": [
+            "quickswap"
+          ]
+        },
+        "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc": {
+          "markets": [
+            "quickswap"
+          ]
+        },
+        "0xd79Ef9A91b56c690C7b80570a3c060678667f469": {
           "markets": [
             "quickswap"
           ]
@@ -1976,9 +2189,25 @@
           "markets": [
             "quickswap"
           ]
+        },
+        "0xf6568FD76f9fcD1f60f73b730F142853c5eF627E": {
+          "markets": [
+            "quickswap"
+          ]
         }
       },
-      "6": {}
+      "6": {
+        "0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2": {
+          "markets": [
+            "traderjoe"
+          ]
+        },
+        "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc": {
+          "markets": [
+            "traderjoe"
+          ]
+        }
+      }
     }
   },
   "tokens": {
@@ -2070,6 +2299,10 @@
       "5hcdG6NjQwiNhVa9bcyaaDsCyA1muPQ6WRzQwHfgeeKo": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SWAG_wh.png",
         "symbol": "SWAG"
+      },
+      "5jcSAr8zge9gvX9tPoG6YDpM74EASn1kk9o11ZFxahDx": {
+        "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png",
+        "symbol": "ROSE"
       },
       "5njTmK53Ss5jkiHHZvzabVzZj6ztu6WYWpAPYgbVnbjs": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/QUICK_wh.png",
@@ -3033,6 +3266,10 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
         "symbol": "SBR"
       },
+      "0x7de61B4a5EFf7dDc7d249971f0b9f60727CA2bb8": {
+        "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png",
+        "symbol": "ROSE"
+      },
       "0x83850D97018f665EB746FBb8f18351e977d1b0D6": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png",
         "symbol": "ATLAS"
@@ -3205,6 +3442,10 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
         "symbol": "USDCet"
       },
+      "0xB40010E2C7113Ee3b396E3bB4a9e155547d0BA4e": {
+        "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png",
+        "symbol": "ROSE"
+      },
       "0xF0FF231e3F1A50F83136717f287ADAB862f89431": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
         "symbol": "USDTso"
@@ -3231,6 +3472,46 @@
       }
     },
     "7": {
+      "0x05CbE6319Dcc937BdbDf0931466F4fFd0d392B47": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+        "symbol": "USDCav"
+      },
+      "0x1d1149a53deB36F2836Ae7877c9176413aDfA4A8": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+        "symbol": "USDCso"
+      },
+      "0x24285C5232ce3858F00bacb950Cae1f59d1b2704": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+        "symbol": "USDTso"
+      },
+      "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
+        "symbol": "ETH"
+      },
+      "0x32847e63E99D3a044908763056e25694490082F8": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE/logo.png",
+        "symbol": "AVAX"
+      },
+      "0x366EF31C8dc715cbeff5fA54Ad106dC9c25C6153": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+        "symbol": "USDTbs"
+      },
+      "0x3E62a9c3aF8b810dE79645C4579acC8f0d06a241": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+        "symbol": "USDCpo"
+      },
+      "0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W/logo.png",
+        "symbol": "LUNA"
+      },
+      "0x4cA2A3De42eabC8fd8b0AC46127E64DB08b9150e": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+        "symbol": "USDCbs"
+      },
+      "0x5E11A4f64D3B9fA042dB9e1AA918F735038FdfD8": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png",
+        "symbol": "mSOL"
+      },
       "0xE4F5F5910b347A5AEFd12745a98eEEA97F69180e": {
         "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png",
         "symbol": "ROSE"
@@ -3239,9 +3520,33 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
         "symbol": "USDCet"
       },
+      "0xFffD69E757d8220CEA60dc80B9Fe1a30b58c94F3": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1/logo.png",
+        "symbol": "USDTpo"
+      },
+      "0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/logo.png",
+        "symbol": "UST"
+      },
+      "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+        "symbol": "SOL"
+      },
+      "0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb": {
+        "logo": "https://etherscan.io/token/images/wbtc_28.png?v=1",
+        "symbol": "WBTC"
+      },
+      "0xd79Ef9A91b56c690C7b80570a3c060678667f469": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/logo.png",
+        "symbol": "BNB"
+      },
       "0xdC19A122e268128B5eE20366299fc7b5b199C8e3": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
         "symbol": "USDTet"
+      },
+      "0xf6568FD76f9fcD1f60f73b730F142853c5eF627E": {
+        "logo": "https://etherscan.io/token/images/binanceusd_32.png",
+        "symbol": "BUSDbs"
       }
     }
   }
