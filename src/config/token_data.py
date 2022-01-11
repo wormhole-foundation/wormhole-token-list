@@ -65,7 +65,8 @@ TOKENS = {
         "terra": "terra190tqwgqx7s8qrknz6kckct7v607cu068gfujpk",
         "bsc": "0xfA54fF1a158B5189Ebba6ae130CEd6bbd3aEA76e",
         "avax": "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F",
-        "matic": "0xd93f7e271cb87c23aaa73edc008a79646d1f9912"
+        "matic": "0xd93f7e271cb87c23aaa73edc008a79646d1f9912",
+        "oasis": "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc",
       },
       "sourceAddress": "So11111111111111111111111111111111111111112",
       "coingeckoId": "solana",
@@ -97,7 +98,8 @@ TOKENS = {
         "terra": "terra1e6mq63y64zcxz8xyu5van4tgkhemj3r86yvgu4",
         "bsc": "0x91Ca579B0D47E5cfD5D0862c21D5659d39C8eCf0",
         "avax": "0x0950Fc1AD509358dAeaD5eB8020a3c7d8b43b9DA",
-        "matic": "0x576cf361711cd940cd9c397bb98c4c896cbd38de"
+        "matic": "0x576cf361711cd940cd9c397bb98c4c896cbd38de",
+        "oasis": "0x1d1149a53deB36F2836Ae7877c9176413aDfA4A8",
       },
       "sourceAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "coingeckoId": "usd-coin",
@@ -116,8 +118,9 @@ TOKENS = {
         "terra": "terra1hd9n65snaluvf7en0p4hqzse9eqecejz2k8rl5",
         "bsc": "0x49d5cC521F75e13fa8eb4E89E9D381352C897c96",
         "avax": "0xF0FF231e3F1A50F83136717f287ADAB862f89431",
-        "matic": "0x3553f861dec0257bada9f8ed268bf0d74e45e89c"
-      },
+        "matic": "0x3553f861dec0257bada9f8ed268bf0d74e45e89c",
+        "oasis": "0x24285C5232ce3858F00bacb950Cae1f59d1b2704",
+},
       "sourceAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "coingeckoId": "tether",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
@@ -132,7 +135,8 @@ TOKENS = {
       "name": "Marinade staked SOL (Wormhole)",
       "destAddresses": {
         "eth": "0x756bFb452cFE36A5Bc82e4F5f4261A89a18c242b",
-        "terra": "terra1qvlpf2v0zmru3gtex40sqq02wxp39x3cjh359y"
+        "terra": "terra1qvlpf2v0zmru3gtex40sqq02wxp39x3cjh359y",
+        "oasis": "0x5E11A4f64D3B9fA042dB9e1AA918F735038FdfD8",
       },
       "sourceAddress": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
       "coingeckoId": "marinade-staked-sol",
@@ -268,7 +272,8 @@ TOKENS = {
         "bsc": "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA",
         "terra": "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r",
         "matic": "0x11CD37bb86F65419713f30673A480EA33c826872",
-        "avax": "0x8b82A291F83ca07Af22120ABa21632088fC92931"
+        "avax": "0x8b82A291F83ca07Af22120ABa21632088fC92931",
+        "oasis": "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F",
       },
       "sourceAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "coingeckoId": "ether",
@@ -580,7 +585,8 @@ TOKENS = {
       "destAddresses": {
         "sol": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
         "terra": "terra1aa7upykmmqqc63l924l5qfap8mrmx5rfdm0v55",
-        "matic": "0x5D49c278340655B56609FdF8976eb0612aF3a0C3"
+        "matic": "0x5D49c278340655B56609FdF8976eb0612aF3a0C3",
+        "oasis": "0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb",
       },
       "sourceAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
       "coingeckoId": "wrapped-bitcoin",
@@ -663,7 +669,8 @@ TOKENS = {
         "eth": "0xa693B19d2931d498c5B318dF961919BB4aee87a5",
         "bsc": "0x3d4350cD54aeF9f9b2C29435e0fa809957B3F30a",
         "matic": "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
-        "avax": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1"
+        "avax": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
+        "oasis": "0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2",
       },
       "sourceAddress": "uusd",
       "coingeckoId": "terra-usd",
@@ -685,7 +692,8 @@ TOKENS = {
         "eth": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
         "bsc": "0x156ab3346823B651294766e23e6Cf87254d68962",
         "matic": "0x9cd6746665D9557e1B9a775819625711d0693439",
-        "avax": "0x70928E5B188def72817b7775F0BF6325968e563B"
+        "avax": "0x70928E5B188def72817b7775F0BF6325968e563B",
+        "oasis": "0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823",
       },
       "sourceAddress": "uluna",
       "coingeckoId": "terra-luna",
@@ -711,7 +719,8 @@ TOKENS = {
         "eth": "0x418D75f65a02b3D53B2418FB8E1fe493759c7605",
         "terra": "terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8",
         "avax": "0x442F7f22b1EE2c842bEAFf52880d4573E9201158",
-        "matic": "0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d"
+        "matic": "0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d",
+        "oasis": "0xd79Ef9A91b56c690C7b80570a3c060678667f469",
       },
       "sourceAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "coingeckoId": "binance-coin",
@@ -729,7 +738,8 @@ TOKENS = {
         "eth": "0x7B4B0B9b024109D182dCF3831222fbdA81369423",
         "terra": "terra1skjr69exm6v8zellgjpaa2emhwutrk5a6dz7dd",
         "avax": "0xA41a6c7E25DdD361343e8Cb8cFa579bbE5eEdb7a",
-        "matic": "0xa8d394fe7380b8ce6145d5f85e6ac22d4e91acde"
+        "matic": "0xa8d394fe7380b8ce6145d5f85e6ac22d4e91acde",
+        "oasis": "0xf6568FD76f9fcD1f60f73b730F142853c5eF627E",
       },
       "sourceAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
       "coingeckoId": "binance-usd",
@@ -760,7 +770,8 @@ TOKENS = {
         "sol": "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
         "eth": "0x7cd167B101D2808Cfd2C45d17b2E7EA9F46b74B6",
         "terra": "terra1yljlrxvkar0c6ujpvf8g57m5rpcwl7r032zyvu",
-        "avax": "0x6145E8a910aE937913426BF32De2b26039728ACF"
+        "avax": "0x6145E8a910aE937913426BF32De2b26039728ACF",
+        "oasis": "0x4cA2A3De42eabC8fd8b0AC46127E64DB08b9150e",
       },
       "sourceAddress": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
       "coingeckoId": "usd-coin",
@@ -776,7 +787,8 @@ TOKENS = {
         "sol": "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
         "eth": "0xDe60aDfDdAAbaAAC3dAFa57B26AcC91Cb63728c4",
         "terra": "terra1vlqeghv5mt5udh96kt5zxlh2wkh8q4kewkr0dd",
-        "avax": "0xA67BCC0D06d7d13A13A2AE30bF30f1B434f5a28B"
+        "avax": "0xA67BCC0D06d7d13A13A2AE30bF30f1B434f5a28B",
+        "oasis": "0x366EF31C8dc715cbeff5fA54Ad106dC9c25C6153",
       },
       "sourceAddress": "0x55d398326f99059fF775485246999027B3197955",
       "coingeckoId": "tether",
@@ -818,7 +830,8 @@ TOKENS = {
         "eth": "0x566957eF80F9fd5526CD2BEF8BE67035C0b81130",
         "terra": "terra1kkyyh7vganlpkj0gkc2rfmhy858ma4rtwywe3x",
         "bsc": "0x672147dD47674757C457eB155BAA382cc10705Dd",
-        "avax": "0x543672E9CBEC728CBBa9C3Ccd99ed80aC3607FA8"
+        "avax": "0x543672E9CBEC728CBBa9C3Ccd99ed80aC3607FA8",
+        "oasis": "0x3E62a9c3aF8b810dE79645C4579acC8f0d06a241",
       },
       "sourceAddress": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
       "coingeckoId": "usd-coin",
@@ -834,7 +847,8 @@ TOKENS = {
       "symbol": "USDTpo",
       "name": "Tether USD (PoS) (Wormhole from Polygon)",
       "destAddresses": {
-        "sol": "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1"
+        "sol": "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
+        "oasis": "0xFffD69E757d8220CEA60dc80B9Fe1a30b58c94F3",
       },
       "sourceAddress": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
       "coingeckoId": "tether",
@@ -858,7 +872,8 @@ TOKENS = {
         "eth": "0x85f138bfEE4ef8e540890CFb48F620571d67Eda3",
         "terra": "terra1hj8de24c3yqvcsv9r8chr03fzwsak3hgd8gv3m",
         "bsc": "0x96412902aa9aFf61E13f085e70D3152C6ef2a817",
-        "matic": "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a"
+        "matic": "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a",
+        "oasis": "0x32847e63E99D3a044908763056e25694490082F8",
       },
       "markets": {
         "sol": ["atrix"],
@@ -881,7 +896,8 @@ TOKENS = {
       "symbol": "USDCav",
       "name": "USD Coin (Wormhole from Avalanche)",
       "destAddresses": {
-        "terra": "terra1pvel56a2hs93yd429pzv9zp5aptcjg5ulhkz7w"
+        "terra": "terra1pvel56a2hs93yd429pzv9zp5aptcjg5ulhkz7w",
+        "oasis": "0x05CbE6319Dcc937BdbDf0931466F4fFd0d392B47",
       },
       "sourceAddress": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
       "coingeckoId": "usd-coin",
@@ -897,10 +913,11 @@ TOKENS = {
       "symbol": "ROSE",
       "name": "ROSE (Wormhole)",
       "destAddresses": {
-
+        "sol": "5jcSAr8zge9gvX9tPoG6YDpM74EASn1kk9o11ZFxahDx",
+        "avax": "0xB40010E2C7113Ee3b396E3bB4a9e155547d0BA4e",
+        "bsc": "0x7de61B4a5EFf7dDc7d249971f0b9f60727CA2bb8",
       },
       "markets": {
-
       },
       "sourceAddress": "0xE4F5F5910b347A5AEFd12745a98eEEA97F69180e",
       "coingeckoId": "oasis-network",
