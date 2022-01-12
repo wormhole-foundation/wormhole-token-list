@@ -50,6 +50,10 @@ MARKETS = {
     "name": "Raydium",
     "link": "https://raydium.io/swap/"
   },
+  "solend": {
+    "name": "Solend",
+    "link": "https://solend.fi/dashboard"
+  },
   "sunny": {
     "name": "Sunny",
     "link": "https://app.sunny.ag/"

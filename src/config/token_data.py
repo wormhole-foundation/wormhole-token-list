@@ -280,7 +280,7 @@ TOKENS = {
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
       "markets": {
         "eth": ["curve"],
-        "sol": ["orca", "saber", "tulip", "port", "sunny", "francium", "raydium", "atrix", "dexlab"],
+        "sol": ["solend", "orca", "saber", "tulip", "port", "sunny", "francium", "raydium", "atrix", "dexlab"],
         "terra": ["loop"],
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
@@ -678,7 +678,7 @@ TOKENS = {
       "markets": {
         "eth": ["curve", "uniswap"],
         "terra": ["anchor"],
-        "sol": ["saber", "mercurial", "jupiter", "aldrin", "sunny", "apricot"],
+        "sol": ["saber", "mercurial", "jupiter", "aldrin", "solend", "sunny", "apricot"],
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
         "avax": ["traderjoe"],
