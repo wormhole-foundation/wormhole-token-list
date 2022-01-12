@@ -68,6 +68,10 @@
       "link": "https://www.saber.so/",
       "name": "Saber"
     },
+    "solend": {
+      "link": "https://solend.fi/dashboard",
+      "name": "Solend"
+    },
     "sunny": {
       "link": "https://app.sunny.ag/",
       "name": "Sunny"
@@ -554,6 +558,7 @@
             "mercurial",
             "jupiter",
             "aldrin",
+            "solend",
             "sunny",
             "apricot"
           ]
@@ -574,6 +579,7 @@
         },
         "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
           "markets": [
+            "solend",
             "orca",
             "saber",
             "tulip",
@@ -782,6 +788,7 @@
         },
         "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r": {
           "markets": [
+            "solend",
             "orca",
             "saber",
             "tulip",
@@ -897,6 +904,7 @@
             "mercurial",
             "jupiter",
             "aldrin",
+            "solend",
             "sunny",
             "apricot"
           ]
@@ -1144,6 +1152,7 @@
             "mercurial",
             "jupiter",
             "aldrin",
+            "solend",
             "sunny",
             "apricot"
           ]
@@ -1160,6 +1169,7 @@
         },
         "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA": {
           "markets": [
+            "solend",
             "orca",
             "saber",
             "tulip",
@@ -1436,6 +1446,7 @@
         },
         "0x11CD37bb86F65419713f30673A480EA33c826872": {
           "markets": [
+            "solend",
             "orca",
             "saber",
             "tulip",
@@ -1487,6 +1498,7 @@
             "mercurial",
             "jupiter",
             "aldrin",
+            "solend",
             "sunny",
             "apricot"
           ]
@@ -1696,6 +1708,7 @@
         },
         "0x8b82A291F83ca07Af22120ABa21632088fC92931": {
           "markets": [
+            "solend",
             "orca",
             "saber",
             "tulip",
@@ -1739,6 +1752,7 @@
             "mercurial",
             "jupiter",
             "aldrin",
+            "solend",
             "sunny",
             "apricot"
           ]
@@ -1926,6 +1940,7 @@
       "1": {
         "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F": {
           "markets": [
+            "solend",
             "orca",
             "saber",
             "tulip",
@@ -1987,6 +2002,7 @@
             "mercurial",
             "jupiter",
             "aldrin",
+            "solend",
             "sunny",
             "apricot"
           ]
