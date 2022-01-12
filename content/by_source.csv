@@ -42,7 +42,7 @@ eth,FTT,FTX Token (Wormhole),0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9,ftx-toke
 eth,FXS,Frax Share (Wormhole),0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0,frax-share,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct/logo.png,6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct,,,,,,
 eth,GALA,Gala (Wormhole),0x15d4c048f83bd7e37d49ea4c83a07267ec4203da,gala,,AuGz22orMknxQHTVGwAu7e3dJikTJKgcjFwMNDikEKmF,,,,,,
 eth,GRT,Graph Token (Wormhole from Ethereum),0xc944E90C64B2c07662A292be6244BDf05Cda44a7,the-graph,,HGsLG4PnZ28L8A4R5nPqKgZd86zUUdmfnkTRnuFJ5dAX,,,,,,
-eth,GT,GateChainToken (Wormhole),0xe66747a101bff2dba3697199dcce5b743b454759,gatetokenGT,,ABAq2R9gSpDDGguQxBk4u13s4ZYW6zbwKVBx15mCMG8,,,,,,
+eth,GT,GateChainToken (Wormhole),0xe66747a101bff2dba3697199dcce5b743b454759,gatetoken,,ABAq2R9gSpDDGguQxBk4u13s4ZYW6zbwKVBx15mCMG8,,,,,,
 eth,HBTC,Huobi BTC (Wormhole),0x0316eb71485b0ab14103307bf65a021042c6d380,huobi-btc,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8/logo.png,7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8,,,,,,
 eth,HGET,Hedget (Wormhole),0x7968bc6a03017eA2de509AAA816F163Db0f35148,hedget,,2ueY1bLcPHfuFzEJq7yN1V2Wrpu8nkun9xG2TVCE1mhD,,,,,,
 eth,HUSD,HUSD Stablecoin (Wormhole),0xdf574c24545e5ffecb9a659c229253d4111d87e1,husd,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw/logo.png,7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw,,,,,,

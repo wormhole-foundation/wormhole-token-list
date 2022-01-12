@@ -105,7 +105,8 @@
     "origin": "eth",
     "sourceAddress": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
     "sourceContract": "https://etherscan.io/address/0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
-    "coingeckoId": "axie-infinity"
+    "coingeckoId": "axie-infinity",
+    "serumV3Usdc": "HZCheduA4nsSuQpVww1TiyKZpXSAitqaXxjBD2ymg22X"
   },
   "BAT": {
     "symbol": "BAT",
@@ -257,7 +258,8 @@
     "origin": "eth",
     "sourceAddress": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
     "sourceContract": "https://etherscan.io/address/0x92d6c1e31e14520e676a687f0a93788b716beff5",
-    "coingeckoId": "dydx"
+    "coingeckoId": "dydx",
+    "serumV3Usdc": "GNmTGd6iQvQApXgsyvHepDpCnvdRPiWzRr8kzFEMMNKN"
   },
   "ELON": {
     "symbol": "ELON",
@@ -374,7 +376,7 @@
     "origin": "eth",
     "sourceAddress": "0xe66747a101bff2dba3697199dcce5b743b454759",
     "sourceContract": "https://etherscan.io/address/0xe66747a101bff2dba3697199dcce5b743b454759",
-    "coingeckoId": "gatetokenGT"
+    "coingeckoId": "gatetoken"
   },
   "HBTC": {
     "symbol": "HBTC",
@@ -517,7 +519,8 @@
     "origin": "eth",
     "sourceAddress": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
     "sourceContract": "https://etherscan.io/address/0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
-    "coingeckoId": "decentraland"
+    "coingeckoId": "decentraland",
+    "serumV3Usdc": "7GSn6KQRasgPQCHwCbuDjDCsyZ3cxVHKWFmBXzJUUW8P"
   },
   "MATH": {
     "symbol": "MATH",
@@ -594,7 +597,8 @@
     "origin": "eth",
     "sourceAddress": "0x7a58c0be72be218b41c608b7fe7c5bb630736c71",
     "sourceContract": "https://etherscan.io/address/0x7a58c0be72be218b41c608b7fe7c5bb630736c71",
-    "coingeckoId": "constitutiondao"
+    "coingeckoId": "constitutiondao",
+    "serumV3Usdc": "GsWEL352sYgQC3uAVKgEQz2TtA1RA5cgNwUQahyzwJyz"
   },
   "PERP": {
     "symbol": "PERP",
@@ -625,6 +629,16 @@
     "sourceContract": "https://etherscan.io/address/0xd291e7a03283640fdc51b121ac401383a46cc623",
     "coingeckoId": "rari-governance-token"
   },
+  "ROSE": {
+    "symbol": "ROSE",
+    "name": "ROSE (Wormhole)",
+    "address": "5jcSAr8zge9gvX9tPoG6YDpM74EASn1kk9o11ZFxahDx",
+    "origin": "oasis",
+    "sourceAddress": "0x5C78A65AD6D0eC6618788b6E8e211F31729111Ca",
+    "sourceContract": "https://explorer.oasis.updev.si/address/0x5C78A65AD6D0eC6618788b6E8e211F31729111Ca",
+    "coingeckoId": "oasis-network",
+    "serumV3Usdc": "2NXBNEJedqYEaQjRyjQzxx7kLkrAkFBknviGPgWmSMcr"
+  },
   "RPL": {
     "symbol": "RPL",
     "name": "Rocket Pool (Wormhole)",
@@ -645,6 +659,16 @@
     "serumV3Usdc": "GqgkxEswUwHBntmzb5GpUhKrVpJhzreSruZycuJwdNwB",
     "serumV3Usdt": "2j2or38X2FUbpkK4gkgvjDtqN3ibkKw3v5yn7o2gHqPc"
   },
+  "SAND": {
+    "symbol": "SAND",
+    "name": "Sandbox (Wormhole)",
+    "address": "49c7WuCZkQgc3M4qH8WuEUNXfgwupZf1xqWkDQ7gjRGt",
+    "origin": "eth",
+    "sourceAddress": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+    "sourceContract": "https://etherscan.io/address/0x3845badade8e6dff049820680d1f14bd3903a5d0",
+    "coingeckoId": "the-sandbox",
+    "serumV3Usdc": "3FE2g3cadTJjN3C7gNRavwnv7Yh9Midq7h9KgTVUE7tR"
+  },
   "SHIB": {
     "symbol": "SHIB",
     "name": "SHIBA INU (Wormhole)",
@@ -652,7 +676,8 @@
     "origin": "eth",
     "sourceAddress": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
     "sourceContract": "https://etherscan.io/address/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "coingeckoId": "shiba-inu"
+    "coingeckoId": "shiba-inu",
+    "serumV3Usdc": "Er7Jp4PADPVHifykFwbVoHdkL1RtZSsx9zGJrPJTrCgW"
   },
   "SLP": {
     "symbol": "SLP",
@@ -850,7 +875,8 @@
     "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
     "origin": "terra",
     "sourceAddress": "uusd",
-    "coingeckoId": "terra-usd"
+    "coingeckoId": "terra-usd",
+    "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK"
   },
   "WBTC": {
     "symbol": "WBTC",
