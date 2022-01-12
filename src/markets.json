@@ -2316,10 +2316,6 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SWAG_wh.png",
         "symbol": "SWAG"
       },
-      "5jcSAr8zge9gvX9tPoG6YDpM74EASn1kk9o11ZFxahDx": {
-        "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png",
-        "symbol": "ROSE"
-      },
       "5njTmK53Ss5jkiHHZvzabVzZj6ztu6WYWpAPYgbVnbjs": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/QUICK_wh.png",
         "symbol": "QUICK"
@@ -2640,6 +2636,10 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE/logo.png",
         "symbol": "AVAX"
       },
+      "S3SQfD6RheMXQ3EEYn1Z5sJsbtwfXdt7tSAVXPQFtYo": {
+        "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png",
+        "symbol": "ROSE"
+      },
       "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG/logo.png",
         "symbol": "SRMso"
@@ -2745,6 +2745,10 @@
       "0x25f8087ead173b73d6e8b84329989a8eea16cf73": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/YGG_wh.png",
         "symbol": "YGG"
+      },
+      "0x26B80FBfC01b71495f477d5237071242e0d959d7": {
+        "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png",
+        "symbol": "ROSE"
       },
       "0x27702a26126e0B3702af63Ee09aC4d1A084EF628": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ALEPH_wh.png",
@@ -3278,13 +3282,13 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
         "symbol": "USDCpo"
       },
+      "0x6c6D604D3f07aBE287C1A3dF0281e999A83495C0": {
+        "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png",
+        "symbol": "ROSE"
+      },
       "0x75344E5693ed5ecAdF4f292fFeb866c2cF8afCF1": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
         "symbol": "SBR"
-      },
-      "0x7de61B4a5EFf7dDc7d249971f0b9f60727CA2bb8": {
-        "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png",
-        "symbol": "ROSE"
       },
       "0x83850D97018f665EB746FBb8f18351e977d1b0D6": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png",
@@ -3418,6 +3422,10 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
         "symbol": "USDCso"
       },
+      "0x12AF5C1a232675f62F405b5812A80e7a6F75D746": {
+        "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png",
+        "symbol": "ROSE"
+      },
       "0x442F7f22b1EE2c842bEAFf52880d4573E9201158": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/logo.png",
         "symbol": "BNB"
@@ -3458,10 +3466,6 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
         "symbol": "USDCet"
       },
-      "0xB40010E2C7113Ee3b396E3bB4a9e155547d0BA4e": {
-        "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png",
-        "symbol": "ROSE"
-      },
       "0xF0FF231e3F1A50F83136717f287ADAB862f89431": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
         "symbol": "USDTso"
@@ -3496,6 +3500,10 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
         "symbol": "USDCso"
       },
+      "0x21C718C22D52d0F3a789b752D4c2fD5908a8A733": {
+        "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png",
+        "symbol": "ROSE"
+      },
       "0x24285C5232ce3858F00bacb950Cae1f59d1b2704": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
         "symbol": "USDTso"
@@ -3527,10 +3535,6 @@
       "0x5E11A4f64D3B9fA042dB9e1AA918F735038FdfD8": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png",
         "symbol": "mSOL"
-      },
-      "0xE4F5F5910b347A5AEFd12745a98eEEA97F69180e": {
-        "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png",
-        "symbol": "ROSE"
       },
       "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",

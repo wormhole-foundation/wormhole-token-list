@@ -913,13 +913,14 @@ TOKENS = {
       "symbol": "ROSE",
       "name": "ROSE (Wormhole)",
       "destAddresses": {
-        "sol": "5jcSAr8zge9gvX9tPoG6YDpM74EASn1kk9o11ZFxahDx",
-        "avax": "0xB40010E2C7113Ee3b396E3bB4a9e155547d0BA4e",
-        "bsc": "0x7de61B4a5EFf7dDc7d249971f0b9f60727CA2bb8",
+        "sol": "S3SQfD6RheMXQ3EEYn1Z5sJsbtwfXdt7tSAVXPQFtYo",
+        "eth": "0x26B80FBfC01b71495f477d5237071242e0d959d7",
+        "bsc": "0x6c6D604D3f07aBE287C1A3dF0281e999A83495C0",
+        "avax": "0x12AF5C1a232675f62F405b5812A80e7a6F75D746",
       },
       "markets": {
       },
-      "sourceAddress": "0xE4F5F5910b347A5AEFd12745a98eEEA97F69180e",
+      "sourceAddress": "0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",
       "coingeckoId": "oasis-network",
       "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png"
     }

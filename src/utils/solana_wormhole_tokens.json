@@ -632,12 +632,12 @@
   "ROSE": {
     "symbol": "ROSE",
     "name": "ROSE (Wormhole)",
-    "address": "5jcSAr8zge9gvX9tPoG6YDpM74EASn1kk9o11ZFxahDx",
+    "address": "S3SQfD6RheMXQ3EEYn1Z5sJsbtwfXdt7tSAVXPQFtYo",
     "origin": "oasis",
-    "sourceAddress": "0x5C78A65AD6D0eC6618788b6E8e211F31729111Ca",
-    "sourceContract": "https://explorer.oasis.updev.si/address/0x5C78A65AD6D0eC6618788b6E8e211F31729111Ca",
+    "sourceAddress": "0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",
+    "sourceContract": "https://explorer.oasis.updev.si/address/0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",
     "coingeckoId": "oasis-network",
-    "serumV3Usdc": "2NXBNEJedqYEaQjRyjQzxx7kLkrAkFBknviGPgWmSMcr"
+    "serumV3Usdc": "EybAYkmRKCyD4w8AErTG1bqmnvT85LFuPQPMCc8J3yD"
   },
   "RPL": {
     "symbol": "RPL",
