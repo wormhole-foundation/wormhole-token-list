@@ -470,7 +470,7 @@
     "origin": "eth",
     "sourceAddress": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
     "sourceContract": "https://etherscan.io/address/0x5a98fcbea516cf06857215779fd812ca3bef1b32",
-    "coingeckoId": "lido"
+    "coingeckoId": "lido-dao"
   },
   "LINK": {
     "symbol": "LINK",
@@ -875,7 +875,7 @@
     "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
     "origin": "terra",
     "sourceAddress": "uusd",
-    "coingeckoId": "terra-usd",
+    "coingeckoId": "terrausd",
     "serumV3Usdc": "8WmckvEoVGZvtN8knjdzFGbWJ3Sr4BcWdyzSYuCrD4YK"
   },
   "WBTC": {

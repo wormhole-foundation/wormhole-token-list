@@ -35,7 +35,8 @@ for idx, token_data in enumerate(token_list):
     continue
   if symbol in IGNORE:
     continue
-
+  if name.startswith('Saber') and 'decimals' in name:
+    continue
   bc = token_data['extensions']['bridgeContract']
   is_eth = bc == "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585"
   is_bsc = bc == "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7"
