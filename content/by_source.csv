@@ -53,7 +53,7 @@ eth,KEEP,Keep Network (Wormhole),0x85eee30c52b0b379b046fb0f85f4f3dc3009afec,keep
 eth,KP3R,Keep3rV1 (Wormhole),0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44,keep3rv1,,3a2VW9t5N6p4baMW3M6yLH1UJ9imMt7VsyUk6ouXPVLq,,,,,,
 eth,LDO,Lido DAO (Wormhole),0x5a98fcbea516cf06857215779fd812ca3bef1b32,lido-dao,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png,HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p,,0x986854779804799C1d68867F5E03e601E781e41b,terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z,,,
 eth,LINK,Chainlink (Wormhole),0x514910771af9ca656af840dff83e8264ecf986ca,chainlink,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX/logo.png,2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX,,,terra12dfv3f0e6m22z6cnhfn3nxk2en3z3zeqy6ctym,,,
-eth,LRC,LoopringCoin V2 (Wormhole),0xbbbbca6a901c926f240b89eacb641d8aec7aeafd,loopring,,HCTVFTzHL21a1dPzKxAUeWwqbE8QMUyvgChFDL4XYoi1,,,,,,
+eth,LRC,Loopring (Wormhole),0xbbbbca6a901c926f240b89eacb641d8aec7aeafd,loopring,,HCTVFTzHL21a1dPzKxAUeWwqbE8QMUyvgChFDL4XYoi1,,,,,,
 eth,LUA,LuaToken (Wormhole),0xb1f66997a5760428d3a87d68b90bfe0ae64121cc,luaswap,,5Wc4U1ZoQRzF4tPdqKQzBwRSjYe8vEf3EvZMuXgtKUW6,,,,,,
 eth,MANA,Decentraland (Wormhole),0x0F5D2fB29fb7d3CFeE444a200298f468908cC942,decentraland,https://assets.coingecko.com/coins/images/878/thumb/decentraland-mana.png,7dgHoN8wBZCc5wbnQ2C47TDnBMAxG4Q5L3KjP67z8kNi,,,,,,
 eth,MATH,MATH Token (Wormhole),0x08d967bb0134f2d07f7cfb6e246680c53927dd30,math,,CaGa7pddFXS65Gznqwp42kBhkJQdceoFVT7AQYo8Jr8Q,,,,,,
@@ -88,7 +88,7 @@ eth,USDK,USDK (Wormhole),0x1c48f86ae57291f7686349f12601910bd8d470bb,usdk,https:/
 eth,USDTet,Tether USD (Wormhole from Ethereum),0xdac17f958d2ee523a2206206994597c13d831ec7,tether,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg,Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1,,0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc,terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva,0x9417669fBF23357D2774e9D421307bd5eA1006d2,,0xdC19A122e268128B5eE20366299fc7b5b199C8e3
 eth,WBTC,Wrapped BTC (Wormhole),0x2260fac5e5542a773aa44fbcfedf7c193bc2c599,wrapped-bitcoin,https://etherscan.io/token/images/wbtc_28.png?v=1,3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh,,,terra1aa7upykmmqqc63l924l5qfap8mrmx5rfdm0v55,0x5D49c278340655B56609FdF8976eb0612aF3a0C3,,0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb
 eth,YFI,yearn.finance (Wormhole from Ethereum),0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e,yearn-finance,,BXZX2JRJFjvKazM1ibeDFxgAngKExb74MRXzXKvgikxX,,,,,,
-eth,YGG,Yield Guild Games Token (Wormhole),0x25f8087ead173b73d6e8b84329989a8eea16cf73,yield-guild-games,,EzZp7LRN1xwu3QsB2RJRrWwEGjJGsuWzuMCeQDB3NSPK,,,,,,
+eth,YGG,Yield Guild Games (Wormhole),0x25f8087ead173b73d6e8b84329989a8eea16cf73,yield-guild-games,,EzZp7LRN1xwu3QsB2RJRrWwEGjJGsuWzuMCeQDB3NSPK,,,,,,
 eth,ZRX,ZRX (Wormhole),0xe41d2489571d322189246dafa5ebde1f4699f498,0x,,GJa1VeEYLTRoHbaeqcxfzHmjGCGtZGF3CUqxv9znZZAY,,,,,,
 eth,agEUR,agEUR (Wormhole),0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8,ageur,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1/logo.svg,CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1,,,,,,
 eth,bETH,Lido bETH (Wormhole),0x707f9118e33a9b8998bea41dd0d46f38bb963fc8,anchor-beth-token,https://static.lido.fi/bETH/bETH.png,,,,terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz,,,

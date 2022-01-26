@@ -164,6 +164,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/COMP
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CREAM_wh.png
 ```
 
+### CRV
+![CRV](CRV_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CRV_wh.png
+```
+
 ### DAI
 ![DAI](DAI_wh.png)
 
@@ -290,6 +297,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LDO_
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LINK_wh.png
 ```
 
+### LRC
+![LRC](LRC_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LRC_wh.png
+```
+
 ### MANA
 ![MANA](MANA_wh.png)
 
@@ -337,6 +351,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PAXG
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PERP_wh.png
+```
+
+### RGT
+![RGT](RGT_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RGT_wh.png
 ```
 
 ### RSR
@@ -388,6 +409,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SXP_
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SUSHI_wh.png
 ```
 
+### TRIBE
+![TRIBE](TRIBE_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TRIBE_wh.png
+```
+
 ### UNI
 ![UNI](UNI_wh.png)
 
@@ -428,6 +456,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WBTC
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/YFI_wh.png
+```
+
+### YGG
+![YGG](YGG_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/YGG_wh.png
 ```
 
 ### agEUR
