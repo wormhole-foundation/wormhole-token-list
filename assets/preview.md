@@ -129,6 +129,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AXSe
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BAT_wh.png
 ```
 
+### BNT
+![BNT](BNT_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BNT_wh.png
+```
+
 ### BUSDet
 ![BUSDet](BUSDet_wh.png)
 
@@ -164,11 +171,25 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/COMP
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CREAM_wh.png
 ```
 
+### CRO
+![CRO](CRO_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CRO_wh.png
+```
+
 ### CRV
 ![CRV](CRV_wh.png)
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CRV_wh.png
+```
+
+### CVX
+![CVX](CVX_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CVX_wh.png
 ```
 
 ### DAI
@@ -276,6 +297,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/HUSD
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ICE_wh.png
 ```
 
+### ILV
+![ILV](ILV_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ILV_wh.png
+```
+
 ### KEEP
 ![KEEP](KEEP_wh.png)
 
@@ -381,6 +409,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SAND
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SHIB_wh.png
 ```
 
+### SLP
+![SLP](SLP_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SLP_wh.png
+```
+
 ### SPELL
 ![SPELL](SPELL_wh.png)
 
@@ -414,6 +449,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SUSH
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TRIBE_wh.png
+```
+
+### UFO
+![UFO](UFO_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/UFO_wh.png
 ```
 
 ### UNI

@@ -255,6 +255,17 @@ TOKENS = {
       "markets": {
       }
     },
+    "BNT": {
+      "symbol": "BNT",
+      "name": "Bancor Network Token (Wormhole)",
+      "destAddresses": {
+        "sol": "EDVVEYW4fPJ6vKw5LZXRGUSPzxoHrv6eWvTqhCr8oShs",
+      },
+      "sourceAddress": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+      "coingeckoId": "bancor-network",
+      "markets": {
+      },
+    },
     "BUSDet": {
       "symbol": "BUSDet",
       "name": "Binance USD (Wormhole from Ethereum)",
@@ -316,6 +327,17 @@ TOKENS = {
         "sol": ["dexlab"],
       },
     },
+    "CRO": {
+      "symbol": "CRO",
+      "name": "Crypto.com Coin (Wormhole)",
+      "destAddresses": {
+        "sol": "DvjMYMVeXgKxaixGKpzQThLoG98nc7HSU7eanzsdCboA",
+      },
+      "sourceAddress": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+      "coingeckoId": "crypto-com-coin",
+      "markets": {
+      },
+    },
     "CRV": {
       "symbol": "CRV",
       "name": "Curve DAO Token (Wormhole)",
@@ -324,6 +346,17 @@ TOKENS = {
       },
       "sourceAddress": "0xd533a949740bb3306d119cc777fa900ba034cd52",
       "coingeckoId": "curve-dao-token",
+      "markets": {
+      },
+    },
+    "CVX": {
+      "symbol": "CVX",
+      "name": "Convex Finance (Wormhole)",
+      "destAddresses": {
+        "sol": "BLvmrccP4g1B6SpiVvmQrLUDya1nZ4B2D1nm9jzKF7sz",
+      },
+      "sourceAddress": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+      "coingeckoId": "convex-finance",
       "markets": {
       },
     },
@@ -521,6 +554,15 @@ TOKENS = {
       "sourceAddress": "0xf16e81dce15b08f326220742020379b855b87df9",
       "coingeckoId": "popsicle-finance"
     },
+    "ILV": {
+      "symbol": "ILV",
+      "name": "Illuvium (Wormhole)",
+      "destAddresses": {
+        "sol": "8UJbtpsEubDVkY53rk7d61hNYKkvouicczB2XmuwiG4g",
+      },
+      "sourceAddress": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+      "coingeckoId": "illuvium"
+    },
     "KEEP": {
       "symbol": "KEEP",
       "name": "Keep Network (Wormhole)",
@@ -697,6 +739,17 @@ TOKENS = {
         "sol": ["raydium", "francium"],
       }
     },
+    "SLP": {
+      "symbol": "SLP",
+      "name": "Smooth Love Potion (Wormhole)",
+      "destAddresses": {
+        "sol": "4hpngEp1v3CXpeKB81Gw4sv7YvwUVRKvY3SGag9ND8Q4",
+      },
+      "sourceAddress": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25",
+      "coingeckoId": "smooth-love-potion",
+      "markets": {
+      },
+    },
     "SPELL": {
       "symbol": "SPELL",
       "name": "Spell Token (Wormhole)",
@@ -755,6 +808,17 @@ TOKENS = {
       },
       "sourceAddress": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
       "coingeckoId": "tribe",
+      "markets": {
+      },
+    },
+    "UFO": {
+      "symbol": "UFO",
+      "name": "UFO Gaming (Wormhole)",
+      "destAddresses": {
+        "sol": "GWdkYFnXnSJAsCBvmsqFLiPPe2tpvXynZcJdxf11Fu3U",
+      },
+      "sourceAddress": "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b",
+      "coingeckoId": "ufo-gaming",
       "markets": {
       },
     },

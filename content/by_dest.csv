@@ -15,12 +15,15 @@ sol,ALICE,My Neighbor Alice (Wormhole),9ARQsBfAn65q522cEqSJuse3cLhA31jgWDBGQHeiq
 sol,AUDIO,Audius (Wormhole),9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM,eth,0x18aaa7115705e8be94bffebde57af9bfc265b998,audius,,,
 sol,AXSet,Axie Infinity Shard (Wormhole from Ethereum),HysWcbHiYY9888pHbaqhwLYZQeZrcQMXKQWRqS7zcPK5,eth,0xbb0e17ef65f82ab018d8edd776e8dd940327b28b,axie-infinity,https://etherscan.io/token/images/axieinfinityshard_32.png,HZCheduA4nsSuQpVww1TiyKZpXSAitqaXxjBD2ymg22X,
 sol,BAT,Basic Attention Token (Wormhole),EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz,eth,0x0d8775f648430679a709e98d2b0cb6250d2887ef,basic-attention-token,,,
+sol,BNT,Bancor Network Token (Wormhole),EDVVEYW4fPJ6vKw5LZXRGUSPzxoHrv6eWvTqhCr8oShs,eth,0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c,bancor-network,,,
 sol,BUSDet,Binance USD (Wormhole from Ethereum),33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX,eth,0x4fabb145d64652a948d72533023f6e7a623c7c53,binance-usd,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX/logo.png,,
 sol,CEL,Celsius (Wormhole),nRtfwU9G82CSHhHGJNxFhtn7FLvWP2rqvQvje1WtL69,eth,0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d,celsius-network,,79ESpYSb2hM14KTRXPZUwDkxUGC5irE2esd1vxdXfnZz,J9ww1yufRNDDbUbDXmew2mW2ozkx7cme7dMvKjMQVHrL
 sol,CHZ,Chiliz (Wormhole),5TtSKAamFq88grN1QGrEaZ1AjjyciqnCya1aiMhAgFvG,eth,0x3506424f91fd33084466f402d5d97f05f8e3b4af,chiliz,,,
 sol,COMP,Compound (Wormhole),AwEauVaTMQRB71WeDnwf1DWSBxaMKjEPuxyLr1uixFom,eth,0xc00e94cb662c3520282e6f5717214004a7f26888,compound,,CU5L8JC83hyYZdf1phzy6a7X58eTtPjs7mHL3QKCcLfh,9gA6T3HRCMTVTULte5pJsXjMDUGRtygTKLbMny6eRcyM
 sol,CREAM,Cream (Wormhole),HihxL2iM6L6P1oqoSeiixdJ3PhPYNxvSKH9A2dDqLVDH,eth,0x2ba592f78db6436527729929aaf6c908497cb200,cream,,4pdQ2D4gehMhGu4z9jeQbEPUFbTxB5qcPr3zCynjJGyp,6fspxMfBmYFTGFBDN5MU33A55i2MkGr7eSjBLPCAU6y9
+sol,CRO,Crypto.com Coin (Wormhole),DvjMYMVeXgKxaixGKpzQThLoG98nc7HSU7eanzsdCboA,eth,0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b,crypto-com-coin,,,
 sol,CRV,Curve DAO Token (Wormhole),7gjNiPun3AzEazTZoFEjZgcBMeuaXdpjHq2raZTmTrfs,eth,0xd533a949740bb3306d119cc777fa900ba034cd52,curve-dao-token,,,
+sol,CVX,Convex Finance (Wormhole),BLvmrccP4g1B6SpiVvmQrLUDya1nZ4B2D1nm9jzKF7sz,eth,0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b,convex-finance,,,
 sol,DAI,DAI (Wormhole),EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o,eth,0x6b175474e89094c44da98b954eedeac495271d0f,dai,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG/logo.png,,
 sol,DYDX,dYdX (Wormhole),4Hx6Bj56eGyw8EJrrheM6LBQAvVYRikYCWsALeTrwyRU,eth,0x92d6c1e31e14520e676a687f0a93788b716beff5,dydx,https://etherscan.io/token/images/dydx2_32.png,GNmTGd6iQvQApXgsyvHepDpCnvdRPiWzRr8kzFEMMNKN,
 sol,ELON,Dogelon Mars (Wormhole),6nKUU36URHkewHg5GGGAgxs6szkE4VTioGUT5txQqJFU,eth,0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3,dogelon-mars,,,
@@ -36,6 +39,7 @@ sol,HGET,Hedget (Wormhole),2ueY1bLcPHfuFzEJq7yN1V2Wrpu8nkun9xG2TVCE1mhD,eth,0x79
 sol,HXRO,Hxro (Wormhole),HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK,eth,0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3,hxro,,CBb5zXwNRB73WVjs2m21P5prcEZa6SWmej74Vzxh8dRm,3BScwNxtMrEcQ5VTHyXHYQR98dTaxfyXGaLkuSjBY1dW
 sol,HUSD,HUSD Stablecoin (Wormhole),7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw,eth,0xdf574c24545e5ffecb9a659c229253d4111d87e1,husd,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw/logo.png,,
 sol,ICE,PopsicleToken (Wormhole),DiJut4U3CU8b3bRgwfyqtJMJ4wjzJHaX6hudamjH46Km,eth,0xf16e81dce15b08f326220742020379b855b87df9,popsicle-finance,,,
+sol,ILV,Illuvium (Wormhole),8UJbtpsEubDVkY53rk7d61hNYKkvouicczB2XmuwiG4g,eth,0x767fe9edc9e0df98e07454847909b5e959d7ca0e,illuvium,,,
 sol,KEEP,Keep Network (Wormhole),64L6o4G2H7Ln1vN7AHZsUMW4pbFciHyuwn4wUdSbcFxh,eth,0x85eee30c52b0b379b046fb0f85f4f3dc3009afec,keep-network,,,
 sol,LDO,Lido DAO (Wormhole),HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p,eth,0x5a98fcbea516cf06857215779fd812ca3bef1b32,lido-dao,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png,,
 sol,LINK,Chainlink (Wormhole),2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX,eth,0x514910771af9ca656af840dff83e8264ecf986ca,chainlink,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX/logo.png,FJMjxMCiDKn16TLhXUdEbVDH5wC6k9EHYJTcrH6NcbDE,Gr2KmhK7Upr4uW56B1QQrJuhhgmot6zAHJeZALTMStiX
@@ -50,11 +54,13 @@ sol,RGT,Rari Governance Token (Wormhole),ASk8bss7PoxfFVJfXnSJepj9KupTX15QaRnhdjs
 sol,RSR,Reserve Rights (Wormhole),DkbE8U4gSRuGHcVMA1LwyZPYUjYbfEbjW8DMR3iSXBzr,eth,0x8762db106B2c2A0bccB3A80d1Ed41273552616E8,reserve-rights-token,,GqgkxEswUwHBntmzb5GpUhKrVpJhzreSruZycuJwdNwB,2j2or38X2FUbpkK4gkgvjDtqN3ibkKw3v5yn7o2gHqPc
 sol,SAND,The Sandbox (Wormhole),49c7WuCZkQgc3M4qH8WuEUNXfgwupZf1xqWkDQ7gjRGt,eth,0x3845badAde8e6dFF049820680d1F14bD3903a5d0,the-sandbox,https://gemini.com/images/currencies/icons/default/sand.svg,3FE2g3cadTJjN3C7gNRavwnv7Yh9Midq7h9KgTVUE7tR,
 sol,SHIB,Shiba Inu (Wormhole),CiKu4eHsVrc1eueVQeHn7qhXTcVu95gSQmBpX4utjL9z,eth,0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce,shiba-inu,https://etherscan.io/token/images/shibatoken_32.png,Er7Jp4PADPVHifykFwbVoHdkL1RtZSsx9zGJrPJTrCgW,
+sol,SLP,Smooth Love Potion (Wormhole),4hpngEp1v3CXpeKB81Gw4sv7YvwUVRKvY3SGag9ND8Q4,eth,0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25,smooth-love-potion,,,
 sol,SPELL,Spell Token (Wormhole),BCsFXYm81iqXyYmrLKgAp3AePcgLHnirb8FjTs6sjM7U,eth,0x090185f2135308bad17527004364ebcc2d37e5f6,spell-token,,,
 sol,SRMet,Serum (Wormhole from Ethereum),xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG,eth,0x476c5e26a75bd202a9683ffd34359c0cc15be0ff,serum,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG/logo.png,,
 sol,SXP,Swipe (Wormhole),3CyiEDRehaGufzkpXJitCP5tvh7cNhRqd9rPBxZrgK5z,eth,0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9,swipe,,G5F84rfqmWqzZv5GBpSn8mMwW8zJ2B4Y1GpGupiwjHNM,2FQbPW1ticJz2SMMbEXxbKWJKmw1wLc6ggSP2HyzdMen
 sol,SUSHI,SushiToken (Wormhole),ChVzxWRmrTeSgwd3Ui3UumcN8KX7VK3WaD4KGeSKpypj,eth,0x6b3595068778dd592e39a122f4f5a5cf09c90fe2,sushi,https://etherscan.io/token/images/sushitoken_32.png,3uWVMWu7cwMnYMAAdtsZNwaaqeeeZHARGZwcExnQiFay,T3aC6qcPAJtX1gqkckfSxBPdPWziz5fLYRt5Dz3Nafq
 sol,TRIBE,Tribe (Wormhole),DPgNKZJAG2w1S6vfYHDBT62R4qrWWH5f45CnxtbQduZE,eth,0xc7283b66eb1eb5fb86327f08e1b5816b0720212b,tribe,,,
+sol,UFO,UFO Gaming (Wormhole),GWdkYFnXnSJAsCBvmsqFLiPPe2tpvXynZcJdxf11Fu3U,eth,0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b,ufo-gaming,,,
 sol,UNI,Uniswap (Wormhole),8FU95xFJhUUkyyCLU13HSzDLs7oC4QZdXQHL6SCeab36,eth,0x1f9840a85d5af5bf1d1762f925bdaddc4201f984,uniswap,https://etherscan.io/token/images/uniswap_32.png,B7b5rjQuqQCuGqmUBWmcCTqaL3Z1462mo4NArqty6QFR,FrKM6kJtAjXknHPEpkrQtJSXZwUxV5dq26wDpc4YjQST
 sol,USDCet,USD Coin (Wormhole from Ethereum),A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM,eth,0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48,usd-coin,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png,,
 sol,USDK,USDK (Wormhole),43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F,eth,0x1c48f86ae57291f7686349f12601910bd8d470bb,usdk,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F/logo.png,,
@@ -69,27 +75,21 @@ sol,stETH,Lido Staked Ether (Wormhole),H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw
 sol,AMP,Amp (Wormhole),D559HwgjYGDYsXpmFUKxhFTEwutvS9sya1kXiyCVogCV,eth,0xff20817765cb7f73d4bde2e66e067e58d11095c2,amp,,,
 sol,AMPL,Ampleforth (Wormhole),EHKQvJGu48ydKA4d3RivrkNyTJTkSdoS32UafxSX1yak,eth,0xd46ba6d942050d489dbd938a2c909a5d5039a161,ampleforth,,,
 sol,ANKR,Ankr Network (Wormhole),Gq2norJ1kBemBp3mPfkgAUMhMMmnFmY4zEyi26tRcxFB,eth,0x8290333cef9e6d528dd5618fb97a76f268f3edd4,ankr-network,,,
-sol,BNT,Bancor (Wormhole),EDVVEYW4fPJ6vKw5LZXRGUSPzxoHrv6eWvTqhCr8oShs,eth,0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c,bancor-network,,,
-sol,CRO,Crypto.com Coin (Wormhole),DvjMYMVeXgKxaixGKpzQThLoG98nc7HSU7eanzsdCboA,eth,0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b,crypto-com-coin,,,
-sol,CVX,Convex Token (Wormhole),BLvmrccP4g1B6SpiVvmQrLUDya1nZ4B2D1nm9jzKF7sz,eth,0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b,convex-finance,,,
 sol,ENS,Ethereum Name Service (Wormhole),CLQsDGoGibdNPnVCFp8BAsN2unvyvb41Jd5USYwAnzAg,eth,0xc18360217d8f7ab5e7c516566761ea12ce7f9d72,ethereum-name-service,,,
 sol,FTMet,Fantom Token (Wormhole from Ethereum),8gC27rQF4NEDYfyf5aS8ZmQJUum5gufowKGYRRba4ENN,eth,0x4e15361fd6b4bb609fa63c81a2be19d873717870,fantom,,,
 sol,GALA,Gala (Wormhole),AuGz22orMknxQHTVGwAu7e3dJikTJKgcjFwMNDikEKmF,eth,0x15d4c048f83bd7e37d49ea4c83a07267ec4203da,gala,,F7WJsoxTWQRmAwAyFe9APmuVv4HqmhchFtdbR9dvAUDm,
 sol,GT,GateChainToken (Wormhole),ABAq2R9gSpDDGguQxBk4u13s4ZYW6zbwKVBx15mCMG8,eth,0xe66747a101bff2dba3697199dcce5b743b454759,gatetoken,,,
-sol,ILV,Illuvium (Wormhole),8UJbtpsEubDVkY53rk7d61hNYKkvouicczB2XmuwiG4g,eth,0x767fe9edc9e0df98e07454847909b5e959d7ca0e,illuvium,,,
 sol,KP3R,Keep3rV1 (Wormhole),3a2VW9t5N6p4baMW3M6yLH1UJ9imMt7VsyUk6ouXPVLq,eth,0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44,keep3rv1,,,
 sol,LUA,LuaToken (Wormhole),5Wc4U1ZoQRzF4tPdqKQzBwRSjYe8vEf3EvZMuXgtKUW6,eth,0xb1f66997a5760428d3a87d68b90bfe0ae64121cc,luaswap,,J9imTcEeahZqKuaoQaPcCeSGCMWL8qSACpK4B7bC8NN4,BMJ3CvQZ57cNnuc3Lz5Pb6cW6Sr9kZGz3qz2bJQTE24A
 sol,NXM,Nexus Mutual (Wormhole),Aqs5ydqKXEK2cjotDXxHmk8N9PknqQ5q4ZED4ymY1eeh,eth,0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b,nexus-mutual,,,
 sol,OHM,Olympus (Wormhole),Afe9gSG8NcWicJtC58tUPGWG6pUcdK29d59BJuSAsePJ,eth,0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5,olympus,,,
 sol,PEOPLE,ConstitutionDAO (Wormhole),CobcsUrt3p91FwvULYKorQejgsm5HoQdv5T8RUZ6PnLA,eth,0x7a58c0be72be218b41c608b7fe7c5bb630736c71,constitutiondao,,GsWEL352sYgQC3uAVKgEQz2TtA1RA5cgNwUQahyzwJyz,
 sol,RPL,Rocket Pool (Wormhole),HUCyuyqESEUV4YWTKFvvB4JiQLqoovscTBpRXfGzW4Wx,eth,0xd33526068d116ce69f19a9ee46f0bd304f21a51f,rocket-pool,,,
-sol,SLP,Smooth Love Potion (Wormhole),4hpngEp1v3CXpeKB81Gw4sv7YvwUVRKvY3SGag9ND8Q4,eth,0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25,smooth-love-potion,,,
 sol,SNX,Synthetix Network Token (Wormhole),8cTNUtcV2ueC3royJ642uRnvTxorJAWLZc58gxAo7y56,eth,0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f,synthetix-network-token,,,
 sol,SOS,SOS (Wormhole),6Q5fvsJ6kgAFmisgDqqyaFd9FURYzHf8MCUbpAUaGZnE,eth,0x3b484b82567a09e2588a13d54d032153f0c0aee0,opendao,,,
 sol,SWAG,Swag Token (Wormhole),5hcdG6NjQwiNhVa9bcyaaDsCyA1muPQ6WRzQwHfgeeKo,eth,0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6,swag-finance,,wSkeLMv3ktJyLm51bvQWxY2saGKqGxbnUFimPxbgEvQ,6URQ4zFWvPm1fhJCKKWorrh8X3mmTFiDDyXEUmSf8Rb2
 sol,TOKE,Tokemak (Wormhole),3EQ6LqLkiFcoxTeGEsHMFpSLWNVPe9yT7XPX2HYSFyxX,eth,0x2e9d63788249371f1dfc918a52f8d799f4a38c94,tokemak,,,
 sol,UBXT,UpBots (Wormhole),FTtXEUosNn6EKG2SQtfbGuYB4rBttreQQcoWn1YDsuTq,eth,0x8564653879a18C560E7C0Ea0E084c516C62F5653,upbots,,Hh4p7tJpqkGW6xsHM2LiPPMpJg43fwn5TbmVmfrURdLY,5xhjc3ZtAwnBK3qsaro28VChL7WrxY9N4SG6UZpYxpGc
-sol,UFO,UFO Gaming (Wormhole),GWdkYFnXnSJAsCBvmsqFLiPPe2tpvXynZcJdxf11Fu3U,eth,0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b,ufo-gaming,,,
 sol,ZRX,ZRX (Wormhole),GJa1VeEYLTRoHbaeqcxfzHmjGCGtZGF3CUqxv9znZZAY,eth,0xe41d2489571d322189246dafa5ebde1f4699f498,0x,,,
 sol,MATICpo,MATIC (Wormhole from Polygon),Gz7VkD4MacbEB6yC5XD3HcumEiYx2EtDYYrfikGsvopG,matic,0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270,polygon,,5WRoQxE59966N2XfD2wYy1uhuyKeoVJ9NBMH6r6RNYEF,
 sol,USDCpo,USD Coin (PoS) (Wormhole from Polygon),E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M,matic,0x2791bca1f2de4661ed88a30c99a7a9449aa84174,usd-coin,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png,,
