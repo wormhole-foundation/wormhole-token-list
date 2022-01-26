@@ -194,9 +194,20 @@ TOKENS = {
         "sol": ["dexlab"],
       }
     },
+    "ALICE": {
+      "symbol": "ALICE",
+      "name": "My Neighbor Alice (Wormhole)",
+      "destAddresses": {
+        "sol": "9ARQsBfAn65q522cEqSJuse3cLhA31jgWDBGQHeiq7Mg",
+      },
+      "sourceAddress": "0xac51066d7bec65dc4589368da368b212745d63e8",
+      "coingeckoId": "my-neighbor-alice",
+      "markets": {
+      },
+    },
     "AUDIO": {
       "symbol": "AUDIO",
-      "name": "Audius (Wormhole from Ethereum)",
+      "name": "Audius (Wormhole)",
       "destAddresses": {
         "sol": "9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM",
         "terra": "terra1nc6flp57m5hsr6y5y8aexzszy43ksr0drdr8rp",
@@ -259,6 +270,17 @@ TOKENS = {
       "markets": {
       },
     },
+    "CHZ": {
+      "symbol": "CHZ",
+      "name": "Chiliz (Wormhole)",
+      "destAddresses": {
+        "sol": "5TtSKAamFq88grN1QGrEaZ1AjjyciqnCya1aiMhAgFvG",
+      },
+      "sourceAddress": "0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+      "coingeckoId": "chiliz",
+      "markets": {
+      },
+    },
     "CREAM": {
       "symbol": "CREAM",
       "name": "Cream (Wormhole)",
@@ -299,6 +321,28 @@ TOKENS = {
       "markets": {
         "sol": ["raydium", "francium"],
       }
+    },
+    "ELON": {
+      "symbol": "ELON",
+      "name": "Dogelon Mars (Wormhole)",
+      "destAddresses": {
+        "sol": "6nKUU36URHkewHg5GGGAgxs6szkE4VTioGUT5txQqJFU",
+      },
+      "sourceAddress": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+      "coingeckoId": "dogelon-mars",
+      "markets": {
+      },
+    },
+    "ENJ": {
+      "symbol": "ENJ",
+      "name": "EnjinCoin (Wormhole)",
+      "destAddresses": {
+        "sol": "EXExWvT6VyYxEjFzF5BrUxt5GZMPVZnd48y3iWrRefMq",
+      },
+      "sourceAddress": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+      "coingeckoId": "enjin",
+      "markets": {
+      },
     },
     "ETH": {
       "symbol": "ETH",
