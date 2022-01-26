@@ -622,6 +622,11 @@
             "loop"
           ]
         },
+        "0x707f9118e33a9b8998bea41dd0d46f38bb963fc8": {
+          "markets": [
+            "anchor"
+          ]
+        },
         "0xa693B19d2931d498c5B318dF961919BB4aee87a5": {
           "markets": [
             "anchor"
@@ -2838,6 +2843,10 @@
         "logo": "https://etherscan.io/token/images/sushitoken_32.png",
         "symbol": "SUSHI"
       },
+      "0x707f9118e33a9b8998bea41dd0d46f38bb963fc8": {
+        "logo": "https://static.lido.fi/bETH/bETH.png",
+        "symbol": "bETH"
+      },
       "0x727f064a78dc734d33eec18d5370aef32ffd46e4": {
         "logo": "https://assets.coingecko.com/coins/images/18630/small/YtrqPIWc.png",
         "symbol": "ORION"
@@ -3183,6 +3192,10 @@
       "terra1skjr69exm6v8zellgjpaa2emhwutrk5a6dz7dd": {
         "logo": "https://etherscan.io/token/images/binanceusd_32.png",
         "symbol": "BUSDbs"
+      },
+      "terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz": {
+        "logo": "https://static.lido.fi/bETH/bETH.png",
+        "symbol": "bETH"
       },
       "terra1vlqeghv5mt5udh96kt5zxlh2wkh8q4kewkr0dd": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
