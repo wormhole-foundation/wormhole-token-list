@@ -456,6 +456,24 @@ TOKENS = {
         "sol": ["saber", "sunny"],
       }
     },
+    "ICE": {
+      "symbol": "ICE",
+      "name": "PopsicleToken (Wormhole)",
+      "destAddresses": {
+        "sol": "DiJut4U3CU8b3bRgwfyqtJMJ4wjzJHaX6hudamjH46Km",
+      },
+      "sourceAddress": "0xf16e81dce15b08f326220742020379b855b87df9",
+      "coingeckoId": "popsicle-finance"
+    },
+    "KEEP": {
+      "symbol": "KEEP",
+      "name": "Keep Network (Wormhole)",
+      "destAddresses": {
+        "sol": "64L6o4G2H7Ln1vN7AHZsUMW4pbFciHyuwn4wUdSbcFxh",
+      },
+      "sourceAddress": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+      "coingeckoId": "keep-network"
+    },
     "LDO": {
       "symbol": "LDO",
       "name": "Lido DAO (Wormhole)",
@@ -569,6 +587,15 @@ TOKENS = {
       "markets": {
         "sol": ["raydium", "francium"],
       }
+    },
+    "SPELL": {
+      "symbol": "SPELL",
+      "name": "Spell Token (Wormhole)",
+      "destAddresses": {
+        "sol": "BCsFXYm81iqXyYmrLKgAp3AePcgLHnirb8FjTs6sjM7U",
+      },
+      "sourceAddress": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+      "coingeckoId": "spell-token"
     },
     "SRMet": {
       "symbol": "SRMet",
