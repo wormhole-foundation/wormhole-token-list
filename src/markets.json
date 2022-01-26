@@ -582,6 +582,11 @@
             "atrix"
           ]
         },
+        "0xc00e94cb662c3520282e6f5717214004a7f26888": {
+          "markets": [
+            "dexlab"
+          ]
+        },
         "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
           "markets": [
             "solend",
@@ -2604,7 +2609,7 @@
         "symbol": "ANKR"
       },
       "Gz7VkD4MacbEB6yC5XD3HcumEiYx2EtDYYrfikGsvopG": {
-        "logo": "https://polygonscan.com/token/images/wMatic_32.png",
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATICpo_wh.png",
         "symbol": "MATICpo"
       },
       "H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw5sE": {
@@ -2765,7 +2770,7 @@
         "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png",
         "symbol": "ROSE"
       },
-      "0x27702a26126e0B3702af63Ee09aC4d1A084EF628": {
+      "0x27702a26126e0b3702af63ee09ac4d1a084ef628": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ALEPH_wh.png",
         "symbol": "ALEPH"
       },
@@ -2873,7 +2878,7 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ILV_wh.png",
         "symbol": "ILV"
       },
-      "0x7968bc6a03017eA2de509AAA816F163Db0f35148": {
+      "0x7968bc6a03017ea2de509aaa816f163db0f35148": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/HGET_wh.png",
         "symbol": "HGET"
       },
@@ -2894,7 +2899,7 @@
         "symbol": "CAKE"
       },
       "0x7c9f4C87d911613Fe9ca58b579f737911AAD2D43": {
-        "logo": "https://polygonscan.com/token/images/wMatic_32.png",
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATICpo_wh.png",
         "symbol": "MATICpo"
       },
       "0x7cd167B101D2808Cfd2C45d17b2E7EA9F46b74B6": {
@@ -3001,10 +3006,6 @@
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png",
         "symbol": "ATLAS"
       },
-      "0xbC396689893D065F41bc2C6EcbeE5e0085233447": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PERP_wh.png",
-        "symbol": "PERP"
-      },
       "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b": {
         "logo": "https://etherscan.io/token/images/axieinfinityshard_32.png",
         "symbol": "AXSet"
@@ -3013,11 +3014,15 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LRC_wh.png",
         "symbol": "LRC"
       },
+      "0xbc396689893d065f41bc2c6ecbee5e0085233447": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PERP_wh.png",
+        "symbol": "PERP"
+      },
       "0xbd31ea8212119f94a611fa969881cba3ea06fa3d": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W/logo.png",
         "symbol": "LUNA"
       },
-      "0xc00e94Cb662C3520282E6f5717214004A7f26888": {
+      "0xc00e94cb662c3520282e6f5717214004a7f26888": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/COMP_wh.png",
         "symbol": "COMP"
       },
@@ -3093,7 +3098,7 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ENJ_wh.png",
         "symbol": "ENJ"
       },
-      "0xf8C3527CC04340b208C854E985240c02F7B7793f": {
+      "0xf8c3527cc04340b208c854e985240c02f7b7793f": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FRONT_wh.png",
         "symbol": "FRONT"
       },
@@ -3148,7 +3153,7 @@
         "symbol": "SRMso"
       },
       "terra1dtqlfecglk47yplfrtwjzyagkgcqqngd5lgjp8": {
-        "logo": "https://polygonscan.com/token/images/wMatic_32.png",
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATICpo_wh.png",
         "symbol": "MATICpo"
       },
       "terra1e6mq63y64zcxz8xyu5van4tgkhemj3r86yvgu4": {
@@ -3362,7 +3367,7 @@
         "symbol": "BNB"
       },
       "0xc836d8dC361E44DbE64c4862D55BA041F88Ddd39": {
-        "logo": "https://polygonscan.com/token/images/wMatic_32.png",
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATICpo_wh.png",
         "symbol": "MATICpo"
       },
       "0xd63CDf02853D759831550fAe7dF8FFfE0B317b39": {
@@ -3380,7 +3385,7 @@
     },
     "5": {
       "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270": {
-        "logo": "https://polygonscan.com/token/images/wMatic_32.png",
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATICpo_wh.png",
         "symbol": "MATICpo"
       },
       "0x11CD37bb86F65419713f30673A480EA33c826872": {
@@ -3522,7 +3527,7 @@
         "symbol": "UST"
       },
       "0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb": {
-        "logo": "https://polygonscan.com/token/images/wMatic_32.png",
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATICpo_wh.png",
         "symbol": "MATICpo"
       }
     },
