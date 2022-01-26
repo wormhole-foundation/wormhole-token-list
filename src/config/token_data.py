@@ -654,7 +654,8 @@ TOKENS = {
       "coingeckoId": "anchor-beth-token",
       "logo": "https://static.lido.fi/bETH/bETH.png",
       "markets": {
-        "terra": ["anchor"],
+        "eth": ["anchor"],
+        "terra": ["anchor"]
       }
     },
     "stETH": {
