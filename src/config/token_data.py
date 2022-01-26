@@ -652,7 +652,10 @@ TOKENS = {
       },
       "sourceAddress": "0x707f9118e33a9b8998bea41dd0d46f38bb963fc8",
       "coingeckoId": "anchor-beth-token",
-      "logo": "https://static.lido.fi/bETH/bETH.png"
+      "logo": "https://static.lido.fi/bETH/bETH.png",
+      "markets": {
+        "terra": ["anchor"],
+      }
     },
     "stETH": {
       "symbol": "stETH",
