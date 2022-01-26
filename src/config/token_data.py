@@ -316,6 +316,17 @@ TOKENS = {
         "sol": ["dexlab"],
       },
     },
+    "CRV": {
+      "symbol": "CRV",
+      "name": "Curve DAO Token (Wormhole)",
+      "destAddresses": {
+        "sol": "7gjNiPun3AzEazTZoFEjZgcBMeuaXdpjHq2raZTmTrfs",
+      },
+      "sourceAddress": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "coingeckoId": "curve-dao-token",
+      "markets": {
+      },
+    },
     "DAI": {
       "symbol": "DAI",
       "name": "DAI (Wormhole)",
@@ -545,6 +556,17 @@ TOKENS = {
       "coingeckoId": "chainlink",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX/logo.png"
     },
+    "LRC": {
+      "symbol": "LRC",
+      "name": "Loopring (Wormhole)",
+      "destAddresses": {
+        "sol": "HCTVFTzHL21a1dPzKxAUeWwqbE8QMUyvgChFDL4XYoi1",
+      },
+      "sourceAddress": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+      "coingeckoId": "loopring",
+      "markets": {
+      },
+    },
     "MANA": {
       "symbol": "MANA",
       "name": "Decentraland (Wormhole)",
@@ -621,6 +643,17 @@ TOKENS = {
       },
       "sourceAddress": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
       "coingeckoId": "perpetual-protocol",
+      "markets": {
+      },
+    },
+    "RGT": {
+      "symbol": "RGT",
+      "name": "Rari Governance Token (Wormhole)",
+      "destAddresses": {
+        "sol": "ASk8bss7PoxfFVJfXnSJepj9KupTX15QaRnhdjs6DdYe",
+      },
+      "sourceAddress": "0xd291e7a03283640fdc51b121ac401383a46cc623",
+      "coingeckoId": "rari-governance-token",
       "markets": {
       },
     },
@@ -713,6 +746,17 @@ TOKENS = {
       "markets": {
         "sol": ["raydium", "tulip", "francium", "atrix", "dexlab"],
       }
+    },
+    "TRIBE": {
+      "symbol": "TRIBE",
+      "name": "Tribe (Wormhole)",
+      "destAddresses": {
+        "sol": "DPgNKZJAG2w1S6vfYHDBT62R4qrWWH5f45CnxtbQduZE",
+      },
+      "sourceAddress": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
+      "coingeckoId": "tribe",
+      "markets": {
+      },
     },
     "UNI": {
       "symbol": "UNI",
@@ -812,6 +856,17 @@ TOKENS = {
       "markets": {
         "sol": ["dexlab"],
       }
+    },
+    "YGG": {
+      "symbol": "YGG",
+      "name": "Yield Guild Games (Wormhole)",
+      "destAddresses": {
+        "sol": "EzZp7LRN1xwu3QsB2RJRrWwEGjJGsuWzuMCeQDB3NSPK",
+      },
+      "sourceAddress": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+      "coingeckoId": "yield-guild-games",
+      "markets": {
+      },
     },
     "agEUR": {
       "symbol": "agEUR",
