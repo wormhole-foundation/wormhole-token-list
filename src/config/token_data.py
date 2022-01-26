@@ -513,6 +513,15 @@ TOKENS = {
         "sol": ["raydium", "francium"],
       }
     },
+    "MATICet": {
+      "symbol": "MATICet",
+      "name": "MATIC (Wormhole from Ethereum)",
+      "destAddresses": {
+        "sol": "C7NNPWuZCNjZBfW5p6JvGsR8pUdsRpEdP1ZAhnoDwj7h",
+      },
+      "sourceAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+      "coingeckoId": "polygon"
+    },
     "MIMet": {
       "symbol": "MIMet",
       "name": "Magic Internet Money (Wormhole from Ethereum)",
@@ -959,7 +968,6 @@ TOKENS = {
       },
       "sourceAddress": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
       "coingeckoId": "polygon",
-      "logo": "https://polygonscan.com/token/images/wMatic_32.png",
       "markets": {
         "sol": ["atrix"],
         "eth": ["uniswap"],

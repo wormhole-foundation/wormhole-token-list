@@ -57,7 +57,7 @@ eth,LRC,LoopringCoin V2 (Wormhole),0xbbbbca6a901c926f240b89eacb641d8aec7aeafd,lo
 eth,LUA,LuaToken (Wormhole),0xb1f66997a5760428d3a87d68b90bfe0ae64121cc,luaswap,,5Wc4U1ZoQRzF4tPdqKQzBwRSjYe8vEf3EvZMuXgtKUW6,,,,,,
 eth,MANA,Decentraland (Wormhole),0x0F5D2fB29fb7d3CFeE444a200298f468908cC942,decentraland,https://assets.coingecko.com/coins/images/878/thumb/decentraland-mana.png,7dgHoN8wBZCc5wbnQ2C47TDnBMAxG4Q5L3KjP67z8kNi,,,,,,
 eth,MATH,MATH Token (Wormhole),0x08d967bb0134f2d07f7cfb6e246680c53927dd30,math,,CaGa7pddFXS65Gznqwp42kBhkJQdceoFVT7AQYo8Jr8Q,,,,,,
-eth,MATICet,Matic (Wormhole from Ethereum),0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0,polygon,,C7NNPWuZCNjZBfW5p6JvGsR8pUdsRpEdP1ZAhnoDwj7h,,,,,,
+eth,MATICet,MATIC (Wormhole from Ethereum),0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0,polygon,,C7NNPWuZCNjZBfW5p6JvGsR8pUdsRpEdP1ZAhnoDwj7h,,,,,,
 eth,MIMet,Magic Internet Money (Wormhole from Ethereum),0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3,magic-internet-money,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HRQke5DKdDo3jV7wnomyiM8AA3EzkVnxMDdo2FQ5XUe1/logo.png,HRQke5DKdDo3jV7wnomyiM8AA3EzkVnxMDdo2FQ5XUe1,,,terra15a9dr3a2a2lj5fclrw35xxg9yuxg0d908wpf2y,,,
 eth,NXM,Nexus Mutual (Wormhole),0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b,nexus-mutual,,Aqs5ydqKXEK2cjotDXxHmk8N9PknqQ5q4ZED4ymY1eeh,,,,,,
 eth,OHM,Olympus (Wormhole),0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5,olympus,,Afe9gSG8NcWicJtC58tUPGWG6pUcdK29d59BJuSAsePJ,,,,,,
