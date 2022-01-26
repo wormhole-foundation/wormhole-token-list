@@ -47,7 +47,7 @@ eth,HBTC,Huobi BTC (Wormhole),0x0316eb71485b0ab14103307bf65a021042c6d380,huobi-b
 eth,HGET,Hedget (Wormhole),0x7968bc6a03017eA2de509AAA816F163Db0f35148,hedget,,2ueY1bLcPHfuFzEJq7yN1V2Wrpu8nkun9xG2TVCE1mhD,,,,,,
 eth,HUSD,HUSD Stablecoin (Wormhole),0xdf574c24545e5ffecb9a659c229253d4111d87e1,husd,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw/logo.png,7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw,,,,,,
 eth,HXRO,Hxro (Wormhole),0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3,hxro,,HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK,,,,,,
-eth,ICE,IceToken (Wormhole),0xf16e81dce15b08f326220742020379b855b87df9,popsicle-finance,,DiJut4U3CU8b3bRgwfyqtJMJ4wjzJHaX6hudamjH46Km,,,,,,
+eth,ICE,PopsicleToken (Wormhole),0xf16e81dce15b08f326220742020379b855b87df9,popsicle-finance,,DiJut4U3CU8b3bRgwfyqtJMJ4wjzJHaX6hudamjH46Km,,,,,,
 eth,ILV,Illuvium (Wormhole),0x767fe9edc9e0df98e07454847909b5e959d7ca0e,illuvium,,8UJbtpsEubDVkY53rk7d61hNYKkvouicczB2XmuwiG4g,,,,,,
 eth,KEEP,Keep Network (Wormhole),0x85eee30c52b0b379b046fb0f85f4f3dc3009afec,keep-network,,64L6o4G2H7Ln1vN7AHZsUMW4pbFciHyuwn4wUdSbcFxh,,,,,,
 eth,KP3R,Keep3rV1 (Wormhole),0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44,keep3rv1,,3a2VW9t5N6p4baMW3M6yLH1UJ9imMt7VsyUk6ouXPVLq,,,,,,

@@ -234,6 +234,20 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/HXRO
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/HUSD_wh.png
 ```
 
+### ICE
+![ICE](ICE_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ICE_wh.png
+```
+
+### KEEP
+![KEEP](KEEP_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/KEEP_wh.png
+```
+
 ### LDO
 ![LDO](LDO_wh.png)
 
@@ -295,6 +309,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SAND
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SHIB_wh.png
+```
+
+### SPELL
+![SPELL](SPELL_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SPELL_wh.png
 ```
 
 ### SRMet
