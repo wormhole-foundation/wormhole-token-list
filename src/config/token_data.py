@@ -644,6 +644,16 @@ TOKENS = {
         "sol": ["saber"],
       }
     },
+    "bETH": {
+      "symbol": "bETH",
+      "name": "Lido bETH (Wormhole)",
+      "destAddresses": {
+        "terra": "terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz"
+      },
+      "sourceAddress": "0x707f9118e33a9b8998bea41dd0d46f38bb963fc8",
+      "coingeckoId": "anchor-beth-token",
+      "logo": "https://static.lido.fi/bETH/bETH.png"
+    },
     "stETH": {
       "symbol": "stETH",
       "name": "Lido Staked Ether (Wormhole)",
