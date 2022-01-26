@@ -216,6 +216,24 @@ TOKENS = {
       "markets": {
       },
     },
+    "AMP": {
+      "symbol": "AMP",
+      "name": "Amp (Wormhole)",
+      "destAddresses": {
+        "sol": "D559HwgjYGDYsXpmFUKxhFTEwutvS9sya1kXiyCVogCV",
+      },
+      "sourceAddress": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+      "coingeckoId": "amp"
+    },
+    "ANKR": {
+      "symbol": "ANKR",
+      "name": "Ankr (Wormhole)",
+      "destAddresses": {
+        "sol": "Gq2norJ1kBemBp3mPfkgAUMhMMmnFmY4zEyi26tRcxFB",
+      },
+      "sourceAddress": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+      "coingeckoId": "ankr"
+    },
     "AUDIO": {
       "symbol": "AUDIO",
       "name": "Audius (Wormhole)",
@@ -411,6 +429,15 @@ TOKENS = {
       "markets": {
       },
     },
+    "ENS": {
+      "symbol": "ENS",
+      "name": "Ethereum Name Service (Wormhole)",
+      "destAddresses": {
+        "sol": "CLQsDGoGibdNPnVCFp8BAsN2unvyvb41Jd5USYwAnzAg",
+      },
+      "sourceAddress": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+      "coingeckoId": "ethereum-name-service"
+    },
     "ETH": {
       "symbol": "ETH",
       "name": "Ether (Wormhole)",
@@ -458,6 +485,15 @@ TOKENS = {
       "markets": {
       },
     },
+    "FTMet": {
+      "symbol": "FTMet",
+      "name": "Fantom (Wormhole from Ethereum)",
+      "destAddresses": {
+        "sol": "8gC27rQF4NEDYfyf5aS8ZmQJUum5gufowKGYRRba4ENN",
+      },
+      "sourceAddress": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+      "coingeckoId": "fantom"
+    },
     "FTT": {
       "symbol": "FTT",
       "name": "FTX Token (Wormhole)",
@@ -483,6 +519,15 @@ TOKENS = {
       "coingeckoId": "frax-share",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct/logo.png"
     },
+    "GALA": {
+      "symbol": "GALA",
+      "name": "Gala (Wormhole)",
+      "destAddresses": {
+        "sol": "AuGz22orMknxQHTVGwAu7e3dJikTJKgcjFwMNDikEKmF",
+      },
+      "sourceAddress": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da",
+      "coingeckoId": "gala"
+    },
     "GRT": {
       "symbol": "GRT",
       "name": "Graph Token (Wormhole from Ethereum)",
@@ -494,6 +539,15 @@ TOKENS = {
       "markets": {
         "sol": ["dexlab"],
       }
+    },
+    "GT": {
+      "symbol": "GT",
+      "name": "GateToken (Wormhole)",
+      "destAddresses": {
+        "sol": "ABAq2R9gSpDDGguQxBk4u13s4ZYW6zbwKVBx15mCMG8",
+      },
+      "sourceAddress": "0xe66747a101bff2dba3697199dcce5b743b454759",
+      "coingeckoId": "gatetoken"
     },
     "HBTC": {
       "symbol": "HBTC",
@@ -571,6 +625,15 @@ TOKENS = {
       },
       "sourceAddress": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
       "coingeckoId": "keep-network"
+    },
+    "KP3R": {
+      "symbol": "KP3R",
+      "name": "Keep3rV1 (Wormhole)",
+      "destAddresses": {
+        "sol": "3a2VW9t5N6p4baMW3M6yLH1UJ9imMt7VsyUk6ouXPVLq",
+      },
+      "sourceAddress": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
+      "coingeckoId": "keep3rv1"
     },
     "LDO": {
       "symbol": "LDO",
@@ -653,6 +716,15 @@ TOKENS = {
       "coingeckoId": "magic-internet-money",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HRQke5DKdDo3jV7wnomyiM8AA3EzkVnxMDdo2FQ5XUe1/logo.png"
     },
+    "NXM": {
+      "symbol": "NXM",
+      "name": "Nexus Mutual (Wormhole)",
+      "destAddresses": {
+        "sol": "Aqs5ydqKXEK2cjotDXxHmk8N9PknqQ5q4ZED4ymY1eeh",
+      },
+      "sourceAddress": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
+      "coingeckoId": "nexus-mutual"
+    },
     "ORION": {
       "symbol": "ORION",
       "name": "Orion Money (Wormhole from Ethereum)",
@@ -688,6 +760,15 @@ TOKENS = {
       "markets": {
       },
     },
+    "PEOPLE": {
+      "symbol": "PEOPLE",
+      "name": "ConstitutionDAO (Wormhole)",
+      "destAddresses": {
+        "sol": "CobcsUrt3p91FwvULYKorQejgsm5HoQdv5T8RUZ6PnLA",
+      },
+      "sourceAddress": "0x7a58c0be72be218b41c608b7fe7c5bb630736c71",
+      "coingeckoId": "constitutiondao"
+    },
     "RGT": {
       "symbol": "RGT",
       "name": "Rari Governance Token (Wormhole)",
@@ -698,6 +779,15 @@ TOKENS = {
       "coingeckoId": "rari-governance-token",
       "markets": {
       },
+    },
+    "RPL": {
+      "symbol": "RPL",
+      "name": "Rocket Pool (Wormhole)",
+      "destAddresses": {
+        "sol": "HUCyuyqESEUV4YWTKFvvB4JiQLqoovscTBpRXfGzW4Wx",
+      },
+      "sourceAddress": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
+      "coingeckoId": "rocket-pool"
     },
     "RSR": {
       "symbol": "RSR",
@@ -750,6 +840,15 @@ TOKENS = {
       "markets": {
       },
     },
+    "SNX": {
+      "symbol": "SNX",
+      "name": "Synthetix Network Token (Wormhole)",
+      "destAddresses": {
+        "sol": "8cTNUtcV2ueC3royJ642uRnvTxorJAWLZc58gxAo7y56",
+      },
+      "sourceAddress": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+      "coingeckoId": "synthetix-network-token"
+    },
     "SPELL": {
       "symbol": "SPELL",
       "name": "Spell Token (Wormhole)",
@@ -799,6 +898,15 @@ TOKENS = {
       "markets": {
         "sol": ["raydium", "tulip", "francium", "atrix", "dexlab"],
       }
+    },
+    "TOKE": {
+      "symbol": "TOKE",
+      "name": "Tokemak (Wormhole)",
+      "destAddresses": {
+        "sol": "3EQ6LqLkiFcoxTeGEsHMFpSLWNVPe9yT7XPX2HYSFyxX",
+      },
+      "sourceAddress": "0x2e9d63788249371f1dfc918a52f8d799f4a38c94",
+      "coingeckoId": "tokemak"
     },
     "TRIBE": {
       "symbol": "TRIBE",
@@ -931,6 +1039,15 @@ TOKENS = {
       "coingeckoId": "yield-guild-games",
       "markets": {
       },
+    },
+    "ZRX": {
+      "symbol": "ZRX",
+      "name": "0x (Wormhole)",
+      "destAddresses": {
+        "sol": "GJa1VeEYLTRoHbaeqcxfzHmjGCGtZGF3CUqxv9znZZAY",
+      },
+      "sourceAddress": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+      "coingeckoId": "0x",
     },
     "agEUR": {
       "symbol": "agEUR",

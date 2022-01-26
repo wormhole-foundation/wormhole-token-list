@@ -108,6 +108,20 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ALEP
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ALICE_wh.png
 ```
 
+### AMP
+![AMP](AMP_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AMP_wh.png
+```
+
+### ANKR
+![ANKR](ANKR_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ANKR_wh.png
+```
+
 ### AUDIO
 ![AUDIO](AUDIO_wh.png)
 
@@ -220,6 +234,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ELON
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ENJ_wh.png
 ```
 
+### ENS
+![ENS](ENS_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ENS_wh.png
+```
+
 ### ETH
 ![ETH](ETH_wh.png)
 
@@ -241,6 +262,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FRAX
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FRONT_wh.png
 ```
 
+### FTMet
+![FTMet](FTMet_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FTMet_wh.png
+```
+
 ### FTT
 ![FTT](FTT_wh.png)
 
@@ -255,11 +283,25 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FTT_
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FXS_wh.png
 ```
 
+### GALA
+![GALA](GALA_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/GALA_wh.png
+```
+
 ### GRT
 ![GRT](GRT_wh.png)
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/GRT_wh.png
+```
+
+### GT
+![GT](GT_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/GT_wh.png
 ```
 
 ### HBTC
@@ -311,6 +353,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ILV_
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/KEEP_wh.png
 ```
 
+### KP3R
+![KP3R](KP3R_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/KP3R_wh.png
+```
+
 ### LDO
 ![LDO](LDO_wh.png)
 
@@ -360,6 +409,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATI
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MIMet_wh.png
 ```
 
+### NXM
+![NXM](NXM_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/NXM_wh.png
+```
+
 ### ORION
 ![ORION](ORION_wh.png)
 
@@ -381,11 +437,25 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PAXG
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PERP_wh.png
 ```
 
+### PEOPLE
+![PEOPLE](PEOPLE_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PEOPLE_wh.png
+```
+
 ### RGT
 ![RGT](RGT_wh.png)
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RGT_wh.png
+```
+
+### RPL
+![RPL](RPL_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RPL_wh.png
 ```
 
 ### RSR
@@ -416,6 +486,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SHIB
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SLP_wh.png
 ```
 
+### SNX
+![SNX](SNX_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SNX_wh.png
+```
+
 ### SPELL
 ![SPELL](SPELL_wh.png)
 
@@ -442,6 +519,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SXP_
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SUSHI_wh.png
+```
+
+### TOKE
+![TOKE](TOKE_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TOKE_wh.png
 ```
 
 ### TRIBE
@@ -505,6 +589,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/YFI_
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/YGG_wh.png
+```
+
+### ZRX
+![ZRX](ZRX_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ZRX_wh.png
 ```
 
 ### agEUR
