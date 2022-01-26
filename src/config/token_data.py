@@ -194,6 +194,17 @@ TOKENS = {
         "sol": ["dexlab"],
       }
     },
+    "ALEPH": {
+      "symbol": "ALEPH",
+      "name": "Aleph.im (Wormhole)",
+      "destAddresses": {
+        "sol": "3UCMiSnkcnkPE1pgQ5ggPCBv6dXgVUy16TmMUe1WpG9x",
+      },
+      "sourceAddress": "0x27702a26126e0b3702af63ee09ac4d1a084ef628",
+      "coingeckoId": "aleph-im",
+      "markets": {
+      },
+    },
     "ALICE": {
       "symbol": "ALICE",
       "name": "My Neighbor Alice (Wormhole)",
@@ -279,6 +290,18 @@ TOKENS = {
       "sourceAddress": "0x3506424f91fd33084466f402d5d97f05f8e3b4af",
       "coingeckoId": "chiliz",
       "markets": {
+      },
+    },
+    "COMP": {
+      "symbol": "COMP",
+      "name": "Compound (Wormhole)",
+      "destAddresses": {
+        "sol": "AwEauVaTMQRB71WeDnwf1DWSBxaMKjEPuxyLr1uixFom",
+      },
+      "sourceAddress": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+      "coingeckoId": "compound",
+      "markets": {
+        "sol": ["dexlab"],
       },
     },
     "CREAM": {
@@ -380,6 +403,17 @@ TOKENS = {
         "sol": ["saber", "sunny"],
       }
     },
+    "FRONT": {
+      "symbol": "FRONT",
+      "name": "Frontier (Wormhole)",
+      "destAddresses": {
+        "sol": "A9ik2NrpKRRG2snyTjofZQcTuav9yH3mNVHLsLiDQmYt",
+      },
+      "sourceAddress": "0xf8c3527cc04340b208c854e985240c02f7b7793f",
+      "coingeckoId": "frontier",
+      "markets": {
+      },
+    },
     "FTT": {
       "symbol": "FTT",
       "name": "FTX Token (Wormhole)",
@@ -429,6 +463,17 @@ TOKENS = {
       "markets": {
         "sol": ["saber"],
       }
+    },
+    "HGET": {
+      "symbol": "HGET",
+      "name": "Hedget (Wormhole)",
+      "destAddresses": {
+        "sol": "2ueY1bLcPHfuFzEJq7yN1V2Wrpu8nkun9xG2TVCE1mhD",
+      },
+      "sourceAddress": "0x7968bc6a03017ea2de509aaa816f163db0f35148",
+      "coingeckoId": "hedget",
+      "markets": {
+      },
     },
     "HXRO": {
       "symbol": "HXRO",
@@ -513,6 +558,17 @@ TOKENS = {
         "sol": ["raydium", "francium"],
       }
     },
+    "MATH": {
+      "symbol": "MATH",
+      "name": "MATH Token (Wormhole)",
+      "destAddresses": {
+        "sol": "CaGa7pddFXS65Gznqwp42kBhkJQdceoFVT7AQYo8Jr8Q",
+      },
+      "sourceAddress": "0x08d967bb0134f2d07f7cfb6e246680c53927dd30",
+      "coingeckoId": "math",
+      "markets": {
+      },
+    },
     "MATICet": {
       "symbol": "MATICet",
       "name": "MATIC (Wormhole from Ethereum)",
@@ -556,6 +612,17 @@ TOKENS = {
       },
       "sourceAddress": "0x45804880de22913dafe09f4980848ece6ecbaf78",
       "coingeckoId": "pax-gold",
+    },
+    "PERP": {
+      "symbol": "PERP",
+      "name": "Perpetual Protocol (Wormhole)",
+      "destAddresses": {
+        "sol": "9BsnSWDPfbusseZfnXyZ3un14CyPMZYvsKjWY3Y8Gbqn",
+      },
+      "sourceAddress": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
+      "coingeckoId": "perpetual-protocol",
+      "markets": {
+      },
     },
     "RSR": {
       "symbol": "RSR",

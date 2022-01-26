@@ -94,6 +94,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AAVE
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AKRO_wh.png
 ```
 
+### ALEPH
+![ALEPH](ALEPH_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ALEPH_wh.png
+```
+
 ### ALICE
 ![ALICE](ALICE_wh.png)
 
@@ -141,6 +148,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CEL_
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CHZ_wh.png
+```
+
+### COMP
+![COMP](COMP_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/COMP_wh.png
 ```
 
 ### CREAM
@@ -192,6 +206,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETH_
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FRAX_wh.png
 ```
 
+### FRONT
+![FRONT](FRONT_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FRONT_wh.png
+```
+
 ### FTT
 ![FTT](FTT_wh.png)
 
@@ -218,6 +239,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/GRT_
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/HBTC_wh.png
+```
+
+### HGET
+![HGET](HGET_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/HGET_wh.png
 ```
 
 ### HXRO
@@ -269,6 +297,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LINK
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MANA_wh.png
 ```
 
+### MATH
+![MATH](MATH_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATH_wh.png
+```
+
 ### MATICet
 ![MATICet](MATICet_wh.png)
 
@@ -295,6 +330,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ORIO
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PAXG_wh.png
+```
+
+### PERP
+![PERP](PERP_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PERP_wh.png
 ```
 
 ### RSR
