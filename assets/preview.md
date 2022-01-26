@@ -94,6 +94,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AAVE
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AKRO_wh.png
 ```
 
+### AUDIO
+![AUDIO](AUDIO_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AUDIO_wh.png
+```
+
 ### AXSet
 ![AXSet](AXSet_wh.png)
 
@@ -101,11 +108,25 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AKRO
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AXSet_wh.png
 ```
 
+### BAT
+![BAT](BAT_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BAT_wh.png
+```
+
 ### BUSDet
 ![BUSDet](BUSDet_wh.png)
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BUSDet_wh.png
+```
+
+### CEL
+![CEL](CEL_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CEL_wh.png
 ```
 
 ### CREAM
@@ -169,6 +190,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/GRT_
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/HBTC_wh.png
+```
+
+### HXRO
+![HXRO](HXRO_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/HXRO_wh.png
 ```
 
 ### HUSD
@@ -246,6 +274,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SHIB
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SRMet_wh.png
+```
+
+### SXP
+![SXP](SXP_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SXP_wh.png
 ```
 
 ### SUSHI

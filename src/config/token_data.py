@@ -183,7 +183,7 @@ TOKENS = {
     },
     "AKRO": {
       "symbol": "AKRO",
-      "name": "Akropolis (Wormhole from Ethereum)",
+      "name": "Akropolis (Wormhole)",
       "destAddresses": {
         "sol": "12uHjozDVgyGWeLqQ8DMCRbig8amW5VmvZu3FdMMdcaG",
       },
@@ -192,6 +192,18 @@ TOKENS = {
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G3h8NZgJozk9crme2me6sKDJuSQ12mNCtvC9NbSWqGuk/logo.png",
       "markets": {
         "sol": ["dexlab"],
+      }
+    },
+    "AUDIO": {
+      "symbol": "AUDIO",
+      "name": "Audius (Wormhole from Ethereum)",
+      "destAddresses": {
+        "sol": "9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM",
+        "terra": "terra1nc6flp57m5hsr6y5y8aexzszy43ksr0drdr8rp",
+      },
+      "sourceAddress": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+      "coingeckoId": "audius",
+      "markets": {
       }
     },
     "AXSet": {
@@ -208,6 +220,19 @@ TOKENS = {
         "sol": ["raydium", "francium"],
       }
     },
+    "BAT": {
+      "symbol": "BAT",
+      "name": "Basic Attention Token (Wormhole)",
+      "destAddresses": {
+        "sol": "EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz",
+        "terra": "terra1apxgj5agkkfdm2tprwvykug0qtahxvfmugnhx2",
+        "bsc": "0x31C78f583ed0288D67b2b80Dc5C443Bc3b15C661",
+      },
+      "sourceAddress": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+      "coingeckoId": "basic-attention-token",
+      "markets": {
+      }
+    },
     "BUSDet": {
       "symbol": "BUSDet",
       "name": "Binance USD (Wormhole from Ethereum)",
@@ -222,6 +247,17 @@ TOKENS = {
         "eth": ["curve"],
         "sol": ["saber", "sunny"],
       }
+    },
+    "CEL": {
+      "symbol": "CEL",
+      "name": "Celsius (Wormhole)",
+      "destAddresses": {
+        "sol": "nRtfwU9G82CSHhHGJNxFhtn7FLvWP2rqvQvje1WtL69",
+      },
+      "sourceAddress": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
+      "coingeckoId": "celsius-network",
+      "markets": {
+      },
     },
     "CREAM": {
       "symbol": "CREAM",
@@ -349,6 +385,18 @@ TOKENS = {
       "markets": {
         "sol": ["saber"],
       }
+    },
+    "HXRO": {
+      "symbol": "HXRO",
+      "name": "Hxro (Wormhole)",
+      "destAddresses": {
+        "sol": "HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK",
+      },
+      "sourceAddress": "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3",
+      "coingeckoId": "hxro",
+      "markets": {
+        "sol": ["dexlab"],
+      },
     },
     "HUSD": {
       "symbol": "HUSD",
@@ -492,6 +540,17 @@ TOKENS = {
         "eth": ["curve"],
         "sol": ["saber", "almond"],
       }
+    },
+    "SXP": {
+      "symbol": "SXP",
+      "name": "Swipe (Wormhole)",
+      "destAddresses": {
+        "sol": "3CyiEDRehaGufzkpXJitCP5tvh7cNhRqd9rPBxZrgK5z",
+      },
+      "sourceAddress": "0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9",
+      "coingeckoId": "swipe",
+      "markets": {
+      },
     },
     "SUSHI": {
       "symbol": "SUSHI",
