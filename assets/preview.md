@@ -318,6 +318,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/gOHM
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ibBTC_wh.png
 ```
 
+### bETH
+![bETH](bETH_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/bETH_wh.png
+```
+
 ### stETH
 ![stETH](stETH_wh.png)
 
