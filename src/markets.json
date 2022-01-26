@@ -961,6 +961,11 @@
             "uniswap"
           ]
         },
+        "terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz": {
+          "markets": [
+            "anchor"
+          ]
+        },
         "terra1zmclyfepfmqvfqflu8r3lv6f75trmg05z7xq95": {
           "markets": [
             "curve"
