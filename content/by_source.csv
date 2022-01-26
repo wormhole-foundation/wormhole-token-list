@@ -17,7 +17,7 @@ eth,ALICE,My Neighbor Alice (Wormhole),0xac51066d7bec65dc4589368da368b212745d63e
 eth,AMP,Amp (Wormhole),0xff20817765cb7f73d4bde2e66e067e58d11095c2,amp,,D559HwgjYGDYsXpmFUKxhFTEwutvS9sya1kXiyCVogCV,,,,,,
 eth,AMPL,Ampleforth (Wormhole),0xd46ba6d942050d489dbd938a2c909a5d5039a161,ampleforth,,EHKQvJGu48ydKA4d3RivrkNyTJTkSdoS32UafxSX1yak,,,,,,
 eth,ANKR,Ankr Network (Wormhole),0x8290333cef9e6d528dd5618fb97a76f268f3edd4,ankr-network,,Gq2norJ1kBemBp3mPfkgAUMhMMmnFmY4zEyi26tRcxFB,,,,,,
-eth,AUDIO,Audius (Wormhole from Ethereum),0x18aaa7115705e8be94bffebde57af9bfc265b998,audius,,9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM,,,terra1nc6flp57m5hsr6y5y8aexzszy43ksr0drdr8rp,,,
+eth,AUDIO,Audius (Wormhole),0x18aaa7115705e8be94bffebde57af9bfc265b998,audius,,9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM,,,terra1nc6flp57m5hsr6y5y8aexzszy43ksr0drdr8rp,,,
 eth,AXSet,Axie Infinity Shard (Wormhole from Ethereum),0xbb0e17ef65f82ab018d8edd776e8dd940327b28b,axie-infinity,https://etherscan.io/token/images/axieinfinityshard_32.png,HysWcbHiYY9888pHbaqhwLYZQeZrcQMXKQWRqS7zcPK5,,0x556b60c53fbC1518Ad17E03d52E47368dD4d81B3,,,,
 eth,BAT,Basic Attention Token (Wormhole),0x0d8775f648430679a709e98d2b0cb6250d2887ef,basic-attention-token,,EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz,,0x31C78f583ed0288D67b2b80Dc5C443Bc3b15C661,terra1apxgj5agkkfdm2tprwvykug0qtahxvfmugnhx2,,,
 eth,BNT,Bancor (Wormhole),0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c,bancor-network,,EDVVEYW4fPJ6vKw5LZXRGUSPzxoHrv6eWvTqhCr8oShs,,,,,,
@@ -32,7 +32,7 @@ eth,CVX,Convex Token (Wormhole),0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b,conve
 eth,DAI,DAI (Wormhole),0x6b175474e89094c44da98b954eedeac495271d0f,dai,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG/logo.png,EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o,,0x3413a030EF81a3dD5a302F4B4D11d911e12ed337,terra1zmclyfepfmqvfqflu8r3lv6f75trmg05z7xq95,,,
 eth,DYDX,dYdX (Wormhole),0x92d6c1e31e14520e676a687f0a93788b716beff5,dydx,https://etherscan.io/token/images/dydx2_32.png,4Hx6Bj56eGyw8EJrrheM6LBQAvVYRikYCWsALeTrwyRU,,,,,,
 eth,ELON,Dogelon Mars (Wormhole),0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3,dogelon-mars,,6nKUU36URHkewHg5GGGAgxs6szkE4VTioGUT5txQqJFU,,,,,,
-eth,ENJ,Enjin (Wormhole),0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,enjin-coin,,EXExWvT6VyYxEjFzF5BrUxt5GZMPVZnd48y3iWrRefMq,,,,,,
+eth,ENJ,EnjinCoin (Wormhole),0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,enjin,,EXExWvT6VyYxEjFzF5BrUxt5GZMPVZnd48y3iWrRefMq,,,,,,
 eth,ENS,Ethereum Name Service (Wormhole),0xc18360217d8f7ab5e7c516566761ea12ce7f9d72,ethereum-name-service,,CLQsDGoGibdNPnVCFp8BAsN2unvyvb41Jd5USYwAnzAg,,,,,,
 eth,ETH,Ether (Wormhole),0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,ether,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png,7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs,,0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA,terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r,0x11CD37bb86F65419713f30673A480EA33c826872,0x8b82A291F83ca07Af22120ABa21632088fC92931,0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F
 eth,FRAX,Frax (Wormhole),0x853d955acef822db058eb8505911ed77f175b99e,frax,https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp/logo.png,FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp,,,,,,

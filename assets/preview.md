@@ -94,6 +94,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AAVE
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AKRO_wh.png
 ```
 
+### ALICE
+![ALICE](ALICE_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ALICE_wh.png
+```
+
 ### AUDIO
 ![AUDIO](AUDIO_wh.png)
 
@@ -129,6 +136,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BUSD
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CEL_wh.png
 ```
 
+### CHZ
+![CHZ](CHZ_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CHZ_wh.png
+```
+
 ### CREAM
 ![CREAM](CREAM_wh.png)
 
@@ -148,6 +162,20 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/DAI_
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/DYDX_wh.png
+```
+
+### ELON
+![ELON](ELON_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ELON_wh.png
+```
+
+### ENJ
+![ENJ](ENJ_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ENJ_wh.png
 ```
 
 ### ETH
