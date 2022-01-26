@@ -269,6 +269,13 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LINK
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MANA_wh.png
 ```
 
+### MATICet
+![MATICet](MATICet_wh.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATICet_wh.png
+```
+
 ### MIMet
 ![MIMet](MIMet_wh.png)
 
