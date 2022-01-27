@@ -1100,6 +1100,16 @@ TOKENS = {
         "terra": ["anchor"]
       }
     },
+    "wstETH": {
+      "symbol": "wstETH",
+      "name": "Lido wstETH (Wormhole)",
+      "destAddresses": {
+        "terra": "terra133chr09wu8sakfte5v7vd8qzq9vghtkv4tn0ur"
+      },
+      "sourceAddress": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "coingeckoId": "wrapped-steth",
+      "logo": "https://static.lido.fi/wstETH/wstETH.png"
+    },
     "stETH": {
       "symbol": "stETH",
       "name": "Lido Staked Ether (Wormhole)",
