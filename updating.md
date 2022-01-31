@@ -16,8 +16,9 @@ then are dictionaries with the following entries:
 * `sourceAddress`: the address on the source chain
 * `destAddresses`: a dictionary mapping dest chains to addresses (use the [Token Origin Verifier](https://wormholebridge.com/#/token-origin-verifier) to look this up)
 * `markets`: a dictionary mapping dest chains to a list of market names where the wrapped asset is tradable
-* `coingeckoId`: e.g. `star-atlas` if the coingecko url is `https://www.coingecko.com/en/coins/star-atlas`
-* `logo`: link to thumbnail of the logo (can copy image url from etherscan or coingecko)
+* `coingeckoId`: the API id on the 'Info' section of coingecko, generally the last part of the url
+  * e.g. `star-atlas` if the coingecko url is `https://www.coingecko.com/en/coins/star-atlas`
+* `logo`: link to thumbnail of the logo (can copy image url from etherscan or coinmarketcap).  OR you can save a png in [src/logogen/base](src/logogen/base).
 
 Example:
 ```python

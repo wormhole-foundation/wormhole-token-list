@@ -6,17 +6,18 @@ import tempfile
 from io import BytesIO
 from PIL import Image
 
-from config.constants import SUFFIXES
+from config.constants import SUFFIXES, SOURCE_INFO
 from config.token_data import TOKENS
 
 
-L = 120
-S = int(L * 0.35)
+L = 120  # dim of image
+S = int(L * 0.35)  # dim of wormhole logo
 OFFSET = 0
 REM = L-S
 STANDARD_DIM = (L, L)
 MINI_DIM = (S, S)
 
+PREVIEW_SIZE = 50  # 50x50
 
 dir_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'logogen')
 BASE_PATH = os.path.join(dir_path, 'base')
@@ -107,11 +108,19 @@ def write_logo(name, outpath, wormhole=True, chain=None, style=None):
   composite = get_logo(name, wormhole=wormhole, chain=chain, style=style)
   composite.save(outpath)
 
+  preview = composite.resize((PREVIEW_SIZE, PREVIEW_SIZE)).convert('RGBA')
+  preview_path = outpath.replace('.png', '_small.png')
+  preview.save(preview_path)
+
 
 def write_logos(overwrite=False, style=None):
-  text = []
+  text = ["by source chain:"]
+  for chain_name, _, _, _ in SOURCE_INFO.values():
+    text.append("* [%s](#source-chain-%s)" % (chain_name, chain_name.lower()))
+  text.append("")
   for src_chain, tok_list in TOKENS.items():
-    text.append('## source chain: %s' % src_chain)
+    chain_name = SOURCE_INFO[src_chain][0]
+    text.append('## source chain: %s' % chain_name )
     tokens = tok_list.keys()
     for tok in tokens:
       use_chain = tok[-2:] in SUFFIXES
@@ -121,6 +130,7 @@ def write_logos(overwrite=False, style=None):
         print('wrote %s' % outpath)
       text.append('### %s' % tok)
       text.append('![%s](%s_wh.png)' % (tok, tok))
+      text.append('![%s](%s_wh_small.png)' % (tok, tok))
       text.append('\n```\nhttps://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/%s_wh.png\n```' % tok)
       text.append('')
     text.append('')
