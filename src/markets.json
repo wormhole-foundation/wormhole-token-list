@@ -2910,6 +2910,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATICet_wh.png",
         "symbol": "MATICet"
       },
+      "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0": {
+        "logo": "https://static.lido.fi/wstETH/wstETH.png",
+        "symbol": "wstETH"
+      },
       "0x8290333cef9e6d528dd5618fb97a76f268f3edd4": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ANKR_wh.png",
         "symbol": "ANKR"
@@ -3111,6 +3115,10 @@
       "terra12dfv3f0e6m22z6cnhfn3nxk2en3z3zeqy6ctym": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX/logo.png",
         "symbol": "LINK"
+      },
+      "terra133chr09wu8sakfte5v7vd8qzq9vghtkv4tn0ur": {
+        "logo": "https://static.lido.fi/wstETH/wstETH.png",
+        "symbol": "wstETH"
       },
       "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
