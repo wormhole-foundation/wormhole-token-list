@@ -11,8 +11,8 @@ from config.token_data import TOKENS
 
 
 L = 120
-S = int(L/4)
-OFFSET = int(L/60)
+S = int(L * 0.35)
+OFFSET = 0
 REM = L-S
 STANDARD_DIM = (L, L)
 MINI_DIM = (S, S)
