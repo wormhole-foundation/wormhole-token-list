@@ -162,6 +162,8 @@ def gen_dest_info(dest):
   header = """
 Known tokens (wormholed to %s)
 ===================================
+_See [by_dest.csv](by_dest.csv) ([raw](https://raw.githubusercontent.com/certusone/wormhole-token-list/main/content/by_dest.csv)) for a superset of this data in csv._
+
   """ % dest_full
   outpath = os.path.join(content_path, 'dest_%s.md' % dest_full.lower())
   with open(outpath, 'w') as f:
@@ -239,7 +241,8 @@ def gen_source_info(source):
   txt = df.to_markdown(index=False).replace('symbol_reprise', 'symbol')
   header = """
 Resultant wrapped-asset addresses (wormholing from %s)
-===================================
+_See [by_source.csv](by_source.csv) ([raw](https://raw.githubusercontent.com/certusone/wormhole-token-list/main/content/by_source.csv)) for a superset of this data in csv._
+=========================================================================
   """ % source_full
   outpath = os.path.join(content_path, 'source_%s.md' % source_full.lower())
   with open(outpath, 'w') as f:
