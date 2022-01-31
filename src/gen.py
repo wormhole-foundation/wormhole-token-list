@@ -13,16 +13,15 @@ from config.constants import SOURCE_INFO, CHAIN_IDS_TO_NAMES, CHAIN_NAMES_TO_IDS
 from config.market_urls import MARKETS
 from config.token_data import TOKENS as _ORIG_TOKENS
 
+from common import DIR_PATH, SRC_PATH, ASSET_PATH, get_logo_path, get_logo_raw_url
+
 
 CHAINS = SOURCE_INFO.keys()
-
-dir_path = os.path.dirname(os.path.realpath(__file__))
-assets_path = os.path.join(os.path.dirname(dir_path), 'assets')
-content_path = os.path.join(os.path.dirname(dir_path), 'content')
+CONTENT_PATH = os.path.join(DIR_PATH, 'content')
 
 # wormhole-specific token data is cached in digested version of file to make it
 # easier to understand diffs (eliminate distractions from shitcoins)
-SOLANA_DATA_PATH = os.path.join(dir_path, 'utils', 'solana_wormhole_tokens.json')
+SOLANA_DATA_PATH = os.path.join(SRC_PATH, 'utils', 'solana_wormhole_tokens.json')
 with open(SOLANA_DATA_PATH, 'r') as f:
   DEST_SOLANA_TOKENS = json.load(f)
 
@@ -68,7 +67,7 @@ def _link_source_address(source_chain, source_addr):
 
 
 def _get_img(tok):
-  filepath = os.path.join(assets_path, '%s_wh.png' % tok)
+  filepath = os.path.join(ASSET_PATH, '%s_wh.png' % tok)
   if os.path.exists(filepath):
     return '![%s](https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/%s_wh.png)' % (tok, tok)
   else:
@@ -98,6 +97,11 @@ def get_dest_df(dest):
         if dest in markets:
           entry['markets'] = markets[dest]
 
+      # overwrite logo if it exists
+      outpath = get_logo_path(coin)
+      if os.path.exists(outpath):
+        entry['logo'] = get_logo_raw_url(coin)
+
       tokens[coin] = entry
 
   return pd.DataFrame(tokens.values())
@@ -115,7 +119,7 @@ def gen_dest_csv():
   order = ['dest', 'symbol', 'name', 'address', 'origin', 'sourceAddress', 'coingeckoId',
            'logo', 'serumV3Usdc', 'serumV3Usdt']
   df = df[[c for c in order if c in df.columns]]
-  outpath = os.path.join(content_path, 'by_dest.csv')
+  outpath = os.path.join(CONTENT_PATH, 'by_dest.csv')
   df.to_csv(outpath, index=False)
   print('wrote %s' % outpath)
 
@@ -165,7 +169,7 @@ Known tokens (wormholed to %s)
 _See [by_dest.csv](by_dest.csv) ([raw](https://raw.githubusercontent.com/certusone/wormhole-token-list/main/content/by_dest.csv)) for a superset of this data in csv._
 
   """ % dest_full
-  outpath = os.path.join(content_path, 'dest_%s.md' % dest_full.lower())
+  outpath = os.path.join(CONTENT_PATH, 'dest_%s.md' % dest_full.lower())
   with open(outpath, 'w') as f:
     f.write(header + '\n' + txt)
   print('wrote %s' % outpath)
@@ -206,7 +210,7 @@ def gen_source_csv():
   order = ['source','symbol','name','sourceAddress','coingeckoId','logo'] + \
           ['%sAddress' % bc for bc in CHAINS]
   df = df[[c for c in order if c in columns]]
-  outpath = os.path.join(content_path, 'by_source.csv')
+  outpath = os.path.join(CONTENT_PATH, 'by_source.csv')
   df.to_csv(outpath, index=False)
   print('wrote %s' % outpath)
 
@@ -244,14 +248,10 @@ Resultant wrapped-asset addresses (wormholing from %s)
 _See [by_source.csv](by_source.csv) ([raw](https://raw.githubusercontent.com/certusone/wormhole-token-list/main/content/by_source.csv)) for a superset of this data in csv._
 =========================================================================
   """ % source_full
-  outpath = os.path.join(content_path, 'source_%s.md' % source_full.lower())
+  outpath = os.path.join(CONTENT_PATH, 'source_%s.md' % source_full.lower())
   with open(outpath, 'w') as f:
     f.write(header + '\n' + txt)
   print('wrote %s' % outpath)
-
-
-def get_raw_logo_url(token):
-  return 'https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/%s_wh.png' % token
 
 
 def gen_markets_json():
@@ -267,16 +267,23 @@ def gen_markets_json():
       addr = block['sourceAddress']
 
       # TODO: always use our logo?
-      logo = block['logo'] if 'logo' in block else get_raw_logo_url(symbol)
+      if os.path.exists(get_logo_path(symbol)):
+        logo = get_logo_raw_url(symbol)
+      elif 'logo' in block:
+        logo = block['logo']
+      else:
+        logo = None
 
       mapping = {chain_id: addr}
       for dest_chain, dest_addr in block['destAddresses'].items():
         mapping[CHAIN_NAMES_TO_IDS[dest_chain]] = dest_addr
       for dest_chain_id, addr in mapping.items():
-        token_output[str(dest_chain_id)][addr] = OrderedDict([
+        d = OrderedDict([
           ('symbol', symbol),
-          ('logo', logo),
         ])
+        if logo is not None:
+          d['logo'] = logo
+        token_output[str(dest_chain_id)][addr] = d
     output['tokens'] = token_output
 
   # tokenMarkets: {sourceChain -> {destChain -> {address -> {'markets': []}}}}
@@ -310,7 +317,7 @@ def gen_markets_json():
 
   output['tokenMarkets'] = token_markets
 
-  outpath = os.path.join(dir_path, 'markets.json')
+  outpath = os.path.join(SRC_PATH, 'markets.json')
   f = open(outpath, 'w')
   f.write(json.dumps(output, separators=(',', ': '), indent=2, ensure_ascii=True, sort_keys=True))
   print('wrote %s' % outpath)

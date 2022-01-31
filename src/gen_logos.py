@@ -9,6 +9,8 @@ from PIL import Image
 from config.constants import SUFFIXES, SOURCE_INFO
 from config.token_data import TOKENS
 
+from common import SRC_PATH, ASSET_PATH, get_logo_path, get_logo_raw_url
+
 
 L = 120  # dim of image
 S = int(L * 0.35)  # dim of wormhole logo
@@ -19,9 +21,7 @@ MINI_DIM = (S, S)
 
 PREVIEW_SIZE = 50  # 50x50
 
-dir_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'logogen')
-BASE_PATH = os.path.join(dir_path, 'base')
-ASSET_PATH = os.path.join(os.path.dirname(os.path.dirname(dir_path)), 'assets')
+BASE_PATH = os.path.join(SRC_PATH, 'logogen', 'base')
 
 
 def add_margin(pil_img, top, right, bottom, left, color=None):
@@ -37,7 +37,7 @@ def add_margin(pil_img, top, right, bottom, left, color=None):
 
 def get_chain_logo(chain_name):
   # bottom left
-  path = os.path.join(dir_path, 'components', '%s.png' % chain_name)
+  path = os.path.join(SRC_PATH, 'logogen', 'components', '%s.png' % chain_name)
   img = Image.open(path).resize(MINI_DIM).convert('RGBA')
   img = add_margin(img, L-S-OFFSET, L-S-OFFSET, OFFSET, OFFSET)
   return img
@@ -46,7 +46,7 @@ def get_chain_logo(chain_name):
 def get_wormhole_logo(style=None):
   # bottom right
   filename = 'wormhole' if style is None else 'wormhole_%s' % style
-  path = os.path.join(dir_path, 'components', filename + '.png')
+  path = os.path.join(SRC_PATH, 'logogen', 'components', filename + '.png')
   img = Image.open(path).resize(MINI_DIM).convert('RGBA')
   img = add_margin(img, L-S-OFFSET, OFFSET, OFFSET, L-S-OFFSET)
   return img
@@ -97,13 +97,6 @@ def get_logo(name, wormhole=True, chain=None, style=None):
   return composite
 
 
-def get_logo_path(name, wormhole=True, chain=None):
-  filename = name
-  if wormhole:
-    filename += "_wh"
-  return os.path.join(ASSET_PATH, '%s.png' % filename)
-
-
 def write_logo(name, outpath, wormhole=True, chain=None, style=None):
   composite = get_logo(name, wormhole=wormhole, chain=chain, style=style)
   composite.save(outpath)
@@ -124,14 +117,15 @@ def write_logos(overwrite=False, style=None):
     tokens = tok_list.keys()
     for tok in tokens:
       use_chain = tok[-2:] in SUFFIXES
-      outpath = get_logo_path(tok, wormhole=True, chain=src_chain if use_chain else None)
+      outpath = get_logo_path(tok, wormhole=True)
       if overwrite or not os.path.exists(outpath):
         write_logo(tok, outpath, wormhole=True, chain=src_chain if use_chain else None, style=style)
         print('wrote %s' % outpath)
       text.append('### %s' % tok)
       text.append('![%s](%s_wh.png)' % (tok, tok))
       text.append('![%s](%s_wh_small.png)' % (tok, tok))
-      text.append('\n```\nhttps://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/%s_wh.png\n```' % tok)
+      raw_path = get_logo_raw_url(tok)
+      text.append('\n```\n%s\n```' % raw_path)
       text.append('')
     text.append('')
   outpath = os.path.join(ASSET_PATH, 'preview.md')
