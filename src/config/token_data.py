@@ -149,7 +149,7 @@ TOKENS = {
   'eth': {
     "1INCH": {
       "symbol": "1INCH",
-      "name": "1INCH Token (Wormhole from Ethereum)",
+      "name": "1INCH Token (Wormhole)",
       "destAddresses": {
         "sol": "AjkPkq3nsyDe1yKcbyZT7N4aK4Evv9om9tzhQD3wsRC",
       },
@@ -171,7 +171,7 @@ TOKENS = {
     },
     "AAVE": {
       "symbol": "AAVE",
-      "name": "Aave Token (Wormhole from Ethereum)",
+      "name": "Aave Token (Wormhole)",
       "destAddresses": {
         "sol": "3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg",
       },
@@ -541,7 +541,7 @@ TOKENS = {
     },
     "GRT": {
       "symbol": "GRT",
-      "name": "Graph Token (Wormhole from Ethereum)",
+      "name": "Graph Token (Wormhole)",
       "destAddresses": {
         "sol": "HGsLG4PnZ28L8A4R5nPqKgZd86zUUdmfnkTRnuFJ5dAX",
       },
@@ -749,7 +749,7 @@ TOKENS = {
     },
     "ORION": {
       "symbol": "ORION",
-      "name": "Orion Money (Wormhole from Ethereum)",
+      "name": "Orion Money (Wormhole)",
       "destAddresses": {
         "terra": "terra1mddcdx0ujx89f38gu7zspk2r2ffdl5enyz2u03",
         "bsc": "0x3dcB18569425930954feb191122e574b87F66abd",
@@ -1072,7 +1072,7 @@ TOKENS = {
     },
     "YFI": {
       "symbol": "YFI",
-      "name": "yearn.finance (Wormhole from Ethereum)",
+      "name": "yearn.finance (Wormhole)",
       "destAddresses": {
         "sol": "BXZX2JRJFjvKazM1ibeDFxgAngKExb74MRXzXKvgikxX",
       },
