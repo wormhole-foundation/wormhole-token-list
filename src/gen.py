@@ -272,7 +272,7 @@ def gen_markets_json():
       elif 'logo' in block:
         logo = block['logo']
       else:
-        logo = None
+        raise Exception('no logo for %s' % symbol)
 
       mapping = {chain_id: addr}
       for dest_chain, dest_addr in block['destAddresses'].items():

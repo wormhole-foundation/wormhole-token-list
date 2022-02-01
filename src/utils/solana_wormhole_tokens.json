@@ -570,15 +570,6 @@
     "sourceContract": "https://etherscan.io/address/0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
     "coingeckoId": "nexus-mutual"
   },
-  "OHM": {
-    "symbol": "OHM",
-    "name": "Olympus (Wormhole)",
-    "address": "Afe9gSG8NcWicJtC58tUPGWG6pUcdK29d59BJuSAsePJ",
-    "origin": "eth",
-    "sourceAddress": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
-    "sourceContract": "https://etherscan.io/address/0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
-    "coingeckoId": "olympus"
-  },
   "PAXG": {
     "symbol": "PAXG",
     "name": "Paxos Gold (Wormhole)",

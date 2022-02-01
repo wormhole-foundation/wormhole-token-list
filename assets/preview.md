@@ -140,6 +140,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ALIC
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AMP_wh.png
 ```
 
+### AMPL
+![AMPL](AMPL_wh.png)
+![AMPL](AMPL_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AMPL_wh.png
+```
+
 ### ANKR
 ![ANKR](ANKR_wh.png)
 ![ANKR](ANKR_wh_small.png)
@@ -444,6 +452,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LINK
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LRC_wh.png
 ```
 
+### LUA
+![LUA](LUA_wh.png)
+![LUA](LUA_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LUA_wh.png
+```
+
 ### MANA
 ![MANA](MANA_wh.png)
 ![MANA](MANA_wh_small.png)
@@ -572,6 +588,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SLP_
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SNX_wh.png
 ```
 
+### SOS
+![SOS](SOS_wh.png)
+![SOS](SOS_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SOS_wh.png
+```
+
 ### SPELL
 ![SPELL](SPELL_wh.png)
 ![SPELL](SPELL_wh_small.png)
@@ -586,6 +610,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SPEL
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SRMet_wh.png
+```
+
+### SWAG
+![SWAG](SWAG_wh.png)
+![SWAG](SWAG_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SWAG_wh.png
 ```
 
 ### SXP
@@ -618,6 +650,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TOKE
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TRIBE_wh.png
+```
+
+### UBXT
+![UBXT](UBXT_wh.png)
+![UBXT](UBXT_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/UBXT_wh.png
 ```
 
 ### UFO
@@ -802,12 +842,28 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDT
 
 
 ## source chain: Polygon
+### DAIpo
+![DAIpo](DAIpo_wh.png)
+![DAIpo](DAIpo_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/DAIpo_wh.png
+```
+
 ### MATICpo
 ![MATICpo](MATICpo_wh.png)
 ![MATICpo](MATICpo_wh_small.png)
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATICpo_wh.png
+```
+
+### QUICK
+![QUICK](QUICK_wh.png)
+![QUICK](QUICK_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/QUICK_wh.png
 ```
 
 ### USDCpo
