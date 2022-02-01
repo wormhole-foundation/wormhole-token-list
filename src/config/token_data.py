@@ -120,7 +120,7 @@ TOKENS = {
         "avax": "0xF0FF231e3F1A50F83136717f287ADAB862f89431",
         "matic": "0x3553f861dec0257bada9f8ed268bf0d74e45e89c",
         "oasis": "0x24285C5232ce3858F00bacb950Cae1f59d1b2704",
-},
+      },
       "sourceAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "coingeckoId": "tether",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
@@ -224,6 +224,17 @@ TOKENS = {
       },
       "sourceAddress": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
       "coingeckoId": "amp"
+    },
+    "AMPL": {
+      "symbol": "AMPL",
+      "name": "Ampleforth (Wormhole)",
+      "destAddresses": {
+        "sol": "EHKQvJGu48ydKA4d3RivrkNyTJTkSdoS32UafxSX1yak",
+      },
+      "sourceAddress": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+      "coingeckoId": "ampleforth",
+      "markets": {
+      },
     },
     "ANKR": {
       "symbol": "ANKR",
@@ -672,6 +683,17 @@ TOKENS = {
       "markets": {
       },
     },
+    "LUA": {
+      "symbol": "LUA",
+      "name": "LuaSwap (Wormhole)",
+      "destAddresses": {
+        "sol": "5Wc4U1ZoQRzF4tPdqKQzBwRSjYe8vEf3EvZMuXgtKUW6",
+      },
+      "sourceAddress": "0xb1f66997a5760428d3a87d68b90bfe0ae64121cc",
+      "coingeckoId": "luaswap",
+      "markets": {
+      },
+    },
     "MANA": {
       "symbol": "MANA",
       "name": "Decentraland (Wormhole)",
@@ -849,6 +871,17 @@ TOKENS = {
       "sourceAddress": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
       "coingeckoId": "synthetix-network-token"
     },
+    "SOS": {
+      "symbol": "SOS",
+      "name": "OpenDAO (Wormhole)",
+      "destAddresses": {
+        "sol": "6Q5fvsJ6kgAFmisgDqqyaFd9FURYzHf8MCUbpAUaGZnE",
+      },
+      "sourceAddress": "0x3b484b82567a09e2588a13d54d032153f0c0aee0",
+      "coingeckoId": "opendao",
+      "markets": {
+      },
+    },
     "SPELL": {
       "symbol": "SPELL",
       "name": "Spell Token (Wormhole)",
@@ -872,6 +905,15 @@ TOKENS = {
         "eth": ["curve"],
         "sol": ["saber", "almond"],
       }
+    },
+    "SWAG": {
+      "symbol": "SWAG",
+      "name": "SWAG Finance (Wormhole)",
+      "destAddresses": {
+        "sol": "5hcdG6NjQwiNhVa9bcyaaDsCyA1muPQ6WRzQwHfgeeKo",
+      },
+      "sourceAddress": "0x87edffde3e14c7a66c9b9724747a1c5696b742e6",
+      "coingeckoId": "swag-finance"
     },
     "SXP": {
       "symbol": "SXP",
@@ -916,6 +958,17 @@ TOKENS = {
       },
       "sourceAddress": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
       "coingeckoId": "tribe",
+      "markets": {
+      },
+    },
+    "UBXT": {
+      "symbol": "UBXT",
+      "name": "UpBots (Wormhole)",
+      "destAddresses": {
+        "sol": "FTtXEUosNn6EKG2SQtfbGuYB4rBttreQQcoWn1YDsuTq",
+      },
+      "sourceAddress": "0x8564653879a18c560e7c0ea0e084c516c62f5653",
+      "coingeckoId": "upbots",
       "markets": {
       },
     },
@@ -1269,6 +1322,15 @@ TOKENS = {
   # 5. Polygon native
   #####################
   'matic': {
+    "DAIpo": {
+      "symbol": "DAIpo",
+      "name": "DAI (Wormhole from Polygon)",
+      "destAddresses": {
+        "sol": "4Fo67MYQpVhZj9R7jQTd63FPAnWbPpaafAUxsMGX2geP",
+      },
+      "sourceAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "coingeckoId": "dai",
+    },
     "MATICpo": {
       "symbol": "MATICpo",
       "name": "MATIC (Wormhole from Polygon)",
@@ -1286,6 +1348,15 @@ TOKENS = {
         "eth": ["uniswap"],
         "bsc": ["pancakeswap"],
       }
+    },
+    "QUICK": {
+      "symbol": "QUICK",
+      "name": "Quickswap (Wormhole)",
+      "destAddresses": {
+        "sol": "5njTmK53Ss5jkiHHZvzabVzZj6ztu6WYWpAPYgbVnbjs",
+      },
+      "sourceAddress": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
+      "coingeckoId": "quickswap",
     },
     "USDCpo": {
       "symbol": "USDCpo",

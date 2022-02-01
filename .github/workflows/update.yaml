@@ -15,11 +15,11 @@ jobs:
       - name: Install dependencies
         run: python -m pip install -r requirements.txt
 
-      - name: Update content
-        run: npm run gen
-
       - name: Update logos
         run: npm run gen-logos
+
+      - name: Update content
+        run: npm run gen
 
       - name: Check for modified files
         id: git-check

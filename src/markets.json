@@ -2297,6 +2297,7 @@
         "symbol": "SAND"
       },
       "4Fo67MYQpVhZj9R7jQTd63FPAnWbPpaafAUxsMGX2geP": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/DAIpo_wh.png",
         "symbol": "DAIpo"
       },
       "4Hx6Bj56eGyw8EJrrheM6LBQAvVYRikYCWsALeTrwyRU": {
@@ -2324,6 +2325,7 @@
         "symbol": "CHZ"
       },
       "5Wc4U1ZoQRzF4tPdqKQzBwRSjYe8vEf3EvZMuXgtKUW6": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LUA_wh.png",
         "symbol": "LUA"
       },
       "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1": {
@@ -2331,9 +2333,11 @@
         "symbol": "USDTpo"
       },
       "5hcdG6NjQwiNhVa9bcyaaDsCyA1muPQ6WRzQwHfgeeKo": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SWAG_wh.png",
         "symbol": "SWAG"
       },
       "5njTmK53Ss5jkiHHZvzabVzZj6ztu6WYWpAPYgbVnbjs": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/QUICK_wh.png",
         "symbol": "QUICK"
       },
       "64L6o4G2H7Ln1vN7AHZsUMW4pbFciHyuwn4wUdSbcFxh": {
@@ -2345,6 +2349,7 @@
         "symbol": "FXS"
       },
       "6Q5fvsJ6kgAFmisgDqqyaFd9FURYzHf8MCUbpAUaGZnE": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SOS_wh.png",
         "symbol": "SOS"
       },
       "6nKUU36URHkewHg5GGGAgxs6szkE4VTioGUT5txQqJFU": {
@@ -2434,9 +2439,6 @@
       "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AURY_wh.png",
         "symbol": "AURY"
-      },
-      "Afe9gSG8NcWicJtC58tUPGWG6pUcdK29d59BJuSAsePJ": {
-        "symbol": "OHM"
       },
       "AjkPkq3nsyDe1yKcbyZT7N4aK4Evv9om9tzhQD3wsRC": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/1INCH_wh.png",
@@ -2539,6 +2541,7 @@
         "symbol": "BNT"
       },
       "EHKQvJGu48ydKA4d3RivrkNyTJTkSdoS32UafxSX1yak": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AMPL_wh.png",
         "symbol": "AMPL"
       },
       "EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz": {
@@ -2582,6 +2585,7 @@
         "symbol": "FRAX"
       },
       "FTtXEUosNn6EKG2SQtfbGuYB4rBttreQQcoWn1YDsuTq": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/UBXT_wh.png",
         "symbol": "UBXT"
       },
       "FUGsN8H74WjRBBMfQWcf9Kk32gebA9VnNaGxqwcVvUW7": {
@@ -2787,6 +2791,7 @@
         "symbol": "SAND"
       },
       "0x3b484b82567a09e2588a13d54d032153f0c0aee0": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SOS_wh.png",
         "symbol": "SOS"
       },
       "0x418D75f65a02b3D53B2418FB8E1fe493759c7605": {
@@ -2836,9 +2841,6 @@
       "0x5a98fcbea516cf06857215779fd812ca3bef1b32": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LDO_wh.png",
         "symbol": "LDO"
-      },
-      "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5": {
-        "symbol": "OHM"
       },
       "0x6b175474e89094c44da98b954eedeac495271d0f": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/DAI_wh.png",
@@ -2912,7 +2914,8 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FRAX_wh.png",
         "symbol": "FRAX"
       },
-      "0x8564653879a18C560E7C0Ea0E084c516C62F5653": {
+      "0x8564653879a18c560e7c0ea0e084c516c62f5653": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/UBXT_wh.png",
         "symbol": "UBXT"
       },
       "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec": {
@@ -2927,7 +2930,8 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RSR_wh.png",
         "symbol": "RSR"
       },
-      "0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6": {
+      "0x87edffde3e14c7a66c9b9724747a1c5696b742e6": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SWAG_wh.png",
         "symbol": "SWAG"
       },
       "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7": {
@@ -2991,6 +2995,7 @@
         "symbol": "stETH"
       },
       "0xb1f66997a5760428d3a87d68b90bfe0ae64121cc": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LUA_wh.png",
         "symbol": "LUA"
       },
       "0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7": {
@@ -3054,6 +3059,7 @@
         "symbol": "RPL"
       },
       "0xd46ba6d942050d489dbd938a2c909a5d5039a161": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AMPL_wh.png",
         "symbol": "AMPL"
       },
       "0xd533a949740bb3306d119cc777fa900ba034cd52": {
@@ -3410,15 +3416,17 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ORION_wh.png",
         "symbol": "ORION"
       },
+      "0x6b175474e89094c44da98b954eedeac495271d0f": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/DAIpo_wh.png",
+        "symbol": "DAIpo"
+      },
       "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AVAX_wh.png",
         "symbol": "AVAX"
       },
       "0x831753dd7087cac61ab5644b308642cc1c33dc13": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/QUICK_wh.png",
         "symbol": "QUICK"
-      },
-      "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063": {
-        "symbol": "DAIpo"
       },
       "0x9417669fBF23357D2774e9D421307bd5eA1006d2": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTet_wh.png",
