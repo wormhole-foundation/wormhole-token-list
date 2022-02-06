@@ -908,6 +908,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/JOE_
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCav_wh.png
 ```
 
+### USDTav
+![USDTav](USDTav_wh.png)
+![USDTav](USDTav_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTav_wh.png
+```
+
 
 ## source chain: Oasis
 ### ROSE

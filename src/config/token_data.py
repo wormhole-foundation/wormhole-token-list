@@ -1428,16 +1428,30 @@ TOKENS = {
       "coingeckoId": "joe",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CriXdFS9iRAYbGEQiTcUqbWwG9RBmYt5B6LwTnoJ61Sm/logo.png"
     },
-    "USDCav": {
+    "USDCav": {  # ERC20 USDC sent to avalanche via avalanche bridge; referred to as USDC.e
       "symbol": "USDCav",
       "name": "USD Coin (Wormhole from Avalanche)",
       "destAddresses": {
+        "sol": "AGqKX7F4mqJ8x2mUQVangJb5pWQJApaKoUfe5gXM53CV",
         "terra": "terra1pvel56a2hs93yd429pzv9zp5aptcjg5ulhkz7w",
+        "bsc": "0xc1F47175d96Fe7c4cD5370552e5954f384E3C791",
         "oasis": "0x05CbE6319Dcc937BdbDf0931466F4fFd0d392B47",
       },
       "sourceAddress": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
       "coingeckoId": "usd-coin",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+    },
+    "USDTav": {  # ERC20 USDT sent to avalanche via avalanche bridge; referred to as USDT.e
+      "symbol": "USDTav",
+      "name": "Tether USD (Wormhole from Avalanche)",
+      "destAddresses": {
+        "sol": "B2wfeYz5VtBnQVrX4M8F6FeDrprVrzKPws5qg1in8bzR",
+        "terra": "terra1eqvq3thjhye7anv6f6mhxpjhyvww8zjvqcdgjx",
+        "bsc": "0x2B90E061a517dB2BbD7E39Ef7F733Fd234B494CA",
+        "oasis": "0x05832a0905E516f29344ADBa1c2052a788B10129",
+      },
+      "sourceAddress": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+      "coingeckoId": "tether",
     }
   },
 
