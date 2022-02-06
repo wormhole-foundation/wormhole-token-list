@@ -43,7 +43,7 @@ MARKETS = {
     "link": "https://www.orca.so/"
   },
   "port": {
-    "name": "Port Finance",
+    "name": "Port",
     "link": "https://mainnet.port.finance/#/markets"
   },
   "raydium": {
@@ -87,7 +87,7 @@ MARKETS = {
     "link": "https://app.anchorprotocol.com/"
   },
   "loop": {
-    "name": "Loop Markets",
+    "name": "Loop",
     "link": "https://dex.loop.markets/"
   },
 
@@ -119,7 +119,7 @@ MARKETS = {
   # 7. oasis markets
   #######################
   "yuzu": {
-    "name": "Yuzu Swap",
+    "name": "YuzuSwap",
     "link": "https://yuzu-swap.com/"
   },
 }

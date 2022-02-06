@@ -38,7 +38,7 @@
     },
     "loop": {
       "link": "https://dex.loop.markets/",
-      "name": "Loop Markets"
+      "name": "Loop"
     },
     "mercurial": {
       "link": "https://mercurial.finance/",
@@ -54,7 +54,7 @@
     },
     "port": {
       "link": "https://mainnet.port.finance/#/markets",
-      "name": "Port Finance"
+      "name": "Port"
     },
     "quickswap": {
       "link": "https://quickswap.exchange/",
@@ -94,7 +94,7 @@
     },
     "yuzu": {
       "link": "https://yuzu-swap.com/",
-      "name": "Yuzu Swap"
+      "name": "YuzuSwap"
     }
   },
   "tokenMarkets": {
