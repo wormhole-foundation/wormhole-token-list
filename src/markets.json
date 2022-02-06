@@ -2428,6 +2428,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/GT_wh.png",
         "symbol": "GT"
       },
+      "AGqKX7F4mqJ8x2mUQVangJb5pWQJApaKoUfe5gXM53CV": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCav_wh.png",
+        "symbol": "USDCav"
+      },
       "ASk8bss7PoxfFVJfXnSJepj9KupTX15QaRnhdjs6DdYe": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RGT_wh.png",
         "symbol": "RGT"
@@ -2455,6 +2459,10 @@
       "AwEauVaTMQRB71WeDnwf1DWSBxaMKjEPuxyLr1uixFom": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/COMP_wh.png",
         "symbol": "COMP"
+      },
+      "B2wfeYz5VtBnQVrX4M8F6FeDrprVrzKPws5qg1in8bzR": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTav_wh.png",
+        "symbol": "USDTav"
       },
       "BCsFXYm81iqXyYmrLKgAp3AePcgLHnirb8FjTs6sjM7U": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SPELL_wh.png",
@@ -3160,6 +3168,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCso_wh.png",
         "symbol": "USDCso"
       },
+      "terra1eqvq3thjhye7anv6f6mhxpjhyvww8zjvqcdgjx": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTav_wh.png",
+        "symbol": "USDTav"
+      },
       "terra1fpfn2kkr8mv390wx4dtpfk3vkjx9ch3thvykl3": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/gOHM_wh.png",
         "symbol": "gOHM"
@@ -3274,6 +3286,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LUNA_wh.png",
         "symbol": "LUNA"
       },
+      "0x2B90E061a517dB2BbD7E39Ef7F733Fd234B494CA": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTav_wh.png",
+        "symbol": "USDTav"
+      },
       "0x31C78f583ed0288D67b2b80Dc5C443Bc3b15C661": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BAT_wh.png",
         "symbol": "BAT"
@@ -3365,6 +3381,10 @@
       "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BNB_wh.png",
         "symbol": "BNB"
+      },
+      "0xc1F47175d96Fe7c4cD5370552e5954f384E3C791": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCav_wh.png",
+        "symbol": "USDCav"
       },
       "0xc836d8dC361E44DbE64c4862D55BA041F88Ddd39": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATICpo_wh.png",
@@ -3526,12 +3546,20 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/UST_wh.png",
         "symbol": "UST"
       },
+      "0xc7198437980c041c805a1edcba50c1ce5db95118": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTav_wh.png",
+        "symbol": "USDTav"
+      },
       "0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATICpo_wh.png",
         "symbol": "MATICpo"
       }
     },
     "7": {
+      "0x05832a0905E516f29344ADBa1c2052a788B10129": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTav_wh.png",
+        "symbol": "USDTav"
+      },
       "0x05CbE6319Dcc937BdbDf0931466F4fFd0d392B47": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCav_wh.png",
         "symbol": "USDCav"
