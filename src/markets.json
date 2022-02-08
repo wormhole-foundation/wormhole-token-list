@@ -198,6 +198,11 @@
             "loop"
           ]
         },
+        "4CsZsUCoKFiaGyU7DEVDayqeVtG8iqgGDR6RjzQmzQao": {
+          "markets": [
+            "anchor"
+          ]
+        },
         "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs": {
           "markets": [
             "loop"
@@ -1372,6 +1377,11 @@
           "markets": [
             "loop"
           ]
+        },
+        "0x8b04E56A8cd5f4D465b784ccf564899F30Aaf88C": {
+          "markets": [
+            "anchor"
+          ]
         }
       },
       "5": {
@@ -2296,6 +2306,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SAND_wh.png",
         "symbol": "SAND"
       },
+      "4CsZsUCoKFiaGyU7DEVDayqeVtG8iqgGDR6RjzQmzQao": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/aUST_wh.png",
+        "symbol": "aUST"
+      },
       "4Fo67MYQpVhZj9R7jQTd63FPAnWbPpaafAUxsMGX2geP": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/DAIpo_wh.png",
         "symbol": "DAIpo"
@@ -3192,6 +3206,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SHIB_wh.png",
         "symbol": "SHIB"
       },
+      "terra1hzh9vpxhsk8253se0vv5jj6etdvxu3nv8z07zu": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/aUST_wh.png",
+        "symbol": "aUST"
+      },
       "terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LDO_wh.png",
         "symbol": "LDO"
@@ -3353,6 +3371,10 @@
       "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCbs_wh.png",
         "symbol": "USDCbs"
+      },
+      "0x8b04E56A8cd5f4D465b784ccf564899F30Aaf88C": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/aUST_wh.png",
+        "symbol": "aUST"
       },
       "0x91Ca579B0D47E5cfD5D0862c21D5659d39C8eCf0": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCso_wh.png",

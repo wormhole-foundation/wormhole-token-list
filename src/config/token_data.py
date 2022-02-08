@@ -1224,6 +1224,19 @@ TOKENS = {
         "matic": ["quickswap"],
       }
     },
+    "aUST": {
+      "symbol": "aUST",
+      "name": "AnchorUST (Wormhole)",
+      "destAddresses": {
+        "sol": "4CsZsUCoKFiaGyU7DEVDayqeVtG8iqgGDR6RjzQmzQao",
+        "bsc": "0x8b04E56A8cd5f4D465b784ccf564899F30Aaf88C",
+      },
+      "sourceAddress": "terra1hzh9vpxhsk8253se0vv5jj6etdvxu3nv8z07zu",
+      "coingeckoId": "anchorust",
+      "markets": {
+        "terra": ["anchor"],
+      }
+    },
   },
 
   #####################

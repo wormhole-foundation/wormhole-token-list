@@ -798,6 +798,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/UST_
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LUNA_wh.png
 ```
 
+### aUST
+![aUST](aUST_wh.png)
+![aUST](aUST_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/aUST_wh.png
+```
+
 
 ## source chain: BSC
 ### BNB
