@@ -142,6 +142,16 @@ TOKENS = {
       "coingeckoId": "marinade-staked-sol",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png"
     },
+    "XTAG": {
+      "symbol": "XTAG",
+      "name": "XTAG Token (Wormhole)",
+      "destAddresses": {
+        "avax": "0xa608d79c5f695c0d4c0e773a4938b57e18e0fc57",
+      },
+      "sourceAddress": "5gs8nf4wojB5EXgDUWNLwXpknzgV2YWDhveAeBZpVLbp",
+      "coingeckoId": "xhashtag",
+      "logo": "https://github.com/sudomon/wormhole-token-list/blob/main/src/logogen/base/xtag.png"
+    },
   },
   #####################
   # 2. Ethereum native
