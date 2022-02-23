@@ -86,7 +86,8 @@
     "origin": "eth",
     "sourceAddress": "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998",
     "sourceContract": "https://etherscan.io/address/0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998",
-    "coingeckoId": "audius"
+    "coingeckoId": "audius",
+    "serumV3Usdc": "FxquLRmVMPXiS84FFSp8q5fbVExhLkX85yiXucyu7xSC"
   },
   "AVAX": {
     "symbol": "AVAX",
