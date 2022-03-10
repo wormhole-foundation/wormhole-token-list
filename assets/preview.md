@@ -848,6 +848,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDC
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTbs_wh.png
 ```
 
+### EVRY
+![EVRY](EVRY_wh.png)
+![EVRY](EVRY_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/EVRY_wh.png
+```
+
 
 ## source chain: Polygon
 ### DAIpo

@@ -2602,6 +2602,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCbs_wh.png",
         "symbol": "USDCbs"
       },
+      "FDo4TPENcKdHtWMV56PSEjJmFfWUSRotLgW1EbPHreCB": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/EVRY_wh.png",
+        "symbol": "EVRY"
+      },
       "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FRAX_wh.png",
         "symbol": "FRAX"
@@ -3391,6 +3395,10 @@
       "0xB04906e95AB5D797aDA81508115611fee694c2b3": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCet_wh.png",
         "symbol": "USDCet"
+      },
+      "0xC2d4A3709e076A7A3487816362994a78ddaeabB6": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/EVRY_wh.png",
+        "symbol": "EVRY"
       },
       "0xF5a367b7809e5683538C93Ce638B9258A0B88271": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AURY_wh.png",

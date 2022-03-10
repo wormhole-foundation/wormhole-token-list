@@ -1329,6 +1329,15 @@ TOKENS = {
         "sol": ["saber", "mercurial"],
       }
     },
+    "EVRY": {
+      "symbol": "EVRY",
+      "name": "EvrynetToken (Wormhole)",
+      "destAddresses": {
+        "sol": "FDo4TPENcKdHtWMV56PSEjJmFfWUSRotLgW1EbPHreCB",
+      },
+      "sourceAddress": "0xC2d4A3709e076A7A3487816362994a78ddaeabB6",
+      "coingeckoId": "evrynet",
+    }, 
   },
 
   #####################
