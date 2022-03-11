@@ -122,4 +122,9 @@ MARKETS = {
     "name": "YuzuSwap",
     "link": "https://yuzu-swap.com/"
   },
+
+  "spookyswap": {
+    "name": "SpookySwap",
+    "link": "https://spookyswap.finance/"
+  },
 }
