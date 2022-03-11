@@ -8,6 +8,7 @@ by source chain:
 * [Polygon](#source-chain-polygon)
 * [Avalanche](#source-chain-avalanche)
 * [Oasis](#source-chain-oasis)
+* [Fantom](#source-chain-fantom)
 
 ## source chain: Solana
 ### ATLAS
@@ -932,5 +933,15 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDT
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ROSE_wh.png
+```
+
+
+## source chain: Fantom
+### FTM
+![FTM](FTM_wh.png)
+![FTM](FTM_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FTM_wh.png
 ```
 

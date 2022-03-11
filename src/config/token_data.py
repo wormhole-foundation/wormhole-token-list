@@ -67,6 +67,7 @@ TOKENS = {
         "avax": "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F",
         "matic": "0xd93f7e271cb87c23aaa73edc008a79646d1f9912",
         "oasis": "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc",
+        "ftm": "0xd99021C2A33e4Cf243010539c9e9b7c52E0236c1",
       },
       "sourceAddress": "So11111111111111111111111111111111111111112",
       "coingeckoId": "solana",
@@ -100,6 +101,7 @@ TOKENS = {
         "avax": "0x0950Fc1AD509358dAeaD5eB8020a3c7d8b43b9DA",
         "matic": "0x576cf361711cd940cd9c397bb98c4c896cbd38de",
         "oasis": "0x1d1149a53deB36F2836Ae7877c9176413aDfA4A8",
+        "ftm": "0xb8398DA4FB3BC4306B9D9d9d13d9573e7d0E299f",
       },
       "sourceAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "coingeckoId": "usd-coin",
@@ -1006,7 +1008,8 @@ TOKENS = {
         "bsc": "0xB04906e95AB5D797aDA81508115611fee694c2b3",
         "avax": "0xB24CA28D4e2742907115fECda335b40dbda07a4C",
         "matic": "0x4318cb63a2b8edf2de971e2f17f77097e499459d",
-        "oasis": "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD"
+        "oasis": "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD",
+        "ftm": "0x2Ec752329c3EB419136ca5e4432Aa2CDb1eA23e6",
       },
       "sourceAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
       "coingeckoId": "usd-coin",
@@ -1190,6 +1193,7 @@ TOKENS = {
         "matic": "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
         "avax": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
         "oasis": "0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2",
+        "ftm": "0x846e4D51d7E2043C1a87E0Ab7490B93FB940357b",
       },
       "sourceAddress": "uusd",
       "coingeckoId": "terra-usd",
@@ -1486,6 +1490,23 @@ TOKENS = {
       "sourceAddress": "0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",
       "coingeckoId": "oasis-network",
       "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png"
+    }
+  },
+
+  #################
+  # 8. Fantom native
+  #################
+  'ftm': {
+    "FTM": {
+      "symbol": "FTM",
+      "name": "Fantom (Wormhole)",
+      "destAddresses": {
+      },
+      "markets": {
+      },
+      "sourceAddress": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+      "coingeckoId": "fantom",
+      "logo": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png"
     }
   },
 }
