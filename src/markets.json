@@ -368,7 +368,8 @@
             "yuzu"
           ]
         }
-      }
+      },
+      "8": {}
     },
     "2": {
       "1": {
@@ -796,7 +797,8 @@
             "yuzu"
           ]
         }
-      }
+      },
+      "8": {}
     },
     "3": {
       "1": {
@@ -1136,7 +1138,8 @@
             "yuzu"
           ]
         }
-      }
+      },
+      "8": {}
     },
     "4": {
       "1": {
@@ -1465,7 +1468,8 @@
             "yuzu"
           ]
         }
-      }
+      },
+      "8": {}
     },
     "5": {
       "1": {
@@ -1704,7 +1708,8 @@
             "yuzu"
           ]
         }
-      }
+      },
+      "8": {}
     },
     "6": {
       "1": {
@@ -1964,7 +1969,8 @@
             "yuzu"
           ]
         }
-      }
+      },
+      "8": {}
     },
     "7": {
       "1": {
@@ -2251,6 +2257,123 @@
         "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc": {
           "markets": [
             "traderjoe"
+          ]
+        }
+      },
+      "8": {}
+    },
+    "8": {
+      "1": {
+        "0x2Ec752329c3EB419136ca5e4432Aa2CDb1eA23e6": {
+          "markets": [
+            "saber",
+            "mercurial",
+            "jupiter",
+            "sunny"
+          ]
+        },
+        "0x846e4D51d7E2043C1a87E0Ab7490B93FB940357b": {
+          "markets": [
+            "saber",
+            "mercurial",
+            "jupiter",
+            "aldrin",
+            "solend",
+            "sunny",
+            "apricot"
+          ]
+        }
+      },
+      "2": {
+        "0x2Ec752329c3EB419136ca5e4432Aa2CDb1eA23e6": {
+          "markets": [
+            "curve"
+          ]
+        },
+        "0x846e4D51d7E2043C1a87E0Ab7490B93FB940357b": {
+          "markets": [
+            "curve",
+            "uniswap"
+          ]
+        },
+        "0xb8398DA4FB3BC4306B9D9d9d13d9573e7d0E299f": {
+          "markets": [
+            "uniswap"
+          ]
+        },
+        "0xd99021C2A33e4Cf243010539c9e9b7c52E0236c1": {
+          "markets": [
+            "uniswap"
+          ]
+        }
+      },
+      "3": {
+        "0x846e4D51d7E2043C1a87E0Ab7490B93FB940357b": {
+          "markets": [
+            "anchor"
+          ]
+        }
+      },
+      "4": {
+        "0x2Ec752329c3EB419136ca5e4432Aa2CDb1eA23e6": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
+        "0x846e4D51d7E2043C1a87E0Ab7490B93FB940357b": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
+        "0xb8398DA4FB3BC4306B9D9d9d13d9573e7d0E299f": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
+        "0xd99021C2A33e4Cf243010539c9e9b7c52E0236c1": {
+          "markets": [
+            "pancakeswap"
+          ]
+        }
+      },
+      "5": {
+        "0x2Ec752329c3EB419136ca5e4432Aa2CDb1eA23e6": {
+          "markets": [
+            "quickswap"
+          ]
+        },
+        "0x846e4D51d7E2043C1a87E0Ab7490B93FB940357b": {
+          "markets": [
+            "quickswap"
+          ]
+        },
+        "0xb8398DA4FB3BC4306B9D9d9d13d9573e7d0E299f": {
+          "markets": [
+            "quickswap"
+          ]
+        },
+        "0xd99021C2A33e4Cf243010539c9e9b7c52E0236c1": {
+          "markets": [
+            "quickswap"
+          ]
+        }
+      },
+      "6": {
+        "0x846e4D51d7E2043C1a87E0Ab7490B93FB940357b": {
+          "markets": [
+            "traderjoe"
+          ]
+        },
+        "0xd99021C2A33e4Cf243010539c9e9b7c52E0236c1": {
+          "markets": [
+            "traderjoe"
+          ]
+        }
+      },
+      "7": {
+        "0x2Ec752329c3EB419136ca5e4432Aa2CDb1eA23e6": {
+          "markets": [
+            "yuzu"
           ]
         }
       }
@@ -3657,6 +3780,28 @@
       "0xf6568FD76f9fcD1f60f73b730F142853c5eF627E": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BUSDbs_wh.png",
         "symbol": "BUSDbs"
+      }
+    },
+    "8": {
+      "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FTM_wh.png",
+        "symbol": "FTM"
+      },
+      "0x2Ec752329c3EB419136ca5e4432Aa2CDb1eA23e6": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCet_wh.png",
+        "symbol": "USDCet"
+      },
+      "0x846e4D51d7E2043C1a87E0Ab7490B93FB940357b": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/UST_wh.png",
+        "symbol": "UST"
+      },
+      "0xb8398DA4FB3BC4306B9D9d9d13d9573e7d0E299f": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCso_wh.png",
+        "symbol": "USDCso"
+      },
+      "0xd99021C2A33e4Cf243010539c9e9b7c52E0236c1": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SOL_wh.png",
+        "symbol": "SOL"
       }
     }
   }
