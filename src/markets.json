@@ -2927,6 +2927,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TOKE_wh.png",
         "symbol": "TOKE"
       },
+      "0x30D20208d987713f46DFD34EF128Bb16C404D10f": {
+        "logo": " https://raw.githubusercontent.com/stader-labs/assets/main/eth/SD.png",
+        "symbol": "SD"
+      },
       "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FXS_wh.png",
         "symbol": "FXS"
@@ -3376,6 +3380,10 @@
       "terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/bETH_wh.png",
         "symbol": "bETH"
+      },
+      "terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02": {
+        "logo": " https://raw.githubusercontent.com/stader-labs/assets/main/eth/SD.png",
+        "symbol": "SD"
       },
       "terra1vlqeghv5mt5udh96kt5zxlh2wkh8q4kewkr0dd": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTbs_wh.png",
