@@ -83,6 +83,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDT
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/mSOL_wh.png
 ```
 
+### XTAG
+![XTAG](XTAG_wh.png)
+![XTAG](XTAG_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/XTAG_wh.png
+```
+
 
 ## source chain: Ethereum
 ### 1INCH

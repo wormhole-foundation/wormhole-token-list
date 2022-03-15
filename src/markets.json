@@ -2473,6 +2473,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTpo_wh.png",
         "symbol": "USDTpo"
       },
+      "5gs8nf4wojB5EXgDUWNLwXpknzgV2YWDhveAeBZpVLbp": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/XTAG_wh.png",
+        "symbol": "XTAG"
+      },
       "5hcdG6NjQwiNhVa9bcyaaDsCyA1muPQ6WRzQwHfgeeKo": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SWAG_wh.png",
         "symbol": "SWAG"
@@ -3690,6 +3694,10 @@
       "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SOL_wh.png",
         "symbol": "SOL"
+      },
+      "0xa608d79c5f695c0d4c0e773a4938b57e18e0fc57": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/XTAG_wh.png",
+        "symbol": "XTAG"
       },
       "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCav_wh.png",
