@@ -781,6 +781,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/wstE
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/stETH_wh.png
 ```
 
+### SD
+![SD](SD_wh.png)
+![SD](SD_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SD_wh.png
+```
+
 
 ## source chain: Terra
 ### UST
