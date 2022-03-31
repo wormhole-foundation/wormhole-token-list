@@ -5,7 +5,7 @@ TOKENS = {
   'sol': {
     "ATLAS": {
       "symbol": "ATLAS",
-      "name": "Star Atlas (Wormhole)",
+      "name": "Star Atlas (Portal)",
       "destAddresses": {
         "eth": "0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7",
         "terra": "terra1rg8f993m9834afwazersesgx7jjxv4p87q9wvc",
@@ -20,7 +20,7 @@ TOKENS = {
     },
     "AURY": {
       "symbol": "AURY",
-      "name": "Aurory (Wormhole)",
+      "name": "Aurory (Portal)",
       "destAddresses": {
         "bsc": "0xF5a367b7809e5683538C93Ce638B9258A0B88271"
       },
@@ -33,7 +33,7 @@ TOKENS = {
     },
     "RAY": {
       "symbol": "RAY",
-      "name": "Raydium (Wormhole)",
+      "name": "Raydium (Portal)",
       "destAddresses": {
         "eth": "0xE617dd80c621a5072bD8cBa65E9d76c07327004d",
         "terra": "terra1ht5sepn28z999jx33sdduuxm9acthad507jg9q",
@@ -48,7 +48,7 @@ TOKENS = {
     },
     "SBR": {
       "symbol": "SBR",
-      "name": "Saber (Wormhole)",
+      "name": "Saber (Portal)",
       "destAddresses": {
         "terra": "terra17h82zsq6q8x5tsgm5ugcx4gytw3axguvzt4pkc",
         "bsc": "0x75344E5693ed5ecAdF4f292fFeb866c2cF8afCF1"
@@ -59,7 +59,7 @@ TOKENS = {
     },
     "SOL": {
       "symbol": "SOL",
-      "name": "SOL (Wormhole)",
+      "name": "SOL (Portal)",
       "destAddresses": {
         "eth": "0xD31a59c85aE9D8edEFeC411D448f90841571b89c",
         "terra": "terra190tqwgqx7s8qrknz6kckct7v607cu068gfujpk",
@@ -81,7 +81,7 @@ TOKENS = {
     },
     "SRMso": {
       "symbol": "SRMso",
-      "name": "Serum (Wormhole from Solana)",
+      "name": "Serum (Portal from Solana)",
       "destAddresses": {
         "eth": "0xE3ADAA4fb7c92AB833Ee08B3561D9c434aA2A3eE",
         "terra": "terra1dkam9wd5yvaswv4yq3n2aqd4wm5j8n82qc0c7c",
@@ -93,7 +93,7 @@ TOKENS = {
     },
     "USDCso": {
       "symbol": "USDCso",
-      "name": "USD Coin (Wormhole from Solana)",
+      "name": "USD Coin (Portal from Solana)",
       "destAddresses": {
         "eth": "0x41f7B8b9b897276b7AAE926a9016935280b44E97",
         "terra": "terra1e6mq63y64zcxz8xyu5van4tgkhemj3r86yvgu4",
@@ -114,7 +114,7 @@ TOKENS = {
     },
     "USDTso": {
       "symbol": "USDTso",
-      "name": "Tether USD (Wormhole from Solana)",
+      "name": "Tether USD (Portal from Solana)",
       "destAddresses": {
         "eth": "0x1CDD2EaB61112697626F7b4bB0e23Da4FeBF7B7C",
         "terra": "terra1hd9n65snaluvf7en0p4hqzse9eqecejz2k8rl5",
@@ -134,7 +134,7 @@ TOKENS = {
     },
     "mSOL": {
       "symbol": "mSOL",
-      "name": "Marinade staked SOL (Wormhole)",
+      "name": "Marinade staked SOL (Portal)",
       "destAddresses": {
         "eth": "0x756bFb452cFE36A5Bc82e4F5f4261A89a18c242b",
         "terra": "terra1qvlpf2v0zmru3gtex40sqq02wxp39x3cjh359y",
@@ -146,7 +146,7 @@ TOKENS = {
     },
     "XTAG": {
       "symbol": "XTAG",
-      "name": "XTAG Token (Wormhole)",
+      "name": "XTAG Token (Portal)",
       "destAddresses": {
         "avax": "0xa608d79c5f695c0d4c0e773a4938b57e18e0fc57",
       },
@@ -161,7 +161,7 @@ TOKENS = {
   'eth': {
     "1INCH": {
       "symbol": "1INCH",
-      "name": "1INCH Token (Wormhole)",
+      "name": "1INCH Token (Portal)",
       "destAddresses": {
         "sol": "AjkPkq3nsyDe1yKcbyZT7N4aK4Evv9om9tzhQD3wsRC",
       },
@@ -173,7 +173,7 @@ TOKENS = {
     },
     "1SOL": {
       "symbol": "1SOL",
-      "name": "1sol.io (Wormhole)",
+      "name": "1sol.io (Portal)",
       "destAddresses": {
         "sol": "4ThReWAbAVZjNVgs5Ui9Pk3cZ5TYaD9u6Y89fp6EFzoF"
       },
@@ -183,7 +183,7 @@ TOKENS = {
     },
     "AAVE": {
       "symbol": "AAVE",
-      "name": "Aave Token (Wormhole)",
+      "name": "Aave Token (Portal)",
       "destAddresses": {
         "sol": "3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg",
       },
@@ -195,7 +195,7 @@ TOKENS = {
     },
     "AKRO": {
       "symbol": "AKRO",
-      "name": "Akropolis (Wormhole)",
+      "name": "Akropolis (Portal)",
       "destAddresses": {
         "sol": "12uHjozDVgyGWeLqQ8DMCRbig8amW5VmvZu3FdMMdcaG",
       },
@@ -208,7 +208,7 @@ TOKENS = {
     },
     "ALEPH": {
       "symbol": "ALEPH",
-      "name": "Aleph.im (Wormhole)",
+      "name": "Aleph.im (Portal)",
       "destAddresses": {
         "sol": "3UCMiSnkcnkPE1pgQ5ggPCBv6dXgVUy16TmMUe1WpG9x",
       },
@@ -219,7 +219,7 @@ TOKENS = {
     },
     "ALICE": {
       "symbol": "ALICE",
-      "name": "My Neighbor Alice (Wormhole)",
+      "name": "My Neighbor Alice (Portal)",
       "destAddresses": {
         "sol": "9ARQsBfAn65q522cEqSJuse3cLhA31jgWDBGQHeiq7Mg",
       },
@@ -230,7 +230,7 @@ TOKENS = {
     },
     "AMP": {
       "symbol": "AMP",
-      "name": "Amp (Wormhole)",
+      "name": "Amp (Portal)",
       "destAddresses": {
         "sol": "D559HwgjYGDYsXpmFUKxhFTEwutvS9sya1kXiyCVogCV",
       },
@@ -239,7 +239,7 @@ TOKENS = {
     },
     "AMPL": {
       "symbol": "AMPL",
-      "name": "Ampleforth (Wormhole)",
+      "name": "Ampleforth (Portal)",
       "destAddresses": {
         "sol": "EHKQvJGu48ydKA4d3RivrkNyTJTkSdoS32UafxSX1yak",
       },
@@ -250,7 +250,7 @@ TOKENS = {
     },
     "ANKR": {
       "symbol": "ANKR",
-      "name": "Ankr (Wormhole)",
+      "name": "Ankr (Portal)",
       "destAddresses": {
         "sol": "Gq2norJ1kBemBp3mPfkgAUMhMMmnFmY4zEyi26tRcxFB",
       },
@@ -259,7 +259,7 @@ TOKENS = {
     },
     "AUDIO": {
       "symbol": "AUDIO",
-      "name": "Audius (Wormhole)",
+      "name": "Audius (Portal)",
       "destAddresses": {
         "sol": "9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM",
         "terra": "terra1nc6flp57m5hsr6y5y8aexzszy43ksr0drdr8rp",
@@ -271,7 +271,7 @@ TOKENS = {
     },
     "AXSet": {
       "symbol": "AXSet",
-      "name": "Axie Infinity Shard (Wormhole from Ethereum)",
+      "name": "Axie Infinity Shard (Portal from Ethereum)",
       "destAddresses": {
         "sol": "HysWcbHiYY9888pHbaqhwLYZQeZrcQMXKQWRqS7zcPK5",
         "bsc": "0x556b60c53fbC1518Ad17E03d52E47368dD4d81B3"
@@ -285,7 +285,7 @@ TOKENS = {
     },
     "BAT": {
       "symbol": "BAT",
-      "name": "Basic Attention Token (Wormhole)",
+      "name": "Basic Attention Token (Portal)",
       "destAddresses": {
         "sol": "EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz",
         "terra": "terra1apxgj5agkkfdm2tprwvykug0qtahxvfmugnhx2",
@@ -298,7 +298,7 @@ TOKENS = {
     },
     "BNT": {
       "symbol": "BNT",
-      "name": "Bancor Network Token (Wormhole)",
+      "name": "Bancor Network Token (Portal)",
       "destAddresses": {
         "sol": "EDVVEYW4fPJ6vKw5LZXRGUSPzxoHrv6eWvTqhCr8oShs",
       },
@@ -309,7 +309,7 @@ TOKENS = {
     },
     "BUSDet": {
       "symbol": "BUSDet",
-      "name": "Binance USD (Wormhole from Ethereum)",
+      "name": "Binance USD (Portal from Ethereum)",
       "destAddresses": {
         "sol": "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX",
         "bsc": "0x035de3679E692C471072d1A09bEb9298fBB2BD31"
@@ -324,7 +324,7 @@ TOKENS = {
     },
     "CEL": {
       "symbol": "CEL",
-      "name": "Celsius (Wormhole)",
+      "name": "Celsius (Portal)",
       "destAddresses": {
         "sol": "nRtfwU9G82CSHhHGJNxFhtn7FLvWP2rqvQvje1WtL69",
       },
@@ -335,7 +335,7 @@ TOKENS = {
     },
     "CHZ": {
       "symbol": "CHZ",
-      "name": "Chiliz (Wormhole)",
+      "name": "Chiliz (Portal)",
       "destAddresses": {
         "sol": "5TtSKAamFq88grN1QGrEaZ1AjjyciqnCya1aiMhAgFvG",
       },
@@ -346,7 +346,7 @@ TOKENS = {
     },
     "COMP": {
       "symbol": "COMP",
-      "name": "Compound (Wormhole)",
+      "name": "Compound (Portal)",
       "destAddresses": {
         "sol": "AwEauVaTMQRB71WeDnwf1DWSBxaMKjEPuxyLr1uixFom",
       },
@@ -358,7 +358,7 @@ TOKENS = {
     },
     "CREAM": {
       "symbol": "CREAM",
-      "name": "Cream (Wormhole)",
+      "name": "Cream (Portal)",
       "destAddresses": {
         "sol": "HihxL2iM6L6P1oqoSeiixdJ3PhPYNxvSKH9A2dDqLVDH",
       },
@@ -370,7 +370,7 @@ TOKENS = {
     },
     "CRO": {
       "symbol": "CRO",
-      "name": "Crypto.com Coin (Wormhole)",
+      "name": "Crypto.com Coin (Portal)",
       "destAddresses": {
         "sol": "DvjMYMVeXgKxaixGKpzQThLoG98nc7HSU7eanzsdCboA",
       },
@@ -381,7 +381,7 @@ TOKENS = {
     },
     "CRV": {
       "symbol": "CRV",
-      "name": "Curve DAO Token (Wormhole)",
+      "name": "Curve DAO Token (Portal)",
       "destAddresses": {
         "sol": "7gjNiPun3AzEazTZoFEjZgcBMeuaXdpjHq2raZTmTrfs",
       },
@@ -392,7 +392,7 @@ TOKENS = {
     },
     "CVX": {
       "symbol": "CVX",
-      "name": "Convex Finance (Wormhole)",
+      "name": "Convex Finance (Portal)",
       "destAddresses": {
         "sol": "BLvmrccP4g1B6SpiVvmQrLUDya1nZ4B2D1nm9jzKF7sz",
       },
@@ -403,7 +403,7 @@ TOKENS = {
     },
     "DAI": {
       "symbol": "DAI",
-      "name": "DAI (Wormhole)",
+      "name": "DAI (Portal)",
       "destAddresses": {
         "sol": "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o",
         "bsc": "0x3413a030EF81a3dD5a302F4B4D11d911e12ed337",
@@ -419,7 +419,7 @@ TOKENS = {
     },
     "DYDX": {
       "symbol": "DYDX",
-      "name": "dYdX (Wormhole)",
+      "name": "dYdX (Portal)",
       "destAddresses": {
         "sol": "4Hx6Bj56eGyw8EJrrheM6LBQAvVYRikYCWsALeTrwyRU"
       },
@@ -432,7 +432,7 @@ TOKENS = {
     },
     "ELON": {
       "symbol": "ELON",
-      "name": "Dogelon Mars (Wormhole)",
+      "name": "Dogelon Mars (Portal)",
       "destAddresses": {
         "sol": "6nKUU36URHkewHg5GGGAgxs6szkE4VTioGUT5txQqJFU",
       },
@@ -443,7 +443,7 @@ TOKENS = {
     },
     "ENJ": {
       "symbol": "ENJ",
-      "name": "EnjinCoin (Wormhole)",
+      "name": "EnjinCoin (Portal)",
       "destAddresses": {
         "sol": "EXExWvT6VyYxEjFzF5BrUxt5GZMPVZnd48y3iWrRefMq",
       },
@@ -454,7 +454,7 @@ TOKENS = {
     },
     "ENS": {
       "symbol": "ENS",
-      "name": "Ethereum Name Service (Wormhole)",
+      "name": "Ethereum Name Service (Portal)",
       "destAddresses": {
         "sol": "CLQsDGoGibdNPnVCFp8BAsN2unvyvb41Jd5USYwAnzAg",
       },
@@ -463,7 +463,7 @@ TOKENS = {
     },
     "ETH": {
       "symbol": "ETH",
-      "name": "Ether (Wormhole)",
+      "name": "Ether (Portal)",
       "destAddresses": {
         "sol": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
         "bsc": "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA",
@@ -485,7 +485,7 @@ TOKENS = {
     },
     "FRAX": {
       "symbol": "FRAX",
-      "name": "Frax (Wormhole)",
+      "name": "Frax (Portal)",
       "destAddresses": {
         "sol": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp"
       },
@@ -499,7 +499,7 @@ TOKENS = {
     },
     "FRONT": {
       "symbol": "FRONT",
-      "name": "Frontier (Wormhole)",
+      "name": "Frontier (Portal)",
       "destAddresses": {
         "sol": "A9ik2NrpKRRG2snyTjofZQcTuav9yH3mNVHLsLiDQmYt",
       },
@@ -510,7 +510,7 @@ TOKENS = {
     },
     "FTMet": {
       "symbol": "FTMet",
-      "name": "Fantom (Wormhole from Ethereum)",
+      "name": "Fantom (Portal from Ethereum)",
       "destAddresses": {
         "sol": "8gC27rQF4NEDYfyf5aS8ZmQJUum5gufowKGYRRba4ENN",
       },
@@ -519,7 +519,7 @@ TOKENS = {
     },
     "FTT": {
       "symbol": "FTT",
-      "name": "FTX Token (Wormhole)",
+      "name": "FTX Token (Portal)",
       "destAddresses": {
         "sol": "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv",
         "bsc": "0x49BA054B9664e99ac335667a917c63bB94332E84"
@@ -534,7 +534,7 @@ TOKENS = {
     },
     "FXS": {
       "symbol": "FXS",
-      "name": "Frax Share (Wormhole)",
+      "name": "Frax Share (Portal)",
       "destAddresses": {
         "sol": "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct"
       },
@@ -544,7 +544,7 @@ TOKENS = {
     },
     "GALA": {
       "symbol": "GALA",
-      "name": "Gala (Wormhole)",
+      "name": "Gala (Portal)",
       "destAddresses": {
         "sol": "AuGz22orMknxQHTVGwAu7e3dJikTJKgcjFwMNDikEKmF",
       },
@@ -553,7 +553,7 @@ TOKENS = {
     },
     "GRT": {
       "symbol": "GRT",
-      "name": "Graph Token (Wormhole)",
+      "name": "Graph Token (Portal)",
       "destAddresses": {
         "sol": "HGsLG4PnZ28L8A4R5nPqKgZd86zUUdmfnkTRnuFJ5dAX",
       },
@@ -565,7 +565,7 @@ TOKENS = {
     },
     "GT": {
       "symbol": "GT",
-      "name": "GateToken (Wormhole)",
+      "name": "GateToken (Portal)",
       "destAddresses": {
         "sol": "ABAq2R9gSpDDGguQxBk4u13s4ZYW6zbwKVBx15mCMG8",
       },
@@ -574,7 +574,7 @@ TOKENS = {
     },
     "HBTC": {
       "symbol": "HBTC",
-      "name": "Huobi BTC (Wormhole)",
+      "name": "Huobi BTC (Portal)",
       "destAddresses": {
         "sol": "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8"
       },
@@ -587,7 +587,7 @@ TOKENS = {
     },
     "HGET": {
       "symbol": "HGET",
-      "name": "Hedget (Wormhole)",
+      "name": "Hedget (Portal)",
       "destAddresses": {
         "sol": "2ueY1bLcPHfuFzEJq7yN1V2Wrpu8nkun9xG2TVCE1mhD",
       },
@@ -598,7 +598,7 @@ TOKENS = {
     },
     "HXRO": {
       "symbol": "HXRO",
-      "name": "Hxro (Wormhole)",
+      "name": "Hxro (Portal)",
       "destAddresses": {
         "sol": "HxhWkVpk5NS4Ltg5nij2G671CKXFRKPK8vy271Ub4uEK",
       },
@@ -610,7 +610,7 @@ TOKENS = {
     },
     "HUSD": {
       "symbol": "HUSD",
-      "name": "HUSD Stablecoin (Wormhole)",
+      "name": "HUSD Stablecoin (Portal)",
       "destAddresses": {
         "sol": "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw"
       },
@@ -624,7 +624,7 @@ TOKENS = {
     },
     "ICE": {
       "symbol": "ICE",
-      "name": "PopsicleToken (Wormhole)",
+      "name": "PopsicleToken (Portal)",
       "destAddresses": {
         "sol": "DiJut4U3CU8b3bRgwfyqtJMJ4wjzJHaX6hudamjH46Km",
       },
@@ -633,7 +633,7 @@ TOKENS = {
     },
     "ILV": {
       "symbol": "ILV",
-      "name": "Illuvium (Wormhole)",
+      "name": "Illuvium (Portal)",
       "destAddresses": {
         "sol": "8UJbtpsEubDVkY53rk7d61hNYKkvouicczB2XmuwiG4g",
       },
@@ -642,7 +642,7 @@ TOKENS = {
     },
     "KEEP": {
       "symbol": "KEEP",
-      "name": "Keep Network (Wormhole)",
+      "name": "Keep Network (Portal)",
       "destAddresses": {
         "sol": "64L6o4G2H7Ln1vN7AHZsUMW4pbFciHyuwn4wUdSbcFxh",
       },
@@ -651,7 +651,7 @@ TOKENS = {
     },
     "KP3R": {
       "symbol": "KP3R",
-      "name": "Keep3rV1 (Wormhole)",
+      "name": "Keep3rV1 (Portal)",
       "destAddresses": {
         "sol": "3a2VW9t5N6p4baMW3M6yLH1UJ9imMt7VsyUk6ouXPVLq",
       },
@@ -660,7 +660,7 @@ TOKENS = {
     },
     "LDO": {
       "symbol": "LDO",
-      "name": "Lido DAO (Wormhole)",
+      "name": "Lido DAO (Portal)",
       "destAddresses": {
         "bsc": "0x986854779804799C1d68867F5E03e601E781e41b",
         "sol": "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p",
@@ -672,7 +672,7 @@ TOKENS = {
     },
     "LINK": {
       "symbol": "LINK",
-      "name": "Chainlink (Wormhole)",
+      "name": "Chainlink (Portal)",
       "destAddresses": {
         "sol": "2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX",
         "terra": "terra12dfv3f0e6m22z6cnhfn3nxk2en3z3zeqy6ctym"
@@ -686,7 +686,7 @@ TOKENS = {
     },
     "LRC": {
       "symbol": "LRC",
-      "name": "Loopring (Wormhole)",
+      "name": "Loopring (Portal)",
       "destAddresses": {
         "sol": "HCTVFTzHL21a1dPzKxAUeWwqbE8QMUyvgChFDL4XYoi1",
       },
@@ -697,7 +697,7 @@ TOKENS = {
     },
     "LUA": {
       "symbol": "LUA",
-      "name": "LuaSwap (Wormhole)",
+      "name": "LuaSwap (Portal)",
       "destAddresses": {
         "sol": "5Wc4U1ZoQRzF4tPdqKQzBwRSjYe8vEf3EvZMuXgtKUW6",
       },
@@ -708,7 +708,7 @@ TOKENS = {
     },
     "MANA": {
       "symbol": "MANA",
-      "name": "Decentraland (Wormhole)",
+      "name": "Decentraland (Portal)",
       "destAddresses": {
         "sol": "7dgHoN8wBZCc5wbnQ2C47TDnBMAxG4Q5L3KjP67z8kNi"
       },
@@ -721,7 +721,7 @@ TOKENS = {
     },
     "MATH": {
       "symbol": "MATH",
-      "name": "MATH Token (Wormhole)",
+      "name": "MATH Token (Portal)",
       "destAddresses": {
         "sol": "CaGa7pddFXS65Gznqwp42kBhkJQdceoFVT7AQYo8Jr8Q",
       },
@@ -732,7 +732,7 @@ TOKENS = {
     },
     "MATICet": {
       "symbol": "MATICet",
-      "name": "MATIC (Wormhole from Ethereum)",
+      "name": "MATIC (Portal from Ethereum)",
       "destAddresses": {
         "sol": "C7NNPWuZCNjZBfW5p6JvGsR8pUdsRpEdP1ZAhnoDwj7h",
       },
@@ -741,7 +741,7 @@ TOKENS = {
     },
     "MIMet": {
       "symbol": "MIMet",
-      "name": "Magic Internet Money (Wormhole from Ethereum)",
+      "name": "Magic Internet Money (Portal from Ethereum)",
       "destAddresses": {
         "sol": "HRQke5DKdDo3jV7wnomyiM8AA3EzkVnxMDdo2FQ5XUe1",
         "terra": "terra15a9dr3a2a2lj5fclrw35xxg9yuxg0d908wpf2y"
@@ -752,7 +752,7 @@ TOKENS = {
     },
     "NXM": {
       "symbol": "NXM",
-      "name": "Nexus Mutual (Wormhole)",
+      "name": "Nexus Mutual (Portal)",
       "destAddresses": {
         "sol": "Aqs5ydqKXEK2cjotDXxHmk8N9PknqQ5q4ZED4ymY1eeh",
       },
@@ -761,7 +761,7 @@ TOKENS = {
     },
     "ORION": {
       "symbol": "ORION",
-      "name": "Orion Money (Wormhole)",
+      "name": "Orion Money (Portal)",
       "destAddresses": {
         "terra": "terra1mddcdx0ujx89f38gu7zspk2r2ffdl5enyz2u03",
         "bsc": "0x3dcB18569425930954feb191122e574b87F66abd",
@@ -773,7 +773,7 @@ TOKENS = {
     },
     "PAXG": {
       "symbol": "PAXG",
-      "name": "Paxos Gold (Wormhole)",
+      "name": "Paxos Gold (Portal)",
       "destAddresses": {
         "sol": "C6oFsE8nXRDThzrMEQ5SxaNFGKoyyfWDDVPw37JKvPTe",
       },
@@ -785,7 +785,7 @@ TOKENS = {
     },
     "PERP": {
       "symbol": "PERP",
-      "name": "Perpetual Protocol (Wormhole)",
+      "name": "Perpetual Protocol (Portal)",
       "destAddresses": {
         "sol": "9BsnSWDPfbusseZfnXyZ3un14CyPMZYvsKjWY3Y8Gbqn",
       },
@@ -796,7 +796,7 @@ TOKENS = {
     },
     "PEOPLE": {
       "symbol": "PEOPLE",
-      "name": "ConstitutionDAO (Wormhole)",
+      "name": "ConstitutionDAO (Portal)",
       "destAddresses": {
         "sol": "CobcsUrt3p91FwvULYKorQejgsm5HoQdv5T8RUZ6PnLA",
       },
@@ -805,7 +805,7 @@ TOKENS = {
     },
     "RGT": {
       "symbol": "RGT",
-      "name": "Rari Governance Token (Wormhole)",
+      "name": "Rari Governance Token (Portal)",
       "destAddresses": {
         "sol": "ASk8bss7PoxfFVJfXnSJepj9KupTX15QaRnhdjs6DdYe",
       },
@@ -816,7 +816,7 @@ TOKENS = {
     },
     "RPL": {
       "symbol": "RPL",
-      "name": "Rocket Pool (Wormhole)",
+      "name": "Rocket Pool (Portal)",
       "destAddresses": {
         "sol": "HUCyuyqESEUV4YWTKFvvB4JiQLqoovscTBpRXfGzW4Wx",
       },
@@ -825,7 +825,7 @@ TOKENS = {
     },
     "RSR": {
       "symbol": "RSR",
-      "name": "Reserve Rights (Wormhole)",
+      "name": "Reserve Rights (Portal)",
       "destAddresses": {
         "sol": "DkbE8U4gSRuGHcVMA1LwyZPYUjYbfEbjW8DMR3iSXBzr",
       },
@@ -837,7 +837,7 @@ TOKENS = {
     },
     "SAND": {
       "symbol": "SAND",
-      "name": "The Sandbox (Wormhole)",
+      "name": "The Sandbox (Portal)",
       "destAddresses": {
         "sol": "49c7WuCZkQgc3M4qH8WuEUNXfgwupZf1xqWkDQ7gjRGt"
       },
@@ -850,7 +850,7 @@ TOKENS = {
     },
     "SHIB": {
       "symbol": "SHIB",
-      "name": "Shiba Inu (Wormhole)",
+      "name": "Shiba Inu (Portal)",
       "destAddresses": {
         "sol": "CiKu4eHsVrc1eueVQeHn7qhXTcVu95gSQmBpX4utjL9z",
         "bsc": "0xb1547683DA678f2e1F003A780143EC10Af8a832B",
@@ -865,7 +865,7 @@ TOKENS = {
     },
     "SLP": {
       "symbol": "SLP",
-      "name": "Smooth Love Potion (Wormhole)",
+      "name": "Smooth Love Potion (Portal)",
       "destAddresses": {
         "sol": "4hpngEp1v3CXpeKB81Gw4sv7YvwUVRKvY3SGag9ND8Q4",
       },
@@ -876,7 +876,7 @@ TOKENS = {
     },
     "SNX": {
       "symbol": "SNX",
-      "name": "Synthetix Network Token (Wormhole)",
+      "name": "Synthetix Network Token (Portal)",
       "destAddresses": {
         "sol": "8cTNUtcV2ueC3royJ642uRnvTxorJAWLZc58gxAo7y56",
       },
@@ -885,7 +885,7 @@ TOKENS = {
     },
     "SOS": {
       "symbol": "SOS",
-      "name": "OpenDAO (Wormhole)",
+      "name": "OpenDAO (Portal)",
       "destAddresses": {
         "sol": "6Q5fvsJ6kgAFmisgDqqyaFd9FURYzHf8MCUbpAUaGZnE",
       },
@@ -896,7 +896,7 @@ TOKENS = {
     },
     "SPELL": {
       "symbol": "SPELL",
-      "name": "Spell Token (Wormhole)",
+      "name": "Spell Token (Portal)",
       "destAddresses": {
         "sol": "BCsFXYm81iqXyYmrLKgAp3AePcgLHnirb8FjTs6sjM7U",
       },
@@ -905,7 +905,7 @@ TOKENS = {
     },
     "SRMet": {
       "symbol": "SRMet",
-      "name": "Serum (Wormhole from Ethereum)",
+      "name": "Serum (Portal from Ethereum)",
       "destAddresses": {
         "sol": "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
         "bsc": "0xd63CDf02853D759831550fAe7dF8FFfE0B317b39"
@@ -920,7 +920,7 @@ TOKENS = {
     },
     "SWAG": {
       "symbol": "SWAG",
-      "name": "SWAG Finance (Wormhole)",
+      "name": "SWAG Finance (Portal)",
       "destAddresses": {
         "sol": "5hcdG6NjQwiNhVa9bcyaaDsCyA1muPQ6WRzQwHfgeeKo",
       },
@@ -929,7 +929,7 @@ TOKENS = {
     },
     "SXP": {
       "symbol": "SXP",
-      "name": "Swipe (Wormhole)",
+      "name": "Swipe (Portal)",
       "destAddresses": {
         "sol": "3CyiEDRehaGufzkpXJitCP5tvh7cNhRqd9rPBxZrgK5z",
       },
@@ -940,7 +940,7 @@ TOKENS = {
     },
     "SUSHI": {
       "symbol": "SUSHI",
-      "name": "SushiToken (Wormhole)",
+      "name": "SushiToken (Portal)",
       "destAddresses": {
         "sol": "ChVzxWRmrTeSgwd3Ui3UumcN8KX7VK3WaD4KGeSKpypj",
         "bsc": "0x3524fd7488fdb1F4723BBc22C9cbD1Bf89f46E3B",
@@ -955,7 +955,7 @@ TOKENS = {
     },
     "TOKE": {
       "symbol": "TOKE",
-      "name": "Tokemak (Wormhole)",
+      "name": "Tokemak (Portal)",
       "destAddresses": {
         "sol": "3EQ6LqLkiFcoxTeGEsHMFpSLWNVPe9yT7XPX2HYSFyxX",
       },
@@ -964,7 +964,7 @@ TOKENS = {
     },
     "TRIBE": {
       "symbol": "TRIBE",
-      "name": "Tribe (Wormhole)",
+      "name": "Tribe (Portal)",
       "destAddresses": {
         "sol": "DPgNKZJAG2w1S6vfYHDBT62R4qrWWH5f45CnxtbQduZE",
       },
@@ -975,7 +975,7 @@ TOKENS = {
     },
     "UBXT": {
       "symbol": "UBXT",
-      "name": "UpBots (Wormhole)",
+      "name": "UpBots (Portal)",
       "destAddresses": {
         "sol": "FTtXEUosNn6EKG2SQtfbGuYB4rBttreQQcoWn1YDsuTq",
       },
@@ -986,7 +986,7 @@ TOKENS = {
     },
     "UFO": {
       "symbol": "UFO",
-      "name": "UFO Gaming (Wormhole)",
+      "name": "UFO Gaming (Portal)",
       "destAddresses": {
         "sol": "GWdkYFnXnSJAsCBvmsqFLiPPe2tpvXynZcJdxf11Fu3U",
       },
@@ -997,7 +997,7 @@ TOKENS = {
     },
     "UNI": {
       "symbol": "UNI",
-      "name": "Uniswap (Wormhole)",
+      "name": "Uniswap (Portal)",
       "destAddresses": {
         "sol": "8FU95xFJhUUkyyCLU13HSzDLs7oC4QZdXQHL6SCeab36",
         "terra": "terra1wyxkuy5jq545fn7xfn3enpvs5zg9f9dghf6gxf"
@@ -1011,7 +1011,7 @@ TOKENS = {
     },
     "USDCet": {
       "symbol": "USDCet",
-      "name": "USD Coin (Wormhole from Ethereum)",
+      "name": "USD Coin (Portal from Ethereum)",
       "destAddresses": {
         "sol": "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
         "terra": "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06",
@@ -1034,7 +1034,7 @@ TOKENS = {
     },
     "USDK": {
       "symbol": "USDK",
-      "name": "USDK (Wormhole)",
+      "name": "USDK (Portal)",
       "destAddresses": {
         "sol": "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F"
       },
@@ -1048,7 +1048,7 @@ TOKENS = {
     },
     "USDTet": {
       "symbol": "USDTet",
-      "name": "Tether USD (Wormhole from Ethereum)",
+      "name": "Tether USD (Portal from Ethereum)",
       "destAddresses": {
         "sol": "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
         "terra": "terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva",
@@ -1069,7 +1069,7 @@ TOKENS = {
     },
     "WBTC": {
       "symbol": "WBTC",
-      "name": "Wrapped BTC (Wormhole)",
+      "name": "Wrapped BTC (Portal)",
       "destAddresses": {
         "sol": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
         "terra": "terra1aa7upykmmqqc63l924l5qfap8mrmx5rfdm0v55",
@@ -1085,7 +1085,7 @@ TOKENS = {
     },
     "YFI": {
       "symbol": "YFI",
-      "name": "yearn.finance (Wormhole)",
+      "name": "yearn.finance (Portal)",
       "destAddresses": {
         "sol": "BXZX2JRJFjvKazM1ibeDFxgAngKExb74MRXzXKvgikxX",
       },
@@ -1097,7 +1097,7 @@ TOKENS = {
     },
     "YGG": {
       "symbol": "YGG",
-      "name": "Yield Guild Games (Wormhole)",
+      "name": "Yield Guild Games (Portal)",
       "destAddresses": {
         "sol": "EzZp7LRN1xwu3QsB2RJRrWwEGjJGsuWzuMCeQDB3NSPK",
       },
@@ -1108,7 +1108,7 @@ TOKENS = {
     },
     "ZRX": {
       "symbol": "ZRX",
-      "name": "0x (Wormhole)",
+      "name": "0x (Portal)",
       "destAddresses": {
         "sol": "GJa1VeEYLTRoHbaeqcxfzHmjGCGtZGF3CUqxv9znZZAY",
       },
@@ -1117,7 +1117,7 @@ TOKENS = {
     },
     "agEUR": {
       "symbol": "agEUR",
-      "name": "agEUR (Wormhole)",
+      "name": "agEUR (Portal)",
       "destAddresses": {
         "sol": "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1",
       },
@@ -1130,7 +1130,7 @@ TOKENS = {
     },
     "gOHM": {
       "symbol": "gOHM",
-      "name": "Governance OHM (Wormhole)",
+      "name": "Governance OHM (Portal)",
       "destAddresses": {
         "sol": "FUGsN8H74WjRBBMfQWcf9Kk32gebA9VnNaGxqwcVvUW7",
         "terra": "terra1fpfn2kkr8mv390wx4dtpfk3vkjx9ch3thvykl3"
@@ -1141,7 +1141,7 @@ TOKENS = {
     },
     "ibBTC": {
       "symbol": "ibBTC",
-      "name": "Interest Bearing Bitcoin (Wormhole)",
+      "name": "Interest Bearing Bitcoin (Portal)",
       "destAddresses": {
         "sol": "Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi"
       },
@@ -1154,7 +1154,7 @@ TOKENS = {
     },
     "bETH": {
       "symbol": "bETH",
-      "name": "Lido bETH (Wormhole)",
+      "name": "Lido bETH (Portal)",
       "destAddresses": {
         "terra": "terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz"
       },
@@ -1168,7 +1168,7 @@ TOKENS = {
     },
     "wstETH": {
       "symbol": "wstETH",
-      "name": "Lido wstETH (Wormhole)",
+      "name": "Lido wstETH (Portal)",
       "destAddresses": {
         "terra": "terra133chr09wu8sakfte5v7vd8qzq9vghtkv4tn0ur"
       },
@@ -1178,7 +1178,7 @@ TOKENS = {
     },
     "stETH": {
       "symbol": "stETH",
-      "name": "Lido Staked Ether (Wormhole)",
+      "name": "Lido Staked Ether (Portal)",
       "destAddresses": {
         "sol": "H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw5sE",
         "terra": "terra1w7ywr6waxtjuvn5svk5wqydqpjj0q9ps7qct4d"
@@ -1189,7 +1189,7 @@ TOKENS = {
     },
     "SD": {
       "symbol": "SD",
-      "name": "Stader SD (Wormhole)",
+      "name": "Stader SD (Portal)",
       "destAddresses": {
         "terra": "terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02"
       },
@@ -1205,7 +1205,7 @@ TOKENS = {
   'terra': {
     "UST": {
       "symbol": "UST",
-      "name": "UST (Wormhole)",
+      "name": "UST (Portal)",
       "destAddresses": {
         "sol": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
         "eth": "0xa693B19d2931d498c5B318dF961919BB4aee87a5",
@@ -1229,7 +1229,7 @@ TOKENS = {
     },
     "LUNA": {
       "symbol": "LUNA",
-      "name": "LUNA (Wormhole)",
+      "name": "LUNA (Portal)",
       "destAddresses": {
         "sol": "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W",
         "eth": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
@@ -1250,7 +1250,7 @@ TOKENS = {
     },
     "aUST": {
       "symbol": "aUST",
-      "name": "AnchorUST (Wormhole)",
+      "name": "AnchorUST (Portal)",
       "destAddresses": {
         "sol": "4CsZsUCoKFiaGyU7DEVDayqeVtG8iqgGDR6RjzQmzQao",
         "bsc": "0x8b04E56A8cd5f4D465b784ccf564899F30Aaf88C",
@@ -1269,7 +1269,7 @@ TOKENS = {
   'bsc': {  # bsc
     "BNB": {
       "symbol": "BNB",
-      "name": "Binance Coin (Wormhole)",
+      "name": "Binance Coin (Portal)",
       "destAddresses": {
         "sol": "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa",
         "eth": "0x418D75f65a02b3D53B2418FB8E1fe493759c7605",
@@ -1288,7 +1288,7 @@ TOKENS = {
     },
     "BUSDbs": {
       "symbol": "BUSDbs",
-      "name": "Binance USD (Wormhole from BSC)",
+      "name": "Binance USD (Portal from BSC)",
       "destAddresses": {
         "sol": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
         "eth": "0x7B4B0B9b024109D182dCF3831222fbdA81369423",
@@ -1308,7 +1308,7 @@ TOKENS = {
     },
     "CAKE": {
       "symbol": "CAKE",
-      "name": "PancakeSwap Token (Wormhole)",
+      "name": "PancakeSwap Token (Portal)",
       "destAddresses": {
         "sol": "J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S",
         "eth": "0x7c8161545717a334f3196e765d9713f8042EF338",
@@ -1321,7 +1321,7 @@ TOKENS = {
     },
     "USDCbs": {
       "symbol": "USDCbs",
-      "name": "USD Coin (Wormhole from BSC)",
+      "name": "USD Coin (Portal from BSC)",
       "destAddresses": {
         "sol": "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
         "eth": "0x7cd167B101D2808Cfd2C45d17b2E7EA9F46b74B6",
@@ -1338,7 +1338,7 @@ TOKENS = {
     },
     "USDTbs": {
       "symbol": "USDTbs",
-      "name": "Tether USD (Wormhole from BSC)",
+      "name": "Tether USD (Portal from BSC)",
       "destAddresses": {
         "sol": "8qJSyQprMC57TWKaYEmetUR3UUiTP2M3hXdcvFhkZdmv",
         "eth": "0xDe60aDfDdAAbaAAC3dAFa57B26AcC91Cb63728c4",
@@ -1361,7 +1361,7 @@ TOKENS = {
   'matic': {
     "DAIpo": {
       "symbol": "DAIpo",
-      "name": "DAI (Wormhole from Polygon)",
+      "name": "DAI (Portal from Polygon)",
       "destAddresses": {
         "sol": "4Fo67MYQpVhZj9R7jQTd63FPAnWbPpaafAUxsMGX2geP",
       },
@@ -1370,7 +1370,7 @@ TOKENS = {
     },
     "MATICpo": {
       "symbol": "MATICpo",
-      "name": "MATIC (Wormhole from Polygon)",
+      "name": "MATIC (Portal from Polygon)",
       "destAddresses": {
         "sol": "Gz7VkD4MacbEB6yC5XD3HcumEiYx2EtDYYrfikGsvopG",
         "eth": "0x7c9f4C87d911613Fe9ca58b579f737911AAD2D43",
@@ -1388,7 +1388,7 @@ TOKENS = {
     },
     "QUICK": {
       "symbol": "QUICK",
-      "name": "Quickswap (Wormhole)",
+      "name": "Quickswap (Portal)",
       "destAddresses": {
         "sol": "5njTmK53Ss5jkiHHZvzabVzZj6ztu6WYWpAPYgbVnbjs",
       },
@@ -1397,7 +1397,7 @@ TOKENS = {
     },
     "USDCpo": {
       "symbol": "USDCpo",
-      "name": "USD Coin (PoS) (Wormhole from Polygon)",
+      "name": "USD Coin (PoS) (Portal from Polygon)",
       "destAddresses": {
         "sol": "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M",
         "eth": "0x566957eF80F9fd5526CD2BEF8BE67035C0b81130",
@@ -1418,7 +1418,7 @@ TOKENS = {
     },
     "USDTpo": {
       "symbol": "USDTpo",
-      "name": "Tether USD (PoS) (Wormhole from Polygon)",
+      "name": "Tether USD (PoS) (Portal from Polygon)",
       "destAddresses": {
         "sol": "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1",
         "oasis": "0xFffD69E757d8220CEA60dc80B9Fe1a30b58c94F3",
@@ -1439,7 +1439,7 @@ TOKENS = {
   'avax': {
     "AVAX": {
       "symbol": "AVAX",
-      "name": "AVAX (Wormhole)",
+      "name": "AVAX (Portal)",
       "destAddresses": {
         "sol": "KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE",
         "eth": "0x85f138bfEE4ef8e540890CFb48F620571d67Eda3",
@@ -1457,7 +1457,7 @@ TOKENS = {
     },
     "JOE": {
       "symbol": "JOE",
-      "name": "JoeToken (Wormhole)",
+      "name": "JoeToken (Portal)",
       "destAddresses": {
         "sol": "CriXdFS9iRAYbGEQiTcUqbWwG9RBmYt5B6LwTnoJ61Sm"
       },
@@ -1467,7 +1467,7 @@ TOKENS = {
     },
     "USDCav": {  # ERC20 USDC sent to avalanche via avalanche bridge; referred to as USDC.e
       "symbol": "USDCav",
-      "name": "USD Coin (Wormhole from Avalanche)",
+      "name": "USD Coin (Portal from Avalanche)",
       "destAddresses": {
         "sol": "AGqKX7F4mqJ8x2mUQVangJb5pWQJApaKoUfe5gXM53CV",
         "terra": "terra1pvel56a2hs93yd429pzv9zp5aptcjg5ulhkz7w",
@@ -1480,7 +1480,7 @@ TOKENS = {
     },
     "USDTav": {  # ERC20 USDT sent to avalanche via avalanche bridge; referred to as USDT.e
       "symbol": "USDTav",
-      "name": "Tether USD (Wormhole from Avalanche)",
+      "name": "Tether USD (Portal from Avalanche)",
       "destAddresses": {
         "sol": "B2wfeYz5VtBnQVrX4M8F6FeDrprVrzKPws5qg1in8bzR",
         "terra": "terra1eqvq3thjhye7anv6f6mhxpjhyvww8zjvqcdgjx",
@@ -1498,7 +1498,7 @@ TOKENS = {
   'oasis': {
     "ROSE": {
       "symbol": "ROSE",
-      "name": "ROSE (Wormhole)",
+      "name": "ROSE (Portal)",
       "destAddresses": {
         "sol": "S3SQfD6RheMXQ3EEYn1Z5sJsbtwfXdt7tSAVXPQFtYo",
         "eth": "0x26B80FBfC01b71495f477d5237071242e0d959d7",
@@ -1519,7 +1519,7 @@ TOKENS = {
   'ftm': {
     "FTM": {
       "symbol": "FTM",
-      "name": "Fantom (Wormhole)",
+      "name": "Fantom (Portal)",
       "destAddresses": {
       },
       "markets": {
