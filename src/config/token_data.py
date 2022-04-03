@@ -1221,7 +1221,7 @@ TOKENS = {
       "markets": {
         "eth": ["curve", "uniswap"],
         "terra": ["anchor"],
-        "sol": ["saber", "mercurial", "jupiter", "aldrin", "solend", "sunny", "apricot"],
+        "sol": ["saber", "mercurial", "jupiter", "aldrin", "solend", "sunny", "apricot", "tulip"],
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
         "avax": ["traderjoe"],
