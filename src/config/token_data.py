@@ -1365,7 +1365,7 @@ TOKENS = {
       "destAddresses": {
         "sol": "4Fo67MYQpVhZj9R7jQTd63FPAnWbPpaafAUxsMGX2geP",
       },
-      "sourceAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "sourceAddress": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
       "coingeckoId": "dai",
     },
     "MATICpo": {
