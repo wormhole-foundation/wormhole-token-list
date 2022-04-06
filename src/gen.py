@@ -34,7 +34,10 @@ for symbol, block in DEST_SOLANA_TOKENS.items():
     new_block = OrderedDict()
     new_block['symbol'] = symbol
     new_block['name'] = block['name']
-    new_block['destAddresses'] = {'sol': block['address']}
+    new_block['destinations'] = {'sol': {
+        'address': block['address'],
+        'decimals': block['decimals']
+    }}
     new_block['sourceAddress'] = block['sourceAddress']
     new_block['coingeckoId'] = block['coingeckoId']
     if 'logo' in block:
@@ -84,13 +87,14 @@ def get_dest_df(dest):
   tokens = {}
   for source_chain, chain_tokens in sorted(TOKENS.items()):
     for coin, entry in chain_tokens.items():
-      if dest not in entry['destAddresses']:
+      if dest not in entry['destinations']:
         continue
       entry = copy.deepcopy(entry)
 
       entry['origin'] = source_chain
-      entry['address'] = entry['destAddresses'][dest]
-      entry.pop('destAddresses')
+      entry['address'] = entry['destinations'][dest]['address']
+      entry['decimals'] = entry['destinations'][dest]['decimals']
+      entry.pop('destinations')
 
       if 'markets' in entry:
         markets = entry.pop('markets', {})
@@ -116,8 +120,8 @@ def gen_dest_csv():
       df = df.drop(['markets'], axis=1)
     dfs.append(df)
   df = pd.concat(dfs)
-  order = ['dest', 'symbol', 'name', 'address', 'origin', 'sourceAddress', 'coingeckoId',
-           'logo', 'serumV3Usdc', 'serumV3Usdt']
+  order = ['dest', 'symbol', 'name', 'address', 'decimals', 'origin', 'sourceAddress',
+           'sourceDecimals', 'coingeckoId', 'logo', 'serumV3Usdc', 'serumV3Usdt']
   df = df[[c for c in order if c in df.columns]]
   outpath = os.path.join(CONTENT_PATH, 'by_dest.csv')
   df.to_csv(outpath, index=False)
@@ -158,8 +162,9 @@ def gen_dest_info(dest):
   df = df.drop(['coingeckoId'], axis=1)
 
   # reorder for readability
-  order = ['img', 'symbol', 'name', 'address', 'origin', 'sourceAddress',
-           'markets', 'serumAddressUSDC', 'serumAddressUSDT', 'symbol_reprise']
+  order = ['img', 'symbol', 'name', 'address', 'decimals',
+           'origin', 'sourceAddress', 'sourceDecimals', 'markets',
+           'serumAddressUSDC', 'serumAddressUSDT', 'symbol_reprise']
   df = df[[c for c in order if c in df.columns]]
 
   txt = df.to_markdown(index=False).replace('symbol_reprise', 'symbol')
@@ -183,7 +188,13 @@ def get_source_df(source, include_markets=True):
     for dest in CHAIN_NAMES_TO_IDS.keys():
       if dest == source:
         continue
-      entry['%sAddress' % dest] = entry['destAddresses'].get(dest, None)
+      dest_data = entry['destinations'].get(dest, None)
+      if dest_data is not None:
+        entry['%sAddress' % dest] = dest_data['address']
+        entry['%sDecimals' % dest] = dest_data['decimals']
+      else:
+        entry['%sAddress' % dest] = None
+        entry['%sDecimals' % dest] = None
       if include_markets:
         if 'markets' in entry:
           entry['%sMarkets' % dest] = entry['markets'].get(dest, None)
@@ -201,14 +212,15 @@ def gen_source_csv():
     df['source'] = source
     if 'markets' in df.columns:
       df = df.drop(['markets'], axis=1)
-    if 'destAddresses' in df.columns:
-      df = df.drop(['destAddresses'], axis=1)
+    if 'destinations' in df.columns:
+      df = df.drop(['destinations'], axis=1)
     dfs.append(df)
   df = pd.concat(dfs)
   columns = ['source'] + [c for c in df.columns if c not in ['source']]
 
-  order = ['source','symbol','name','sourceAddress','coingeckoId','logo'] + \
-          ['%sAddress' % bc for bc in CHAINS]
+  order = ['source','symbol','name','sourceAddress','sourceDecimals','coingeckoId','logo']
+  for bc in CHAINS:
+    order.extend(['%sAddress' % bc, '%sDecimals' % bc])
   df = df[[c for c in order if c in columns]]
   outpath = os.path.join(CONTENT_PATH, 'by_source.csv')
   df.to_csv(outpath, index=False)
@@ -238,7 +250,7 @@ def gen_source_info(source):
   # reorder for readability
   order = ['img', 'symbol', 'name', 'sourceAddress']
   for dest in CHAIN_NAMES_TO_IDS:
-    order.extend(['%sAddress' % dest, '%sMarkets' % dest])
+    order.extend(['%sAddress' % dest, '%sDecimals' % dest, '%sMarkets' % dest])
   order.append('symbol_reprise')
   df = df[[c for c in order if c in df.columns]]
 
@@ -275,8 +287,8 @@ def gen_markets_json():
         raise Exception('no logo for %s' % symbol)
 
       mapping = {chain_id: addr}
-      for dest_chain, dest_addr in block['destAddresses'].items():
-        mapping[CHAIN_NAMES_TO_IDS[dest_chain]] = dest_addr
+      for dest_chain, dest_data in block['destinations'].items():
+        mapping[CHAIN_NAMES_TO_IDS[dest_chain]] = dest_data['address']
       for dest_chain_id, addr in mapping.items():
         d = OrderedDict([
           ('symbol', symbol),
@@ -300,12 +312,12 @@ def gen_markets_json():
   for chain_name, tokens in TOKENS.items():
     chain_id = CHAIN_NAMES_TO_IDS[chain_name]
     for symbol, block in TOKENS[chain_name].items():
-      if 'markets' not in block or 'destAddresses' not in block:
+      if 'markets' not in block or 'destinations' not in block:
         continue
-      # destAddresses: {1 -> XXX}
+      # destinations: {1 -> XXX}
       addresses_dict = {chain_id: block['sourceAddress']}
-      for chain_name, address in block['destAddresses'].items():
-        addresses_dict[CHAIN_NAMES_TO_IDS[chain_name]] = address
+      for chain_name, dest_data in block['destinations'].items():
+        addresses_dict[CHAIN_NAMES_TO_IDS[chain_name]] = dest_data['address']
       # markets: {1 -> raydium}
       markets_dict = {CHAIN_NAMES_TO_IDS[chain_name]: mkts for (chain_name, mkts) in block['markets'].items()}
 
