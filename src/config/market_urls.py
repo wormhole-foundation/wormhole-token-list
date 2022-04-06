@@ -62,10 +62,18 @@ MARKETS = {
     "name": "Tulip",
     "link": "https://tulip.garden/"
   },
+   "larix": {
+    "name": "Larix",
+    "link": "https://projectlarix.com/"
+  },
 
   #################
   # 2. eth markets
   #################
+    "aave": {
+    "name": "Aave",
+    "link": "https://app.aave.com/"
+  },
   "curve": {
     "name": "Curve",
     "link": "https://curve.fi/"
@@ -89,6 +97,10 @@ MARKETS = {
   "loop": {
     "name": "Loop",
     "link": "https://dex.loop.markets/"
+  },
+    "astroport": {
+    "name": "Astroport",
+    "link": "https://app.astroport.fi/swap"
   },
 
   ##################
@@ -126,9 +138,23 @@ MARKETS = {
     "name": "YuzuSwap",
     "link": "https://yuzu-swap.com/"
   },
-
+    "duneswap": {
+    "name": "Duneswap",
+    "link": "https://www.duneswap.com/exchange/swap"
+  },
+    "gemkeeper": {
+    "name": "Gemkeeper",
+    "link": "https://app.gemkeeper.finance/#/swap"
+  },
+  #######################
+  # 8. fantom markets
+  #######################
   "spookyswap": {
     "name": "SpookySwap",
     "link": "https://spookyswap.finance/"
+  },
+  "excalibur": {
+    "name": "Excalibur",
+    "link": "https://app.excalibur.exchange/"
   },
 }
