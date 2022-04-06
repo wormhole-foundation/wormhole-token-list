@@ -3604,10 +3604,6 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ORION_wh.png",
         "symbol": "ORION"
       },
-      "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/DAIpo_wh.png",
-        "symbol": "DAIpo"
-      },
       "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AVAX_wh.png",
         "symbol": "AVAX"
@@ -3615,6 +3611,10 @@
       "0x831753dd7087cac61ab5644b308642cc1c33dc13": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/QUICK_wh.png",
         "symbol": "QUICK"
+      },
+      "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/DAIpo_wh.png",
+        "symbol": "DAIpo"
       },
       "0x9417669fBF23357D2774e9D421307bd5eA1006d2": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTet_wh.png",
