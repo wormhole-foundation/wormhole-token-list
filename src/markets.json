@@ -1,5 +1,9 @@
 {
   "markets": {
+    "aave": {
+      "link": "https://app.aave.com/",
+      "name": "Aave"
+    },
     "aldrin": {
       "link": "https://dex.aldrin.com/pools",
       "name": "Aldrin"
@@ -16,6 +20,10 @@
       "link": "https://app.apricot.one/",
       "name": "Apricot"
     },
+    "astroport": {
+      "link": "https://app.astroport.fi/swap",
+      "name": "Astroport"
+    },
     "atrix": {
       "link": "https://app.atrix.finance/",
       "name": "Atrix"
@@ -28,13 +36,29 @@
       "link": "https://trade.dexlab.space/",
       "name": "Dexlab"
     },
+    "duneswap": {
+      "link": "https://www.duneswap.com/exchange/swap",
+      "name": "Duneswap"
+    },
+    "excalibur": {
+      "link": "https://app.excalibur.exchange/",
+      "name": "Excalibur"
+    },
     "francium": {
       "link": "https://francium.io/app/invest/farm",
       "name": "Francium"
     },
+    "gemkeeper": {
+      "link": "https://app.gemkeeper.finance/#/swap",
+      "name": "Gemkeeper"
+    },
     "jupiter": {
       "link": "https://jup.ag/",
       "name": "Jupiter"
+    },
+    "larix": {
+      "link": "https://projectlarix.com/",
+      "name": "Larix"
     },
     "loop": {
       "link": "https://dex.loop.markets/",
