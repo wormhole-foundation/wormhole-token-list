@@ -114,7 +114,11 @@ MARKETS = {
     "name": "Trader Joe",
     "link": "https://traderjoexyz.com/#/trade"
   },
-
+   "pangolin": {
+    "name": "Pangolin",
+    "link": "https://app.pangolin.exchange/#/swap"
+  },
+  
   #######################
   # 7. oasis markets
   #######################
