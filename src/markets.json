@@ -356,7 +356,8 @@
       "6": {
         "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i": {
           "markets": [
-            "traderjoe"
+            "traderjoe",
+            "pangolin"
           ]
         },
         "So11111111111111111111111111111111111111112": {
@@ -791,7 +792,8 @@
         },
         "0xa693B19d2931d498c5B318dF961919BB4aee87a5": {
           "markets": [
-            "traderjoe"
+            "traderjoe",
+            "pangolin"
           ]
         }
       },
@@ -1133,7 +1135,8 @@
         },
         "uusd": {
           "markets": [
-            "traderjoe"
+            "traderjoe",
+            "pangolin"
           ]
         }
       },
@@ -1459,7 +1462,8 @@
       "6": {
         "0x3d4350cD54aeF9f9b2C29435e0fa809957B3F30a": {
           "markets": [
-            "traderjoe"
+            "traderjoe",
+            "pangolin"
           ]
         },
         "0xfA54fF1a158B5189Ebba6ae130CEd6bbd3aEA76e": {
@@ -1700,7 +1704,8 @@
       "6": {
         "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59": {
           "markets": [
-            "traderjoe"
+            "traderjoe",
+            "pangolin"
           ]
         },
         "0xd93f7e271cb87c23aaa73edc008a79646d1f9912": {
@@ -2265,7 +2270,8 @@
       "6": {
         "0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2": {
           "markets": [
-            "traderjoe"
+            "traderjoe",
+            "pangolin"
           ]
         },
         "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc": {
@@ -2376,7 +2382,8 @@
       "6": {
         "0x846e4D51d7E2043C1a87E0Ab7490B93FB940357b": {
           "markets": [
-            "traderjoe"
+            "traderjoe",
+            "pangolin"
           ]
         },
         "0xd99021C2A33e4Cf243010539c9e9b7c52E0236c1": {
