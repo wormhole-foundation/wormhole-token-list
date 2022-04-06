@@ -52,6 +52,10 @@
       "link": "https://pancakeswap.finance/swap",
       "name": "Pancakeswap"
     },
+    "pangolin": {
+      "link": "https://app.pangolin.exchange/#/swap",
+      "name": "Pangolin"
+    },
     "port": {
       "link": "https://mainnet.port.finance/#/markets",
       "name": "Port"
