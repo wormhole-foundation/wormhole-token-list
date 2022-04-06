@@ -1224,7 +1224,7 @@ TOKENS = {
         "sol": ["saber", "mercurial", "jupiter", "aldrin", "solend", "sunny", "apricot", "tulip"],
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
-        "avax": ["traderjoe"],
+        "avax": ["traderjoe", "pangolin"],
       }
     },
     "LUNA": {
