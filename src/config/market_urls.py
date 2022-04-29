@@ -147,7 +147,7 @@ MARKETS = {
     "link": "https://app.gemkeeper.finance/#/swap"
   },
   #######################
-  # 8. fantom markets
+  # 10. fantom markets
   #######################
   "spookyswap": {
     "name": "SpookySwap",

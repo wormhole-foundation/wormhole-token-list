@@ -2445,7 +2445,7 @@ TOKENS = {
     }
   },
   #################
-  # 8. Fantom native
+  # 10. Fantom native
   #################
   "ftm": {
     "FTM": {
