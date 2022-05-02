@@ -12,7 +12,7 @@ The main file to be updated is [src/config/token_data.py](src/config/token_data.
 Entries in there are organized first by source chain (sol, eth, terra, bsc, matic, avax),
 then are dictionaries with the following entries:
 * `symbol`: e.g. `ATLAS`
-* `name`: e.g. `Star Atlas (Wormhole)`
+* `name`: e.g. `Star Atlas (Portal)`
 * `sourceAddress`: the address on the source chain
 * `destAddresses`: a dictionary mapping dest chains to addresses (use the [Token Origin Verifier](https://wormholebridge.com/#/token-origin-verifier) to look this up)
 * `markets`: a dictionary mapping dest chains to a list of market names where the wrapped asset is tradable
@@ -26,7 +26,7 @@ TOKENS = {
   'sol': {
     "ATLAS": {
       "symbol": "ATLAS",
-      "name": "Star Atlas (Wormhole)",
+      "name": "Star Atlas (Portal)",
       "sourceAddress": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
       "destAddresses": {
         "eth": "0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7",
