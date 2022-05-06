@@ -202,7 +202,10 @@ def get_source_df(source, include_markets=True):
           entry['%sMarkets' % dest] = None
       tokens[coin] = entry
 
-  return pd.DataFrame(tokens.values()).sort_values(by='symbol')
+  source_df = pd.DataFrame(tokens.values())
+  if source_df.shape[0] > 0:
+    source_df = source_df.sort_values(by="symbol")
+  return source_df
 
 
 def gen_source_csv():

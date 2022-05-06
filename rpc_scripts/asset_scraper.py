@@ -244,6 +244,7 @@ web3_evm_providers = {
     'matic': Web3(Web3.HTTPProvider('https://polygon-rpc.com')),
     'oasis': Web3(Web3.HTTPProvider('https://emerald.oasis.dev')),
     'bsc': Web3(Web3.HTTPProvider('https://bsc-dataseed.binance.org')),
+    'aurora': Web3(Web3.HTTPProvider('https://mainnet.aurora.dev')),
 }
 terra_client = LCDClient(chain_id="columbus-5", url="https://lcd.terra.dev")
 

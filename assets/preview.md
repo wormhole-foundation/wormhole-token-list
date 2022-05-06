@@ -9,6 +9,7 @@ by source chain:
 * [Avalanche](#source-chain-avalanche)
 * [Oasis](#source-chain-oasis)
 * [Fantom](#source-chain-fantom)
+* [Aurora](#source-chain-aurora)
 
 ## source chain: Solana
 ### ATLAS
@@ -961,3 +962,5 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ROSE
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FTM_wh.png
 ```
 
+
+## source chain: Aurora

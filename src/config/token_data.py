@@ -203,6 +203,10 @@ TOKENS = {
         "ftm": {
           "address": "0xb8398DA4FB3BC4306B9D9d9d13d9573e7d0E299f",
           "decimals": 6
+        },
+        "aurora": {
+          "address": "0xDd1DaFedeBa5F9851C4F4a2876E0f3aF3c774B1A",
+          "decimals": 6
         }
       },
       "sourceDecimals": 6
@@ -242,6 +246,10 @@ TOKENS = {
         },
         "oasis": {
           "address": "0x24285C5232ce3858F00bacb950Cae1f59d1b2704",
+          "decimals": 6
+        },
+        "aurora": {
+          "address": "0xd80890AFDBd7148456D8Ee358eF9127F0F8c7faf",
           "decimals": 6
         }
       },
@@ -767,6 +775,10 @@ TOKENS = {
         },
         "oasis": {
           "address": "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F",
+          "decimals": 18
+        },
+        "aurora": {
+          "address": "0x811Cc0d762eA72aC72385d93b98a97263AE37E4C",
           "decimals": 18
         }
       },
@@ -1922,6 +1934,10 @@ TOKENS = {
         "ftm": {
           "address": "0x846e4D51d7E2043C1a87E0Ab7490B93FB940357b",
           "decimals": 6
+        },
+        "aurora": {
+          "address": "0x8D07bBb478B84f7E940e97C8e9cF7B3645166b03",
+          "decimals": 6
         }
       },
       "sourceDecimals": 6
@@ -1962,6 +1978,10 @@ TOKENS = {
         },
         "oasis": {
           "address": "0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823",
+          "decimals": 6
+        },
+        "aurora": {
+          "address": "0x12302fbE05a7e833f87d4B7843F58d19BE4FdE3B",
           "decimals": 6
         }
       },
@@ -2310,7 +2330,7 @@ TOKENS = {
         "sol": ["atrix"],
         "eth": ["uniswap"],
         "terra": ["astroport"],
-        "avax": ["trader joe", "pangolin"],
+        "avax": ["traderjoe", "pangolin"],
       },
       "sourceAddress": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
       "coingeckoId": "avalanche",
@@ -2458,5 +2478,10 @@ TOKENS = {
       "destinations": {},
       "sourceDecimals": 18
     }
+  },
+  #################
+  # 10. Aurora native
+  #################
+  "aurora": {
   }
 }
