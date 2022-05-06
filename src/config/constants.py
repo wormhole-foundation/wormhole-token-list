@@ -10,6 +10,7 @@ CHAIN_IDS_TO_NAMES = OrderedDict([
   (6, 'avax'),
   (7, 'oasis'),
   (10, 'ftm'),
+  (11, 'aurora'),
 ])
 CHAIN_NAMES_TO_IDS = OrderedDict([(v, k) for (k, v) in CHAIN_IDS_TO_NAMES.items()])
 
@@ -22,6 +23,7 @@ SOURCE_INFO = OrderedDict([
   ('avax', ('Avalanche', 'av', "https://snowtrace.io", "https://snowtrace.io/address/0x0e082f06ff657d94310cb8ce8b0d9a04541d8052")),
   ('oasis', ('Oasis', 'oa', "https://explorer.oasis.updev.si", "https://explorer.oasis.updev.si/address/0x5848C791e09901b40A9Ef749f2a6735b418d7564")),
   ('ftm', ('Fantom', 'ft', "https://ftmscan.com", "https://ftmscan.com/address/0x7C9Fc5741288cDFdD83CeB07f3ea7e22618D79D2")),
+  ('aurora', ('Aurora', 'au', "https://aurorascan.dev", "https://aurorascan.dev/address/0x51b5123a7b0F9b2bA265f9c4C8de7D78D52f510F")),
 ])
 
 SUFFIXES = [x[1] for x in SOURCE_INFO.values()]

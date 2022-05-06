@@ -157,4 +157,11 @@ MARKETS = {
     "name": "Excalibur",
     "link": "https://app.excalibur.exchange/"
   },
+  #######################
+  # 11. aurora markets
+  #######################
+  "trisolaris": {
+    "name": "Trisolaris",
+    "link": "https://www.trisolaris.io/"
+  },
 }
