@@ -1904,7 +1904,7 @@ TOKENS = {
         "matic": ["quickswap"],
         "avax": ["traderjoe", "pangolin"],
         "oasis": ["yuzu"],
-        "ftm": ["excalibur", "curve"],
+        "ftm": ["beethovenx", "curve","excalibur"],
       },
       "destinations": {
         "sol": {
@@ -1954,6 +1954,7 @@ TOKENS = {
         "sol": ["saber", "mercurial", "sunny", "atrix"],
         "matic": ["quickswap"],
         "avax": ["traderjoe"],
+        "ftm": ["beethovenx", "spookyswap"],
       },
       "destinations": {
         "sol": {
@@ -1978,6 +1979,10 @@ TOKENS = {
         },
         "oasis": {
           "address": "0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823",
+          "decimals": 6
+        },
+        "ftm": {
+          "address": "0x593AE1d34c8BD7587C11D539E4F42BFf242c82Af",
           "decimals": 6
         },
         "aurora": {
