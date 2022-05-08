@@ -9,8 +9,8 @@ CHAIN_IDS_TO_NAMES = OrderedDict([
   (5, 'matic'),
   (6, 'avax'),
   (7, 'oasis'),
+  (9, 'aurora'),
   (10, 'ftm'),
-  (11, 'aurora'),
 ])
 CHAIN_NAMES_TO_IDS = OrderedDict([(v, k) for (k, v) in CHAIN_IDS_TO_NAMES.items()])
 

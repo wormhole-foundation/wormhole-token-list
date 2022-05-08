@@ -200,12 +200,12 @@ TOKENS = {
           "address": "0x1d1149a53deB36F2836Ae7877c9176413aDfA4A8",
           "decimals": 6
         },
-        "ftm": {
-          "address": "0xb8398DA4FB3BC4306B9D9d9d13d9573e7d0E299f",
-          "decimals": 6
-        },
         "aurora": {
           "address": "0xDd1DaFedeBa5F9851C4F4a2876E0f3aF3c774B1A",
+          "decimals": 6
+        },
+        "ftm": {
+          "address": "0xb8398DA4FB3BC4306B9D9d9d13d9573e7d0E299f",
           "decimals": 6
         }
       },
@@ -1931,12 +1931,12 @@ TOKENS = {
           "address": "0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2",
           "decimals": 6
         },
-        "ftm": {
-          "address": "0x846e4D51d7E2043C1a87E0Ab7490B93FB940357b",
-          "decimals": 6
-        },
         "aurora": {
           "address": "0x8D07bBb478B84f7E940e97C8e9cF7B3645166b03",
+          "decimals": 6
+        },
+        "ftm": {
+          "address": "0x846e4D51d7E2043C1a87E0Ab7490B93FB940357b",
           "decimals": 6
         }
       },
@@ -1981,12 +1981,12 @@ TOKENS = {
           "address": "0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823",
           "decimals": 6
         },
-        "ftm": {
-          "address": "0x593AE1d34c8BD7587C11D539E4F42BFf242c82Af",
-          "decimals": 6
-        },
         "aurora": {
           "address": "0x12302fbE05a7e833f87d4B7843F58d19BE4FdE3B",
+          "decimals": 6
+        },
+        "ftm": {
+          "address": "0x593AE1d34c8BD7587C11D539E4F42BFf242c82Af",
           "decimals": 6
         }
       },
@@ -2470,6 +2470,11 @@ TOKENS = {
     }
   },
   #################
+  # 9. Aurora native
+  #################
+  "aurora": {
+  },
+  #################
   # 10. Fantom native
   #################
   "ftm": {
@@ -2483,10 +2488,5 @@ TOKENS = {
       "destinations": {},
       "sourceDecimals": 18
     }
-  },
-  #################
-  # 10. Aurora native
-  #################
-  "aurora": {
   }
 }
