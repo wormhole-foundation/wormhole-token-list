@@ -147,6 +147,13 @@ MARKETS = {
     "link": "https://app.gemkeeper.finance/#/swap"
   },
   #######################
+  # 9. aurora markets
+  #######################
+  "trisolaris": {
+    "name": "Trisolaris",
+    "link": "https://www.trisolaris.io/"
+  },
+  #######################
   # 10. fantom markets
   #######################
   "beethovenx": {
@@ -160,12 +167,5 @@ MARKETS = {
   "excalibur": {
     "name": "Excalibur",
     "link": "https://app.excalibur.exchange/"
-  },
-  #######################
-  # 11. aurora markets
-  #######################
-  "trisolaris": {
-    "name": "Trisolaris",
-    "link": "https://www.trisolaris.io/"
   },
 }
