@@ -953,6 +953,8 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ROSE
 ```
 
 
+## source chain: Aurora
+
 ## source chain: Fantom
 ### FTM
 ![FTM](FTM_wh.png)
@@ -962,5 +964,3 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ROSE
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FTM_wh.png
 ```
 
-
-## source chain: Aurora
