@@ -149,6 +149,10 @@ MARKETS = {
   #######################
   # 10. fantom markets
   #######################
+  "beethovenx": {
+    "name": "BeethovenX",
+    "link": "https://beets.fi/#/trade"
+  },
   "spookyswap": {
     "name": "SpookySwap",
     "link": "https://spookyswap.finance/"
