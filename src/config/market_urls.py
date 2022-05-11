@@ -78,11 +78,6 @@ MARKETS = {
     "name": "Curve",
     "link": "https://curve.fi/"
   },
-  "lido": {
-    "name": "Lido",
-    "link": "https://stake.lido.fi/"
-  },
-  },
   "sushi": {
     "name": "Sushi",
     "link": "https://app.sushi.com/"
