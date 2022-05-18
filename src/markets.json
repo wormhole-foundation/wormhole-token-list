@@ -800,6 +800,11 @@
             "jupiter"
           ]
         },
+        "0x5a98fcbea516cf06857215779fd812ca3bef1b32": {
+          "markets": [
+            "jupiter"
+          ]
+        },
         "0x6b175474e89094c44da98b954eedeac495271d0f": {
           "markets": [
             "saber",
@@ -1301,6 +1306,11 @@
             "francium"
           ]
         },
+        "terra1jxypgnfa07j6w92wazzyskhreq2ey2a5crgt6z": {
+          "markets": [
+            "jupiter"
+          ]
+        },
         "terra1kkyyh7vganlpkj0gkc2rfmhy858ma4rtwywe3x": {
           "markets": [
             "saber",
@@ -1773,6 +1783,11 @@
         "0x96412902aa9aFf61E13f085e70D3152C6ef2a817": {
           "markets": [
             "atrix"
+          ]
+        },
+        "0x986854779804799C1d68867F5E03e601E781e41b": {
+          "markets": [
+            "jupiter"
           ]
         },
         "0xB04906e95AB5D797aDA81508115611fee694c2b3": {
