@@ -1055,6 +1055,11 @@ TOKENS = {
       "sourceAddress": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
       "coingeckoId": "lido-dao",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png",
+      "markets": {
+        "sol": [
+          "jupiter"
+        ]
+       },
       "destinations": {
         "bsc": {
           "address": "0x986854779804799C1d68867F5E03e601E781e41b",
