@@ -1,7 +1,7 @@
 name: Update Content
 
 on:
-  push:
+  pull_request:
 
 jobs:
   build:
