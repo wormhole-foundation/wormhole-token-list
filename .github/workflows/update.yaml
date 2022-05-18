@@ -2,6 +2,9 @@ name: Update Content
 
 on:
   push:
+    branches:
+      - "*"
+      - "!master"
 
 jobs:
   build:
@@ -27,7 +30,7 @@ jobs:
 
       - name: Update changes in GitHub repository
         if: steps.git-check.outputs.modified == 'true'
-        run:  |
+        run: |
           git config --global user.name 'WormholeBot'
           git config --global user.email 'wormhole@wormholenetwork.com'
           git add -A
