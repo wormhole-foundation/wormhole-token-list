@@ -168,4 +168,11 @@ MARKETS = {
     "name": "Excalibur",
     "link": "https://app.excalibur.exchange/"
   },
+  #######################
+  # 11. karura markets
+  #######################
+  "karura": {
+    "name": "Karura",
+    "link": "https://apps.karura.network"
+  },
 }
