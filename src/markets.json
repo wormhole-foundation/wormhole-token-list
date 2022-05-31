@@ -60,6 +60,10 @@
       "link": "https://jup.ag/",
       "name": "Jupiter"
     },
+    "karura": {
+      "link": "https://apps.karura.network",
+      "name": "Karura"
+    },
     "larix": {
       "link": "https://projectlarix.com/",
       "name": "Larix"
@@ -151,6 +155,13 @@
           "markets": [
             "beethovenx",
             "spookyswap"
+          ]
+        }
+      },
+      "11": {
+        "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM": {
+          "markets": [
+            "karura"
           ]
         }
       },
@@ -557,6 +568,13 @@
           ]
         }
       },
+      "11": {
+        "0x2Ec752329c3EB419136ca5e4432Aa2CDb1eA23e6": {
+          "markets": [
+            "karura"
+          ]
+        }
+      },
       "2": {
         "0x2Ec752329c3EB419136ca5e4432Aa2CDb1eA23e6": {
           "markets": [
@@ -683,6 +701,17 @@
           ]
         }
       },
+      "9": {}
+    },
+    "11": {
+      "1": {},
+      "10": {},
+      "2": {},
+      "3": {},
+      "4": {},
+      "5": {},
+      "6": {},
+      "7": {},
       "9": {}
     },
     "2": {
@@ -983,6 +1012,13 @@
           "markets": [
             "beethovenx",
             "spookyswap"
+          ]
+        }
+      },
+      "11": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
+          "markets": [
+            "karura"
           ]
         }
       },
@@ -1397,6 +1433,13 @@
             "beethovenx",
             "curve",
             "excalibur"
+          ]
+        }
+      },
+      "11": {
+        "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06": {
+          "markets": [
+            "karura"
           ]
         }
       },
@@ -1851,6 +1894,13 @@
           ]
         }
       },
+      "11": {
+        "0xB04906e95AB5D797aDA81508115611fee694c2b3": {
+          "markets": [
+            "karura"
+          ]
+        }
+      },
       "2": {
         "0x035de3679E692C471072d1A09bEb9298fBB2BD31": {
           "markets": [
@@ -2225,6 +2275,13 @@
           ]
         }
       },
+      "11": {
+        "0x4318cb63a2b8edf2de971e2f17f77097e499459d": {
+          "markets": [
+            "karura"
+          ]
+        }
+      },
       "2": {
         "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270": {
           "markets": [
@@ -2566,6 +2623,13 @@
             "beethovenx",
             "curve",
             "excalibur"
+          ]
+        }
+      },
+      "11": {
+        "0xB24CA28D4e2742907115fECda335b40dbda07a4C": {
+          "markets": [
+            "karura"
           ]
         }
       },
@@ -2949,6 +3013,13 @@
           ]
         }
       },
+      "11": {
+        "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD": {
+          "markets": [
+            "karura"
+          ]
+        }
+      },
       "2": {
         "0x1d1149a53deB36F2836Ae7877c9176413aDfA4A8": {
           "markets": [
@@ -3282,6 +3353,7 @@
           ]
         }
       },
+      "11": {},
       "2": {
         "0x12302fbE05a7e833f87d4B7843F58d19BE4FdE3B": {
           "markets": [
@@ -3890,6 +3962,7 @@
         "symbol": "SOL"
       }
     },
+    "11": {},
     "2": {
       "0x009178997aff09a67d4caccfeb897fb79d036214": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/1SOL_wh.png",
