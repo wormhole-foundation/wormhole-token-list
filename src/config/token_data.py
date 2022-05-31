@@ -1593,10 +1593,11 @@ TOKENS = {
       "coingeckoId": "usd-coin",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
       "markets": {
-         "eth": ["curve"],
+        "eth": ["curve"],
         "sol": ["saber", "mercurial", "jupiter", "sunny"],
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
+        "karura": ["karura"],
       },
       "destinations": {
         "sol": {
@@ -2493,5 +2494,10 @@ TOKENS = {
       "destinations": {},
       "sourceDecimals": 18
     }
+  },
+  #################
+  # 11. Karura native
+  #################
+  "karura": {
   }
 }
