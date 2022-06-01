@@ -2036,7 +2036,7 @@ TOKENS = {
       },
       "destinations": {
         "sol": {
-          "EHaEBhYHWA7HSphorXXosysJem6qF4agccoqDqQKCUge",
+          "address": "EHaEBhYHWA7HSphorXXosysJem6qF4agccoqDqQKCUge",
           "decimals": 8, 
         }
       },
