@@ -2034,9 +2034,11 @@ TOKENS = {
       "markets": {
         "bsc": ["pancakeswap"],
       },
-      "destAddresses": {
-        "sol": "EHaEBhYHWA7HSphorXXosysJem6qF4agccoqDqQKCUge",
-        "decimals": 8,
+      "destinations": {
+        "sol": {
+          "EHaEBhYHWA7HSphorXXosysJem6qF4agccoqDqQKCUge",
+          "decimals": 8, 
+        }
       },
       "sourceDecimals": 18
     },
