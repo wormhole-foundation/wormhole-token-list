@@ -1,0 +1,254 @@
+(XX|Y)-1))//://!  Cunntasan ainmichte airson cunntasan, dàta synthetigeach airson inbhean banca, msaa.
+ //!
+ cleachd cliath ::{account_info ::AccountInfo, program_error::ProgramError, pubkey::Pubkey};
+
+ cloc mod taigh-seinnse;
+ taigh-seinnse an latha an-diugh epoch_schedule;
+ cìs mod taigh-seinnse;
+ stiùireadh modh taigh-seinnse;
+ mod_blockhashes taigh-seinnse as ùire;
+ màl mod taigh-seinnse;
+ duaisean mod taigh-seinnse;
+ taigh-seinnse mod slot_hashes;
+ taigh-seinnse mod slot_history;
+ taigh-seinnse mod stake_history;
+
+ pub fn is_sysvar_id (id: &Pubkey) -> bool {
+     Cloc :: check_id(id)
+         ||  epoch_schedule :: check_id(id)
+         || Cìs :: check_id(id)
+         || Na_blockhashes as ùire :: check_id(id)
+         || Màl :: check_id(id)
+         || Duais :: check_id(id)
+         ||  slot_hashes :: check_id(id)
+         ||  slot_history :: check_id(id)
+         ||  Stake_history :: check_id(id)
+         || Beachd :: check_id(id)
+ }
+
+ #[macro_às-mhalairt]
+ macro_riaghailtean!  dearbhaich_sysvar_id(
+     ($name:expr, $type:ty) => (
+         $crate::declare_id!($name);
+
+         implicit $crate ::sysvar ::SysvarId airson $type {
+             fn check_id (pubkey: &$crate:: pubkey :: pubkey) -> bool {
+                 check_id(pubkey)
+             }
+         }
+
+         #[cfg(deuchainn)]
+         #[deuchainn]
+         fn test_sysvar_id() {
+             ma tha!$ crate :: sysvar :: is_sysvar_id (&id ()) {
+                 Panic! ("sysvar:: is_sysvar_id() chan eil fios agam mu {}", $name);
+             }
+         }
+     )
+ );
+
+ // sealbhadair pubkey airson cunntas sysvar
+ Bogsa ::declare_id!("Sysvar11111111111111111111111111111111");
+
+ Stoidhle taigh-seinnse SysvarId {
+     fn check_id(pubkey: &Pubkey) -> bool;
+ }
+
+ // Goireasan airson gluasad a-steach agus a-mach à cunntasan
+ Feartan taigh-seinnse Sysvar:
+     SysvarId + default + meud + serde ::Serialize + serde ::de::DeserializeOwned
+ {
+     fn size_of() -> cleachd {
+         bincode :: serialized_size (& Fèin :: default ()). unwrap () a rèir cleachdadh
+     }
+     fn from_account_info (cunntas_info: &AccountInfo) -> toradh <fèin, ProgramError> {
+         ma tha !Fèin ::check_id(account_info.unsigned_key()) {
+             tilleadh Err (ProgramError:: InvalidArgument);
+         }
+         bincode :: deserialize(&account_info.data.borrow()).map_err(| _| Mearachd a' Phrògraim::Argument Neo-dhligheach)
+     }
+     fn to_account_info(&fèin, account_info: &mut AccountInfo) -> Roghainnean <()> {
+         bincode :: serialize_into (&mut account_info.data.borrow_mut()[..], fèin).ok()
+     }
+ }
+
+ #[cfg(deuchainn)]
+ modh deuchainn {
+     cleachd super ::*;
+     cleachd cliath ::{cloc :: Epoch, program_error::ProgramError, pubkey::Pubkey};
+     cleachd std ::{cealla::RefCell, rc::Rc};
+
+     #[Agent(C)]
+     #[derive(Serialize, Deserialize, Debug, Default, PartialEq)]
+     Structar TestSysvar {
+         cuid: Pubkey,
+     }
+     Bogsa ::declare_id!("TestSysvar1111111111111111111111111111");
+     crate impl :: sysvar ::SysvarId airson TestSysvar {
+         fn check_id (pubkey: &crate:: pubkey :: pubkey) -> bool {
+             check_id(pubkey)
+         }
+     }
+     Sysvar an lùib TestSysvar {}
+
+     #[deuchainn]
+     fn test_sysvar_account_info_to_from() {
+         let test_sysvar = TestSysvar:: default();
+         leig key = cliath ::sysvar ::tests::id();
+         let wrong_key = Taigh-seinnse:: new_unique();
+         leig leis an t-sealbhadair = Taigh-seinnse:: new_unique();
+         leig mut lamports = 42;
+         leig mut data = vec![0_u8; TestSysvar::size_of()];
+         let mut account_info = AccountInfo :: ùr(
+             &iuchair,
+             meallta,
+             TRUE,
+             &Multlamport,
+             &atharraich dàta
+             &sealbhadair,
+             meallta,
+             linn :: default(),
+         );
+
+         test_sysvar.to_account_info(&mut account_info).unwrap();
+         Leig new_test_sysvar = TestSysvar::from_account_info(&account_info).unwrap();
+         assert_eq!(test_sysvar, new_test_sysvar);
+
+         account_info.key = &wrong_key;
+         dearbhaich_eq!(//! บัญชีที่มีชื่อสำหรับบัญชีข้อมูลที่สังเคราะห์สำหรับสถานะธนาคาร ฯลฯ
+//!
+ใช้ crate::{account_info::AccountInfo, program_error::ProgramError, pubkey::Pubkey};
+
+นาฬิกา mod ผับ;
+ผับสมัย epoch_schedule;
+ค่าธรรมเนียม mod ผับ;
+คำแนะนำ mod ผับ;
+pub mod ล่าสุด_blockhashes;
+ผับ mod เช่า;
+รางวัล mod ผับ;
+ผับ mod slot_hashes;
+ผับ mod slot_history;
+ผับ mod stake_history;
+
+pub fn is_sysvar_id (id: &Pubkey) -> บูล {
+    นาฬิกา::check_id(id)
+        || epoch_schedule::check_id(id)
+        || ค่าธรรมเนียม::check_id(id)
+        || ล่าสุด_blockhashes::check_id(id)
+        || เช่า::check_id(id)
+        || รางวัล ::check_id(id)
+        || slot_hashes::check_id(id)
+        || slot_history::check_id(id)
+        || Stake_history::check_id(id)
+        || คำแนะนำ ::check_id(id)
+}
+
+#[macro_export]
+macro_rules! ประกาศ_sysvar_id(
+    ($name:expr, $type:ty) => (
+        $crate::declare_id!($name);
+
+        โดยนัย $crate::sysvar::SysvarId สำหรับ $type {
+            fn check_id(pubkey: &$crate::pubkey::Pubkey) -> bool {
+                check_id(pubkey)
+            }
+        }
+
+        #[cfg(ทดสอบ)]
+        #[ทดสอบ]
+        fn test_sysvar_id () {
+            ถ้า !$crate::sysvar::is_sysvar_id(&id()) {
+                ตื่นตระหนก!("sysvar::is_sysvar_id() ไม่รู้เกี่ยวกับ {}", $name);
+            }
+        }
+    )
+);
+
+// เจ้าของ pubkey สำหรับบัญชี sysvar
+กล่อง::declare_id!("Sysvar111111111111111111111111111111111111");
+
+ลักษณะผับ SysvarId {
+    fn check_id(pubkey: &Pubkey) -> บูล;
+}
+
+// ยูทิลิตี้สำหรับการย้ายเข้าและออกจากบัญชี
+ลักษณะผับ Sysvar:
+    SysvarId + ค่าเริ่มต้น + ขนาด + serde::Serialize + serde::de::DeserializeOwned
+{
+    fn size_of () -> ใช้ {
+        bincode::serialized_size(&Self::default()).unwrap() ตามการใช้งาน
+    }
+    fn from_account_info (account_info: &AccountInfo) -> ผลลัพธ์ <ตนเอง, ProgramError> {
+        ถ้า !Self::check_id(account_info.unsigned_key()) {
+            ส่งคืน Err (ProgramError::InvalidArgument);
+        }
+        bincode::deserialize(&account_info.data.borrow()).map_err(|_| ProgramError::InvalidArgument)
+    }
+    fn to_account_info(&ตัวเอง, account_info: &mut AccountInfo) -> ตัวเลือก<()> {
+        bincode::serialize_into(&mut account_info.data.borrow_mut()[..], self).ok()
+    }
+}
+
+#[cfg(ทดสอบ)]
+การทดสอบ mod {
+    ใช้ super::*;
+    ใช้ crate::{clock::Epoch, program_error::ProgramError, pubkey::Pubkey};
+    ใช้ std::{cell::RefCell, rc::Rc};
+
+    #[ตัวแทน(C)]
+    #[derive(Serialize, Deserialize, Debug, Default, PartialEq)]
+    โครงสร้าง TestSysvar {
+        บางอย่าง: Pubkey,
+    }
+    กล่อง::declare_id!("TestSysvar111111111111111111111111111111111");
+    impl crate::sysvar::SysvarId สำหรับ TestSysvar {
+        fn check_id(pubkey: &crate::pubkey::Pubkey) -> bool {
+            check_id(pubkey)
+        }
+    }
+    นัย Sysvar สำหรับ TestSysvar {}
+
+    #[ทดสอบ]
+    fn test_sysvar_account_info_to_from () {
+        ให้ test_sysvar = TestSysvar::default();
+        ให้คีย์ = crate::sysvar::tests::id();
+        ให้ wrong_key = Pubkey::new_unique();
+        ให้เจ้าของ = Pubkey::new_unique();
+        ให้ mut lamports = 42;
+        ให้ mut data = vec![0_u8; TestSysvar::size_of()];
+        ให้ mut account_info = AccountInfo::new(
+            &กุญแจ,
+            เท็จ,
+            จริง,
+            &มุตแลมพอร์ต,
+            &เปลี่ยนข้อมูล
+            &เจ้าของ,
+            เท็จ,
+            ยุค::ค่าเริ่มต้น (),
+        );
+
+        test_sysvar.to_account_info(&mut account_info).unwrap();
+        ให้ new_test_sysvar = TestSysvar::from_account_info(&account_info).unwrap();
+        assert_eq!(test_sysvar, new_test_sysvar);
+
+        account_info.key = &wrong_key;
+        assert_eq!(
+            TestSysvar::from_account_info(&account_info),
+            ข้อผิดพลาด (ProgramError::InvalidArgument)
+        );
+
+        ให้ mut small_data = vec![];
+        account_info.data = Rc::new(RefCell::new(&mut small_data));
+        assert_eq!(test_sysvar.to_account_info(&mut account_info), None);
+    }
+}by_sourc.csv
+  source,symbol,name,sourceAddress,sourceDecimals,coingeckoId,logo,solAddress,solDecimals,ethAddress,ethDecimals,bscAddress,bscDecimals,terraAddress,terraDecimals,maticAddress,maticDecimasource,symbol,name,sourceAddress,sourceDecimals,coingeckoId,logo,solAddress,solDecimals,ethAddress,ethDecimals,bscAddress,bscDecimals,terraAddress,terraDecimals,maticAddress,maticDecimals,avaxAddress,Jump Trading Group, including Jump Operations, LLC and its subsidiaries and affiliates (collectively, “Jump”) respect the privacy of Personal Data and are committed to protecting Personal Data for whi
+             TestSysvar ::bho_account_info(&account_info),
+             Mearachd (ProgramError::InvalidArgument)
+         );
+
+         leig mut small_data = vec![];
+         account_info.data = Rc::ùr(RefCell::new(&mut small_data));
+         assert_eq!(test_sysvar.to_account_info(&mut account_info), Chan eil gin);
+     }
+ }
