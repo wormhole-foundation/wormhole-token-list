@@ -3591,6 +3591,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/KEEP_wh.png",
         "symbol": "KEEP"
       },
+      "6CKXpW4KAiAJt9Exj9nneqS2vyFqj8ABRMvXyYhoa2M9": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WOW_wh.png",
+        "symbol": "WOW"
+      },
       "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FXS_wh.png",
         "symbol": "FXS"
@@ -4607,6 +4611,10 @@
       "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETH_wh.png",
         "symbol": "ETH"
+      },
+      "0x4da996c5fe84755c80e108cf96fe705174c5e36a": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WOW_wh.png",
+        "symbol": "WOW"
       },
       "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTet_wh.png",

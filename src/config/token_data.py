@@ -2167,6 +2167,20 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "WOW": {
+      "symbol": "WOW",
+      "name": "WOWswap Token (Portal)",
+      "sourceAddress": "0x4da996c5fe84755c80e108cf96fe705174c5e36a",
+      "coingeckoId": "wowswap",
+      "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6CKXpW4KAiAJt9Exj9nneqS2vyFqj8ABRMvXyYhoa2M9/logo.png",
+      "destinations": {
+        "sol": {
+          "address": "6CKXpW4KAiAJt9Exj9nneqS2vyFqj8ABRMvXyYhoa2M9",
+          "decimals": 8
+        },
+      },
+      "sourceDecimals": 18
+    },
     "USDTbs": {
       "symbol": "USDTbs",
       "name": "Tether USD (Portal from BSC)",
