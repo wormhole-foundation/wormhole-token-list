@@ -359,11 +359,6 @@
             "pancakeswap"
           ]
         },
-        "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1": {
           "markets": [
             "pancakeswap"
@@ -3638,10 +3633,6 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RGT_wh.png",
         "symbol": "RGT"
       },
-      "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AURY_wh.png",
-        "symbol": "AURY"
-      },
       "AjkPkq3nsyDe1yKcbyZT7N4aK4Evv9om9tzhQD3wsRC": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/1INCH_wh.png",
         "symbol": "1INCH"
@@ -4598,10 +4589,6 @@
       "0xB04906e95AB5D797aDA81508115611fee694c2b3": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCet_wh.png",
         "symbol": "USDCet"
-      },
-      "0xF5a367b7809e5683538C93Ce638B9258A0B88271": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AURY_wh.png",
-        "symbol": "AURY"
       },
       "0xb1547683DA678f2e1F003A780143EC10Af8a832B": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SHIB_wh.png",
