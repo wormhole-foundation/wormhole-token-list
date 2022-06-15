@@ -3,33 +3,33 @@ TOKENS = {
   # 1. Solana native
   ###################
   "sol": {
-    "ATLAS": {
-      "symbol": "ATLAS",
-      "name": "Star Atlas (Portal)",
-      "sourceAddress": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
-      "coingeckoId": "star-atlas",
-      "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png",
-      "markets": {
-        "bsc": [
-          "pancakeswap"
-        ]
-      },
-      "destinations": {
-        "eth": {
-          "address": "0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7",
-          "decimals": 8
-        },
-        "terra": {
-          "address": "terra1rg8f993m9834afwazersesgx7jjxv4p87q9wvc",
-          "decimals": 8
-        },
-        "bsc": {
-          "address": "0x83850D97018f665EB746FBb8f18351e977d1b0D6",
-          "decimals": 8
-        }
-      },
-      "sourceDecimals": 8
-    },
+#     "ATLAS": {
+#       "symbol": "ATLAS",
+#       "name": "Star Atlas (Portal)",
+#       "sourceAddress": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
+#       "coingeckoId": "star-atlas",
+#       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png",
+#       "markets": {
+#         "bsc": [
+#           "pancakeswap"
+#         ]
+#       },
+#       "destinations": {
+#         "eth": {
+#           "address": "0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7",
+#           "decimals": 8
+#         },
+#         "terra": {
+#           "address": "terra1rg8f993m9834afwazersesgx7jjxv4p87q9wvc",
+#           "decimals": 8
+#         },
+#         "bsc": {
+#           "address": "0x83850D97018f665EB746FBb8f18351e977d1b0D6",
+#           "decimals": 8
+#         }
+#       },
+#       "sourceDecimals": 8
+#     },
     "AURY": {
       "symbol": "AURY",
       "name": "Aurory (Portal)",
