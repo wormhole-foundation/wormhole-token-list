@@ -2074,7 +2074,7 @@ TOKENS = {
       "logo": "https://etherscan.io/token/images/binanceusd_32.png",
       "markets": {
         "sol": ["saber", "mercurial", "sunny"],
-        "eth": ["uniswap"],
+#         "eth": ["uniswap"],
         "matic": ["quickswap"],
         "terra": ["astroport"],
         "bsc": ["pancakeswap"], #revert to native asset 
