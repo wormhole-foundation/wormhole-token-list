@@ -13,14 +13,6 @@ by source chain:
 * [Karura](#source-chain-karura)
 
 ## source chain: Solana
-### AURY
-![AURY](AURY_wh.png)
-![AURY](AURY_wh_small.png)
-
-```
-https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AURY_wh.png
-```
-
 ### RAY
 ![RAY](RAY_wh.png)
 ![RAY](RAY_wh_small.png)
