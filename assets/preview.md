@@ -13,14 +13,6 @@ by source chain:
 * [Karura](#source-chain-karura)
 
 ## source chain: Solana
-### ATLAS
-![ATLAS](ATLAS_wh.png)
-![ATLAS](ATLAS_wh_small.png)
-
-```
-https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ATLAS_wh.png
-```
-
 ### AURY
 ![AURY](AURY_wh.png)
 ![AURY](AURY_wh_small.png)

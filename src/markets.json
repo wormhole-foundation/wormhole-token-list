@@ -359,11 +359,6 @@
             "pancakeswap"
           ]
         },
-        "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP": {
           "markets": [
             "pancakeswap"
@@ -1133,11 +1128,6 @@
             "pancakeswap"
           ]
         },
-        "0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
           "markets": [
             "pancakeswap"
@@ -1558,11 +1548,6 @@
           ]
         },
         "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "terra1rg8f993m9834afwazersesgx7jjxv4p87q9wvc": {
           "markets": [
             "pancakeswap"
           ]
@@ -3653,10 +3638,6 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RGT_wh.png",
         "symbol": "RGT"
       },
-      "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ATLAS_wh.png",
-        "symbol": "ATLAS"
-      },
       "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AURY_wh.png",
         "symbol": "AURY"
@@ -4254,10 +4235,6 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LUA_wh.png",
         "symbol": "LUA"
       },
-      "0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ATLAS_wh.png",
-        "symbol": "ATLAS"
-      },
       "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AXSet_wh.png",
         "symbol": "AXSet"
@@ -4472,10 +4449,6 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/mSOL_wh.png",
         "symbol": "mSOL"
       },
-      "terra1rg8f993m9834afwazersesgx7jjxv4p87q9wvc": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ATLAS_wh.png",
-        "symbol": "ATLAS"
-      },
       "terra1skjr69exm6v8zellgjpaa2emhwutrk5a6dz7dd": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BUSDbs_wh.png",
         "symbol": "BUSDbs"
@@ -4601,10 +4574,6 @@
       "0x75344E5693ed5ecAdF4f292fFeb866c2cF8afCF1": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SBR_wh.png",
         "symbol": "SBR"
-      },
-      "0x83850D97018f665EB746FBb8f18351e977d1b0D6": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ATLAS_wh.png",
-        "symbol": "ATLAS"
       },
       "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCbs_wh.png",
