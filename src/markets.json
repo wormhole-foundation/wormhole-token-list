@@ -176,11 +176,6 @@
             "curve"
           ]
         },
-        "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2": {
-          "markets": [
-            "uniswap"
-          ]
-        },
         "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw": {
           "markets": [
             "curve"
@@ -1494,11 +1489,6 @@
             "curve"
           ]
         },
-        "terra1skjr69exm6v8zellgjpaa2emhwutrk5a6dz7dd": {
-          "markets": [
-            "uniswap"
-          ]
-        },
         "terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz": {
           "markets": [
             "anchor"
@@ -1978,11 +1968,6 @@
             "curve"
           ]
         },
-        "0xe9e7cea3dedca5984780bafc599bd69add087d56": {
-          "markets": [
-            "uniswap"
-          ]
-        },
         "0xfA54fF1a158B5189Ebba6ae130CEd6bbd3aEA76e": {
           "markets": [
             "uniswap"
@@ -2334,11 +2319,6 @@
             "uniswap"
           ]
         },
-        "0xa8d394fe7380b8ce6145d5f85e6ac22d4e91acde": {
-          "markets": [
-            "uniswap"
-          ]
-        },
         "0xd93f7e271cb87c23aaa73edc008a79646d1f9912": {
           "markets": [
             "uniswap"
@@ -2657,11 +2637,6 @@
         "0x8b82A291F83ca07Af22120ABa21632088fC92931": {
           "markets": [
             "curve"
-          ]
-        },
-        "0xA41a6c7E25DdD361343e8Cb8cFa579bbE5eEdb7a": {
-          "markets": [
-            "uniswap"
           ]
         },
         "0xB24CA28D4e2742907115fECda335b40dbda07a4C": {
@@ -3075,11 +3050,6 @@
         "0xdC19A122e268128B5eE20366299fc7b5b199C8e3": {
           "markets": [
             "curve"
-          ]
-        },
-        "0xf6568FD76f9fcD1f60f73b730F142853c5eF627E": {
-          "markets": [
-            "uniswap"
           ]
         }
       },
