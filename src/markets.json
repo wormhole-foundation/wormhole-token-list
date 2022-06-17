@@ -222,11 +222,6 @@
             "curve"
           ]
         },
-        "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": {
-          "markets": [
-            "uniswap"
-          ]
-        },
         "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv": {
           "markets": [
             "curve"
@@ -359,22 +354,12 @@
             "pancakeswap"
           ]
         },
-        "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M": {
           "markets": [
             "pancakeswap"
           ]
         },
         "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": {
           "markets": [
             "pancakeswap"
           ]
@@ -427,11 +412,6 @@
             "quickswap"
           ]
         },
-        "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1": {
-          "markets": [
-            "quickswap"
-          ]
-        },
         "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M": {
           "markets": [
             "quickswap",
@@ -439,11 +419,6 @@
           ]
         },
         "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": {
           "markets": [
             "quickswap"
           ]
@@ -499,13 +474,6 @@
         "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i": {
           "markets": [
             "yuzu"
-          ]
-        },
-        "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1": {
-          "markets": [
-            "yuzu",
-            "duneswap",
-            "gemkeeper"
           ]
         }
       },
@@ -1063,11 +1031,6 @@
         }
       },
       "4": {
-        "0x1CDD2EaB61112697626F7b4bB0e23Da4FeBF7B7C": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "0x418D75f65a02b3D53B2418FB8E1fe493759c7605": {
           "markets": [
             "pancakeswap"
@@ -1127,19 +1090,9 @@
           "markets": [
             "pancakeswap"
           ]
-        },
-        "0xdac17f958d2ee523a2206206994597c13d831ec7": {
-          "markets": [
-            "pancakeswap"
-          ]
         }
       },
       "5": {
-        "0x1CDD2EaB61112697626F7b4bB0e23Da4FeBF7B7C": {
-          "markets": [
-            "quickswap"
-          ]
-        },
         "0x418D75f65a02b3D53B2418FB8E1fe493759c7605": {
           "markets": [
             "quickswap"
@@ -1190,11 +1143,6 @@
           "markets": [
             "quickswap"
           ]
-        },
-        "0xdac17f958d2ee523a2206206994597c13d831ec7": {
-          "markets": [
-            "quickswap"
-          ]
         }
       },
       "6": {
@@ -1228,13 +1176,6 @@
           ]
         },
         "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
-          "markets": [
-            "yuzu",
-            "duneswap",
-            "gemkeeper"
-          ]
-        },
-        "0xdac17f958d2ee523a2206206994597c13d831ec7": {
           "markets": [
             "yuzu",
             "duneswap",
@@ -1454,11 +1395,6 @@
             "uniswap"
           ]
         },
-        "terra1hd9n65snaluvf7en0p4hqzse9eqecejz2k8rl5": {
-          "markets": [
-            "uniswap"
-          ]
-        },
         "terra1hj8de24c3yqvcsv9r8chr03fzwsak3hgd8gv3m": {
           "markets": [
             "uniswap"
@@ -1507,11 +1443,6 @@
             "pancakeswap"
           ]
         },
-        "terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8": {
           "markets": [
             "pancakeswap"
@@ -1523,11 +1454,6 @@
           ]
         },
         "terra1e6mq63y64zcxz8xyu5van4tgkhemj3r86yvgu4": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "terra1hd9n65snaluvf7en0p4hqzse9eqecejz2k8rl5": {
           "markets": [
             "pancakeswap"
           ]
@@ -1579,11 +1505,6 @@
             "quickswap"
           ]
         },
-        "terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva": {
-          "markets": [
-            "quickswap"
-          ]
-        },
         "terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8": {
           "markets": [
             "quickswap"
@@ -1595,11 +1516,6 @@
           ]
         },
         "terra1e6mq63y64zcxz8xyu5van4tgkhemj3r86yvgu4": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "terra1hd9n65snaluvf7en0p4hqzse9eqecejz2k8rl5": {
           "markets": [
             "quickswap"
           ]
@@ -1657,13 +1573,6 @@
       },
       "7": {
         "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r": {
-          "markets": [
-            "yuzu",
-            "duneswap",
-            "gemkeeper"
-          ]
-        },
-        "terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva": {
           "markets": [
             "yuzu",
             "duneswap",
@@ -1898,11 +1807,6 @@
             "curve"
           ]
         },
-        "0x49d5cC521F75e13fa8eb4E89E9D381352C897c96": {
-          "markets": [
-            "uniswap"
-          ]
-        },
         "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA": {
           "markets": [
             "curve"
@@ -2020,17 +1924,7 @@
             "quickswap"
           ]
         },
-        "0x49d5cC521F75e13fa8eb4E89E9D381352C897c96": {
-          "markets": [
-            "quickswap"
-          ]
-        },
         "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc": {
           "markets": [
             "quickswap"
           ]
@@ -2103,13 +1997,6 @@
           ]
         },
         "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA": {
-          "markets": [
-            "yuzu",
-            "duneswap",
-            "gemkeeper"
-          ]
-        },
-        "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc": {
           "markets": [
             "yuzu",
             "duneswap",
@@ -2263,11 +2150,6 @@
             "uniswap"
           ]
         },
-        "0x3553f861dec0257bada9f8ed268bf0d74e45e89c": {
-          "markets": [
-            "uniswap"
-          ]
-        },
         "0x4318cb63a2b8edf2de971e2f17f77097e499459d": {
           "markets": [
             "curve"
@@ -2376,22 +2258,12 @@
             "pancakeswap"
           ]
         },
-        "0x3553f861dec0257bada9f8ed268bf0d74e45e89c": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "0x4318cb63a2b8edf2de971e2f17f77097e499459d": {
           "markets": [
             "pancakeswap"
           ]
         },
         "0x576cf361711cd940cd9c397bb98c4c896cbd38de": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0x9417669fBF23357D2774e9D421307bd5eA1006d2": {
           "markets": [
             "pancakeswap"
           ]
@@ -2443,13 +2315,6 @@
       },
       "7": {
         "0x11CD37bb86F65419713f30673A480EA33c826872": {
-          "markets": [
-            "yuzu",
-            "duneswap",
-            "gemkeeper"
-          ]
-        },
-        "0x9417669fBF23357D2774e9D421307bd5eA1006d2": {
           "markets": [
             "yuzu",
             "duneswap",
@@ -2624,11 +2489,6 @@
             "curve"
           ]
         },
-        "0xF0FF231e3F1A50F83136717f287ADAB862f89431": {
-          "markets": [
-            "uniswap"
-          ]
-        },
         "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F": {
           "markets": [
             "uniswap"
@@ -2742,11 +2602,6 @@
             "pancakeswap"
           ]
         },
-        "0xF0FF231e3F1A50F83136717f287ADAB862f89431": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F": {
           "markets": [
             "pancakeswap"
@@ -2796,11 +2651,6 @@
           ]
         },
         "0xB24CA28D4e2742907115fECda335b40dbda07a4C": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "0xF0FF231e3F1A50F83136717f287ADAB862f89431": {
           "markets": [
             "quickswap"
           ]
@@ -2981,11 +2831,6 @@
             "uniswap"
           ]
         },
-        "0x24285C5232ce3858F00bacb950Cae1f59d1b2704": {
-          "markets": [
-            "uniswap"
-          ]
-        },
         "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F": {
           "markets": [
             "curve"
@@ -3094,11 +2939,6 @@
             "pancakeswap"
           ]
         },
-        "0x24285C5232ce3858F00bacb950Cae1f59d1b2704": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F": {
           "markets": [
             "pancakeswap"
@@ -3139,11 +2979,6 @@
             "pancakeswap"
           ]
         },
-        "0xdC19A122e268128B5eE20366299fc7b5b199C8e3": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "0xf6568FD76f9fcD1f60f73b730F142853c5eF627E": {
           "markets": [
             "pancakeswap"
@@ -3152,11 +2987,6 @@
       },
       "5": {
         "0x1d1149a53deB36F2836Ae7877c9176413aDfA4A8": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "0x24285C5232ce3858F00bacb950Cae1f59d1b2704": {
           "markets": [
             "quickswap"
           ]
@@ -3199,11 +3029,6 @@
           ]
         },
         "0xd79Ef9A91b56c690C7b80570a3c060678667f469": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "0xdC19A122e268128B5eE20366299fc7b5b199C8e3": {
           "markets": [
             "quickswap"
           ]
@@ -3325,11 +3150,6 @@
           "markets": [
             "uniswap"
           ]
-        },
-        "0xd80890AFDBd7148456D8Ee358eF9127F0F8c7faf": {
-          "markets": [
-            "uniswap"
-          ]
         }
       },
       "3": {
@@ -3372,11 +3192,6 @@
           "markets": [
             "pancakeswap"
           ]
-        },
-        "0xd80890AFDBd7148456D8Ee358eF9127F0F8c7faf": {
-          "markets": [
-            "pancakeswap"
-          ]
         }
       },
       "5": {
@@ -3396,11 +3211,6 @@
           ]
         },
         "0xDd1DaFedeBa5F9851C4F4a2876E0f3aF3c774B1A": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "0xd80890AFDBd7148456D8Ee358eF9127F0F8c7faf": {
           "markets": [
             "quickswap"
           ]
