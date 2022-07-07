@@ -11,6 +11,7 @@ by source chain:
 * [Fantom](#source-chain-fantom)
 * [Aurora](#source-chain-aurora)
 * [Karura](#source-chain-karura)
+* [Celo](#source-chain-celo)
 
 ## source chain: Solana
 ### RAY
@@ -951,3 +952,5 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FTM_
 
 
 ## source chain: Karura
+
+## source chain: Celo
