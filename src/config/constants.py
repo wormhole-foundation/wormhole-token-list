@@ -12,6 +12,7 @@ CHAIN_IDS_TO_NAMES = OrderedDict([
   (9, 'aurora'),
   (10, 'ftm'),
   (11, 'karura'),
+  (14, 'celo'),
 ])
 CHAIN_NAMES_TO_IDS = OrderedDict([(v, k) for (k, v) in CHAIN_IDS_TO_NAMES.items()])
 
@@ -26,6 +27,7 @@ SOURCE_INFO = OrderedDict([
   ('ftm', ('Fantom', 'ft', "https://ftmscan.com", "https://ftmscan.com/address/0x7C9Fc5741288cDFdD83CeB07f3ea7e22618D79D2")),
   ('aurora', ('Aurora', 'au', "https://aurorascan.dev", "https://aurorascan.dev/address/0x51b5123a7b0F9b2bA265f9c4C8de7D78D52f510F")),
   ('karura', ('Karura', 'ka', "https://blockscout.karura.network", "https://blockscout.karura.network/address/0x0000000000000000000100000000000000000080")),
+  ('celo', ('Celo', 'ce', "https://celoscan.io", "https://celoscan.io/address/0x471ece3750da237f93b8e339c536989b8978a438")),
 ])
 
 SUFFIXES = [x[1] for x in SOURCE_INFO.values()]
