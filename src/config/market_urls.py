@@ -176,7 +176,7 @@ MARKETS = {
     "link": "https://apps.karura.network"
   },
   #######################
-  # 12. celo markets
+  # 14. celo markets
   #######################
   "ubeswap": {
     "name": "Ubeswap",
