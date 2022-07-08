@@ -76,6 +76,10 @@
       "link": "https://mercurial.finance/",
       "name": "Mercurial"
     },
+    "mobius": {
+      "link": "https://www.mobius.money/#/swap",
+      "name": "Mobius"
+    },
     "orca": {
       "link": "https://www.orca.so/",
       "name": "Orca"
@@ -131,6 +135,10 @@
     "tulip": {
       "link": "https://tulip.garden/",
       "name": "Tulip"
+    },
+    "ubeswap": {
+      "link": "https://app.ubeswap.org/#/swap",
+      "name": "Ubeswap"
     },
     "uniswap": {
       "link": "https://app.uniswap.org/",
