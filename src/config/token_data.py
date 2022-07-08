@@ -702,6 +702,7 @@ TOKENS = {
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
         "oasis": ["yuzu", "duneswap", "gemkeeper"],
+        "celo": ["ubeswap"],
       },
       "destinations": {
         "sol": {
@@ -731,7 +732,11 @@ TOKENS = {
         "aurora": {
           "address": "0x811Cc0d762eA72aC72385d93b98a97263AE37E4C",
           "decimals": 18
-        }
+        },
+        "celo": {
+          "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
+          "decimals": 18
+        },
       },
       "sourceDecimals": 18
     },
@@ -1549,6 +1554,7 @@ TOKENS = {
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
         "karura": ["karura"],
+        "celo": ["ubeswap"],
       },
       "destinations": {
         "sol": {
@@ -1578,8 +1584,13 @@ TOKENS = {
         "ftm": {
           "address": "0x2Ec752329c3EB419136ca5e4432Aa2CDb1eA23e6",
           "decimals": 6
-        }
+        },
+        "celo": {
+          "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
+          "decimals": 6
+        },
       },
+      
       "sourceDecimals": 6
     },
     "USDK": {
