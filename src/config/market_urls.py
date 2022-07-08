@@ -175,4 +175,15 @@ MARKETS = {
     "name": "Karura",
     "link": "https://apps.karura.network"
   },
+  #######################
+  # 12. celo markets
+  #######################
+  "ubeswap": {
+    "name": "Ubeswap",
+    "link": "https://app.ubeswap.org/#/swap"
+  },
+  "mobius": {
+    "name": "Mobius",
+    "link": "https://www.mobius.money/#/swap"
+  },
 }
