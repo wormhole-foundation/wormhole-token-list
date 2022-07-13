@@ -178,6 +178,14 @@ MARKETS = {
   #######################
   # 12. celo markets
   #######################
+  "ubeswap": {
+    "name": "Ubeswap",
+    "link": "https://app.ubeswap.org/#/swap"
+  },
+  "mobius": {
+    "name": "Mobius",
+    "link": "https://www.mobius.money/#/swap"
+  },
   "symmetric": {
     "name": "Symmetric",
     "link": "https://celo.symm.fi/"
