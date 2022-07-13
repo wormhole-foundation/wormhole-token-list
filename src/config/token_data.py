@@ -745,7 +745,7 @@ TOKENS = {
       "name": "Ethix (Portal)",
       "sourceAddress": "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
       "coingeckoId": "ethichub",
-      "logo": "https://s3.eu-west-1.amazonaws.com/media.ethichub.com/ethix-logo.png",
+      "logo": "https://raw.githubusercontent.com/ethichub/wormhole-token-list/main/src/logogen/base/ETHIX.png",
       "markets": {
         "eth": ["uniswap", "balancer"],
         "celo": ["symmetric"],

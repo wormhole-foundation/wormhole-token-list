@@ -1103,6 +1103,11 @@
         }
       },
       "12": {
+        "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e": {
+          "markets": [
+            "symmetric"
+          ]
+        },
         "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
           "markets": [
             "ubeswap"
@@ -1111,11 +1116,6 @@
         "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
           "markets": [
             "ubeswap"
-          ]
-        },
-        "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e": {
-          "markets": [
-            "symmetric"
           ]
         }
       },
@@ -3936,7 +3936,7 @@
         "symbol": "ETH"
       },
       "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed": {
-        "logo": "https://s3.eu-west-1.amazonaws.com/media.ethichub.com/ethix-logo.png",
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETHIX_wh.png",
         "symbol": "ETHIX"
       }
     },
@@ -4234,7 +4234,7 @@
         "symbol": "RAY"
       },
       "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e": {
-        "logo": "https://s3.eu-west-1.amazonaws.com/media.ethichub.com/ethix-logo.png",
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETHIX_wh.png",
         "symbol": "ETHIX"
       },
       "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b": {
