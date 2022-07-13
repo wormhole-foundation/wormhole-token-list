@@ -175,4 +175,11 @@ MARKETS = {
     "name": "Karura",
     "link": "https://apps.karura.network"
   },
+  #######################
+  # 12. celo markets
+  #######################
+  "symmetric": {
+    "name": "Symmetric",
+    "link": "https://celo.symm.fi/"
+  },
 }
