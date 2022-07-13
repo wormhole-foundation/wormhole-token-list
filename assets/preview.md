@@ -296,6 +296,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ENS_
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETH_wh.png
 ```
 
+### ETHIX
+![ETHIX](ETHIX_wh.png)
+![ETHIX](ETHIX_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETHIX_wh.png
+```
+
 ### FRAX
 ![FRAX](FRAX_wh.png)
 ![FRAX](FRAX_wh_small.png)
