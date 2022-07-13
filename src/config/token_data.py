@@ -735,6 +735,24 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "ETHIX": {
+      "symbol": "ETHIX",
+      "name": "Ethix (Portal)",
+      "sourceAddress": "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
+      "coingeckoId": "ethichub",
+      "logo": "https://s3.eu-west-1.amazonaws.com/media.ethichub.com/ethix-logo.png",
+      "markets": {
+        "eth": ["uniswap", "balancer"],
+        "celo": ["symmetric"],
+      },
+      "destinations": {
+        "celo": {
+          "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    },
     "FRAX": {
       "symbol": "FRAX",
       "name": "Frax (Portal)",
