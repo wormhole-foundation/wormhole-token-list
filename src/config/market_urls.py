@@ -86,6 +86,10 @@ MARKETS = {
     "name": "Uniswap",
     "link": "https://app.uniswap.org/"
   },
+  "balancer": {
+    "name": "Balancer",
+    "link": "https://app.balancer.fi/#/trade"
+  },
 
   ##################
   # 3. terra markets
@@ -188,6 +192,6 @@ MARKETS = {
   },
   "symmetric": {
     "name": "Symmetric",
-    "link": "https://celo.symm.fi/"
+    "link": "https://celo.symm.fi/#/trade"
   },
 }

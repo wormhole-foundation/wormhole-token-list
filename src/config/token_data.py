@@ -748,7 +748,7 @@ TOKENS = {
       "logo": "https://raw.githubusercontent.com/ethichub/wormhole-token-list/main/src/logogen/base/ETHIX.png",
       "markets": {
         "eth": ["uniswap", "balancer"],
-        "celo": ["symmetric"],
+        "celo": ["symmetric", "ubeswap"],
       },
       "destinations": {
         "celo": {

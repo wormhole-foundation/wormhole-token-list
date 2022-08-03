@@ -28,6 +28,10 @@
       "link": "https://app.atrix.finance/",
       "name": "Atrix"
     },
+    "balancer": {
+      "link": "https://app.balancer.fi/#/trade",
+      "name": "Balancer"
+    },
     "beethovenx": {
       "link": "https://beets.fi/#/trade",
       "name": "BeethovenX"
@@ -125,7 +129,7 @@
       "name": "Sushi"
     },
     "symmetric": {
-      "link": "https://celo.symm.fi/",
+      "link": "https://celo.symm.fi/#/trade",
       "name": "Symmetric"
     },
     "traderjoe": {
@@ -1105,7 +1109,8 @@
       "12": {
         "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e": {
           "markets": [
-            "symmetric"
+            "symmetric",
+            "ubeswap"
           ]
         },
         "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
