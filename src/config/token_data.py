@@ -58,7 +58,6 @@ TOKENS = {
         "eth": ["uniswap"],
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
-        "avax": ["traderjoe"],
         "terra": ["astroport"],
         "sol": ["jupiter"],
       },
