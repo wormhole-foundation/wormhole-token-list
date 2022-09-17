@@ -2500,6 +2500,23 @@ TOKENS = {
   # 15. Near native
   #################
   "near": {
+    "SWEAT": {
+      "symbol": "SWEAT",
+      "name": "Sweat Economy",
+      "markets": {
+        "eth": ["uniswap"],
+      },
+      "sourceAddress": "token.sweat",
+      "coingeckoId": "sweatcoin",
+      "logo": "https://assets.coingecko.com/coins/images/25057/small/fhD9Xs16_400x400.jpg?1649947000",
+      "destinations": {
+        "eth": {
+          "address": "0xB4b9DC1C77bdbb135eA907fd5a08094d98883A35",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    }
   },
   #################
   # 16. Moonbeam native
