@@ -8,10 +8,16 @@ by source chain:
 * [Polygon](#source-chain-polygon)
 * [Avalanche](#source-chain-avalanche)
 * [Oasis](#source-chain-oasis)
+* [Algorand](#source-chain-algorand)
 * [Fantom](#source-chain-fantom)
 * [Aurora](#source-chain-aurora)
 * [Karura](#source-chain-karura)
+* [Acala](#source-chain-acala)
+* [Klaytn](#source-chain-klaytn)
 * [Celo](#source-chain-celo)
+* [Near](#source-chain-near)
+* [Moonbeam](#source-chain-moonbeam)
+* [Terra2](#source-chain-terra2)
 
 ## source chain: Solana
 ### RAY
@@ -947,6 +953,8 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ROSE
 ```
 
 
+## source chain: Algorand
+
 ## source chain: Aurora
 
 ## source chain: Fantom
@@ -961,4 +969,22 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FTM_
 
 ## source chain: Karura
 
+## source chain: Acala
+
+## source chain: Klaytn
+
 ## source chain: Celo
+
+## source chain: Near
+### SWEAT
+![SWEAT](SWEAT_wh.png)
+![SWEAT](SWEAT_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SWEAT_wh.png
+```
+
+
+## source chain: Moonbeam
+
+## source chain: Terra2
