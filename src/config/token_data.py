@@ -2505,6 +2505,7 @@ TOKENS = {
       "name": "Sweat Economy",
       "markets": {
         "eth": ["uniswap"],
+        "near": ["reffinance"],
       },
       "sourceAddress": "token.sweat",
       "coingeckoId": "sweatcoin",
@@ -2512,6 +2513,10 @@ TOKENS = {
       "destinations": {
         "eth": {
           "address": "0xB4b9DC1C77bdbb135eA907fd5a08094d98883A35",
+          "decimals": 18
+        },
+        "bsc": {
+          "address": "0x510Ad22d8C956dCC20f68932861f54A591001283",
           "decimals": 18
         }
       },
