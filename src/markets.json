@@ -108,6 +108,10 @@
       "link": "https://raydium.io/swap/",
       "name": "Raydium"
     },
+    "reffinance": {
+      "link": "https://app.ref.finance/",
+      "name": "Ref Finance"
+    },
     "saber": {
       "link": "https://www.saber.so/",
       "name": "Saber"
@@ -1236,7 +1240,13 @@
           ]
         }
       },
-      "15": {},
+      "15": {
+        "0xB4b9DC1C77bdbb135eA907fd5a08094d98883A35": {
+          "markets": [
+            "reffinance"
+          ]
+        }
+      },
       "16": {},
       "18": {},
       "3": {
@@ -2067,7 +2077,13 @@
           ]
         }
       },
-      "15": {},
+      "15": {
+        "0x510Ad22d8C956dCC20f68932861f54A591001283": {
+          "markets": [
+            "reffinance"
+          ]
+        }
+      },
       "16": {},
       "18": {},
       "2": {
@@ -2100,6 +2116,11 @@
         "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA": {
           "markets": [
             "curve"
+          ]
+        },
+        "0x510Ad22d8C956dCC20f68932861f54A591001283": {
+          "markets": [
+            "uniswap"
           ]
         },
         "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc": {
@@ -4744,6 +4765,10 @@
       "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETH_wh.png",
         "symbol": "ETH"
+      },
+      "0x510Ad22d8C956dCC20f68932861f54A591001283": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SWEAT_wh.png",
+        "symbol": "SWEAT"
       },
       "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTet_wh.png",
