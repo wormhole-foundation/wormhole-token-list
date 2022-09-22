@@ -194,4 +194,11 @@ MARKETS = {
     "name": "Symmetric",
     "link": "https://celo.symm.fi/#/trade"
   },
+  #######################
+  # 15. near markets
+  #######################
+  "reffinance": {
+    "name": "Ref Finance",
+    "link": "https://app.ref.finance/"
+  },
 }
