@@ -415,6 +415,11 @@
           "markets": [
             "pancakeswap"
           ]
+        },
+        "zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF": {
+          "markets": [
+            "pancakeswap"
+          ]
         }
       },
       "5": {
@@ -4068,6 +4073,10 @@
       "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SRMet_wh.png",
         "symbol": "SRMet"
+      },
+      "zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF/logo.png",
+        "symbol": "ZEBEC"
       }
     },
     "10": {
@@ -4785,6 +4794,10 @@
       "0x672147dD47674757C457eB155BAA382cc10705Dd": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCpo_wh.png",
         "symbol": "USDCpo"
+      },
+      "0x6D1054C3102E842314e250b9e9C4Be327b8DaaE2": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF/logo.png",
+        "symbol": "ZEBEC"
       },
       "0x6c6D604D3f07aBE287C1A3dF0281e999A83495C0": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ROSE_wh.png",
