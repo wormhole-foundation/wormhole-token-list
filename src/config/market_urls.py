@@ -201,4 +201,11 @@ MARKETS = {
     "name": "Ref Finance",
     "link": "https://app.ref.finance/"
   },
+  #######################
+  # 16. moonbeam markets
+  #######################
+  "stellaswap": {
+    "name": "StellaSwap",
+    "link": "https://stellaswap.com/"
+  },
 }
