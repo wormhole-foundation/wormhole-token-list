@@ -1701,9 +1701,8 @@ TOKENS = {
       "coingeckoId": "wrapped-bitcoin",
       "logo": "https://etherscan.io/token/images/wbtc_28.png?v=1",
       "markets": {
-        "terra": [
-          "loop"
-        ]
+        "terra": ["loop"],
+        "moonbeam":["stellaswap"],
       },
       "destinations": {
         "sol": {
@@ -1720,6 +1719,10 @@ TOKENS = {
         },
         "oasis": {
           "address": "0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb",
+          "decimals": 8
+        },
+        "moonbeam": {
+          "address": "0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D",
           "decimals": 8
         }
       },
@@ -2080,7 +2083,8 @@ TOKENS = {
 #         "eth": ["uniswap"],
         "matic": ["quickswap"],
         "terra": ["astroport"],
-        "bsc": ["pancakeswap"], #revert to native asset 
+        "bsc": ["pancakeswap"], #revert to native asset
+        "moonbeam":["stellaswap"],
       },
       "destinations": {
         "sol": {
@@ -2105,6 +2109,10 @@ TOKENS = {
         },
         "oasis": {
           "address": "0xf6568FD76f9fcD1f60f73b730F142853c5eF627E",
+          "decimals": 18
+        },
+        "moonbeam": {
+          "address": "0x692C57641fc054c2Ad6551Ccc6566EbA599de1BA",
           "decimals": 18
         }
       },
