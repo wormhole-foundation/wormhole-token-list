@@ -206,6 +206,6 @@ MARKETS = {
   #######################
   "stellaswap": {
     "name": "StellaSwap",
-    "link": "app.stellaswap.com"
+    "link": "https://app.stellaswap.com"
   },
 }
