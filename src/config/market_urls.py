@@ -150,6 +150,15 @@ MARKETS = {
     "name": "Gemkeeper",
     "link": "https://app.gemkeeper.finance/#/swap"
   },
+
+  #######################
+  # 8. algorand markets
+  #######################
+  "algofi": {
+    "name": "Algofi",
+    "link": "https://app.algofi.org/"
+  },
+
   #######################
   # 9. aurora markets
   #######################
