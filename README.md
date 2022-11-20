@@ -15,6 +15,7 @@ Known token addresses by destination chain:
 - to [Polygon](content/dest_polygon.md)
 - to [Avalanche](content/dest_avalanche.md)
 - to [Oasis](content/dest_oasis.md)
+- to [Celo](content/dest_celo.md)
 
 Resultant wrapped-asset addresses by source chain:
 

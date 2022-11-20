@@ -3,52 +3,6 @@ TOKENS = {
   # 1. Solana native
   ###################
   "sol": {
-    "ATLAS": {
-      "symbol": "ATLAS",
-      "name": "Star Atlas (Portal)",
-      "sourceAddress": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
-      "coingeckoId": "star-atlas",
-      "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png",
-      "markets": {
-        "bsc": [
-          "pancakeswap"
-        ]
-      },
-      "destinations": {
-        "eth": {
-          "address": "0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7",
-          "decimals": 8
-        },
-        "terra": {
-          "address": "terra1rg8f993m9834afwazersesgx7jjxv4p87q9wvc",
-          "decimals": 8
-        },
-        "bsc": {
-          "address": "0x83850D97018f665EB746FBb8f18351e977d1b0D6",
-          "decimals": 8
-        }
-      },
-      "sourceDecimals": 8
-    },
-    "AURY": {
-      "symbol": "AURY",
-      "name": "Aurory (Portal)",
-      "sourceAddress": "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP",
-      "coingeckoId": "aurory",
-      "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP/logo.png",
-      "markets": {
-        "bsc": [
-          "pancakeswap"
-        ]
-      },
-      "destinations": {
-        "bsc": {
-          "address": "0xF5a367b7809e5683538C93Ce638B9258A0B88271",
-          "decimals": 9
-        }
-      },
-      "sourceDecimals": 9
-    },
     "RAY": {
       "symbol": "RAY",
       "name": "Raydium (Portal)",
@@ -104,7 +58,6 @@ TOKENS = {
         "eth": ["uniswap"],
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
-        "avax": ["traderjoe"],
         "terra": ["astroport"],
         "sol": ["jupiter"],
       },
@@ -218,9 +171,6 @@ TOKENS = {
       "coingeckoId": "tether",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
       "markets": {
-        "eth": ["uniswap"],
-        "bsc": ["pancakeswap"],
-        "matic": ["quickswap"],
         "sol": ["jupiter"], #revert to native asset
       },
       "destinations": {
@@ -272,6 +222,23 @@ TOKENS = {
         },
         "oasis": {
           "address": "0x5E11A4f64D3B9fA042dB9e1AA918F735038FdfD8",
+          "decimals": 9
+        }
+      },
+      "sourceDecimals": 9
+    },
+    "ZEBEC": {
+      "symbol": "ZBC",
+      "name": "Zebec Protocol",
+      "sourceAddress": "zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF",
+      "coingeckoId": "zebec-protocol",
+      "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF/logo.png",
+      "markets": {
+        "bsc": ["pancakeswap"]
+      },
+      "destinations": {
+        "bsc": {
+          "address": "0x6D1054C3102E842314e250b9e9C4Be327b8DaaE2",
           "decimals": 9
         }
       },
@@ -751,6 +718,8 @@ TOKENS = {
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
         "oasis": ["yuzu", "duneswap", "gemkeeper"],
+        "celo": ["ubeswap"],
+        "moonbeam": ["stellaswap"],
       },
       "destinations": {
         "sol": {
@@ -779,6 +748,32 @@ TOKENS = {
         },
         "aurora": {
           "address": "0x811Cc0d762eA72aC72385d93b98a97263AE37E4C",
+          "decimals": 18
+        },
+        "celo": {
+          "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
+          "decimals": 18
+        },
+        "moonbeam": {
+          "address": "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD",
+          "decimals": 18
+        },
+      },
+      "sourceDecimals": 18
+    },
+    "ETHIX": {
+      "symbol": "ETHIX",
+      "name": "Ethix (Portal)",
+      "sourceAddress": "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
+      "coingeckoId": "ethichub",
+      "logo": "https://raw.githubusercontent.com/ethichub/wormhole-token-list/main/src/logogen/base/ETHIX.png",
+      "markets": {
+        "eth": ["uniswap", "balancer"],
+        "celo": ["symmetric", "ubeswap"],
+      },
+      "destinations": {
+        "celo": {
+          "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
           "decimals": 18
         }
       },
@@ -1598,6 +1593,8 @@ TOKENS = {
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
         "karura": ["karura"],
+        "celo": ["ubeswap"],
+        "moonbeam": ["stellaswap"],
       },
       "destinations": {
         "sol": {
@@ -1627,8 +1624,17 @@ TOKENS = {
         "ftm": {
           "address": "0x2Ec752329c3EB419136ca5e4432Aa2CDb1eA23e6",
           "decimals": 6
-        }
+        },
+        "celo": {
+          "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
+          "decimals": 6
+        },
+        "moonbeam": {
+          "address": "0x931715FEE2d06333043d11F658C8CE934aC61D0c",
+          "decimals": 6
+        },
       },
+      
       "sourceDecimals": 6
     },
     "USDK": {
@@ -1663,9 +1669,6 @@ TOKENS = {
       "markets": {
         "eth": ["curve"],
         "sol": ["saber", "mercurial", "jupiter", "sunny"],
-        "bsc": ["pancakeswap"],
-        "matic": ["quickswap"],
-        "oasis": ["yuzu", "duneswap", "gemkeeper"],
       },
       "destinations": {
         "sol": {
@@ -1698,9 +1701,8 @@ TOKENS = {
       "coingeckoId": "wrapped-bitcoin",
       "logo": "https://etherscan.io/token/images/wbtc_28.png?v=1",
       "markets": {
-        "terra": [
-          "loop"
-        ]
+        "terra": ["loop"],
+        "moonbeam":["stellaswap"],
       },
       "destinations": {
         "sol": {
@@ -1717,6 +1719,10 @@ TOKENS = {
         },
         "oasis": {
           "address": "0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb",
+          "decimals": 8
+        },
+        "moonbeam": {
+          "address": "0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D",
           "decimals": 8
         }
       },
@@ -2074,10 +2080,11 @@ TOKENS = {
       "logo": "https://etherscan.io/token/images/binanceusd_32.png",
       "markets": {
         "sol": ["saber", "mercurial", "sunny"],
-        "eth": ["uniswap"],
+#         "eth": ["uniswap"],
         "matic": ["quickswap"],
         "terra": ["astroport"],
-        "bsc": ["pancakeswap"], #revert to native asset 
+        "bsc": ["pancakeswap"], #revert to native asset
+        "moonbeam":["stellaswap"],
       },
       "destinations": {
         "sol": {
@@ -2102,6 +2109,10 @@ TOKENS = {
         },
         "oasis": {
           "address": "0xf6568FD76f9fcD1f60f73b730F142853c5eF627E",
+          "decimals": 18
+        },
+        "moonbeam": {
+          "address": "0x692C57641fc054c2Ad6551Ccc6566EbA599de1BA",
           "decimals": 18
         }
       },
@@ -2476,6 +2487,11 @@ TOKENS = {
     }
   },
   #################
+  # 8. Algorand native
+  #################
+  "algorand": {
+  },
+  #################
   # 9. Aurora native
   #################
   "aurora": {
@@ -2499,5 +2515,57 @@ TOKENS = {
   # 11. Karura native
   #################
   "karura": {
+  },
+  #################
+  # 12. Acala native
+  #################
+  "acala": {
+  },
+  #################
+  # 13. Klaytn native
+  #################
+  "klaytn": {
+  },
+  #################
+  # 14. Celo native
+  #################
+  "celo": {
+  },
+  #################
+  # 15. Near native
+  #################
+  "near": {
+    "SWEAT": {
+      "symbol": "SWEAT",
+      "name": "Sweat Economy",
+      "markets": {
+        "eth": ["uniswap"],
+        "near": ["reffinance"],
+      },
+      "sourceAddress": "token.sweat",
+      "coingeckoId": "sweatcoin",
+      "logo": "https://assets.coingecko.com/coins/images/25057/small/fhD9Xs16_400x400.jpg?1649947000",
+      "destinations": {
+        "eth": {
+          "address": "0xB4b9DC1C77bdbb135eA907fd5a08094d98883A35",
+          "decimals": 18
+        },
+        "bsc": {
+          "address": "0x510Ad22d8C956dCC20f68932861f54A591001283",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    }
+  },
+  #################
+  # 16. Moonbeam native
+  #################
+  "moonbeam": {
+  },
+  #################
+  # 18. Terra2 native
+  #################
+  "terra2": {
   }
 }

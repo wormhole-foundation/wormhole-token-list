@@ -8,27 +8,18 @@ by source chain:
 * [Polygon](#source-chain-polygon)
 * [Avalanche](#source-chain-avalanche)
 * [Oasis](#source-chain-oasis)
+* [Algorand](#source-chain-algorand)
 * [Fantom](#source-chain-fantom)
 * [Aurora](#source-chain-aurora)
 * [Karura](#source-chain-karura)
+* [Acala](#source-chain-acala)
+* [Klaytn](#source-chain-klaytn)
+* [Celo](#source-chain-celo)
+* [Near](#source-chain-near)
+* [Moonbeam](#source-chain-moonbeam)
+* [Terra2](#source-chain-terra2)
 
 ## source chain: Solana
-### ATLAS
-![ATLAS](ATLAS_wh.png)
-![ATLAS](ATLAS_wh_small.png)
-
-```
-https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ATLAS_wh.png
-```
-
-### AURY
-![AURY](AURY_wh.png)
-![AURY](AURY_wh_small.png)
-
-```
-https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AURY_wh.png
-```
-
 ### RAY
 ![RAY](RAY_wh.png)
 ![RAY](RAY_wh_small.png)
@@ -83,6 +74,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDT
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/mSOL_wh.png
+```
+
+### ZEBEC
+![ZEBEC](ZEBEC_wh.png)
+![ZEBEC](ZEBEC_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ZEBEC_wh.png
 ```
 
 ### XTAG
@@ -309,6 +308,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ENS_
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETH_wh.png
+```
+
+### ETHIX
+![ETHIX](ETHIX_wh.png)
+![ETHIX](ETHIX_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETHIX_wh.png
 ```
 
 ### FRAX
@@ -954,6 +961,8 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ROSE
 ```
 
 
+## source chain: Algorand
+
 ## source chain: Aurora
 
 ## source chain: Fantom
@@ -967,3 +976,23 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FTM_
 
 
 ## source chain: Karura
+
+## source chain: Acala
+
+## source chain: Klaytn
+
+## source chain: Celo
+
+## source chain: Near
+### SWEAT
+![SWEAT](SWEAT_wh.png)
+![SWEAT](SWEAT_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SWEAT_wh.png
+```
+
+
+## source chain: Moonbeam
+
+## source chain: Terra2

@@ -86,6 +86,10 @@ MARKETS = {
     "name": "Uniswap",
     "link": "https://app.uniswap.org/"
   },
+  "balancer": {
+    "name": "Balancer",
+    "link": "https://app.balancer.fi/#/trade"
+  },
 
   ##################
   # 3. terra markets
@@ -174,5 +178,34 @@ MARKETS = {
   "karura": {
     "name": "Karura",
     "link": "https://apps.karura.network"
+  },
+  #######################
+  # 12. celo markets
+  #######################
+  "ubeswap": {
+    "name": "Ubeswap",
+    "link": "https://app.ubeswap.org/#/swap"
+  },
+  "mobius": {
+    "name": "Mobius",
+    "link": "https://www.mobius.money/#/swap"
+  },
+  "symmetric": {
+    "name": "Symmetric",
+    "link": "https://celo.symm.fi/#/trade"
+  },
+  #######################
+  # 15. near markets
+  #######################
+  "reffinance": {
+    "name": "Ref Finance",
+    "link": "https://app.ref.finance/"
+  },
+  #######################
+  # 16. moonbeam markets
+  #######################
+  "stellaswap": {
+    "name": "StellaSwap",
+    "link": "https://app.stellaswap.com"
   },
 }

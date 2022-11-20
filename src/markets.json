@@ -28,6 +28,10 @@
       "link": "https://app.atrix.finance/",
       "name": "Atrix"
     },
+    "balancer": {
+      "link": "https://app.balancer.fi/#/trade",
+      "name": "Balancer"
+    },
     "beethovenx": {
       "link": "https://beets.fi/#/trade",
       "name": "BeethovenX"
@@ -76,6 +80,10 @@
       "link": "https://mercurial.finance/",
       "name": "Mercurial"
     },
+    "mobius": {
+      "link": "https://www.mobius.money/#/swap",
+      "name": "Mobius"
+    },
     "orca": {
       "link": "https://www.orca.so/",
       "name": "Orca"
@@ -100,6 +108,10 @@
       "link": "https://raydium.io/swap/",
       "name": "Raydium"
     },
+    "reffinance": {
+      "link": "https://app.ref.finance/",
+      "name": "Ref Finance"
+    },
     "saber": {
       "link": "https://www.saber.so/",
       "name": "Saber"
@@ -112,6 +124,10 @@
       "link": "https://spookyswap.finance/",
       "name": "SpookySwap"
     },
+    "stellaswap": {
+      "link": "https://app.stellaswap.com",
+      "name": "StellaSwap"
+    },
     "sunny": {
       "link": "https://app.sunny.ag/",
       "name": "Sunny"
@@ -119,6 +135,10 @@
     "sushi": {
       "link": "https://app.sushi.com/",
       "name": "Sushi"
+    },
+    "symmetric": {
+      "link": "https://celo.symm.fi/#/trade",
+      "name": "Symmetric"
     },
     "traderjoe": {
       "link": "https://traderjoexyz.com/#/trade",
@@ -131,6 +151,10 @@
     "tulip": {
       "link": "https://tulip.garden/",
       "name": "Tulip"
+    },
+    "ubeswap": {
+      "link": "https://app.ubeswap.org/#/swap",
+      "name": "Ubeswap"
     },
     "uniswap": {
       "link": "https://app.uniswap.org/",
@@ -165,6 +189,44 @@
           ]
         }
       },
+      "12": {},
+      "13": {},
+      "14": {
+        "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs": {
+          "markets": [
+            "ubeswap"
+          ]
+        },
+        "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM": {
+          "markets": [
+            "ubeswap"
+          ]
+        }
+      },
+      "15": {},
+      "16": {
+        "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM": {
+          "markets": [
+            "stellaswap"
+          ]
+        }
+      },
+      "18": {},
       "2": {
         "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX": {
           "markets": [
@@ -174,11 +236,6 @@
         "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F": {
           "markets": [
             "curve"
-          ]
-        },
-        "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2": {
-          "markets": [
-            "uniswap"
           ]
         },
         "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw": {
@@ -225,11 +282,6 @@
         "EjmyN6qEC1Tf1JxiG1ae7UTJhUxSwk1TCWNWqxWV4J6o": {
           "markets": [
             "curve"
-          ]
-        },
-        "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": {
-          "markets": [
-            "uniswap"
           ]
         },
         "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv": {
@@ -364,32 +416,12 @@
             "pancakeswap"
           ]
         },
-        "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M": {
           "markets": [
             "pancakeswap"
           ]
         },
         "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": {
           "markets": [
             "pancakeswap"
           ]
@@ -405,6 +437,11 @@
           ]
         },
         "So11111111111111111111111111111111111111112": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
+        "zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF": {
           "markets": [
             "pancakeswap"
           ]
@@ -442,11 +479,6 @@
             "quickswap"
           ]
         },
-        "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1": {
-          "markets": [
-            "quickswap"
-          ]
-        },
         "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M": {
           "markets": [
             "quickswap",
@@ -454,11 +486,6 @@
           ]
         },
         "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": {
           "markets": [
             "quickswap"
           ]
@@ -496,11 +523,6 @@
             "traderjoe",
             "pangolin"
           ]
-        },
-        "So11111111111111111111111111111111111111112": {
-          "markets": [
-            "traderjoe"
-          ]
         }
       },
       "7": {
@@ -515,15 +537,9 @@
           "markets": [
             "yuzu"
           ]
-        },
-        "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1": {
-          "markets": [
-            "yuzu",
-            "duneswap",
-            "gemkeeper"
-          ]
         }
       },
+      "8": {},
       "9": {}
     },
     "10": {
@@ -575,6 +591,24 @@
           ]
         }
       },
+      "12": {},
+      "13": {},
+      "14": {
+        "0x2Ec752329c3EB419136ca5e4432Aa2CDb1eA23e6": {
+          "markets": [
+            "ubeswap"
+          ]
+        }
+      },
+      "15": {},
+      "16": {
+        "0x2Ec752329c3EB419136ca5e4432Aa2CDb1eA23e6": {
+          "markets": [
+            "stellaswap"
+          ]
+        }
+      },
+      "18": {},
       "2": {
         "0x2Ec752329c3EB419136ca5e4432Aa2CDb1eA23e6": {
           "markets": [
@@ -687,11 +721,6 @@
             "traderjoe",
             "pangolin"
           ]
-        },
-        "0xd99021C2A33e4Cf243010539c9e9b7c52E0236c1": {
-          "markets": [
-            "traderjoe"
-          ]
         }
       },
       "7": {
@@ -701,17 +730,348 @@
           ]
         }
       },
+      "8": {},
       "9": {}
     },
     "11": {
       "1": {},
       "10": {},
+      "12": {},
+      "13": {},
+      "14": {},
+      "15": {},
+      "16": {},
+      "18": {},
       "2": {},
       "3": {},
       "4": {},
       "5": {},
       "6": {},
       "7": {},
+      "8": {},
+      "9": {}
+    },
+    "12": {
+      "1": {},
+      "10": {},
+      "11": {},
+      "13": {},
+      "14": {},
+      "15": {},
+      "16": {},
+      "18": {},
+      "2": {},
+      "3": {},
+      "4": {},
+      "5": {},
+      "6": {},
+      "7": {},
+      "8": {},
+      "9": {}
+    },
+    "13": {
+      "1": {},
+      "10": {},
+      "11": {},
+      "12": {},
+      "14": {},
+      "15": {},
+      "16": {},
+      "18": {},
+      "2": {},
+      "3": {},
+      "4": {},
+      "5": {},
+      "6": {},
+      "7": {},
+      "8": {},
+      "9": {}
+    },
+    "14": {
+      "1": {
+        "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd": {
+          "markets": [
+            "saber",
+            "mercurial",
+            "jupiter",
+            "sunny"
+          ]
+        },
+        "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207": {
+          "markets": [
+            "solend",
+            "orca",
+            "saber",
+            "tulip",
+            "port",
+            "sunny",
+            "francium",
+            "raydium",
+            "atrix",
+            "dexlab"
+          ]
+        }
+      },
+      "10": {},
+      "11": {
+        "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd": {
+          "markets": [
+            "karura"
+          ]
+        }
+      },
+      "12": {},
+      "13": {},
+      "15": {},
+      "16": {
+        "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207": {
+          "markets": [
+            "stellaswap"
+          ]
+        }
+      },
+      "18": {},
+      "2": {
+        "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd": {
+          "markets": [
+            "curve"
+          ]
+        },
+        "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207": {
+          "markets": [
+            "curve"
+          ]
+        },
+        "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed": {
+          "markets": [
+            "uniswap",
+            "balancer"
+          ]
+        }
+      },
+      "3": {
+        "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207": {
+          "markets": [
+            "loop",
+            "astroport"
+          ]
+        }
+      },
+      "4": {
+        "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
+        "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207": {
+          "markets": [
+            "pancakeswap"
+          ]
+        }
+      },
+      "5": {
+        "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd": {
+          "markets": [
+            "quickswap"
+          ]
+        },
+        "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207": {
+          "markets": [
+            "quickswap"
+          ]
+        }
+      },
+      "6": {},
+      "7": {
+        "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207": {
+          "markets": [
+            "yuzu",
+            "duneswap",
+            "gemkeeper"
+          ]
+        }
+      },
+      "8": {},
+      "9": {}
+    },
+    "15": {
+      "1": {},
+      "10": {},
+      "11": {},
+      "12": {},
+      "13": {},
+      "14": {},
+      "16": {},
+      "18": {},
+      "2": {
+        "token.sweat": {
+          "markets": [
+            "uniswap"
+          ]
+        }
+      },
+      "3": {},
+      "4": {},
+      "5": {},
+      "6": {},
+      "7": {},
+      "8": {},
+      "9": {}
+    },
+    "16": {
+      "1": {
+        "0x692C57641fc054c2Ad6551Ccc6566EbA599de1BA": {
+          "markets": [
+            "saber",
+            "mercurial",
+            "sunny"
+          ]
+        },
+        "0x931715FEE2d06333043d11F658C8CE934aC61D0c": {
+          "markets": [
+            "saber",
+            "mercurial",
+            "jupiter",
+            "sunny"
+          ]
+        },
+        "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD": {
+          "markets": [
+            "solend",
+            "orca",
+            "saber",
+            "tulip",
+            "port",
+            "sunny",
+            "francium",
+            "raydium",
+            "atrix",
+            "dexlab"
+          ]
+        }
+      },
+      "10": {},
+      "11": {
+        "0x931715FEE2d06333043d11F658C8CE934aC61D0c": {
+          "markets": [
+            "karura"
+          ]
+        }
+      },
+      "12": {},
+      "13": {},
+      "14": {
+        "0x931715FEE2d06333043d11F658C8CE934aC61D0c": {
+          "markets": [
+            "ubeswap"
+          ]
+        },
+        "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD": {
+          "markets": [
+            "ubeswap"
+          ]
+        }
+      },
+      "15": {},
+      "18": {},
+      "2": {
+        "0x931715FEE2d06333043d11F658C8CE934aC61D0c": {
+          "markets": [
+            "curve"
+          ]
+        },
+        "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD": {
+          "markets": [
+            "curve"
+          ]
+        }
+      },
+      "3": {
+        "0x692C57641fc054c2Ad6551Ccc6566EbA599de1BA": {
+          "markets": [
+            "astroport"
+          ]
+        },
+        "0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D": {
+          "markets": [
+            "loop"
+          ]
+        },
+        "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD": {
+          "markets": [
+            "loop",
+            "astroport"
+          ]
+        }
+      },
+      "4": {
+        "0x692C57641fc054c2Ad6551Ccc6566EbA599de1BA": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
+        "0x931715FEE2d06333043d11F658C8CE934aC61D0c": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
+        "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD": {
+          "markets": [
+            "pancakeswap"
+          ]
+        }
+      },
+      "5": {
+        "0x692C57641fc054c2Ad6551Ccc6566EbA599de1BA": {
+          "markets": [
+            "quickswap"
+          ]
+        },
+        "0x931715FEE2d06333043d11F658C8CE934aC61D0c": {
+          "markets": [
+            "quickswap"
+          ]
+        },
+        "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD": {
+          "markets": [
+            "quickswap"
+          ]
+        }
+      },
+      "6": {},
+      "7": {
+        "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD": {
+          "markets": [
+            "yuzu",
+            "duneswap",
+            "gemkeeper"
+          ]
+        }
+      },
+      "8": {},
+      "9": {}
+    },
+    "18": {
+      "1": {},
+      "10": {},
+      "11": {},
+      "12": {},
+      "13": {},
+      "14": {},
+      "15": {},
+      "16": {},
+      "2": {},
+      "3": {},
+      "4": {},
+      "5": {},
+      "6": {},
+      "7": {},
+      "8": {},
       "9": {}
     },
     "2": {
@@ -1022,6 +1382,56 @@
           ]
         }
       },
+      "12": {},
+      "13": {},
+      "14": {
+        "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e": {
+          "markets": [
+            "symmetric",
+            "ubeswap"
+          ]
+        },
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
+          "markets": [
+            "ubeswap"
+          ]
+        },
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
+          "markets": [
+            "ubeswap"
+          ]
+        }
+      },
+      "15": {
+        "0xB4b9DC1C77bdbb135eA907fd5a08094d98883A35": {
+          "markets": [
+            "reffinance"
+          ]
+        }
+      },
+      "16": {
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "0x7B4B0B9b024109D182dCF3831222fbdA81369423": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
+          "markets": [
+            "stellaswap"
+          ]
+        }
+      },
+      "18": {},
       "3": {
         "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
           "markets": [
@@ -1078,11 +1488,6 @@
         }
       },
       "4": {
-        "0x1CDD2EaB61112697626F7b4bB0e23Da4FeBF7B7C": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "0x418D75f65a02b3D53B2418FB8E1fe493759c7605": {
           "markets": [
             "pancakeswap"
@@ -1138,28 +1543,13 @@
             "pancakeswap"
           ]
         },
-        "0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0xdac17f958d2ee523a2206206994597c13d831ec7": {
           "markets": [
             "pancakeswap"
           ]
         }
       },
       "5": {
-        "0x1CDD2EaB61112697626F7b4bB0e23Da4FeBF7B7C": {
-          "markets": [
-            "quickswap"
-          ]
-        },
         "0x418D75f65a02b3D53B2418FB8E1fe493759c7605": {
           "markets": [
             "quickswap"
@@ -1210,11 +1600,6 @@
           "markets": [
             "quickswap"
           ]
-        },
-        "0xdac17f958d2ee523a2206206994597c13d831ec7": {
-          "markets": [
-            "quickswap"
-          ]
         }
       },
       "6": {
@@ -1222,11 +1607,6 @@
           "markets": [
             "traderjoe",
             "pangolin"
-          ]
-        },
-        "0xD31a59c85aE9D8edEFeC411D448f90841571b89c": {
-          "markets": [
-            "traderjoe"
           ]
         },
         "0xa693B19d2931d498c5B318dF961919BB4aee87a5": {
@@ -1253,15 +1633,9 @@
             "duneswap",
             "gemkeeper"
           ]
-        },
-        "0xdac17f958d2ee523a2206206994597c13d831ec7": {
-          "markets": [
-            "yuzu",
-            "duneswap",
-            "gemkeeper"
-          ]
         }
       },
+      "8": {},
       "9": {}
     },
     "3": {
@@ -1443,6 +1817,44 @@
           ]
         }
       },
+      "12": {},
+      "13": {},
+      "14": {
+        "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r": {
+          "markets": [
+            "ubeswap"
+          ]
+        },
+        "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06": {
+          "markets": [
+            "ubeswap"
+          ]
+        }
+      },
+      "15": {},
+      "16": {
+        "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "terra1aa7upykmmqqc63l924l5qfap8mrmx5rfdm0v55": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "terra1skjr69exm6v8zellgjpaa2emhwutrk5a6dz7dd": {
+          "markets": [
+            "stellaswap"
+          ]
+        }
+      },
+      "18": {},
       "2": {
         "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r": {
           "markets": [
@@ -1474,11 +1886,6 @@
             "uniswap"
           ]
         },
-        "terra1hd9n65snaluvf7en0p4hqzse9eqecejz2k8rl5": {
-          "markets": [
-            "uniswap"
-          ]
-        },
         "terra1hj8de24c3yqvcsv9r8chr03fzwsak3hgd8gv3m": {
           "markets": [
             "uniswap"
@@ -1492,11 +1899,6 @@
         "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06": {
           "markets": [
             "curve"
-          ]
-        },
-        "terra1skjr69exm6v8zellgjpaa2emhwutrk5a6dz7dd": {
-          "markets": [
-            "uniswap"
           ]
         },
         "terra1u5szg038ur9kzuular3cae8hq6q5rk5u27tuvz": {
@@ -1532,11 +1934,6 @@
             "pancakeswap"
           ]
         },
-        "terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8": {
           "markets": [
             "pancakeswap"
@@ -1552,11 +1949,6 @@
             "pancakeswap"
           ]
         },
-        "terra1hd9n65snaluvf7en0p4hqzse9eqecejz2k8rl5": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "terra1ht5sepn28z999jx33sdduuxm9acthad507jg9q": {
           "markets": [
             "pancakeswap"
@@ -1568,11 +1960,6 @@
           ]
         },
         "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "terra1rg8f993m9834afwazersesgx7jjxv4p87q9wvc": {
           "markets": [
             "pancakeswap"
           ]
@@ -1609,11 +1996,6 @@
             "quickswap"
           ]
         },
-        "terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva": {
-          "markets": [
-            "quickswap"
-          ]
-        },
         "terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8": {
           "markets": [
             "quickswap"
@@ -1625,11 +2007,6 @@
           ]
         },
         "terra1e6mq63y64zcxz8xyu5van4tgkhemj3r86yvgu4": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "terra1hd9n65snaluvf7en0p4hqzse9eqecejz2k8rl5": {
           "markets": [
             "quickswap"
           ]
@@ -1662,11 +2039,6 @@
         }
       },
       "6": {
-        "terra190tqwgqx7s8qrknz6kckct7v607cu068gfujpk": {
-          "markets": [
-            "traderjoe"
-          ]
-        },
         "terra1hj8de24c3yqvcsv9r8chr03fzwsak3hgd8gv3m": {
           "markets": [
             "traderjoe",
@@ -1693,19 +2065,13 @@
             "gemkeeper"
           ]
         },
-        "terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva": {
-          "markets": [
-            "yuzu",
-            "duneswap",
-            "gemkeeper"
-          ]
-        },
         "uusd": {
           "markets": [
             "yuzu"
           ]
         }
       },
+      "8": {},
       "9": {}
     },
     "4": {
@@ -1901,6 +2267,45 @@
           ]
         }
       },
+      "12": {},
+      "13": {},
+      "14": {
+        "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA": {
+          "markets": [
+            "ubeswap"
+          ]
+        },
+        "0xB04906e95AB5D797aDA81508115611fee694c2b3": {
+          "markets": [
+            "ubeswap"
+          ]
+        }
+      },
+      "15": {
+        "0x510Ad22d8C956dCC20f68932861f54A591001283": {
+          "markets": [
+            "reffinance"
+          ]
+        }
+      },
+      "16": {
+        "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "0xB04906e95AB5D797aDA81508115611fee694c2b3": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "0xe9e7cea3dedca5984780bafc599bd69add087d56": {
+          "markets": [
+            "stellaswap"
+          ]
+        }
+      },
+      "18": {},
       "2": {
         "0x035de3679E692C471072d1A09bEb9298fBB2BD31": {
           "markets": [
@@ -1928,14 +2333,14 @@
             "curve"
           ]
         },
-        "0x49d5cC521F75e13fa8eb4E89E9D381352C897c96": {
-          "markets": [
-            "uniswap"
-          ]
-        },
         "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA": {
           "markets": [
             "curve"
+          ]
+        },
+        "0x510Ad22d8C956dCC20f68932861f54A591001283": {
+          "markets": [
+            "uniswap"
           ]
         },
         "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc": {
@@ -1976,11 +2381,6 @@
         "0xd63CDf02853D759831550fAe7dF8FFfE0B317b39": {
           "markets": [
             "curve"
-          ]
-        },
-        "0xe9e7cea3dedca5984780bafc599bd69add087d56": {
-          "markets": [
-            "uniswap"
           ]
         },
         "0xfA54fF1a158B5189Ebba6ae130CEd6bbd3aEA76e": {
@@ -2055,17 +2455,7 @@
             "quickswap"
           ]
         },
-        "0x49d5cC521F75e13fa8eb4E89E9D381352C897c96": {
-          "markets": [
-            "quickswap"
-          ]
-        },
         "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc": {
           "markets": [
             "quickswap"
           ]
@@ -2124,11 +2514,6 @@
             "traderjoe",
             "pangolin"
           ]
-        },
-        "0xfA54fF1a158B5189Ebba6ae130CEd6bbd3aEA76e": {
-          "markets": [
-            "traderjoe"
-          ]
         }
       },
       "7": {
@@ -2143,15 +2528,9 @@
             "duneswap",
             "gemkeeper"
           ]
-        },
-        "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc": {
-          "markets": [
-            "yuzu",
-            "duneswap",
-            "gemkeeper"
-          ]
         }
       },
+      "8": {},
       "9": {}
     },
     "5": {
@@ -2282,6 +2661,44 @@
           ]
         }
       },
+      "12": {},
+      "13": {},
+      "14": {
+        "0x11CD37bb86F65419713f30673A480EA33c826872": {
+          "markets": [
+            "ubeswap"
+          ]
+        },
+        "0x4318cb63a2b8edf2de971e2f17f77097e499459d": {
+          "markets": [
+            "ubeswap"
+          ]
+        }
+      },
+      "15": {},
+      "16": {
+        "0x11CD37bb86F65419713f30673A480EA33c826872": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "0x4318cb63a2b8edf2de971e2f17f77097e499459d": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "0x5D49c278340655B56609FdF8976eb0612aF3a0C3": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "0xa8d394fe7380b8ce6145d5f85e6ac22d4e91acde": {
+          "markets": [
+            "stellaswap"
+          ]
+        }
+      },
+      "18": {},
       "2": {
         "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270": {
           "markets": [
@@ -2294,11 +2711,6 @@
           ]
         },
         "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
-          "markets": [
-            "uniswap"
-          ]
-        },
-        "0x3553f861dec0257bada9f8ed268bf0d74e45e89c": {
           "markets": [
             "uniswap"
           ]
@@ -2331,11 +2743,6 @@
         "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59": {
           "markets": [
             "curve",
-            "uniswap"
-          ]
-        },
-        "0xa8d394fe7380b8ce6145d5f85e6ac22d4e91acde": {
-          "markets": [
             "uniswap"
           ]
         },
@@ -2416,22 +2823,12 @@
             "pancakeswap"
           ]
         },
-        "0x3553f861dec0257bada9f8ed268bf0d74e45e89c": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "0x4318cb63a2b8edf2de971e2f17f77097e499459d": {
           "markets": [
             "pancakeswap"
           ]
         },
         "0x576cf361711cd940cd9c397bb98c4c896cbd38de": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0x9417669fBF23357D2774e9D421307bd5eA1006d2": {
           "markets": [
             "pancakeswap"
           ]
@@ -2474,22 +2871,10 @@
             "traderjoe",
             "pangolin"
           ]
-        },
-        "0xd93f7e271cb87c23aaa73edc008a79646d1f9912": {
-          "markets": [
-            "traderjoe"
-          ]
         }
       },
       "7": {
         "0x11CD37bb86F65419713f30673A480EA33c826872": {
-          "markets": [
-            "yuzu",
-            "duneswap",
-            "gemkeeper"
-          ]
-        },
-        "0x9417669fBF23357D2774e9D421307bd5eA1006d2": {
           "markets": [
             "yuzu",
             "duneswap",
@@ -2502,6 +2887,7 @@
           ]
         }
       },
+      "8": {},
       "9": {}
     },
     "6": {
@@ -2633,6 +3019,39 @@
           ]
         }
       },
+      "12": {},
+      "13": {},
+      "14": {
+        "0x8b82A291F83ca07Af22120ABa21632088fC92931": {
+          "markets": [
+            "ubeswap"
+          ]
+        },
+        "0xB24CA28D4e2742907115fECda335b40dbda07a4C": {
+          "markets": [
+            "ubeswap"
+          ]
+        }
+      },
+      "15": {},
+      "16": {
+        "0x8b82A291F83ca07Af22120ABa21632088fC92931": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "0xA41a6c7E25DdD361343e8Cb8cFa579bbE5eEdb7a": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "0xB24CA28D4e2742907115fECda335b40dbda07a4C": {
+          "markets": [
+            "stellaswap"
+          ]
+        }
+      },
+      "18": {},
       "2": {
         "0x0950Fc1AD509358dAeaD5eB8020a3c7d8b43b9DA": {
           "markets": [
@@ -2659,19 +3078,9 @@
             "curve"
           ]
         },
-        "0xA41a6c7E25DdD361343e8Cb8cFa579bbE5eEdb7a": {
-          "markets": [
-            "uniswap"
-          ]
-        },
         "0xB24CA28D4e2742907115fECda335b40dbda07a4C": {
           "markets": [
             "curve"
-          ]
-        },
-        "0xF0FF231e3F1A50F83136717f287ADAB862f89431": {
-          "markets": [
-            "uniswap"
           ]
         },
         "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F": {
@@ -2787,11 +3196,6 @@
             "pancakeswap"
           ]
         },
-        "0xF0FF231e3F1A50F83136717f287ADAB862f89431": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F": {
           "markets": [
             "pancakeswap"
@@ -2845,11 +3249,6 @@
             "quickswap"
           ]
         },
-        "0xF0FF231e3F1A50F83136717f287ADAB862f89431": {
-          "markets": [
-            "quickswap"
-          ]
-        },
         "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F": {
           "markets": [
             "quickswap"
@@ -2880,6 +3279,7 @@
           ]
         }
       },
+      "8": {},
       "9": {}
     },
     "7": {
@@ -3020,13 +3420,46 @@
           ]
         }
       },
-      "2": {
-        "0x1d1149a53deB36F2836Ae7877c9176413aDfA4A8": {
+      "12": {},
+      "13": {},
+      "14": {
+        "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F": {
           "markets": [
-            "uniswap"
+            "ubeswap"
           ]
         },
-        "0x24285C5232ce3858F00bacb950Cae1f59d1b2704": {
+        "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD": {
+          "markets": [
+            "ubeswap"
+          ]
+        }
+      },
+      "15": {},
+      "16": {
+        "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb": {
+          "markets": [
+            "stellaswap"
+          ]
+        },
+        "0xf6568FD76f9fcD1f60f73b730F142853c5eF627E": {
+          "markets": [
+            "stellaswap"
+          ]
+        }
+      },
+      "18": {},
+      "2": {
+        "0x1d1149a53deB36F2836Ae7877c9176413aDfA4A8": {
           "markets": [
             "uniswap"
           ]
@@ -3075,11 +3508,6 @@
         "0xdC19A122e268128B5eE20366299fc7b5b199C8e3": {
           "markets": [
             "curve"
-          ]
-        },
-        "0xf6568FD76f9fcD1f60f73b730F142853c5eF627E": {
-          "markets": [
-            "uniswap"
           ]
         }
       },
@@ -3144,11 +3572,6 @@
             "pancakeswap"
           ]
         },
-        "0x24285C5232ce3858F00bacb950Cae1f59d1b2704": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F": {
           "markets": [
             "pancakeswap"
@@ -3189,11 +3612,6 @@
             "pancakeswap"
           ]
         },
-        "0xdC19A122e268128B5eE20366299fc7b5b199C8e3": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "0xf6568FD76f9fcD1f60f73b730F142853c5eF627E": {
           "markets": [
             "pancakeswap"
@@ -3202,11 +3620,6 @@
       },
       "5": {
         "0x1d1149a53deB36F2836Ae7877c9176413aDfA4A8": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "0x24285C5232ce3858F00bacb950Cae1f59d1b2704": {
           "markets": [
             "quickswap"
           ]
@@ -3253,11 +3666,6 @@
             "quickswap"
           ]
         },
-        "0xdC19A122e268128B5eE20366299fc7b5b199C8e3": {
-          "markets": [
-            "quickswap"
-          ]
-        },
         "0xf6568FD76f9fcD1f60f73b730F142853c5eF627E": {
           "markets": [
             "quickswap"
@@ -3281,13 +3689,27 @@
             "traderjoe",
             "pangolin"
           ]
-        },
-        "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc": {
-          "markets": [
-            "traderjoe"
-          ]
         }
       },
+      "8": {},
+      "9": {}
+    },
+    "8": {
+      "1": {},
+      "10": {},
+      "11": {},
+      "12": {},
+      "13": {},
+      "14": {},
+      "15": {},
+      "16": {},
+      "18": {},
+      "2": {},
+      "3": {},
+      "4": {},
+      "5": {},
+      "6": {},
+      "7": {},
       "9": {}
     },
     "9": {
@@ -3354,6 +3776,24 @@
         }
       },
       "11": {},
+      "12": {},
+      "13": {},
+      "14": {
+        "0x811Cc0d762eA72aC72385d93b98a97263AE37E4C": {
+          "markets": [
+            "ubeswap"
+          ]
+        }
+      },
+      "15": {},
+      "16": {
+        "0x811Cc0d762eA72aC72385d93b98a97263AE37E4C": {
+          "markets": [
+            "stellaswap"
+          ]
+        }
+      },
+      "18": {},
       "2": {
         "0x12302fbE05a7e833f87d4B7843F58d19BE4FdE3B": {
           "markets": [
@@ -3372,11 +3812,6 @@
           ]
         },
         "0xDd1DaFedeBa5F9851C4F4a2876E0f3aF3c774B1A": {
-          "markets": [
-            "uniswap"
-          ]
-        },
-        "0xd80890AFDBd7148456D8Ee358eF9127F0F8c7faf": {
           "markets": [
             "uniswap"
           ]
@@ -3422,11 +3857,6 @@
           "markets": [
             "pancakeswap"
           ]
-        },
-        "0xd80890AFDBd7148456D8Ee358eF9127F0F8c7faf": {
-          "markets": [
-            "pancakeswap"
-          ]
         }
       },
       "5": {
@@ -3446,11 +3876,6 @@
           ]
         },
         "0xDd1DaFedeBa5F9851C4F4a2876E0f3aF3c774B1A": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "0xd80890AFDBd7148456D8Ee358eF9127F0F8c7faf": {
           "markets": [
             "quickswap"
           ]
@@ -3482,7 +3907,8 @@
             "yuzu"
           ]
         }
-      }
+      },
+      "8": {}
     }
   },
   "tokens": {
@@ -3682,14 +4108,6 @@
       "ASk8bss7PoxfFVJfXnSJepj9KupTX15QaRnhdjs6DdYe": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RGT_wh.png",
         "symbol": "RGT"
-      },
-      "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ATLAS_wh.png",
-        "symbol": "ATLAS"
-      },
-      "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AURY_wh.png",
-        "symbol": "AURY"
       },
       "AjkPkq3nsyDe1yKcbyZT7N4aK4Evv9om9tzhQD3wsRC": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/1INCH_wh.png",
@@ -3934,6 +4352,10 @@
       "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SRMet_wh.png",
         "symbol": "SRMet"
+      },
+      "zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ZEBEC_wh.png",
+        "symbol": "ZEBEC"
       }
     },
     "10": {
@@ -3963,6 +4385,47 @@
       }
     },
     "11": {},
+    "12": {},
+    "13": {},
+    "14": {
+      "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCet_wh.png",
+        "symbol": "USDCet"
+      },
+      "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETH_wh.png",
+        "symbol": "ETH"
+      },
+      "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETHIX_wh.png",
+        "symbol": "ETHIX"
+      }
+    },
+    "15": {
+      "token.sweat": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SWEAT_wh.png",
+        "symbol": "SWEAT"
+      }
+    },
+    "16": {
+      "0x692C57641fc054c2Ad6551Ccc6566EbA599de1BA": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BUSDbs_wh.png",
+        "symbol": "BUSDbs"
+      },
+      "0x931715FEE2d06333043d11F658C8CE934aC61D0c": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCet_wh.png",
+        "symbol": "USDCet"
+      },
+      "0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WBTC_wh.png",
+        "symbol": "WBTC"
+      },
+      "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETH_wh.png",
+        "symbol": "ETH"
+      }
+    },
+    "18": {},
     "2": {
       "0x009178997aff09a67d4caccfeb897fb79d036214": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/1SOL_wh.png",
@@ -4240,6 +4703,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MIMet_wh.png",
         "symbol": "MIMet"
       },
+      "0xB4b9DC1C77bdbb135eA907fd5a08094d98883A35": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SWEAT_wh.png",
+        "symbol": "SWEAT"
+      },
       "0xD31a59c85aE9D8edEFeC411D448f90841571b89c": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SOL_wh.png",
         "symbol": "SOL"
@@ -4255,6 +4722,10 @@
       "0xE617dd80c621a5072bD8cBa65E9d76c07327004d": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RAY_wh.png",
         "symbol": "RAY"
+      },
+      "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETHIX_wh.png",
+        "symbol": "ETHIX"
       },
       "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CRO_wh.png",
@@ -4283,10 +4754,6 @@
       "0xb1f66997a5760428d3a87d68b90bfe0ae64121cc": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LUA_wh.png",
         "symbol": "LUA"
-      },
-      "0xb9F747162AB1E95d07361f9048BcDF6eDdA9eEA7": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ATLAS_wh.png",
-        "symbol": "ATLAS"
       },
       "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AXSet_wh.png",
@@ -4502,10 +4969,6 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/mSOL_wh.png",
         "symbol": "mSOL"
       },
-      "terra1rg8f993m9834afwazersesgx7jjxv4p87q9wvc": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ATLAS_wh.png",
-        "symbol": "ATLAS"
-      },
       "terra1skjr69exm6v8zellgjpaa2emhwutrk5a6dz7dd": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BUSDbs_wh.png",
         "symbol": "BUSDbs"
@@ -4608,6 +5071,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETH_wh.png",
         "symbol": "ETH"
       },
+      "0x510Ad22d8C956dCC20f68932861f54A591001283": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SWEAT_wh.png",
+        "symbol": "SWEAT"
+      },
       "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTet_wh.png",
         "symbol": "USDTet"
@@ -4624,6 +5091,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCpo_wh.png",
         "symbol": "USDCpo"
       },
+      "0x6D1054C3102E842314e250b9e9C4Be327b8DaaE2": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ZEBEC_wh.png",
+        "symbol": "ZEBEC"
+      },
       "0x6c6D604D3f07aBE287C1A3dF0281e999A83495C0": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ROSE_wh.png",
         "symbol": "ROSE"
@@ -4631,10 +5102,6 @@
       "0x75344E5693ed5ecAdF4f292fFeb866c2cF8afCF1": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SBR_wh.png",
         "symbol": "SBR"
-      },
-      "0x83850D97018f665EB746FBb8f18351e977d1b0D6": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ATLAS_wh.png",
-        "symbol": "ATLAS"
       },
       "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCbs_wh.png",
@@ -4659,10 +5126,6 @@
       "0xB04906e95AB5D797aDA81508115611fee694c2b3": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCet_wh.png",
         "symbol": "USDCet"
-      },
-      "0xF5a367b7809e5683538C93Ce638B9258A0B88271": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AURY_wh.png",
-        "symbol": "AURY"
       },
       "0xb1547683DA678f2e1F003A780143EC10Af8a832B": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SHIB_wh.png",
@@ -4931,6 +5394,7 @@
         "symbol": "BUSDbs"
       }
     },
+    "8": {},
     "9": {
       "0x12302fbE05a7e833f87d4B7843F58d19BE4FdE3B": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LUNA_wh.png",
