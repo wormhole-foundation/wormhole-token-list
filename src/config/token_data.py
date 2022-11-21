@@ -720,6 +720,7 @@ TOKENS = {
         "oasis": ["yuzu", "duneswap", "gemkeeper"],
         "celo": ["ubeswap"],
         "moonbeam": ["stellaswap"],
+        "algorand": ["algofi"], 
       },
       "destinations": {
         "sol": {
@@ -759,6 +760,10 @@ TOKENS = {
           "decimals": 18
         },
       },
+        "algorand": {
+          "address": "887406851",
+          "decimals": 8
+        },
       "sourceDecimals": 18
     },
     "ETHIX": {
