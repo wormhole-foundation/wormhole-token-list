@@ -227,26 +227,9 @@ TOKENS = {
       },
       "sourceDecimals": 9
     },
-    "ZEBEC": {
+    "ZBC": {
       "symbol": "ZBC",
-      "name": "Zebec Protocol",
-      "sourceAddress": "zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF",
-      "coingeckoId": "zebec-protocol",
-      "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF/logo.png",
-      "markets": {
-        "bsc": ["pancakeswap"]
-      },
-      "destinations": {
-        "bsc": {
-          "address": "0x6D1054C3102E842314e250b9e9C4Be327b8DaaE2",
-          "decimals": 9
-        }
-      },
-      "sourceDecimals": 9
-    },
-    "WZBC": {
-      "symbol": "WZBC",
-      "name": "Wrapped Zebec Protocol",
+      "name": "Wrapped Zebec Token",
       "sourceAddress": "wzbcJyhGhQDLTV1S99apZiiBdE4jmYfbw99saMMdP59",
       "coingeckoId": "zebec-protocol",
       "logo": "https://raw.githubusercontent.com/Zebec-protocol/zebec-assets/master/wrap-logo.png",
