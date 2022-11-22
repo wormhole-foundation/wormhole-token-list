@@ -445,6 +445,11 @@
             "pancakeswap"
           ]
         },
+        "wzbcJyhGhQDLTV1S99apZiiBdE4jmYfbw99saMMdP59": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
         "zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF": {
           "markets": [
             "pancakeswap"
@@ -4413,6 +4418,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CEL_wh.png",
         "symbol": "CEL"
       },
+      "wzbcJyhGhQDLTV1S99apZiiBdE4jmYfbw99saMMdP59": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WZBC_wh.png",
+        "symbol": "WZBC"
+      },
       "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SRMet_wh.png",
         "symbol": "SRMet"
@@ -5114,6 +5123,10 @@
       "0x3524fd7488fdb1F4723BBc22C9cbD1Bf89f46E3B": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SUSHI_wh.png",
         "symbol": "SUSHI"
+      },
+      "0x37a56cdcd83dce2868f721de58cb3830c44c6303": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WZBC_wh.png",
+        "symbol": "WZBC"
       },
       "0x3d4350cD54aeF9f9b2C29435e0fa809957B3F30a": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/UST_wh.png",

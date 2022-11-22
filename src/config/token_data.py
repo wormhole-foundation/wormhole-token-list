@@ -244,6 +244,23 @@ TOKENS = {
       },
       "sourceDecimals": 9
     },
+    "WZBC": {
+      "symbol": "WZBC",
+      "name": "Wrapped Zebec Protocol",
+      "sourceAddress": "wzbcJyhGhQDLTV1S99apZiiBdE4jmYfbw99saMMdP59",
+      "coingeckoId": "zebec-protocol",
+      "logo": "https://raw.githubusercontent.com/Zebec-protocol/zebec-assets/master/wrap-logo.png",
+      "markets": {
+        "bsc": ["pancakeswap"]
+      },
+      "destinations": {
+        "bsc": {
+          "address": "0x37a56cdcd83dce2868f721de58cb3830c44c6303",
+          "decimals": 9
+        }
+      },
+      "sourceDecimals": 9
+    },
     "XTAG": {
       "symbol": "XTAG",
       "name": "XTAG Token (Portal)",

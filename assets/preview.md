@@ -84,6 +84,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/mSOL
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ZEBEC_wh.png
 ```
 
+### WZBC
+![WZBC](WZBC_wh.png)
+![WZBC](WZBC_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WZBC_wh.png
+```
+
 ### XTAG
 ![XTAG](XTAG_wh.png)
 ![XTAG](XTAG_wh_small.png)
