@@ -76,12 +76,12 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDT
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/mSOL_wh.png
 ```
 
-### ZEBEC
-![ZEBEC](ZEBEC_wh.png)
-![ZEBEC](ZEBEC_wh_small.png)
+### ZBC
+![ZBC](ZBC_wh.png)
+![ZBC](ZBC_wh_small.png)
 
 ```
-https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ZEBEC_wh.png
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ZBC_wh.png
 ```
 
 ### XTAG
