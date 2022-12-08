@@ -2535,6 +2535,40 @@ TOKENS = {
   # 14. Celo native
   #################
   "celo": {
+    "cUSD": {
+      "symbol": "cUSD",
+      "name": "Celo Dollar",
+      "markets": {
+        "celo": ["ubeswap", "uniswap"]
+      },
+      "sourceAddress": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+      "coingeckoId": "celo-dollar",
+      "logo": "https://assets.coingecko.com/coins/images/13161/small/icon-celo-dollar-color-1000-circle-cropped.png",
+      "destinations": {
+        "bsc": {
+          "address": "0xEf70d8fB4334f9eB144db6e422f4c4D0379bE66F",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    },
+    "cEUR": {
+      "symbol": "cEUR",
+      "name": "Celo Euro",
+      "markets": {
+        "celo": ["ubeswap", "uniswap"]
+      },
+      "sourceAddress": "0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73",
+      "coingeckoId": "celo-euro",
+      "logo": "https://assets.coingecko.com/coins/images/16756/small/CEUR.png?1624947266",
+      "destinations": {
+        "bsc": {
+          "address": "0xe7A127E4C4787DDaB493766EA75d57DDaD4bae49",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    }
   },
   #################
   # 15. Near native
