@@ -716,7 +716,6 @@ TOKENS = {
         "sol": ["solend", "orca", "saber", "tulip", "port", "sunny", "francium", "raydium", "atrix", "dexlab"],
         "terra": ["loop", "astroport"],
         "bsc": ["pancakeswap"],
-        "matic": ["quickswap"],
         "oasis": ["yuzu", "duneswap", "gemkeeper"],
         "celo": ["ubeswap"],
         "moonbeam": ["stellaswap"],
