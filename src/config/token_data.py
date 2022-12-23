@@ -718,7 +718,7 @@ TOKENS = {
         "bsc": ["pancakeswap"],
         "oasis": ["yuzu", "duneswap", "gemkeeper"],
         "celo": ["ubeswap"],
-        "moonbeam": ["stellaswap"],
+        "moonbeam": ["stellaswap", "moonwell"],
         "algorand": ["algofi"], 
       },
       "destinations": {
@@ -1598,7 +1598,7 @@ TOKENS = {
         "matic": ["quickswap"],
         "karura": ["karura"],
         "celo": ["ubeswap"],
-        "moonbeam": ["stellaswap"],
+        "moonbeam": ["stellaswap", "moonwell"],
       },
       "destinations": {
         "sol": {
@@ -1706,7 +1706,7 @@ TOKENS = {
       "logo": "https://etherscan.io/token/images/wbtc_28.png?v=1",
       "markets": {
         "terra": ["loop"],
-        "moonbeam":["stellaswap"],
+        "moonbeam":["stellaswap", "moonwell"],
       },
       "destinations": {
         "sol": {
