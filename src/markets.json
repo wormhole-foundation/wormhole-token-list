@@ -88,6 +88,10 @@
       "link": "https://www.mobius.money/#/swap",
       "name": "Mobius"
     },
+    "moonwell": {
+      "link": "https://moonwell.fi/artemis/",
+      "name": "Moonwell"
+    },
     "orca": {
       "link": "https://www.orca.so/",
       "name": "Orca"
