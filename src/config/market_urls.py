@@ -217,4 +217,8 @@ MARKETS = {
     "name": "StellaSwap",
     "link": "https://app.stellaswap.com"
   },
+  "moonwell":{
+    "name": "Moonwell",
+    "link": "https://moonwell.fi/artemis/"
+  },
 }
