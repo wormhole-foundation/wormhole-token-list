@@ -2344,7 +2344,28 @@ TOKENS = {
         }
       },
       "sourceDecimals": 6
-    }
+    },
+    "NCT": {
+      "symbol": "NCT",
+      "name": "Toucan Protocol: Natu (Wormhole)",
+      "sourceAddress": "0xD838290e877E0188a4A44700463419ED96c16107",
+      "coingeckoId": "toucan-protocol-nature-carbon-tonne",
+      "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/NCT_wh.png",
+      "markets": {
+        "matic": ["sushi"]
+        },
+      "destinations": {
+        "sol": {
+            "address": "7sbtAMfAuSfsUvZKPWiXUXaizYCnpLL2BBnKNTU3wjfT",
+            "decimals": 8
+        },
+        "celo": {
+          "address": "0x02De4766C272abc10Bc88c220D214A26960a7e92",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    },
   },
   #####################
   # 6. Avalanche native

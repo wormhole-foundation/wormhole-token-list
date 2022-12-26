@@ -916,6 +916,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDC
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTpo_wh.png
 ```
 
+### NCT
+![NCT](NCT_wh.png)
+![NCT](NCT_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/NCT_wh.png
+```
+
 
 ## source chain: Avalanche
 ### AVAX
