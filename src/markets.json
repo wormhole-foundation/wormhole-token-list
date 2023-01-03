@@ -862,10 +862,20 @@
             "curve"
           ]
         },
+        "0x765DE816845861e75A25fCA122bb6898B8B1282a": {
+          "markets": [
+            "curve"
+          ]
+        },
         "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed": {
           "markets": [
             "uniswap",
             "balancer"
+          ]
+        },
+        "0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73": {
+          "markets": [
+            "curve"
           ]
         }
       },
@@ -4442,9 +4452,17 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETH_wh.png",
         "symbol": "ETH"
       },
+      "0x765DE816845861e75A25fCA122bb6898B8B1282a": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/cUSD_wh.png",
+        "symbol": "cUSD"
+      },
       "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETHIX_wh.png",
         "symbol": "ETHIX"
+      },
+      "0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/cEUR_wh.png",
+        "symbol": "cEUR"
       }
     },
     "15": {
@@ -4753,6 +4771,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SWEAT_wh.png",
         "symbol": "SWEAT"
       },
+      "0xC22956c3CFeC3Ee9A9925abeE044F05Bc47f6632": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/cUSD_wh.png",
+        "symbol": "cUSD"
+      },
       "0xD31a59c85aE9D8edEFeC411D448f90841571b89c": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SOL_wh.png",
         "symbol": "SOL"
@@ -4768,6 +4790,10 @@
       "0xE617dd80c621a5072bD8cBa65E9d76c07327004d": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RAY_wh.png",
         "symbol": "RAY"
+      },
+      "0xEE586e7Eaad39207F0549BC65f19e336942C992f": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/cEUR_wh.png",
+        "symbol": "cEUR"
       },
       "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETHIX_wh.png",
