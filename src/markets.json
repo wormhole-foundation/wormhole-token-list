@@ -1250,11 +1250,6 @@
             "dexlab"
           ]
         },
-        "0x7c9f4C87d911613Fe9ca58b579f737911AAD2D43": {
-          "markets": [
-            "atrix"
-          ]
-        },
         "0x7cd167B101D2808Cfd2C45d17b2E7EA9F46b74B6": {
           "markets": [
             "saber",
@@ -1719,11 +1714,6 @@
             "francium",
             "atrix",
             "dexlab"
-          ]
-        },
-        "terra1dtqlfecglk47yplfrtwjzyagkgcqqngd5lgjp8": {
-          "markets": [
-            "atrix"
           ]
         },
         "terra1e6mq63y64zcxz8xyu5van4tgkhemj3r86yvgu4": {
@@ -2256,11 +2246,6 @@
             "dexlab"
           ]
         },
-        "0xc836d8dC361E44DbE64c4862D55BA041F88Ddd39": {
-          "markets": [
-            "atrix"
-          ]
-        },
         "0xd63CDf02853D759831550fAe7dF8FFfE0B317b39": {
           "markets": [
             "saber",
@@ -2573,11 +2558,6 @@
     },
     "5": {
       "1": {
-        "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270": {
-          "markets": [
-            "atrix"
-          ]
-        },
         "0x11CD37bb86F65419713f30673A480EA33c826872": {
           "markets": [
             "solend",
@@ -3036,11 +3016,6 @@
             "apricot",
             "tulip",
             "larix"
-          ]
-        },
-        "0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb": {
-          "markets": [
-            "atrix"
           ]
         }
       },
