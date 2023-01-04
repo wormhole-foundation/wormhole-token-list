@@ -2240,7 +2240,6 @@ TOKENS = {
       "sourceAddress": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
       "coingeckoId": "polygon",
       "markets": {
-        "sol": ["atrix"],
         "eth": ["uniswap"],
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"], #revert to native asset 
