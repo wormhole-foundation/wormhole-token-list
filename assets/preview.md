@@ -990,6 +990,22 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FTM_
 ## source chain: Klaytn
 
 ## source chain: Celo
+### cUSD
+![cUSD](cUSD_wh.png)
+![cUSD](cUSD_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/cUSD_wh.png
+```
+
+### cEUR
+![cEUR](cEUR_wh.png)
+![cEUR](cEUR_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/cEUR_wh.png
+```
+
 
 ## source chain: Near
 ### SWEAT

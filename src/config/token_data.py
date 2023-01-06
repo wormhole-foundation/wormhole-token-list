@@ -716,10 +716,9 @@ TOKENS = {
         "sol": ["solend", "orca", "saber", "tulip", "port", "sunny", "francium", "raydium", "atrix", "dexlab"],
         "terra": ["loop", "astroport"],
         "bsc": ["pancakeswap"],
-        "matic": ["quickswap"],
         "oasis": ["yuzu", "duneswap", "gemkeeper"],
         "celo": ["ubeswap"],
-        "moonbeam": ["stellaswap"],
+        "moonbeam": ["stellaswap", "moonwell"],
         "algorand": ["algofi"], 
       },
       "destinations": {
@@ -1599,7 +1598,7 @@ TOKENS = {
         "matic": ["quickswap"],
         "karura": ["karura"],
         "celo": ["ubeswap"],
-        "moonbeam": ["stellaswap"],
+        "moonbeam": ["stellaswap", "moonwell"],
       },
       "destinations": {
         "sol": {
@@ -1707,7 +1706,7 @@ TOKENS = {
       "logo": "https://etherscan.io/token/images/wbtc_28.png?v=1",
       "markets": {
         "terra": ["loop"],
-        "moonbeam":["stellaswap"],
+        "moonbeam":["stellaswap", "moonwell"],
       },
       "destinations": {
         "sol": {
@@ -2556,6 +2555,38 @@ TOKENS = {
   # 14. Celo native
   #################
   "celo": {
+    "cUSD": {
+      "symbol": "cUSD",
+      "name": "Celo Dollar (Wormhole)",
+      "sourceAddress": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+      "coingeckoId": "celo-dollar",
+      "logo": "https://assets.coingecko.com/coins/images/13161/small/icon-celo-dollar-color-1000-circle-cropped.png?1605771134",
+      "markets": {
+        "eth": ["curve"],
+      },
+      "destinations": {
+        "eth": {
+          "address": "0xC22956c3CFeC3Ee9A9925abeE044F05Bc47f6632",
+          "decimals": 18
+        },
+      },
+    },
+    "cEUR": {
+      "symbol": "cEUR",
+      "name": "Celo Euro (Wormhole)",
+      "sourceAddress": "0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73",
+      "coingeckoId": "celo-euro",
+      "logo": "https://assets.coingecko.com/coins/images/16756/small/CEUR.png?1624947266",
+      "markets": {
+        "eth": ["curve"],
+      },
+      "destinations": {
+        "eth": {
+          "address": "0xEE586e7Eaad39207F0549BC65f19e336942C992f",
+          "decimals": 18
+        },
+      },
+    },
   },
   #################
   # 15. Near native
