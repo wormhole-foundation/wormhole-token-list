@@ -60,6 +60,7 @@ TOKENS = {
         "matic": ["quickswap"],
         "terra": ["astroport"],
         "sol": ["jupiter"],
+        "injective": ["helix"]
       },
       "destinations": {
         "eth": {
@@ -89,6 +90,10 @@ TOKENS = {
         "ftm": {
           "address": "0xd99021C2A33e4Cf243010539c9e9b7c52E0236c1",
           "decimals": 9
+        },
+        "injective": {
+          "address": "inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3",
+          "decimals": 8
         }
       },
       "sourceDecimals": 9
