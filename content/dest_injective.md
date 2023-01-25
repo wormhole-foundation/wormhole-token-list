@@ -1,0 +1,9 @@
+
+Known tokens (wormholed to Injective)
+===================================
+_See [by_dest.csv](by_dest.csv) ([raw](https://raw.githubusercontent.com/certusone/wormhole-token-list/main/content/by_dest.csv)) for a superset of this data in csv._
+
+  
+| img                                                                                            | symbol   | name                                                 | address                                                                                                                           |   decimals | origin   | sourceAddress                                                                                                         |   sourceDecimals | markets                        | symbol   |
+|:-----------------------------------------------------------------------------------------------|:---------|:-----------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|-----------:|:---------|:----------------------------------------------------------------------------------------------------------------------|-----------------:|:-------------------------------|:-----------------|
+| ![SOL](https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SOL_wh.png) | SOL      | [SOL (Portal)](http://coingecko.com/en/coins/solana) | [inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3](https://explorer.injective.network/token/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3) |          8 | solana   | [So11111111111111111111111111111111111111112](https://solscan.io/address/So11111111111111111111111111111111111111112) |                9 | [helix](https://helixapp.com/) | SOL              |
