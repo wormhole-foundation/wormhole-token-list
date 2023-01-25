@@ -18,6 +18,7 @@ by source chain:
 * [Near](#source-chain-near)
 * [Moonbeam](#source-chain-moonbeam)
 * [Terra2](#source-chain-terra2)
+* [Injective](#source-chain-injective)
 
 ## source chain: Solana
 ### RAY
@@ -1012,3 +1013,5 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SWEA
 ## source chain: Moonbeam
 
 ## source chain: Terra2
+
+## source chain: Injective
