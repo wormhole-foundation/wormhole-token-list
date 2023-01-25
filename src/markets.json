@@ -64,6 +64,10 @@
       "link": "https://app.gemkeeper.finance/#/swap",
       "name": "Gemkeeper"
     },
+    "helix": {
+      "link": "https://helixapp.com/",
+      "name": "Helix"
+    },
     "jupiter": {
       "link": "https://jup.ag/",
       "name": "Jupiter"
