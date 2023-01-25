@@ -2608,5 +2608,10 @@ TOKENS = {
   # 18. Terra2 native
   #################
   "terra2": {
+  },
+  #################
+  # 19. Injective native
+  #################
+  "injective": {
   }
 }
