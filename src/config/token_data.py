@@ -2093,7 +2093,7 @@ TOKENS = {
         "matic": ["quickswap"],
         "terra": ["astroport"],
         "bsc": ["pancakeswap"], #revert to native asset
-        "moonbeam":["stellaswap"],
+        "moonbeam":["stellaswap", "moonwell"],
       },
       "destinations": {
         "sol": {
