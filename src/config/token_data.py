@@ -2348,6 +2348,23 @@ TOKENS = {
         }
       },
       "sourceDecimals": 6
+    },
+    "ISLAMI": {
+      "symbol": "ISLAMI",
+      "name": "ISLAMICOIN",
+      "sourceAddress": "0x9c891326Fd8b1a713974f73bb604677E1E63396D",
+      "coingeckoId": "islamicoin",
+      "logo": "https://raw.githubusercontent.com/ISLAMIBLOCKCHAIN/ISLAMICOIN/main/logo.png",
+      "markets": {
+        "matic": ["quickswap", "dodo"],
+      },
+      "destinations": {
+        "sol": {
+          "address": "HG2FnifX1WPY6UvnkXnMx2kAt4E4Ssu6DZ2aiB5RmLHo",
+          "decimals": 7
+        }
+      },
+      "sourceDecimals": 7
     }
   },
   #####################
