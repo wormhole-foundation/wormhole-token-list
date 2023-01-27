@@ -482,6 +482,16 @@
             "sushi"
           ]
         },
+        "7sbtAMfAuSfsUvZKPWiXUXaizYCnpLL2BBnKNTU3wjfT": {
+          "markets": [
+            "sushi"
+          ]
+        },
+        "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs": {
+          "markets": [
+            "quickswap"
+          ]
+        },
         "9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa": {
           "markets": [
             "quickswap"
@@ -923,6 +933,11 @@
         }
       },
       "5": {
+        "0x02De4766C272abc10Bc88c220D214A26960a7e92": {
+          "markets": [
+            "sushi"
+          ]
+        },
         "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd": {
           "markets": [
             "quickswap"
@@ -4226,6 +4241,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CRV_wh.png",
         "symbol": "CRV"
       },
+      "7sbtAMfAuSfsUvZKPWiXUXaizYCnpLL2BBnKNTU3wjfT": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/NCT_wh.png",
+        "symbol": "NCT"
+      },
       "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETH_wh.png",
         "symbol": "ETH"
@@ -4569,6 +4588,10 @@
     "12": {},
     "13": {},
     "14": {
+      "0x02De4766C272abc10Bc88c220D214A26960a7e92": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/NCT_wh.png",
+        "symbol": "NCT"
+      },
       "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCet_wh.png",
         "symbol": "USDCet"
@@ -5411,6 +5434,10 @@
       "0x9cd6746665D9557e1B9a775819625711d0693439": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LUNA_wh.png",
         "symbol": "LUNA"
+      },
+      "0xD838290e877E0188a4A44700463419ED96c16107": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/NCT_wh.png",
+        "symbol": "NCT"
       },
       "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/UST_wh.png",
