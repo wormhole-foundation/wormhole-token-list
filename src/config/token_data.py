@@ -2609,11 +2609,11 @@ TOKENS = {
       "sourceAddress": "3Mf8z1jxReZzzvFbYmnNWyXZcuuGE2E6PhunEJ19g6Db",
       "coingeckoId": "PBT-dollar",
       "logo": "https://5chz2sapizki77hk5v4seoqvwlufekw6xwzxcpv5yqt3rb43nwta.arweave.net/6I-dSA9GVI_86u15IjoVsuhSKt69s3E-vcQnuIebbaY",
-      "markets": {
-        "USD": [""],
-      },
+      
       "destinations": {
-        
+        "USDC": {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "decimals": 6
         },
       },
     },
