@@ -228,4 +228,11 @@ MARKETS = {
     "name": "Helix",
     "link": "https://helixapp.com/"
   }
+   #######################
+  # 19. injective markets
+  #######################
+  "Party Bug":{
+    "name": "BUG",
+    "link": "https://partybug.vercel.app/"
+  }
 }
