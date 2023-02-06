@@ -2618,9 +2618,22 @@ TOKENS = {
       },
     },
   #################
-  # 18. Terra2 native
+  # 18. Party Bug
   #################
-  "terra2": {
+  "Party Bug": {
+    "BUG": {
+      "symbol": "BUG",
+      "name": "Party Bug",
+      "sourceAddress": "7cu2NtrzozATgMJdcVudBkiSZTrkxGUT9M4n2nDqmpUh",
+      "coingeckoId": "BUG-dollar",
+      "logo": "https://ornqpqrdrfy5rsd2h65onqbih7irnvxhdwpwinrggpwa4iir2dxq.arweave.net/dFsHwiOJcdjIej-65sAoP9EW1ucdn2Q2JjPsDiER0O8",
+
+      "destinations": {
+        "USDC": {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "decimals": 6
+        },
+      },
   },
   #################
   # 19. Injective native
