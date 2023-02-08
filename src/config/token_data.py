@@ -2652,4 +2652,21 @@ TOKENS = {
           "decimals": 6
         },
       },
+
+        # 17. Yaki Inu
+  #################
+  "Yaki Inu": 
+    "YAKI": {
+      "symbol": "YAKI",
+      "name": "Yaki inu",
+      "sourceAddress": "93wJ29axccMjgbMmfAiWyA8W4vd3uRWf6nQVHzM227hP",
+      "coingeckoId": "SOLT-dollar",
+      "logo": "https://lu5572pq3gs22up3652qjd5pgzgwxdmn3cwzsmtxra2duyqk3ajq.arweave.net/XTvf6fDZpa1R-_d1BI-vNk1rjY3YrZkyd4g0OmIK2BM",
+
+      "destinations": {
+        "USDC": {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "decimals": 6
+        },
+      },
     },
