@@ -2602,7 +2602,7 @@ TOKENS = {
   #################
   # 16. Pocket Battles Token
   #################
-  "Pocket Battles": {
+  "Pocket Battles": 
     "PBT": {
       "symbol": "PBT",
       "name": "Pocket Battles",
@@ -2618,9 +2618,9 @@ TOKENS = {
       },
     },
   #################
-  # 18. Party Bug
+  # 17. Party Bug
   #################
-  "Party Bug": {
+  "Party Bug": 
     "BUG": {
       "symbol": "BUG",
       "name": "Party Bug",
@@ -2633,11 +2633,23 @@ TOKENS = {
           "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
           "decimals": 6
         },
-      },
+      },     
   },
+ #################
+  # 16. Soltoons Token
   #################
-  # 19. Injective native
-  #################
-  "injective": {
-  }
-}
+  "Soltoons": 
+    "SOLT": {
+      "symbol": "SOLT",
+      "name": "Soltoons",
+      "sourceAddress": "6SMt3kSqun2G7MdwAuDDm8epP5p1kW4Uu8W3iKQxmwwx",
+      "coingeckoId": "SOLT-dollar",
+      "logo": "https://2h7346vsqeg34fqhfb6gtvezymmyl72d4l3moon27msm2keswr2q.arweave.net/0f--erKBDb4WByh8adSZwxmF_0Pi9sc5uvskzSiStHU",
+
+      "destinations": {
+        "USDC": {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "decimals": 6
+        },
+      },
+    },

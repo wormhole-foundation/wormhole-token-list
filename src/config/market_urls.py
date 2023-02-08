@@ -235,4 +235,11 @@ MARKETS = {
     "name": "BUG",
     "link": "https://partybug.vercel.app/"
   }
+   #######################
+  # 20. injective markets
+  #######################
+  "Soltoons":{
+    "name": "SOLT",
+    "link": "https://raydium.io/"
+  }
 }
