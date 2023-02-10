@@ -10,9 +10,6 @@ TOKENS = {
       "coingeckoId": "raydium",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/logo.png",
       "markets": {
-        "bsc": [
-          "pancakeswap"
-        ]
       },
       "destinations": {
         "eth": {
@@ -58,8 +55,6 @@ TOKENS = {
         "eth": ["uniswap"],
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
-        "terra": ["astroport"],
-        "sol": ["jupiter"],
         "injective": ["helix"]
       },
       "destinations": {
@@ -130,7 +125,6 @@ TOKENS = {
         "eth": ["uniswap"],
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
-        "terra": ["astroport"],
         "sol": ["jupiter"], #revert to native asset
       },
       "destinations": {
@@ -176,7 +170,6 @@ TOKENS = {
       "coingeckoId": "tether",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
       "markets": {
-        "sol": ["jupiter"], #revert to native asset
       },
       "destinations": {
         "eth": {
@@ -274,9 +267,6 @@ TOKENS = {
       "sourceAddress": "0x111111111117dC0aa78b770fA6A738034120C302",
       "coingeckoId": "1inch",
       "markets": {
-        "sol": [
-          "dexlab"
-        ]
       },
       "destinations": {
         "sol": {
@@ -306,9 +296,6 @@ TOKENS = {
       "sourceAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
       "coingeckoId": "aave",
       "markets": {
-        "sol": [
-          "dexlab"
-        ]
       },
       "destinations": {
         "sol": {
@@ -325,9 +312,6 @@ TOKENS = {
       "coingeckoId": "akropolis",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G3h8NZgJozk9crme2me6sKDJuSQ12mNCtvC9NbSWqGuk/logo.png",
       "markets": {
-        "sol": [
-          "dexlab"
-        ]
       },
       "destinations": {
         "sol": {
@@ -430,10 +414,6 @@ TOKENS = {
       "coingeckoId": "axie-infinity",
       "logo": "https://etherscan.io/token/images/axieinfinityshard_32.png",
       "markets": {
-        "sol": [
-          "raydium",
-          "francium"
-        ]
       },
       "destinations": {
         "sol": {
@@ -490,13 +470,6 @@ TOKENS = {
       "coingeckoId": "binance-usd",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX/logo.png",
       "markets": {
-        "eth": [
-          "curve"
-        ],
-        "sol": [
-          "saber",
-          "sunny"
-        ]
       },
       "destinations": {
         "sol": {
@@ -544,9 +517,6 @@ TOKENS = {
       "sourceAddress": "0xc00e94cb662c3520282e6f5717214004a7f26888",
       "coingeckoId": "compound",
       "markets": {
-        "sol": [
-          "dexlab"
-        ]
       },
       "destinations": {
         "sol": {
@@ -562,9 +532,6 @@ TOKENS = {
       "sourceAddress": "0x2ba592f78db6436527729929aaf6c908497cb200",
       "coingeckoId": "cream",
       "markets": {
-        "sol": [
-          "dexlab"
-        ]
       },
       "destinations": {
         "sol": {
@@ -630,7 +597,6 @@ TOKENS = {
           "saber",
           "mercurial",
           "jupiter",
-          "sunny"
         ]
       },
       "destinations": {
@@ -658,7 +624,6 @@ TOKENS = {
       "markets": {
         "sol": [
           "raydium",
-          "francium"
         ]
       },
       "destinations": {
@@ -718,10 +683,8 @@ TOKENS = {
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
       "markets": {
         "eth": ["curve"],
-        "sol": ["solend", "orca", "saber", "tulip", "port", "sunny", "francium", "raydium", "atrix", "dexlab"],
-        "terra": ["loop", "astroport"],
-        "bsc": ["pancakeswap"],
-        "oasis": ["yuzu", "duneswap", "gemkeeper"],
+        "sol": ["orca", "saber", "tulip", "port", "francium", "raydium","dexlab"],
+        "oasis": ["yuzu"],
         "celo": ["ubeswap"],
         "moonbeam": ["stellaswap", "moonwell"],
         "algorand": ["algofi"], 
@@ -799,8 +762,7 @@ TOKENS = {
           "curve"
         ],
         "sol": [
-          "saber",
-          "sunny"
+          "saber"
         ]
       },
       "destinations": {
@@ -845,17 +807,6 @@ TOKENS = {
       "coingeckoId": "ftx-token",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv/logo.png",
       "markets": {
-        "eth": [
-          "curve"
-        ],
-        "sol": [
-          "saber",
-          "almond",
-          "tulip",
-          "mercurial",
-          "sunny",
-          "dexlab"
-        ]
       },
       "destinations": {
         "sol": {
@@ -902,9 +853,6 @@ TOKENS = {
       "sourceAddress": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
       "coingeckoId": "the-graph",
       "markets": {
-        "sol": [
-          "dexlab"
-        ]
       },
       "destinations": {
         "sol": {
@@ -934,9 +882,6 @@ TOKENS = {
       "coingeckoId": "huobi-btc",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8/logo.png",
       "markets": {
-        "sol": [
-          "saber"
-        ]
       },
       "destinations": {
         "sol": {
@@ -967,7 +912,7 @@ TOKENS = {
       "coingeckoId": "hxro",
       "markets": {
         "sol": [
-          "dexlab"
+          "orca", "raydium"
         ]
       },
       "destinations": {
@@ -985,13 +930,6 @@ TOKENS = {
       "coingeckoId": "husd",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw/logo.png",
       "markets": {
-        "eth": [
-          "curve"
-        ],
-        "sol": [
-          "saber",
-          "sunny"
-        ]
       },
       "destinations": {
         "sol": {
@@ -1084,10 +1022,6 @@ TOKENS = {
       "symbol": "LINK",
       "name": "Chainlink (Portal)",
       "markets": {
-        "sol": [
-          "atrix",
-          "dexlab"
-        ]
       },
       "sourceAddress": "0x514910771af9ca656af840dff83e8264ecf986ca",
       "coingeckoId": "chainlink",
@@ -1141,7 +1075,6 @@ TOKENS = {
       "markets": {
         "sol": [
           "raydium",
-          "francium"
         ]
       },
       "destinations": {
@@ -1236,9 +1169,6 @@ TOKENS = {
       "symbol": "PAXG",
       "name": "Paxos Gold (Portal)",
       "markets": {
-        "sol": [
-          "dexlab"
-        ]
       },
       "sourceAddress": "0x45804880de22913dafe09f4980848ece6ecbaf78",
       "coingeckoId": "pax-gold",
@@ -1310,9 +1240,6 @@ TOKENS = {
       "sourceAddress": "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8",
       "coingeckoId": "reserve-rights-token",
       "markets": {
-        "sol": [
-          "dexlab"
-        ]
       },
       "destinations": {
         "sol": {
@@ -1331,7 +1258,6 @@ TOKENS = {
       "markets": {
         "sol": [
           "raydium",
-          "francium"
         ]
       },
       "destinations": {
@@ -1351,7 +1277,6 @@ TOKENS = {
       "markets": {
         "sol": [
           "raydium",
-          "francium"
         ]
       },
       "destinations": {
@@ -1431,13 +1356,6 @@ TOKENS = {
       "coingeckoId": "serum",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG/logo.png",
       "markets": {
-        "eth": [
-          "curve"
-        ],
-        "sol": [
-          "saber",
-          "almond"
-        ]
       },
       "destinations": {
         "sol": {
@@ -1487,10 +1405,6 @@ TOKENS = {
       "markets": {
         "sol": [
           "raydium",
-          "tulip",
-          "francium",
-          "atrix",
-          "dexlab"
         ]
       },
       "destinations": {
@@ -1573,9 +1487,6 @@ TOKENS = {
       "markets": {
         "sol": [
           "raydium",
-          "tulip",
-          "francium",
-          "dexlab"
         ]
       },
       "destinations": {
@@ -1598,7 +1509,7 @@ TOKENS = {
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
       "markets": {
         "eth": ["curve"],
-        "sol": ["saber", "mercurial", "jupiter", "sunny"],
+        "sol": ["saber", "mercurial", "jupiter"],
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
         "karura": ["karura"],
@@ -1658,7 +1569,6 @@ TOKENS = {
         ],
         "sol": [
           "saber",
-          "sunny"
         ]
       },
       "destinations": {
@@ -1677,7 +1587,7 @@ TOKENS = {
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
       "markets": {
         "eth": ["curve"],
-        "sol": ["saber", "mercurial", "jupiter", "sunny"],
+        "sol": ["saber", "mercurial", "jupiter"],
       },
       "destinations": {
         "sol": {
@@ -1710,7 +1620,6 @@ TOKENS = {
       "coingeckoId": "wrapped-bitcoin",
       "logo": "https://etherscan.io/token/images/wbtc_28.png?v=1",
       "markets": {
-        "terra": ["loop"],
         "moonbeam":["stellaswap", "moonwell"],
       },
       "destinations": {
@@ -1743,9 +1652,6 @@ TOKENS = {
       "sourceAddress": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
       "coingeckoId": "yearn-finance",
       "markets": {
-        "sol": [
-          "dexlab"
-        ]
       },
       "destinations": {
         "sol": {
@@ -1786,9 +1692,6 @@ TOKENS = {
       "symbol": "agEUR",
       "name": "agEUR (Portal)",
       "markets": {
-        "sol": [
-          "saber"
-        ]
       },
       "sourceAddress": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
       "coingeckoId": "ageur",
@@ -1826,9 +1729,6 @@ TOKENS = {
       "coingeckoId": "interest-bearing-bitcoin",
       "logo": "https://etherscan.io/token/images/badgeribtc_32.png",
       "markets": {
-        "sol": [
-          "saber"
-        ]
       },
       "destinations": {
         "sol": {
@@ -1845,12 +1745,6 @@ TOKENS = {
       "coingeckoId": "anchor-beth-token",
       "logo": "https://static.lido.fi/bETH/bETH.png",
       "markets": {
-        "eth": [
-          "anchor"
-        ],
-        "terra": [
-          "anchor"
-        ]
       },
       "destinations": {
         "terra": {
@@ -1918,14 +1812,6 @@ TOKENS = {
       "coingeckoId": "terra-usd",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i/logo.png",
       "markets": {
-        "eth": ["curve", "uniswap"],
-        "terra": ["anchor", "astroport"],
-        "sol": ["saber", "mercurial", "jupiter", "aldrin", "solend", "sunny", "apricot", "tulip", "larix"],
-        "bsc": ["pancakeswap"],
-        "matic": ["quickswap"],
-        "avax": ["traderjoe", "pangolin"],
-        "oasis": ["yuzu"],
-        "ftm": ["beethovenx", "curve","excalibur"],
       },
       "destinations": {
         "sol": {
@@ -1970,12 +1856,6 @@ TOKENS = {
       "coingeckoId": "terra-luna",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W/logo.png",
       "markets": {
-        "eth": ["uniswap"],
-        "terra": ["anchor", "astroport"],
-        "sol": ["saber", "mercurial", "sunny", "atrix"],
-        "matic": ["quickswap"],
-        "avax": ["traderjoe"],
-        "ftm": ["beethovenx", "spookyswap"],
       },
       "destinations": {
         "sol": {
@@ -2019,9 +1899,6 @@ TOKENS = {
       "sourceAddress": "terra1hzh9vpxhsk8253se0vv5jj6etdvxu3nv8z07zu",
       "coingeckoId": "anchorust",
       "markets": {
-        "terra": [
-          "anchor"
-        ]
       },
       "destinations": {
         "sol": {
@@ -2047,10 +1924,7 @@ TOKENS = {
       "coingeckoId": "binance-coin",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa/logo.png",
       "markets": {
-        "sol": ["mercurial", "raydium", "atrix", "dexlab"],
-        "matic": ["quickswap"],
-        "eth": ["uniswap"],
-        "terra": ["astroport"],
+        "sol": ["mercurial", "jupiter"],
         "bsc": ["pancakeswap"], #revert to native asset
       },
       "destinations": {
@@ -2088,10 +1962,8 @@ TOKENS = {
       "coingeckoId": "binance-usd",
       "logo": "https://etherscan.io/token/images/binanceusd_32.png",
       "markets": {
-        "sol": ["saber", "mercurial", "sunny"],
-#         "eth": ["uniswap"],
+        "sol": ["saber", "mercurial", "jupiter"],
         "matic": ["quickswap"],
-        "terra": ["astroport"],
         "bsc": ["pancakeswap"], #revert to native asset
         "moonbeam":["stellaswap", "moonwell"],
       },
@@ -2160,7 +2032,7 @@ TOKENS = {
       "coingeckoId": "usd-coin",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
       "markets": {
-        "sol": ["saber", "mercurial", "sunny", "jupiter"],
+        "sol": ["saber", "mercurial", "jupiter"],
         "bsc": ["pancakeswap"], #revert to native asset
       },
       "destinations": {
@@ -2245,10 +2117,7 @@ TOKENS = {
       "sourceAddress": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
       "coingeckoId": "polygon",
       "markets": {
-        "sol": ["atrix"],
-        "eth": ["uniswap"],
-        "bsc": ["pancakeswap"],
-        "matic": ["quickswap"], #revert to native asset 
+       "bsc": ["pancakeswap"],
       },
       "destinations": {
         "sol": {
@@ -2358,9 +2227,7 @@ TOKENS = {
       "symbol": "AVAX",
       "name": "AVAX (Portal)",
       "markets": {
-        "sol": ["atrix"],
-        "eth": ["uniswap"],
-        "terra": ["astroport"],
+        "bsc": ["pancakeswap"],
         "avax": ["traderjoe", "pangolin"],
       },
       "sourceAddress": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
@@ -2412,7 +2279,6 @@ TOKENS = {
       "symbol": "USDCav",
       "name": "USD Coin (Portal from Avalanche)",
       "markets": {
-        "terra": ["astroport"],
       }, 
       "sourceAddress": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
       "coingeckoId": "usd-coin",
