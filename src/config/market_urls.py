@@ -221,4 +221,11 @@ MARKETS = {
     "name": "Moonwell",
     "link": "https://moonwell.fi/artemis/"
   },
+  #######################
+  # 19. injective markets
+  #######################
+  "helix":{
+    "name": "Helix",
+    "link": "https://helixapp.com/"
+  }
 }

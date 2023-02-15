@@ -19,6 +19,7 @@ CHAIN_IDS_TO_NAMES = OrderedDict([
   (15, 'near'),
   (16, 'moonbeam'),
   (18, 'terra2'),
+  (19, 'injective'),
 ])
 CHAIN_NAMES_TO_IDS = OrderedDict([(v, k) for (k, v) in CHAIN_IDS_TO_NAMES.items()])
 
@@ -40,6 +41,7 @@ SOURCE_INFO = OrderedDict([
   ('near', ('Near', 'ne', "https://explorer.near.org/", "https://explorer.near.org/accounts/token.sweat")),
   ('moonbeam', ('Moonbeam', 'mo', "https://moonscan.io", "https://moonscan.io/token/0xacc15dc74880c9944775448304b263d191c6077f")),
   ('terra2', ('Terra2', 't2', "https://finder.terra.money", "https://finder.terra.money/mainnet/address/terra153366q50k7t8nn7gec00hg66crnhkdggpgdtaxltaq6xrutkkz3s992fw9")),
+  ('injective', ('Injective', 'in', "https://explorer.injective.network", "https://explorer.injective.network/contract/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3")),
 ])
 
 SUFFIXES = [x[1] for x in SOURCE_INFO.values()]
