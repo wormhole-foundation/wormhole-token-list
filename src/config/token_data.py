@@ -1464,6 +1464,23 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "WBTC": {
+      "symbol": "WBTC",
+      "name": "WBTC(Wormhole)",
+      "sourceAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "coingeckoId": "wrapped-bitcoin",
+      "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh/logo.png",
+      "markets": {
+        "sol": ["orca", "raydium"],
+      },
+      "destinations": {
+        "sol": {
+          "address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+          "decimals": 8
+        },
+      },
+      "sourceDecimals": 18
+    },
     "UFO": {
       "symbol": "UFO",
       "name": "UFO Gaming (Portal)",
