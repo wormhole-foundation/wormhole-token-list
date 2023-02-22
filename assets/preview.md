@@ -679,14 +679,6 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TRIB
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/UBXT_wh.png
 ```
 
-### WBTC
-![WBTC](WBTC_wh.png)
-![WBTC](WBTC_wh_small.png)
-
-```
-https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WBTC_wh.png
-```
-
 ### UFO
 ![UFO](UFO_wh.png)
 ![UFO](UFO_wh_small.png)
@@ -725,6 +717,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDK
 
 ```
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTet_wh.png
+```
+
+### WBTC
+![WBTC](WBTC_wh.png)
+![WBTC](WBTC_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WBTC_wh.png
 ```
 
 ### YFI

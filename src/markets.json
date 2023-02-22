@@ -710,6 +710,12 @@
             "jupiter"
           ]
         },
+        "0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D": {
+          "markets": [
+            "orca",
+            "raydium"
+          ]
+        },
         "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD": {
           "markets": [
             "orca",
@@ -871,6 +877,12 @@
         },
         "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": {
           "markets": [
+            "raydium"
+          ]
+        },
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
+          "markets": [
+            "orca",
             "raydium"
           ]
         },
@@ -1166,6 +1178,12 @@
             "francium",
             "raydium",
             "dexlab"
+          ]
+        },
+        "terra1aa7upykmmqqc63l924l5qfap8mrmx5rfdm0v55": {
+          "markets": [
+            "orca",
+            "raydium"
           ]
         },
         "terra1ce06wkrdm4vl6t0hvc0g86rsy27pu8yadg3dva": {
@@ -1717,6 +1735,12 @@
             "jupiter"
           ]
         },
+        "0x5D49c278340655B56609FdF8976eb0612aF3a0C3": {
+          "markets": [
+            "orca",
+            "raydium"
+          ]
+        },
         "0x9417669fBF23357D2774e9D421307bd5eA1006d2": {
           "markets": [
             "saber",
@@ -2183,6 +2207,12 @@
           "markets": [
             "saber",
             "jupiter"
+          ]
+        },
+        "0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb": {
+          "markets": [
+            "orca",
+            "raydium"
           ]
         },
         "0xd79Ef9A91b56c690C7b80570a3c060678667f469": {
