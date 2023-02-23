@@ -342,36 +342,16 @@
         }
       },
       "5": {
-        "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2": {
-          "markets": [
-            "quickswap"
-          ]
-        },
         "5goWRao6a3yNC4d6UjMdQxonkCMvKBwdpubU3qhfcdf1": {
           "markets": [
             "quickswap",
             "sushi"
           ]
         },
-        "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM": {
-          "markets": [
-            "quickswap"
-          ]
-        },
         "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M": {
           "markets": [
             "quickswap",
             "sushi"
-          ]
-        },
-        "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "So11111111111111111111111111111111111111112": {
-          "markets": [
-            "quickswap"
           ]
         }
       },
@@ -482,23 +462,7 @@
           ]
         }
       },
-      "5": {
-        "0x2Ec752329c3EB419136ca5e4432Aa2CDb1eA23e6": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "0xb8398DA4FB3BC4306B9D9d9d13d9573e7d0E299f": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "0xd99021C2A33e4Cf243010539c9e9b7c52E0236c1": {
-          "markets": [
-            "quickswap"
-          ]
-        }
-      },
+      "5": {},
       "6": {},
       "7": {},
       "8": {},
@@ -645,13 +609,7 @@
           ]
         }
       },
-      "5": {
-        "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd": {
-          "markets": [
-            "quickswap"
-          ]
-        }
-      },
+      "5": {},
       "6": {},
       "7": {
         "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207": {
@@ -778,18 +736,7 @@
           ]
         }
       },
-      "5": {
-        "0x692C57641fc054c2Ad6551Ccc6566EbA599de1BA": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "0x931715FEE2d06333043d11F658C8CE934aC61D0c": {
-          "markets": [
-            "quickswap"
-          ]
-        }
-      },
+      "5": {},
       "6": {},
       "7": {
         "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD": {
@@ -851,13 +798,7 @@
           ]
         }
       },
-      "5": {
-        "inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3": {
-          "markets": [
-            "quickswap"
-          ]
-        }
-      },
+      "5": {},
       "6": {},
       "7": {},
       "8": {},
@@ -1116,30 +1057,10 @@
         }
       },
       "5": {
-        "0x41f7B8b9b897276b7AAE926a9016935280b44E97": {
-          "markets": [
-            "quickswap"
-          ]
-        },
         "0x566957eF80F9fd5526CD2BEF8BE67035C0b81130": {
           "markets": [
             "quickswap",
             "sushi"
-          ]
-        },
-        "0x7B4B0B9b024109D182dCF3831222fbdA81369423": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "0xD31a59c85aE9D8edEFeC411D448f90841571b89c": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
-          "markets": [
-            "quickswap"
           ]
         }
       },
@@ -1413,30 +1334,10 @@
         }
       },
       "5": {
-        "terra190tqwgqx7s8qrknz6kckct7v607cu068gfujpk": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "terra1e6mq63y64zcxz8xyu5van4tgkhemj3r86yvgu4": {
-          "markets": [
-            "quickswap"
-          ]
-        },
         "terra1kkyyh7vganlpkj0gkc2rfmhy858ma4rtwywe3x": {
           "markets": [
             "quickswap",
             "sushi"
-          ]
-        },
-        "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "terra1skjr69exm6v8zellgjpaa2emhwutrk5a6dz7dd": {
-          "markets": [
-            "quickswap"
           ]
         }
       },
@@ -1657,26 +1558,6 @@
           "markets": [
             "quickswap",
             "sushi"
-          ]
-        },
-        "0x91Ca579B0D47E5cfD5D0862c21D5659d39C8eCf0": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "0xB04906e95AB5D797aDA81508115611fee694c2b3": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "0xe9e7cea3dedca5984780bafc599bd69add087d56": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "0xfA54fF1a158B5189Ebba6ae130CEd6bbd3aEA76e": {
-          "markets": [
-            "quickswap"
           ]
         }
       },
@@ -2115,30 +1996,10 @@
         }
       },
       "5": {
-        "0x0950Fc1AD509358dAeaD5eB8020a3c7d8b43b9DA": {
-          "markets": [
-            "quickswap"
-          ]
-        },
         "0x543672E9CBEC728CBBa9C3Ccd99ed80aC3607FA8": {
           "markets": [
             "quickswap",
             "sushi"
-          ]
-        },
-        "0xA41a6c7E25DdD361343e8Cb8cFa579bbE5eEdb7a": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "0xB24CA28D4e2742907115fECda335b40dbda07a4C": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F": {
-          "markets": [
-            "quickswap"
           ]
         }
       },
@@ -2374,36 +2235,16 @@
         }
       },
       "5": {
-        "0x1d1149a53deB36F2836Ae7877c9176413aDfA4A8": {
-          "markets": [
-            "quickswap"
-          ]
-        },
         "0x3E62a9c3aF8b810dE79645C4579acC8f0d06a241": {
           "markets": [
             "quickswap",
             "sushi"
           ]
         },
-        "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD": {
-          "markets": [
-            "quickswap"
-          ]
-        },
         "0xFffD69E757d8220CEA60dc80B9Fe1a30b58c94F3": {
           "markets": [
             "quickswap",
             "sushi"
-          ]
-        },
-        "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc": {
-          "markets": [
-            "quickswap"
-          ]
-        },
-        "0xf6568FD76f9fcD1f60f73b730F142853c5eF627E": {
-          "markets": [
-            "quickswap"
           ]
         }
       },
@@ -2504,13 +2345,7 @@
           ]
         }
       },
-      "5": {
-        "0xDd1DaFedeBa5F9851C4F4a2876E0f3aF3c774B1A": {
-          "markets": [
-            "quickswap"
-          ]
-        }
-      },
+      "5": {},
       "6": {},
       "7": {
         "0x811Cc0d762eA72aC72385d93b98a97263AE37E4C": {
