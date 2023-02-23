@@ -54,7 +54,7 @@ TOKENS = {
       "markets": {
         "eth": ["uniswap"],
         "bsc": ["pancakeswap"],
-        "matic": ["quickswap"],
+#         "matic": ["quickswap"],
         "injective": ["helix"]
       },
       "destinations": {
@@ -124,7 +124,7 @@ TOKENS = {
       "markets": {
         "eth": ["uniswap"],
         "bsc": ["pancakeswap"],
-        "matic": ["quickswap"],
+#         "matic": ["quickswap"],
         "sol": ["jupiter"], #revert to native asset
       },
       "destinations": {
@@ -1511,7 +1511,7 @@ TOKENS = {
         "eth": ["curve"],
         "sol": ["saber", "mercurial", "jupiter"],
         "bsc": ["pancakeswap"],
-        "matic": ["quickswap"],
+#         "matic": ["quickswap"],
         "karura": ["karura"],
         "celo": ["ubeswap"],
         "moonbeam": ["stellaswap", "moonwell"],
@@ -1964,7 +1964,7 @@ TOKENS = {
       "logo": "https://etherscan.io/token/images/binanceusd_32.png",
       "markets": {
         "sol": ["saber", "mercurial", "jupiter"],
-        "matic": ["quickswap"],
+#         "matic": ["quickswap"],
         "bsc": ["pancakeswap"], #revert to native asset
         "moonbeam":["stellaswap", "moonwell"],
       },
