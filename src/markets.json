@@ -300,37 +300,7 @@
             "pancakeswap"
           ]
         },
-        "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "Gz7VkD4MacbEB6yC5XD3HcumEiYx2EtDYYrfikGsvopG": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "So11111111111111111111111111111111111111112": {
           "markets": [
             "pancakeswap"
           ]
@@ -445,23 +415,7 @@
         }
       },
       "3": {},
-      "4": {
-        "0x2Ec752329c3EB419136ca5e4432Aa2CDb1eA23e6": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0xb8398DA4FB3BC4306B9D9d9d13d9573e7d0E299f": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0xd99021C2A33e4Cf243010539c9e9b7c52E0236c1": {
-          "markets": [
-            "pancakeswap"
-          ]
-        }
-      },
+      "4": {},
       "5": {},
       "6": {},
       "7": {},
@@ -602,13 +556,7 @@
         }
       },
       "3": {},
-      "4": {
-        "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd": {
-          "markets": [
-            "pancakeswap"
-          ]
-        }
-      },
+      "4": {},
       "5": {},
       "6": {},
       "7": {
@@ -729,11 +677,6 @@
           "markets": [
             "pancakeswap"
           ]
-        },
-        "0x931715FEE2d06333043d11F658C8CE934aC61D0c": {
-          "markets": [
-            "pancakeswap"
-          ]
         }
       },
       "5": {},
@@ -791,13 +734,7 @@
         }
       },
       "3": {},
-      "4": {
-        "inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3": {
-          "markets": [
-            "pancakeswap"
-          ]
-        }
-      },
+      "4": {},
       "5": {},
       "6": {},
       "7": {},
@@ -1010,22 +947,7 @@
             "pancakeswap"
           ]
         },
-        "0x41f7B8b9b897276b7AAE926a9016935280b44E97": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0x566957eF80F9fd5526CD2BEF8BE67035C0b81130": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "0x7B4B0B9b024109D182dCF3831222fbdA81369423": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0x7c9f4C87d911613Fe9ca58b579f737911AAD2D43": {
           "markets": [
             "pancakeswap"
           ]
@@ -1035,22 +957,7 @@
             "pancakeswap"
           ]
         },
-        "0x85f138bfEE4ef8e540890CFb48F620571d67Eda3": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0xD31a59c85aE9D8edEFeC411D448f90841571b89c": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "0xDe60aDfDdAAbaAAC3dAFa57B26AcC91Cb63728c4": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
           "markets": [
             "pancakeswap"
           ]
@@ -1282,37 +1189,7 @@
         }
       },
       "4": {
-        "terra190tqwgqx7s8qrknz6kckct7v607cu068gfujpk": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "terra1dtqlfecglk47yplfrtwjzyagkgcqqngd5lgjp8": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "terra1e6mq63y64zcxz8xyu5van4tgkhemj3r86yvgu4": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "terra1hj8de24c3yqvcsv9r8chr03fzwsak3hgd8gv3m": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "terra1kkyyh7vganlpkj0gkc2rfmhy858ma4rtwywe3x": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06": {
           "markets": [
             "pancakeswap"
           ]
@@ -1740,37 +1617,7 @@
       },
       "3": {},
       "4": {
-        "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0x4318cb63a2b8edf2de971e2f17f77097e499459d": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0x576cf361711cd940cd9c397bb98c4c896cbd38de": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0x7Bb11E7f8b10E9e571E5d8Eace04735fDFB2358a": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "0xa8d394fe7380b8ce6145d5f85e6ac22d4e91acde": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0xd93f7e271cb87c23aaa73edc008a79646d1f9912": {
           "markets": [
             "pancakeswap"
           ]
@@ -1944,17 +1791,7 @@
       },
       "3": {},
       "4": {
-        "0x0950Fc1AD509358dAeaD5eB8020a3c7d8b43b9DA": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "0x442F7f22b1EE2c842bEAFf52880d4573E9201158": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0x543672E9CBEC728CBBa9C3Ccd99ed80aC3607FA8": {
           "markets": [
             "pancakeswap"
           ]
@@ -1970,26 +1807,6 @@
           ]
         },
         "0xA67BCC0D06d7d13A13A2AE30bF30f1B434f5a28B": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0xB24CA28D4e2742907115fECda335b40dbda07a4C": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb": {
           "markets": [
             "pancakeswap"
           ]
@@ -2188,37 +2005,12 @@
       },
       "3": {},
       "4": {
-        "0x1d1149a53deB36F2836Ae7877c9176413aDfA4A8": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0x32847e63E99D3a044908763056e25694490082F8": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "0x366EF31C8dc715cbeff5fA54Ad106dC9c25C6153": {
           "markets": [
             "pancakeswap"
           ]
         },
-        "0x3E62a9c3aF8b810dE79645C4579acC8f0d06a241": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
         "0x4cA2A3De42eabC8fd8b0AC46127E64DB08b9150e": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD": {
-          "markets": [
-            "pancakeswap"
-          ]
-        },
-        "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc": {
           "markets": [
             "pancakeswap"
           ]
@@ -2338,13 +2130,7 @@
         }
       },
       "3": {},
-      "4": {
-        "0xDd1DaFedeBa5F9851C4F4a2876E0f3aF3c774B1A": {
-          "markets": [
-            "pancakeswap"
-          ]
-        }
-      },
+      "4": {},
       "5": {},
       "6": {},
       "7": {
