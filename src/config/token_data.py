@@ -2118,7 +2118,7 @@ TOKENS = {
       "sourceAddress": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
       "coingeckoId": "polygon",
       "markets": {
-       "bsc": ["pancakeswap"],
+#        "bsc": ["pancakeswap"],
       },
       "destinations": {
         "sol": {
@@ -2166,8 +2166,8 @@ TOKENS = {
       "markets": {
         "matic": ["quickswap", "sushi"],
         "sol": ["saber", "jupiter"],
-        "eth": ["uniswap"],
-        "bsc": ["pancakeswap"],
+#         "eth": ["uniswap"],
+#         "bsc": ["pancakeswap"],
       },
       "destinations": {
         "sol": {
@@ -2228,7 +2228,7 @@ TOKENS = {
       "symbol": "AVAX",
       "name": "AVAX (Portal)",
       "markets": {
-        "bsc": ["pancakeswap"],
+#         "bsc": ["pancakeswap"],
         "avax": ["traderjoe", "pangolin"],
       },
       "sourceAddress": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
