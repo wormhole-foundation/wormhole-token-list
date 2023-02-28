@@ -53,7 +53,7 @@ TOKENS = {
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
       "markets": {
         "eth": ["uniswap"],
-        "bsc": ["pancakeswap"],
+#         "bsc": ["pancakeswap"],
 #         "matic": ["quickswap"],
         "injective": ["helix"]
       },
@@ -123,7 +123,7 @@ TOKENS = {
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
       "markets": {
         "eth": ["uniswap"],
-        "bsc": ["pancakeswap"],
+#         "bsc": ["pancakeswap"],
 #         "matic": ["quickswap"],
         "sol": ["jupiter"], #revert to native asset
       },
@@ -1510,7 +1510,7 @@ TOKENS = {
       "markets": {
         "eth": ["curve"],
         "sol": ["saber", "mercurial", "jupiter"],
-        "bsc": ["pancakeswap"],
+#         "bsc": ["pancakeswap"],
 #         "matic": ["quickswap"],
         "karura": ["karura"],
         "celo": ["ubeswap"],
@@ -2118,7 +2118,7 @@ TOKENS = {
       "sourceAddress": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
       "coingeckoId": "polygon",
       "markets": {
-       "bsc": ["pancakeswap"],
+#        "bsc": ["pancakeswap"],
       },
       "destinations": {
         "sol": {
@@ -2167,7 +2167,7 @@ TOKENS = {
         "matic": ["quickswap", "sushi"],
         "sol": ["saber", "jupiter"],
         "eth": ["uniswap"],
-        "bsc": ["pancakeswap"],
+#         "bsc": ["pancakeswap"],
       },
       "destinations": {
         "sol": {
@@ -2228,7 +2228,7 @@ TOKENS = {
       "symbol": "AVAX",
       "name": "AVAX (Portal)",
       "markets": {
-        "bsc": ["pancakeswap"],
+#         "bsc": ["pancakeswap"],
         "avax": ["traderjoe", "pangolin"],
       },
       "sourceAddress": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
