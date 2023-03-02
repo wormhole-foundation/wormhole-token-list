@@ -935,6 +935,22 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AVAX
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/JOE_wh.png
 ```
 
+### USDCeav
+![USDCeav](USDCeav_wh.png)
+![USDCeav](USDCeav_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCeav_wh.png
+```
+
+### USDTeav
+![USDTeav](USDTeav_wh.png)
+![USDTeav](USDTeav_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTeav_wh.png
+```
+
 ### USDCav
 ![USDCav](USDCav_wh.png)
 ![USDCav](USDCav_wh_small.png)
