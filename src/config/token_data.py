@@ -2276,14 +2276,16 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
-    "USDCav": {
-      "symbol": "USDCav",
-      "name": "USD Coin (Portal from Avalanche)",
+
+# USDC.e
+    "USDCeav": {
+      "symbol": "USDCeav",
+      "name": "USD.e Coin (Portal from Avalanche)",
       "markets": {
       }, 
       "sourceAddress": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
       "coingeckoId": "usd-coin",
-      "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AGqKX7F4mqJ8x2mUQVangJb5pWQJApaKoUfe5gXM53CV/logo.png",
       "destinations": {
         "sol": {
           "address": "AGqKX7F4mqJ8x2mUQVangJb5pWQJApaKoUfe5gXM53CV",
@@ -2304,11 +2306,13 @@ TOKENS = {
       },
       "sourceDecimals": 6
     },
-    "USDTav": {
-      "symbol": "USDTav",
-      "name": "Tether USD (Portal from Avalanche)",
+# USDT.e
+    "USDTeav": {
+      "symbol": "USDTeav",
+      "name": "Tether USD.e (Portal from Avalanche)",
       "sourceAddress": "0xc7198437980c041c805a1edcba50c1ce5db95118",
       "coingeckoId": "tether",
+      "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B2wfeYz5VtBnQVrX4M8F6FeDrprVrzKPws5qg1in8bzR/logo.png",
       "destinations": {
         "sol": {
           "address": "B2wfeYz5VtBnQVrX4M8F6FeDrprVrzKPws5qg1in8bzR",
@@ -2328,7 +2332,39 @@ TOKENS = {
         }
       },
       "sourceDecimals": 6
-    }
+    },
+#USDC
+    "USDCav": {
+      "symbol": "USDCav",
+      "name": "USD Coin (Portal from Avalanche)",
+      "markets": {
+      }, 
+      "sourceAddress": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "coingeckoId": "usd-coin",
+      "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AGqKX7F4mqJ8x2mUQVangJb5pWQJApaKoUfe5gXM53CV/logo.png",
+      "destinations": {
+        "sol": {
+          "address": "FHfba3ov5P3RjaiLVgh8FTv4oirxQDoVXuoUUDvHuXax",
+          "decimals": 8
+        },
+      },
+      "sourceDecimals": 6
+    },
+#USDT
+    "USDTav": {
+      "symbol": "USDTav",
+      "name": "Tether USD (Portal from Avalanche)",
+      "sourceAddress": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+      "coingeckoId": "tether",
+      "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B2wfeYz5VtBnQVrX4M8F6FeDrprVrzKPws5qg1in8bzR/logo.png",
+      "destinations": {
+        "sol": {
+          "address": "Kz1csQA91WUGcQ2TB3o5kdGmWmMGp8eJcDEyHzNDVCX",
+          "decimals": 8
+        },
+      },
+      "sourceDecimals": 6
+    },
   },
   #################
   # 7. Oasis native
