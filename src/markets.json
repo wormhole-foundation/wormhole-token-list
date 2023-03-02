@@ -2340,8 +2340,8 @@
         "symbol": "GT"
       },
       "AGqKX7F4mqJ8x2mUQVangJb5pWQJApaKoUfe5gXM53CV": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCav_wh.png",
-        "symbol": "USDCav"
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCeav_wh.png",
+        "symbol": "USDCeav"
       },
       "ASk8bss7PoxfFVJfXnSJepj9KupTX15QaRnhdjs6DdYe": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/RGT_wh.png",
@@ -2364,8 +2364,8 @@
         "symbol": "COMP"
       },
       "B2wfeYz5VtBnQVrX4M8F6FeDrprVrzKPws5qg1in8bzR": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTav_wh.png",
-        "symbol": "USDTav"
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTeav_wh.png",
+        "symbol": "USDTeav"
       },
       "BCsFXYm81iqXyYmrLKgAp3AePcgLHnirb8FjTs6sjM7U": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SPELL_wh.png",
@@ -2491,6 +2491,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCbs_wh.png",
         "symbol": "USDCbs"
       },
+      "FHfba3ov5P3RjaiLVgh8FTv4oirxQDoVXuoUUDvHuXax": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCav_wh.png",
+        "symbol": "USDCav"
+      },
       "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FRAX_wh.png",
         "symbol": "FRAX"
@@ -2562,6 +2566,10 @@
       "KgV1GvrHQmRBY8sHQQeUKwTm2r2h8t4C8qt12Cw1HVE": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AVAX_wh.png",
         "symbol": "AVAX"
+      },
+      "Kz1csQA91WUGcQ2TB3o5kdGmWmMGp8eJcDEyHzNDVCX": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTav_wh.png",
+        "symbol": "USDTav"
       },
       "S3SQfD6RheMXQ3EEYn1Z5sJsbtwfXdt7tSAVXPQFtYo": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ROSE_wh.png",
@@ -3174,8 +3182,8 @@
         "symbol": "USDCso"
       },
       "terra1eqvq3thjhye7anv6f6mhxpjhyvww8zjvqcdgjx": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTav_wh.png",
-        "symbol": "USDTav"
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTeav_wh.png",
+        "symbol": "USDTeav"
       },
       "terra1fpfn2kkr8mv390wx4dtpfk3vkjx9ch3thvykl3": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/gOHM_wh.png",
@@ -3222,8 +3230,8 @@
         "symbol": "USDCet"
       },
       "terra1pvel56a2hs93yd429pzv9zp5aptcjg5ulhkz7w": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCav_wh.png",
-        "symbol": "USDCav"
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCeav_wh.png",
+        "symbol": "USDCeav"
       },
       "terra1qvlpf2v0zmru3gtex40sqq02wxp39x3cjh359y": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/mSOL_wh.png",
@@ -3296,8 +3304,8 @@
         "symbol": "LUNA"
       },
       "0x2B90E061a517dB2BbD7E39Ef7F733Fd234B494CA": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTav_wh.png",
-        "symbol": "USDTav"
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTeav_wh.png",
+        "symbol": "USDTeav"
       },
       "0x31C78f583ed0288D67b2b80Dc5C443Bc3b15C661": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BAT_wh.png",
@@ -3396,8 +3404,8 @@
         "symbol": "BNB"
       },
       "0xc1F47175d96Fe7c4cD5370552e5954f384E3C791": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCav_wh.png",
-        "symbol": "USDCav"
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCeav_wh.png",
+        "symbol": "USDCeav"
       },
       "0xc836d8dC361E44DbE64c4862D55BA041F88Ddd39": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATICpo_wh.png",
@@ -3523,6 +3531,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETH_wh.png",
         "symbol": "ETH"
       },
+      "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTav_wh.png",
+        "symbol": "USDTav"
+      },
       "0x98a4d09036Cc5337810096b1D004109686E56Afc": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CAKE_wh.png",
         "symbol": "CAKE"
@@ -3539,6 +3551,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCet_wh.png",
         "symbol": "USDCet"
       },
+      "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCav_wh.png",
+        "symbol": "USDCav"
+      },
       "0xF0FF231e3F1A50F83136717f287ADAB862f89431": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTso_wh.png",
         "symbol": "USDTso"
@@ -3552,8 +3568,8 @@
         "symbol": "XTAG"
       },
       "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCav_wh.png",
-        "symbol": "USDCav"
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCeav_wh.png",
+        "symbol": "USDCeav"
       },
       "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AVAX_wh.png",
@@ -3564,8 +3580,8 @@
         "symbol": "UST"
       },
       "0xc7198437980c041c805a1edcba50c1ce5db95118": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTav_wh.png",
-        "symbol": "USDTav"
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTeav_wh.png",
+        "symbol": "USDTeav"
       },
       "0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATICpo_wh.png",
@@ -3574,12 +3590,12 @@
     },
     "7": {
       "0x05832a0905E516f29344ADBa1c2052a788B10129": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTav_wh.png",
-        "symbol": "USDTav"
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTeav_wh.png",
+        "symbol": "USDTeav"
       },
       "0x05CbE6319Dcc937BdbDf0931466F4fFd0d392B47": {
-        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCav_wh.png",
-        "symbol": "USDCav"
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCeav_wh.png",
+        "symbol": "USDCeav"
       },
       "0x1d1149a53deB36F2836Ae7877c9176413aDfA4A8": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCso_wh.png",
