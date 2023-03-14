@@ -158,7 +158,10 @@ MARKETS = {
     "name": "Algofi",
     "link": "https://app.algofi.org/"
   },
-
+  "pact": {
+    "name": "Pact",
+    "link": "https://app.pact.fi/"
+  },
   #######################
   # 9. aurora markets
   #######################
