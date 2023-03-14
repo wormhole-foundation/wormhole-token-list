@@ -100,6 +100,10 @@
       "link": "https://www.orca.so/",
       "name": "Orca"
     },
+    "pact": {
+      "link": "https://app.pact.fi/",
+      "name": "Pact"
+    },
     "pancakeswap": {
       "link": "https://pancakeswap.finance/swap",
       "name": "Pancakeswap"
