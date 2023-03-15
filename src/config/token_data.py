@@ -255,6 +255,19 @@ TOKENS = {
         }
       },
       "sourceDecimals": 6
+    },
+    "SAX": {
+      "symbol": "SAX",
+      "name": "SOLA-X",
+      "sourceAddress": "SAX2cChnuhnKfUDERWVHyd8CoeDNR4NjoxwjuW8uiqa",
+      "logo": "https://x34mklyvrrjtp4irfxruxzkj5e3ofrfe2c73mfisr4hv7t2e4baa.arweave.net/vvjFLxWMUzfxES3jS-VJ6TbixKTQv7YVEo8PX89E4EA?ext=png",
+      "destinations": {
+        "eth": {
+          "address": "0x2c8988881fa08dbd283348993bed57ea0c971c94",
+          "decimals": 9
+        }
+      },
+      "sourceDecimals": 9
     }
   },
   #####################
