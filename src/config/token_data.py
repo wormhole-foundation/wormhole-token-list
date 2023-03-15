@@ -715,7 +715,7 @@ TOKENS = {
         "oasis": ["yuzu"],
         "celo": ["ubeswap"],
         "moonbeam": ["stellaswap", "moonwell"],
-        "algorand": ["algofi"], 
+        "algorand": ["algofi", "pact"], 
       },
       "destinations": {
         "sol": {
@@ -1650,6 +1650,7 @@ TOKENS = {
       "markets": {
         "moonbeam": ["stellaswap", "moonwell"],
         "sol": ["orca", "raydium"],
+        "algorand": ["pact"], 
       },
       "destinations": {
         "sol": {
@@ -1670,6 +1671,10 @@ TOKENS = {
         },
         "moonbeam": {
           "address": "0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D",
+          "decimals": 8
+        },
+        "algorand": {
+          "address": "1058926737",
           "decimals": 8
         }
       },
