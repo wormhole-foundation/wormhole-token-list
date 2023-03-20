@@ -93,6 +93,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ZBC_
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/XTAG_wh.png
 ```
 
+### BONK
+![BONK](BONK_wh.png)
+![BONK](BONK_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BONK_wh.png
+```
+
 
 ## source chain: Ethereum
 ### 1INCH

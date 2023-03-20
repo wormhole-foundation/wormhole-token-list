@@ -255,7 +255,35 @@ TOKENS = {
         }
       },
       "sourceDecimals": 6
-    }
+    },
+    "BONK": {
+      "symbol": "BONK",
+      "name": "BONK (Portal)",
+      "sourceAddress": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+      "coingeckoId": "bonk",
+      "logo": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+      "markets": {
+        "sol": [
+          "orca",
+          "jupiter",
+        ]
+      },
+      "destinations": {
+        "eth": {
+          "address": "0x1151CB3d861920e07a38e03eEAd12C32178567F6",
+          "decimals": 5
+        },
+        "bsc": {
+          "address": "0xA697e272a73744b343528C3Bc4702F2565b2F422",
+          "decimals": 5
+        },
+        "matic": {
+          "address": "0xe5B49820e5A1063F6F4DdF851327b5E8B2301048",
+          "decimals": 5
+        },
+      },
+      "sourceDecimals": 5
+    },
   },
   #####################
   # 2. Ethereum native

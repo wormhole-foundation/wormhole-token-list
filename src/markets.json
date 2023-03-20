@@ -748,6 +748,12 @@
             "raydium"
           ]
         },
+        "0x1151CB3d861920e07a38e03eEAd12C32178567F6": {
+          "markets": [
+            "orca",
+            "jupiter"
+          ]
+        },
         "0x1c48f86ae57291f7686349f12601910bd8d470bb": {
           "markets": [
             "saber"
@@ -1304,6 +1310,12 @@
             "jupiter"
           ]
         },
+        "0xA697e272a73744b343528C3Bc4702F2565b2F422": {
+          "markets": [
+            "orca",
+            "jupiter"
+          ]
+        },
         "0xB04906e95AB5D797aDA81508115611fee694c2b3": {
           "markets": [
             "saber",
@@ -1516,6 +1528,12 @@
         "0xc2132d05d31c914a87c6611c10748aeb04b58e8f": {
           "markets": [
             "saber",
+            "jupiter"
+          ]
+        },
+        "0xe5B49820e5A1063F6F4DdF851327b5E8B2301048": {
+          "markets": [
+            "orca",
             "jupiter"
           ]
         },
@@ -2427,6 +2445,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TRIBE_wh.png",
         "symbol": "TRIBE"
       },
+      "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BONK_wh.png",
+        "symbol": "BONK"
+      },
       "DiJut4U3CU8b3bRgwfyqtJMJ4wjzJHaX6hudamjH46Km": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ICE_wh.png",
         "symbol": "ICE"
@@ -2722,6 +2744,10 @@
       "0x111111111117dC0aa78b770fA6A738034120C302": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/1INCH_wh.png",
         "symbol": "1INCH"
+      },
+      "0x1151CB3d861920e07a38e03eEAd12C32178567F6": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BONK_wh.png",
+        "symbol": "BONK"
       },
       "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/GALA_wh.png",
@@ -3391,6 +3417,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LDO_wh.png",
         "symbol": "LDO"
       },
+      "0xA697e272a73744b343528C3Bc4702F2565b2F422": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BONK_wh.png",
+        "symbol": "BONK"
+      },
       "0xB04906e95AB5D797aDA81508115611fee694c2b3": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCet_wh.png",
         "symbol": "USDCet"
@@ -3492,6 +3522,10 @@
       "0xd93f7e271cb87c23aaa73edc008a79646d1f9912": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SOL_wh.png",
         "symbol": "SOL"
+      },
+      "0xe5B49820e5A1063F6F4DdF851327b5E8B2301048": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BONK_wh.png",
+        "symbol": "BONK"
       },
       "0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BNB_wh.png",
