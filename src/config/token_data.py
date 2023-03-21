@@ -1675,6 +1675,20 @@ TOKENS = {
       },
       "sourceDecimals": 8
     },
+    "XCAD": {
+      "symbol": "XCAD",
+      "name": "XCAD Token",
+      "sourceAddress": "0x7659CE147D0e714454073a5dd7003544234b6Aa0",
+      "coingeckoId": "xcad-network",
+      "markets": {},
+      "destinations": {
+        "bsc": {
+          "address": "0xa026ad2ceda16ca5fc28fd3c72f99e2c332c8a26",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    },
     "YFI": {
       "symbol": "YFI",
       "name": "yearn.finance (Portal)",
