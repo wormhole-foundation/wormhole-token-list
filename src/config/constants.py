@@ -20,6 +20,10 @@ CHAIN_IDS_TO_NAMES = OrderedDict([
   (16, 'moonbeam'),
   (18, 'terra2'),
   (19, 'injective'),
+  (22, 'aptos'),
+  (23, 'arbitrum'),
+  (24, 'optimism'),
+  (28, 'xpla'),
 ])
 CHAIN_NAMES_TO_IDS = OrderedDict([(v, k) for (k, v) in CHAIN_IDS_TO_NAMES.items()])
 
@@ -42,6 +46,10 @@ SOURCE_INFO = OrderedDict([
   ('moonbeam', ('Moonbeam', 'mo', "https://moonscan.io", "https://moonscan.io/token/0xacc15dc74880c9944775448304b263d191c6077f")),
   ('terra2', ('Terra2', 't2', "https://finder.terra.money", "https://finder.terra.money/mainnet/address/terra153366q50k7t8nn7gec00hg66crnhkdggpgdtaxltaq6xrutkkz3s992fw9")),
   ('injective', ('Injective', 'in', "https://explorer.injective.network", "https://explorer.injective.network/contract/inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3")),
+  ('xpla', ('XPLA', 'xp', "https://explorer.xpla.io/", "https://explorer.xpla.io/mainnet/address/xpla137w0wfch2dfmz7jl2ap8pcmswasj8kg06ay4dtjzw7tzkn77ufxqfw7acv")),
+  ('optimism', ('Optimism', 'op', "https://optimistic.etherscan.io/", "https://optimistic.etherscan.io/token/0x94b008aa00579c1307b0ef2c499ad98a8ce58e58")),
+  ('arbitrum', ('Arbitrum', 'ab', "https://arbiscan.io/", "https://arbiscan.io/token/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9")),
+  ('aptos', ('Aptos', 'ap', "https://explorer.aptoslabs.com/", "https://explorer.aptoslabs.com/account/0x576410486a2da45eee6c949c995670112ddf2fbeedab20350d506328eefc9d4f")),
 ])
 
 SUFFIXES = [x[1] for x in SOURCE_INFO.values()]
