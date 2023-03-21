@@ -727,6 +727,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDT
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WBTC_wh.png
 ```
 
+### XCAD
+![XCAD](XCAD_wh.png)
+![XCAD](XCAD_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/XCAD_wh.png
+```
+
 ### YFI
 ![YFI](YFI_wh.png)
 ![YFI](YFI_wh_small.png)

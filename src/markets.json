@@ -2875,6 +2875,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ELON_wh.png",
         "symbol": "ELON"
       },
+      "0x7659CE147D0e714454073a5dd7003544234b6Aa0": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/XCAD_wh.png",
+        "symbol": "XCAD"
+      },
       "0x767fe9edc9e0df98e07454847909b5e959d7ca0e": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ILV_wh.png",
         "symbol": "ILV"
@@ -3394,6 +3398,10 @@
       "0xB04906e95AB5D797aDA81508115611fee694c2b3": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCet_wh.png",
         "symbol": "USDCet"
+      },
+      "0xa026ad2ceda16ca5fc28fd3c72f99e2c332c8a26": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/XCAD_wh.png",
+        "symbol": "XCAD"
       },
       "0xb1547683DA678f2e1F003A780143EC10Af8a832B": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SHIB_wh.png",
