@@ -19,6 +19,10 @@ by source chain:
 * [Moonbeam](#source-chain-moonbeam)
 * [Terra2](#source-chain-terra2)
 * [Injective](#source-chain-injective)
+* [XPLA](#source-chain-xpla)
+* [Optimism](#source-chain-optimism)
+* [Arbitrum](#source-chain-arbitrum)
+* [Aptos](#source-chain-aptos)
 
 ## source chain: Solana
 ### RAY
@@ -1047,3 +1051,11 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SWEA
 ## source chain: Terra2
 
 ## source chain: Injective
+
+## source chain: Aptos
+
+## source chain: Arbitrum
+
+## source chain: Optimism
+
+## source chain: XPLA
