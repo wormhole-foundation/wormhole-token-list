@@ -2140,6 +2140,24 @@ TOKENS = {
         }
       },
       "sourceDecimals": 18
+    },
+    "WOM": {
+      "symbol": "WOM",
+      "name": "Wombat Exchange",
+      "sourceAddress": "0xad6742a35fb341a9cc6ad674738dd8da98b94fb1",
+      "coingeckoId": "wombat-exchange",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/19623.png",
+      "markets": {
+        "bsc": ["pancakeswap"], #revert to native asset
+        "arbitrum": ["uniswap"]
+      },
+      "destinations": {
+        "arbitrum": {
+          "address": "0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
     }
   },
   #####################
@@ -2266,24 +2284,6 @@ TOKENS = {
       },
       "sourceDecimals": 6
     },
-    "WOM": {
-      "symbol": "WOM",
-      "name": "Wombat Exchange",
-      "sourceAddress": "0xad6742a35fb341a9cc6ad674738dd8da98b94fb1",
-      "coingeckoId": "wombat-exchange",
-      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/19623.png",
-      "markets": {
-        "bsc": ["pancakeswap"], #revert to native asset
-        "arbitrum": ["uniswap"]
-      },
-      "destinations": {
-        "arbitrum": {
-          "address": "0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96",
-          "decimals": 18
-        }
-      },
-      "sourceDecimals": 18
-    }
   },
   #####################
   # 6. Avalanche native
