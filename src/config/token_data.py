@@ -2271,7 +2271,7 @@ TOKENS = {
       "name": "Wombat Exchange",
       "sourceAddress": "0xad6742a35fb341a9cc6ad674738dd8da98b94fb1",
       "coingeckoId": "wombat-exchange",
-      "logo": "https://bscscan.com/token/images/wombatex_32.png",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/19623.png",
       "markets": {
         "bsc": ["pancakeswap"], #revert to native asset
         "arbitrum": ["uniswap"]
