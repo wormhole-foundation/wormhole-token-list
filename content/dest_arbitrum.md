@@ -1,0 +1,9 @@
+
+Known tokens (wormholed to Arbitrum)
+===================================
+_See [by_dest.csv](by_dest.csv) ([raw](https://raw.githubusercontent.com/certusone/wormhole-token-list/main/content/by_dest.csv)) for a superset of this data in csv._
+
+  
+| img                                                                                            | symbol   | name                                                             | address                                                                                                             |   decimals | origin   | sourceAddress                                                                                                            |   sourceDecimals | markets                             | symbol   |
+|:-----------------------------------------------------------------------------------------------|:---------|:-----------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|-----------:|:---------|:-------------------------------------------------------------------------------------------------------------------------|-----------------:|:------------------------------------|:-----------------|
+| ![WOM](https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WOM_wh.png) | WOM      | [Wombat Exchange](http://coingecko.com/en/coins/wombat-exchange) | [0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96](https://arbiscan.io//token/0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96) |         18 | polygon  | [0xad6742a35fb341a9cc6ad674738dd8da98b94fb1](https://polygonscan.com/address/0xad6742a35fb341a9cc6ad674738dd8da98b94fb1) |               18 | [uniswap](https://app.uniswap.org/) | WOM              |
