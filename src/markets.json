@@ -1107,7 +1107,13 @@
       "24": {},
       "28": {},
       "3": {},
-      "4": {},
+      "4": {
+        "0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96": {
+          "markets": [
+            "pancakeswap"
+          ]
+        }
+      },
       "5": {},
       "6": {},
       "7": {},
@@ -1808,12 +1814,23 @@
         }
       },
       "22": {},
-      "23": {},
+      "23": {
+        "0xad6742a35fb341a9cc6ad674738dd8da98b94fb1": {
+          "markets": [
+            "uniswap"
+          ]
+        }
+      },
       "24": {},
       "28": {},
       "3": {},
       "4": {
         "0xa8d394fe7380b8ce6145d5f85e6ac22d4e91acde": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
+        "0xad6742a35fb341a9cc6ad674738dd8da98b94fb1": {
           "markets": [
             "pancakeswap"
           ]
@@ -3377,7 +3394,12 @@
       }
     },
     "22": {},
-    "23": {},
+    "23": {
+      "0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WOM_wh.png",
+        "symbol": "WOM"
+      }
+    },
     "24": {},
     "28": {},
     "3": {
@@ -3748,6 +3770,10 @@
       "0xa8d394fe7380b8ce6145d5f85e6ac22d4e91acde": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BUSDbs_wh.png",
         "symbol": "BUSDbs"
+      },
+      "0xad6742a35fb341a9cc6ad674738dd8da98b94fb1": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WOM_wh.png",
+        "symbol": "WOM"
       },
       "0xc2132d05d31c914a87c6611c10748aeb04b58e8f": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTpo_wh.png",
