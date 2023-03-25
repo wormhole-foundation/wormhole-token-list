@@ -1,0 +1,9 @@
+
+Known tokens (wormholed to Aptos)
+===================================
+_See [by_dest.csv](by_dest.csv) ([raw](https://raw.githubusercontent.com/certusone/wormhole-token-list/main/content/by_dest.csv)) for a superset of this data in csv._
+
+  
+| img                                                                                              | symbol   | name                                                | address                                                                                                                                                                        |   decimals | origin   | sourceAddress                                                                                                           |   sourceDecimals | symbol   |
+|:-------------------------------------------------------------------------------------------------|:---------|:----------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------:|:---------|:------------------------------------------------------------------------------------------------------------------------|-----------------:|:-----------------|
+| ![BONK](https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BONK_wh.png) | BONK     | [BONK (Portal)](http://coingecko.com/en/coins/bonk) | [0x2a90fae71afc7460ee42b20ee49a9c9b29272905ad71fef92fbd8b3905a24b56](https://explorer.aptoslabs.com//token/0x2a90fae71afc7460ee42b20ee49a9c9b29272905ad71fef92fbd8b3905a24b56) |          5 | solana   | [DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263](https://solscan.io/address/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263) |                5 | BONK             |
