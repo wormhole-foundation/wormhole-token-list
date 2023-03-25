@@ -349,9 +349,15 @@
         }
       },
       "8": {
+        "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh": {
+          "markets": [
+            "pact"
+          ]
+        },
         "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs": {
           "markets": [
-            "algofi"
+            "algofi",
+            "pact"
           ]
         }
       },
@@ -597,7 +603,8 @@
       "8": {
         "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207": {
           "markets": [
-            "algofi"
+            "algofi",
+            "pact"
           ]
         }
       },
@@ -725,9 +732,15 @@
         }
       },
       "8": {
+        "0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D": {
+          "markets": [
+            "pact"
+          ]
+        },
         "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD": {
           "markets": [
-            "algofi"
+            "algofi",
+            "pact"
           ]
         }
       },
@@ -1041,9 +1054,15 @@
         }
       },
       "8": {
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
+          "markets": [
+            "pact"
+          ]
+        },
         "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
           "markets": [
-            "algofi"
+            "algofi",
+            "pact"
           ]
         }
       },
@@ -1386,7 +1405,13 @@
       "8": {
         "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r": {
           "markets": [
-            "algofi"
+            "algofi",
+            "pact"
+          ]
+        },
+        "terra1aa7upykmmqqc63l924l5qfap8mrmx5rfdm0v55": {
+          "markets": [
+            "pact"
           ]
         }
       },
@@ -1616,7 +1641,8 @@
       "8": {
         "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA": {
           "markets": [
-            "algofi"
+            "algofi",
+            "pact"
           ]
         }
       },
@@ -1816,7 +1842,13 @@
       "8": {
         "0x11CD37bb86F65419713f30673A480EA33c826872": {
           "markets": [
-            "algofi"
+            "algofi",
+            "pact"
+          ]
+        },
+        "0x5D49c278340655B56609FdF8976eb0612aF3a0C3": {
+          "markets": [
+            "pact"
           ]
         }
       },
@@ -2004,7 +2036,8 @@
       "8": {
         "0x8b82A291F83ca07Af22120ABa21632088fC92931": {
           "markets": [
-            "algofi"
+            "algofi",
+            "pact"
           ]
         }
       },
@@ -2229,21 +2262,41 @@
       "8": {
         "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F": {
           "markets": [
-            "algofi"
+            "algofi",
+            "pact"
+          ]
+        },
+        "0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb": {
+          "markets": [
+            "pact"
           ]
         }
       },
       "9": {}
     },
     "8": {
-      "1": {},
+      "1": {
+        "1058926737": {
+          "markets": [
+            "orca",
+            "raydium"
+          ]
+        }
+      },
       "10": {},
       "11": {},
       "12": {},
       "13": {},
       "14": {},
       "15": {},
-      "16": {},
+      "16": {
+        "1058926737": {
+          "markets": [
+            "stellaswap",
+            "moonwell"
+          ]
+        }
+      },
       "18": {},
       "19": {},
       "2": {},
@@ -2329,7 +2382,8 @@
       "8": {
         "0x811Cc0d762eA72aC72385d93b98a97263AE37E4C": {
           "markets": [
-            "algofi"
+            "algofi",
+            "pact"
           ]
         }
       }
@@ -3884,7 +3938,12 @@
         "symbol": "BUSDbs"
       }
     },
-    "8": {},
+    "8": {
+      "1058926737": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WBTC_wh.png",
+        "symbol": "WBTC"
+      }
+    },
     "9": {
       "0x12302fbE05a7e833f87d4B7843F58d19BE4FdE3B": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/LUNA_wh.png",
