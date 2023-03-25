@@ -261,11 +261,25 @@ TOKENS = {
       "name": "BONK (Portal)",
       "sourceAddress": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
       "coingeckoId": "bonk",
-      "logo": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+      "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/src/logogen/base/BONK.png",
       "markets": {
+        "eth": [
+          "uniswap",
+          "curve",
+        ],
         "sol": [
           "orca",
           "jupiter",
+        ],
+        "bsc": [
+          "pancakeswap"
+        ],
+        "matic": [
+          "quickswap", 
+          "sushi"
+        ],
+        "arbitrum": [
+          "uniswap"
         ]
       },
       "destinations": {
@@ -279,6 +293,14 @@ TOKENS = {
         },
         "matic": {
           "address": "0xe5B49820e5A1063F6F4DdF851327b5E8B2301048",
+          "decimals": 5
+        },
+        "aptos": {
+          "address": "0x2a90fae71afc7460ee42b20ee49a9c9b29272905ad71fef92fbd8b3905a24b56",
+          "decimals": 5
+        },
+        "arbitrum": {
+          "address": "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74",
           "decimals": 5
         },
       },
