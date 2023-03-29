@@ -2180,6 +2180,24 @@ TOKENS = {
         }
       },
       "sourceDecimals": 18
+    },
+    "QUO": {
+      "symbol": "QUO",
+      "name": "Quoll Finance",
+      "sourceAddress": "0x08b450e4a48C04CDF6DB2bD4cf24057f7B9563fF",
+      "coingeckoId": "quoll-finance",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/22468.png",
+      "markets": {
+        "bsc": ["pancakeswap"], #revert to native asset
+        "arbitrum": ["uniswap"]
+      },
+      "destinations": {
+        "arbitrum": {
+          "address": "0xf00D8790A76ee5A5Dbc10eaCac39151aa2af0331",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
     }
   },
   #####################
