@@ -903,6 +903,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDT
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WOM_wh.png
 ```
 
+### QUO
+![QUO](QUO_wh.png)
+![QUO](QUO_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/QUO_wh.png
+```
+
 
 ## source chain: Polygon
 ### DAIpo
