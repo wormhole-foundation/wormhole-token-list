@@ -911,6 +911,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WOM_
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/QUO_wh.png
 ```
 
+### MGP
+![MGP](MGP_wh.png)
+![MGP](MGP_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MGP_wh.png
+```
+
 
 ## source chain: Polygon
 ### DAIpo
