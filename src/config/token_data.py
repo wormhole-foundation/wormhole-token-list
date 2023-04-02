@@ -2198,6 +2198,24 @@ TOKENS = {
         }
       },
       "sourceDecimals": 18
+    },
+    "MGP": {
+      "symbol": "MGP",
+      "name": "Magpie",
+      "sourceAddress": "0xD06716E1Ff2E492Cc5034c2E81805562dd3b45fa",
+      "coingeckoId": "magpie",
+      "logo": "https://assets.coingecko.com/coins/images/27972/small/MagpieLogo.png?1666771448",
+      "markets": {
+        "bsc": ["pancakeswap"], #revert to native asset
+        "arbitrum": ["traderjoe"]
+      },
+      "destinations": {
+        "arbitrum": {
+          "address": "0xa61F74247455A40b01b0559ff6274441FAfa22A3",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
     }
   },
   #####################
