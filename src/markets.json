@@ -24,6 +24,10 @@
       "link": "https://app.apricot.one/",
       "name": "Apricot"
     },
+    "ariesmarkets": {
+      "link": "https://app.ariesmarkets.xyz/swap",
+      "name": "Aries Markets"
+    },
     "astroport": {
       "link": "https://app.astroport.fi/swap",
       "name": "Astroport"
@@ -68,6 +72,10 @@
       "link": "https://helixapp.com/",
       "name": "Helix"
     },
+    "hippo": {
+      "link": "https://hippo.space/home",
+      "name": "Hippo"
+    },
     "jupiter": {
       "link": "https://jup.ag/",
       "name": "Jupiter"
@@ -79,6 +87,10 @@
     "larix": {
       "link": "https://projectlarix.com/",
       "name": "Larix"
+    },
+    "liquidswap": {
+      "link": "https://liquidswap.com/#/",
+      "name": "Liquidswap"
     },
     "loop": {
       "link": "https://dex.loop.markets/",
