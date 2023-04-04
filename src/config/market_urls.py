@@ -122,7 +122,6 @@ MARKETS = {
     "name": "Quickswap",
     "link": "https://quickswap.exchange/"
   },
-
   #######################
   # 6. avalanche markets
   #######################
@@ -230,5 +229,20 @@ MARKETS = {
   "helix":{
     "name": "Helix",
     "link": "https://helixapp.com/"
+  },
+  #######################
+  # 22. aptos markets
+  #######################
+  "hippo":{
+    "name": "Hippo",
+    "link": "https://hippo.space/home"
+  },
+    "liquidswap":{
+    "name": "Liquidswap",
+    "link": "https://liquidswap.com/#/"
+  },
+    "ariesmarkets":{
+    "name": "Aries Markets",
+    "link": "https://app.ariesmarkets.xyz/swap"
   }
 }
