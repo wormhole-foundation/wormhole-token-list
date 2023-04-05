@@ -44,6 +44,10 @@
       "link": "https://beets.fi/#/trade",
       "name": "BeethovenX"
     },
+    "camelot": {
+      "link": "https://app.camelot.exchange/",
+      "name": "Camelot"
+    },
     "curve": {
       "link": "https://curve.fi/",
       "name": "Curve"
@@ -1212,6 +1216,11 @@
             "pancakeswap"
           ]
         },
+        "0x5190F06EaceFA2C552dc6BD5e763b81C73293293": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
         "0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96": {
           "markets": [
             "pancakeswap"
@@ -1758,6 +1767,11 @@
         "0xD06716E1Ff2E492Cc5034c2E81805562dd3b45fa": {
           "markets": [
             "traderjoe"
+          ]
+        },
+        "0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD": {
+          "markets": [
+            "camelot"
           ]
         },
         "0xad6742a35fb341a9cc6ad674738dd8da98b94fb1": {
@@ -3564,6 +3578,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BONK_wh.png",
         "symbol": "BONK"
       },
+      "0x5190F06EaceFA2C552dc6BD5e763b81C73293293": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WMX_wh.png",
+        "symbol": "WMX"
+      },
       "0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WOM_wh.png",
         "symbol": "WOM"
@@ -3865,6 +3883,10 @@
       "0xa026ad2ceda16ca5fc28fd3c72f99e2c332c8a26": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/XCAD_wh.png",
         "symbol": "XCAD"
+      },
+      "0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WMX_wh.png",
+        "symbol": "WMX"
       },
       "0xad6742a35fb341a9cc6ad674738dd8da98b94fb1": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WOM_wh.png",
