@@ -21,6 +21,7 @@ Known token addresses by destination chain:
 - to [Fantom](content/dest_fantom.md)
 - to [Injective](content/dest_injective.md)
 - to [Moonbeam](content/dest_moonbeam.md)
+- to [Aptos](content/dest_aptos.md)
 
 Resultant wrapped-asset addresses by source chain:
 
