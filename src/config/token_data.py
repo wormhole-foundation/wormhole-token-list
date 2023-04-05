@@ -2216,6 +2216,24 @@ TOKENS = {
         }
       },
       "sourceDecimals": 18
+    },
+    "WMX": {
+      "symbol": "WMX",
+      "name": "Wombex Finance",
+      "sourceAddress": "0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD",
+      "coingeckoId": "wombex",
+      "logo": "https://wombex.finance/logo.png",
+      "markets": {
+        "bsc": ["pancakeswap"], #revert to native asset
+        "arbitrum": ["camelot"]
+      },
+      "destinations": {
+        "arbitrum": {
+          "address": "0x5190F06EaceFA2C552dc6BD5e763b81C73293293",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
     }
   },
   #####################
