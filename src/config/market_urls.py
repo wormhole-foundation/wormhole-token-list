@@ -244,5 +244,12 @@ MARKETS = {
     "ariesmarkets":{
     "name": "Aries Markets",
     "link": "https://app.ariesmarkets.xyz/swap"
+  },
+  #######################
+  # 23. arb markets
+  #######################
+  "camelot":{
+    "name": "Camelot",
+    "link": "https://app.camelot.exchange/"
   }
 }
