@@ -309,7 +309,21 @@
           ]
         }
       },
-      "22": {},
+      "22": {
+        "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs": {
+          "markets": [
+            "hippo",
+            "ariesmarkets"
+          ]
+        },
+        "A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM": {
+          "markets": [
+            "hippo",
+            "liquidswap",
+            "ariesmarkets"
+          ]
+        }
+      },
       "23": {
         "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263": {
           "markets": [
@@ -467,7 +481,15 @@
           ]
         }
       },
-      "22": {},
+      "22": {
+        "0x2Ec752329c3EB419136ca5e4432Aa2CDb1eA23e6": {
+          "markets": [
+            "hippo",
+            "liquidswap",
+            "ariesmarkets"
+          ]
+        }
+      },
       "23": {},
       "24": {},
       "28": {},
@@ -624,7 +646,21 @@
           ]
         }
       },
-      "22": {},
+      "22": {
+        "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd": {
+          "markets": [
+            "hippo",
+            "liquidswap",
+            "ariesmarkets"
+          ]
+        },
+        "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207": {
+          "markets": [
+            "hippo",
+            "ariesmarkets"
+          ]
+        }
+      },
       "23": {},
       "24": {},
       "28": {},
@@ -749,7 +785,21 @@
           ]
         }
       },
-      "22": {},
+      "22": {
+        "0x931715FEE2d06333043d11F658C8CE934aC61D0c": {
+          "markets": [
+            "hippo",
+            "liquidswap",
+            "ariesmarkets"
+          ]
+        },
+        "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD": {
+          "markets": [
+            "hippo",
+            "ariesmarkets"
+          ]
+        }
+      },
       "23": {},
       "24": {},
       "28": {},
@@ -1042,7 +1092,21 @@
           ]
         }
       },
-      "22": {},
+      "22": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
+          "markets": [
+            "hippo",
+            "liquidswap",
+            "ariesmarkets"
+          ]
+        },
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
+          "markets": [
+            "hippo",
+            "ariesmarkets"
+          ]
+        }
+      },
       "23": {
         "0x1151CB3d861920e07a38e03eEAd12C32178567F6": {
           "markets": [
@@ -1131,21 +1195,52 @@
             "orca",
             "jupiter"
           ]
+        },
+        "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea": {
+          "markets": [
+            "saber",
+            "mercurial",
+            "jupiter"
+          ]
         }
       },
       "10": {},
-      "11": {},
+      "11": {
+        "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea": {
+          "markets": [
+            "karura"
+          ]
+        }
+      },
       "12": {},
       "13": {},
-      "14": {},
+      "14": {
+        "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea": {
+          "markets": [
+            "ubeswap"
+          ]
+        }
+      },
       "15": {},
-      "16": {},
+      "16": {
+        "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea": {
+          "markets": [
+            "stellaswap",
+            "moonwell"
+          ]
+        }
+      },
       "18": {},
       "19": {},
       "2": {
         "0x2a90fae71afc7460ee42b20ee49a9c9b29272905ad71fef92fbd8b3905a24b56": {
           "markets": [
             "uniswap",
+            "curve"
+          ]
+        },
+        "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea": {
+          "markets": [
             "curve"
           ]
         }
@@ -1489,7 +1584,21 @@
           ]
         }
       },
-      "22": {},
+      "22": {
+        "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r": {
+          "markets": [
+            "hippo",
+            "ariesmarkets"
+          ]
+        },
+        "terra1pepwcav40nvj3kh60qqgrk8k07ydmc00xyat06": {
+          "markets": [
+            "hippo",
+            "liquidswap",
+            "ariesmarkets"
+          ]
+        }
+      },
       "23": {},
       "24": {},
       "28": {},
@@ -1752,7 +1861,21 @@
           ]
         }
       },
-      "22": {},
+      "22": {
+        "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA": {
+          "markets": [
+            "hippo",
+            "ariesmarkets"
+          ]
+        },
+        "0xB04906e95AB5D797aDA81508115611fee694c2b3": {
+          "markets": [
+            "hippo",
+            "liquidswap",
+            "ariesmarkets"
+          ]
+        }
+      },
       "23": {
         "0x08b450e4a48C04CDF6DB2bD4cf24057f7B9563fF": {
           "markets": [
@@ -1987,7 +2110,21 @@
           ]
         }
       },
-      "22": {},
+      "22": {
+        "0x11CD37bb86F65419713f30673A480EA33c826872": {
+          "markets": [
+            "hippo",
+            "ariesmarkets"
+          ]
+        },
+        "0x4318cb63a2b8edf2de971e2f17f77097e499459d": {
+          "markets": [
+            "hippo",
+            "liquidswap",
+            "ariesmarkets"
+          ]
+        }
+      },
       "23": {
         "0xe5B49820e5A1063F6F4DdF851327b5E8B2301048": {
           "markets": [
@@ -2182,7 +2319,21 @@
           ]
         }
       },
-      "22": {},
+      "22": {
+        "0x8b82A291F83ca07Af22120ABa21632088fC92931": {
+          "markets": [
+            "hippo",
+            "ariesmarkets"
+          ]
+        },
+        "0xB24CA28D4e2742907115fECda335b40dbda07a4C": {
+          "markets": [
+            "hippo",
+            "liquidswap",
+            "ariesmarkets"
+          ]
+        }
+      },
       "23": {},
       "24": {},
       "28": {},
@@ -2401,7 +2552,21 @@
           ]
         }
       },
-      "22": {},
+      "22": {
+        "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F": {
+          "markets": [
+            "hippo",
+            "ariesmarkets"
+          ]
+        },
+        "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD": {
+          "markets": [
+            "hippo",
+            "liquidswap",
+            "ariesmarkets"
+          ]
+        }
+      },
       "23": {},
       "24": {},
       "28": {},
@@ -2555,7 +2720,14 @@
           ]
         }
       },
-      "22": {},
+      "22": {
+        "0x811Cc0d762eA72aC72385d93b98a97263AE37E4C": {
+          "markets": [
+            "hippo",
+            "ariesmarkets"
+          ]
+        }
+      },
       "23": {},
       "24": {},
       "28": {},
@@ -3571,6 +3743,10 @@
       "0x2a90fae71afc7460ee42b20ee49a9c9b29272905ad71fef92fbd8b3905a24b56": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BONK_wh.png",
         "symbol": "BONK"
+      },
+      "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCet_wh.png",
+        "symbol": "USDCet"
       }
     },
     "23": {
