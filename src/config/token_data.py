@@ -738,6 +738,7 @@ TOKENS = {
         "celo": ["ubeswap"],
         "moonbeam": ["stellaswap", "moonwell"],
         "algorand": ["algofi", "pact"], 
+        "aptos": ["hippo", "ariesmarkets"],
       },
       "destinations": {
         "sol": {
@@ -779,6 +780,10 @@ TOKENS = {
       },
         "algorand": {
           "address": "887406851",
+          "decimals": 8
+        },
+          "aptos": {
+          "address": "0xcc8a89c8dce9693d354449f1f73e60e14e347417854f029db5bc8e7454008abb",
           "decimals": 8
         },
       "sourceDecimals": 18
@@ -1565,6 +1570,7 @@ TOKENS = {
         "karura": ["karura"],
         "celo": ["ubeswap"],
         "moonbeam": ["stellaswap", "moonwell"],
+        "aptos": ["hippo", "liquidswap", "ariesmarkets"]
       },
       "destinations": {
         "sol": {
@@ -1601,6 +1607,10 @@ TOKENS = {
         },
         "moonbeam": {
           "address": "0x931715FEE2d06333043d11F658C8CE934aC61D0c",
+          "decimals": 6
+        },
+          "aptos": {
+          "address": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea",
           "decimals": 6
         },
       },
