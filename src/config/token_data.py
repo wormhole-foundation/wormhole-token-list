@@ -1669,6 +1669,10 @@ TOKENS = {
         "oasis": {
           "address": "0xdC19A122e268128B5eE20366299fc7b5b199C8e3",
           "decimals": 6
+        },
+        "celo": {
+          "address": "0x617f3112bf5397D0467D315cC709EF968D9ba546",
+          "decimals": 6
         }
       },
       "sourceDecimals": 6
@@ -2621,6 +2625,22 @@ TOKENS = {
       "destinations": {
         "eth": {
           "address": "0xEE586e7Eaad39207F0549BC65f19e336942C992f",
+          "decimals": 18
+        },
+      },
+    },
+    "celo": {
+      "symbol": "CELO",
+      "name": "Celo (Wormhole)",
+      "sourceAddress": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+      "coingeckoId": "celo",
+      "logo": "https://assets.coingecko.com/coins/images/11090/small/InjXBNx9_400x400.jpg?1674707499",
+      "markets": {
+        "eth": ["uniswap"],
+      },
+      "destinations": {
+        "eth": {
+          "address": "0x3294395e62F4eB6aF3f1Fcf89f5602D90Fb3Ef69",
           "decimals": 18
         },
       },
