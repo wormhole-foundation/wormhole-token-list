@@ -3590,6 +3590,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SOL_wh.png",
         "symbol": "SOL"
       },
+      "0xD38e031f4529a07996aaB977d2B79f0e00656C56": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/wTBT_wh.png",
+        "symbol": "wTBT"
+      },
       "0xDe60aDfDdAAbaAAC3dAFa57B26AcC91Cb63728c4": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTbs_wh.png",
         "symbol": "USDTbs"
@@ -3747,6 +3751,10 @@
       "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCet_wh.png",
         "symbol": "USDCet"
+      },
+      "0xd916a950d4c1279df4aa0d6f32011842dc5c633a45c11ac5019232c159d115bb": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/wTBT_wh.png",
+        "symbol": "wTBT"
       }
     },
     "23": {
