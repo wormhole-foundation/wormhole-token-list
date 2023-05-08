@@ -90,10 +90,6 @@ MARKETS = {
     "name": "Balancer",
     "link": "https://app.balancer.fi/#/trade"
   },
-  "threshold": {
-    "name": "Threshold Network",
-    "link": "https://dashboard.threshold.network/tBTC/mint"
-  },
 
   ##################
   # 3. terra markets
