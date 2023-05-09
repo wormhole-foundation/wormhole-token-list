@@ -2688,4 +2688,25 @@ TOKENS = {
   #################
   "xpla": {
   }
+  #################
+  # 29. Sui native
+  #################
+  "sui": {
+    "TURBOS": {
+      "symbol": "TURBOS",
+      "name": "Turbos Finance",
+      "markets": {
+      },
+      "sourceAddress": "0x5d1f47ea69bb0de31c313d7acf89b890dbb8991ea8e03c6c355171f84bb1ba4a::turbos::TURBOS",
+      "coingeckoId": "",
+      "logo": "https://ipfs.io/ipfs/QmbfGQugNb5Te96jVmR21kiKNcmD4k1ntXgyKbFTXioihQ?filename=turbostoken.svg",
+      "destinations": {
+        "bsc": {
+          "address": "0xA1E6410bF311C03429B37A76a80C8A5E61616e7F",
+          "decimals": 9
+        }
+      },
+      "sourceDecimals": 9
+    }
+  }
 }
