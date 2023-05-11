@@ -513,6 +513,13 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "BICO": {
+      "symbol": "BICO",
+      "sourceAddress": "0xf17e65822b568b3903685a7c9f496cf7656cc6c2",
+      "coingeckoId": "biconomy", 
+      "destinations": {}, 
+      "sourceDecimals": 18
+    },
     "BUSDet": {
       "symbol": "BUSDet",
       "name": "Binance USD (Portal from Ethereum)",
@@ -2516,6 +2523,13 @@ TOKENS = {
       },
       "sourceDecimals": 6
     },
+    "sAVAX": {
+      "symbol": "sAVAX",
+      "sourceAddress": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+      "coingeckoId": "benqi-liquid-staked-avax", 
+      "destinations": {}, 
+      "sourceDecimals": 6
+    },
   },
   #################
   # 7. Oasis native
@@ -2572,6 +2586,15 @@ TOKENS = {
       "logo": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png",
       "destinations": {},
       "sourceDecimals": 18
+    },
+    "USDC": {
+      "symbol": "USDC",
+      "name": " USD Coin (Portal from Fantom)",
+      "markets": {},
+      "sourceAddress": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+      "coingeckoId": "usd-coin",
+      "destinations": {},
+      "sourceDecimals": 18
     }
   },
   #################
@@ -2625,6 +2648,14 @@ TOKENS = {
         },
       },
     },
+    "CELO": {
+      "symbol": "CELO",
+      "name": "Celo (Wormhole)",
+      "sourceAddress": "0x471ece3750da237f93b8e339c536989b8978a438",
+      "coingeckoId": "celo",
+      "markets": {},
+      "destinations": {},
+    }
   },
   #################
   # 15. Near native
@@ -2672,11 +2703,39 @@ TOKENS = {
   # 22. Aptos native
   #################
   "aptos": {
+    "APT": {
+      "symbol": "APT",
+      "name": "APT (Portal)",
+      "markets": {},
+      "sourceAddress": "0x1::aptos_coin::AptosCoin",
+      "coingeckoId": "aptos",
+      "logo": "",
+      "destinations": {},
+      "sourceDecimals": 18
+    }
   },
   #################
   # 23. Arbitrum native
   #################
   "arbitrum": {
+    "USDC": {
+      "symbol": "USDC",
+      "name": " USD Coin (Portal from Arbitrum)",
+      "markets": {},
+      "sourceAddress": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+      "coingeckoId": "usd-coin",
+      "destinations": {},
+      "sourceDecimals": 18
+    }, 
+    "arb": {
+      "symbol": "ARB",
+      "name": " USD Coin (Portal from Arbitrum)",
+      "markets": {},
+      "sourceAddress": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+      "coingeckoId": "arbitrum",
+      "destinations": {},
+      "sourceDecimals": 18
+    }
   },
   #################
   # 24. Optimism native
