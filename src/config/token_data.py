@@ -1478,6 +1478,33 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "TBTC": {
+      "symbol": "tBTC",
+      "name": "Threshold Bitcoin",
+      "sourceAddress": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+      "coingeckoId": "tbtc",
+      "logo": "https://assets.coingecko.com/coins/images/11224/small/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1674474504",
+      "markets": {
+        "matic": ['threshold'],
+        "arbitrum": ['threshold'],
+        "optimism": ['threshold']
+      },
+      "destinations": {
+        "matic": {
+          "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+          "decimals": 18
+        },
+        "arbitrum": {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "decimals": 18
+        },
+        "optimism": {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    },
     "TOKE": {
       "symbol": "TOKE",
       "name": "Tokemak (Portal)",
@@ -2308,6 +2335,33 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "TBTC": {
+      "symbol": "tBTC",
+      "name": "Threshold Bitcoin",
+      "sourceAddress": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+      "coingeckoId": "tbtc",
+      "logo": "https://assets.coingecko.com/coins/images/11224/small/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1674474504",
+      "markets": {
+        "eth": ['threshold'],
+        "arbitrum": ['threshold'],
+        "optimism": ['threshold']
+      },
+      "destinations": {
+        "eth": {
+          "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+          "decimals": 18
+        },
+        "arbitrum": {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "decimals": 18
+        },
+        "optimism": {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    },
     "USDCpo": {
       "symbol": "USDCpo",
       "name": "USD Coin (PoS) (Portal from Polygon)",
@@ -2677,11 +2731,65 @@ TOKENS = {
   # 23. Arbitrum native
   #################
   "arbitrum": {
+    "TBTC": {
+      "symbol": "tBTC",
+      "name": "Threshold Bitcoin",
+      "sourceAddress": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+      "coingeckoId": "tbtc",
+      "logo": "https://assets.coingecko.com/coins/images/11224/small/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1674474504",
+      "markets": {
+        "eth": ['threshold'],
+        "matic": ['threshold'],
+        "optimism": ['threshold']
+      },
+      "destinations": {
+        "eth": {
+          "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+          "decimals": 18
+        },
+        "matic": {
+          "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+          "decimals": 18
+        },
+        "optimism": {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    }
   },
   #################
   # 24. Optimism native
   #################
   "optimism": {
+    "TBTC": {
+      "symbol": "tBTC",
+      "name": "Threshold Bitcoin",
+      "sourceAddress": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+      "coingeckoId": "tbtc",
+      "logo": "https://assets.coingecko.com/coins/images/11224/small/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1674474504",
+      "markets": {
+        "eth": ['threshold'],
+        "matic": ['threshold'],
+        "arbitrum": ['threshold']
+      },
+      "destinations": {
+        "eth": {
+          "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+          "decimals": 18
+        },
+        "matic": {
+          "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+          "decimals": 18
+        },
+        "arbitrum": {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    }
   },
   #################
   # 28. XPLA native
