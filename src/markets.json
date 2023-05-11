@@ -172,6 +172,10 @@
       "link": "https://celo.symm.fi/#/trade",
       "name": "Symmetric"
     },
+    "threshold": {
+      "link": "https://dashboard.threshold.network/tBTC/mint",
+      "name": "Threshold Network"
+    },
     "traderjoe": {
       "link": "https://traderjoexyz.com/#/trade",
       "name": "Trader Joe"
@@ -1112,9 +1116,20 @@
           "markets": [
             "uniswap"
           ]
+        },
+        "0x18084fbA666a33d37592fA2633fD49a74DD93a88": {
+          "markets": [
+            "threshold"
+          ]
         }
       },
-      "24": {},
+      "24": {
+        "0x18084fbA666a33d37592fA2633fD49a74DD93a88": {
+          "markets": [
+            "threshold"
+          ]
+        }
+      },
       "28": {},
       "3": {},
       "4": {
@@ -1149,6 +1164,11 @@
           "markets": [
             "quickswap",
             "sushi"
+          ]
+        },
+        "0x18084fbA666a33d37592fA2633fD49a74DD93a88": {
+          "markets": [
+            "threshold"
           ]
         },
         "0x566957eF80F9fd5526CD2BEF8BE67035C0b81130": {
@@ -1299,10 +1319,21 @@
             "uniswap",
             "curve"
           ]
+        },
+        "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+          "markets": [
+            "threshold"
+          ]
         }
       },
       "22": {},
-      "24": {},
+      "24": {
+        "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+          "markets": [
+            "threshold"
+          ]
+        }
+      },
       "28": {},
       "3": {},
       "4": {
@@ -1338,6 +1369,11 @@
             "quickswap",
             "sushi"
           ]
+        },
+        "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+          "markets": [
+            "threshold"
+          ]
         }
       },
       "6": {},
@@ -1356,13 +1392,31 @@
       "16": {},
       "18": {},
       "19": {},
-      "2": {},
+      "2": {
+        "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+          "markets": [
+            "threshold"
+          ]
+        }
+      },
       "22": {},
-      "23": {},
+      "23": {
+        "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+          "markets": [
+            "threshold"
+          ]
+        }
+      },
       "28": {},
       "3": {},
       "4": {},
-      "5": {},
+      "5": {
+        "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+          "markets": [
+            "threshold"
+          ]
+        }
+      },
       "6": {},
       "7": {},
       "8": {},
@@ -2078,6 +2132,11 @@
             "curve"
           ]
         },
+        "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b": {
+          "markets": [
+            "threshold"
+          ]
+        },
         "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
           "markets": [
             "uniswap"
@@ -2126,13 +2185,24 @@
         }
       },
       "23": {
+        "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b": {
+          "markets": [
+            "threshold"
+          ]
+        },
         "0xe5B49820e5A1063F6F4DdF851327b5E8B2301048": {
           "markets": [
             "uniswap"
           ]
         }
       },
-      "24": {},
+      "24": {
+        "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b": {
+          "markets": [
+            "threshold"
+          ]
+        }
+      },
       "28": {},
       "3": {},
       "4": {
@@ -3338,6 +3408,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/GALA_wh.png",
         "symbol": "GALA"
       },
+      "0x18084fbA666a33d37592fA2633fD49a74DD93a88": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TBTC_wh.png",
+        "symbol": "TBTC"
+      },
       "0x18aaa7115705e8be94bffebde57af9bfc265b998": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AUDIO_wh.png",
         "symbol": "AUDIO"
@@ -3758,6 +3832,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WMX_wh.png",
         "symbol": "WMX"
       },
+      "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TBTC_wh.png",
+        "symbol": "TBTC"
+      },
       "0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WOM_wh.png",
         "symbol": "WOM"
@@ -3771,7 +3849,12 @@
         "symbol": "QUO"
       }
     },
-    "24": {},
+    "24": {
+      "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TBTC_wh.png",
+        "symbol": "TBTC"
+      }
+    },
     "28": {},
     "3": {
       "terra12dfv3f0e6m22z6cnhfn3nxk2en3z3zeqy6ctym": {
@@ -4105,6 +4188,10 @@
       "0x11CD37bb86F65419713f30673A480EA33c826872": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETH_wh.png",
         "symbol": "ETH"
+      },
+      "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TBTC_wh.png",
+        "symbol": "TBTC"
       },
       "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCpo_wh.png",
