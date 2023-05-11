@@ -250,6 +250,11 @@
       },
       "18": {},
       "19": {
+        "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263": {
+          "markets": [
+            "helix"
+          ]
+        },
         "So11111111111111111111111111111111111111112": {
           "markets": [
             "helix"
@@ -859,7 +864,14 @@
       "9": {}
     },
     "19": {
-      "1": {},
+      "1": {
+        "inj14rry9q6dym3dgcwzq79yay0e9azdz55jr465ch": {
+          "markets": [
+            "orca",
+            "jupiter"
+          ]
+        }
+      },
       "10": {},
       "11": {},
       "12": {},
@@ -869,6 +881,12 @@
       "16": {},
       "18": {},
       "2": {
+        "inj14rry9q6dym3dgcwzq79yay0e9azdz55jr465ch": {
+          "markets": [
+            "uniswap",
+            "curve"
+          ]
+        },
         "inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3": {
           "markets": [
             "uniswap"
@@ -876,12 +894,31 @@
         }
       },
       "22": {},
-      "23": {},
+      "23": {
+        "inj14rry9q6dym3dgcwzq79yay0e9azdz55jr465ch": {
+          "markets": [
+            "uniswap"
+          ]
+        }
+      },
       "24": {},
       "28": {},
       "3": {},
-      "4": {},
-      "5": {},
+      "4": {
+        "inj14rry9q6dym3dgcwzq79yay0e9azdz55jr465ch": {
+          "markets": [
+            "pancakeswap"
+          ]
+        }
+      },
+      "5": {
+        "inj14rry9q6dym3dgcwzq79yay0e9azdz55jr465ch": {
+          "markets": [
+            "quickswap",
+            "sushi"
+          ]
+        }
+      },
       "6": {},
       "7": {},
       "8": {},
@@ -1086,6 +1123,11 @@
       },
       "18": {},
       "19": {
+        "0x1151CB3d861920e07a38e03eEAd12C32178567F6": {
+          "markets": [
+            "helix"
+          ]
+        },
         "0xD31a59c85aE9D8edEFeC411D448f90841571b89c": {
           "markets": [
             "helix"
@@ -1231,7 +1273,13 @@
         }
       },
       "18": {},
-      "19": {},
+      "19": {
+        "0x2a90fae71afc7460ee42b20ee49a9c9b29272905ad71fef92fbd8b3905a24b56": {
+          "markets": [
+            "helix"
+          ]
+        }
+      },
       "2": {
         "0x2a90fae71afc7460ee42b20ee49a9c9b29272905ad71fef92fbd8b3905a24b56": {
           "markets": [
@@ -1292,7 +1340,13 @@
       "15": {},
       "16": {},
       "18": {},
-      "19": {},
+      "19": {
+        "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74": {
+          "markets": [
+            "helix"
+          ]
+        }
+      },
       "2": {
         "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74": {
           "markets": [
@@ -1807,6 +1861,11 @@
       },
       "18": {},
       "19": {
+        "0xA697e272a73744b343528C3Bc4702F2565b2F422": {
+          "markets": [
+            "helix"
+          ]
+        },
         "0xfA54fF1a158B5189Ebba6ae130CEd6bbd3aEA76e": {
           "markets": [
             "helix"
@@ -2067,6 +2126,11 @@
       "18": {},
       "19": {
         "0xd93f7e271cb87c23aaa73edc008a79646d1f9912": {
+          "markets": [
+            "helix"
+          ]
+        },
+        "0xe5B49820e5A1063F6F4DdF851327b5E8B2301048": {
           "markets": [
             "helix"
           ]
@@ -3288,6 +3352,10 @@
     },
     "18": {},
     "19": {
+      "inj14rry9q6dym3dgcwzq79yay0e9azdz55jr465ch": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BONK_wh.png",
+        "symbol": "BONK"
+      },
       "inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SOL_wh.png",
         "symbol": "SOL"

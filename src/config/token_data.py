@@ -280,7 +280,8 @@ TOKENS = {
         ],
         "arbitrum": [
           "uniswap"
-        ]
+        ],
+        "injective": ["helix"]
       },
       "destinations": {
         "eth": {
@@ -302,7 +303,11 @@ TOKENS = {
         "arbitrum": {
           "address": "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74",
           "decimals": 5
-        },
+        },        
+        "injective": {
+          "address": "inj14rry9q6dym3dgcwzq79yay0e9azdz55jr465ch",
+          "decimals": 5
+        }
       },
       "sourceDecimals": 5
     },
