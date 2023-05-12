@@ -92,7 +92,7 @@ MARKETS = {
   },
   "threshold": {
     "name": "Threshold Network",
-    "link": "https://dashboard.threshold.network/tBTC/mint"
+    "link": "https://dashboard.threshold.network/TBTC/mint"
   },
 
   ##################

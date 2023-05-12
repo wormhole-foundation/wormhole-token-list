@@ -173,7 +173,7 @@
       "name": "Symmetric"
     },
     "threshold": {
-      "link": "https://dashboard.threshold.network/tBTC/mint",
+      "link": "https://dashboard.threshold.network/TBTC/mint",
       "name": "Threshold Network"
     },
     "traderjoe": {
@@ -583,6 +583,13 @@
             "jupiter"
           ]
         },
+        "0x617f3112bf5397D0467D315cC709EF968D9ba546": {
+          "markets": [
+            "saber",
+            "mercurial",
+            "jupiter"
+          ]
+        },
         "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207": {
           "markets": [
             "orca",
@@ -624,6 +631,16 @@
       "19": {},
       "2": {
         "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd": {
+          "markets": [
+            "curve"
+          ]
+        },
+        "0x471EcE3750Da237f93B8E339c536989b8978a438": {
+          "markets": [
+            "uniswap"
+          ]
+        },
+        "0x617f3112bf5397D0467D315cC709EF968D9ba546": {
           "markets": [
             "curve"
           ]
@@ -3315,6 +3332,14 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCet_wh.png",
         "symbol": "USDCet"
       },
+      "0x471EcE3750Da237f93B8E339c536989b8978a438": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/celo_wh.png",
+        "symbol": "celo"
+      },
+      "0x617f3112bf5397D0467D315cC709EF968D9ba546": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTet_wh.png",
+        "symbol": "USDTet"
+      },
       "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETH_wh.png",
         "symbol": "ETH"
@@ -3471,6 +3496,10 @@
       "0x30D20208d987713f46DFD34EF128Bb16C404D10f": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SD_wh.png",
         "symbol": "SD"
+      },
+      "0x3294395e62F4eB6aF3f1Fcf89f5602D90Fb3Ef69": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/celo_wh.png",
+        "symbol": "celo"
       },
       "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FXS_wh.png",
