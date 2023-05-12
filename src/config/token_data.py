@@ -1479,7 +1479,7 @@ TOKENS = {
       "sourceDecimals": 18
     },
     "TBTC": {
-      "symbol": "tBTC",
+      "symbol": "TBTC",
       "name": "Threshold Bitcoin",
       "sourceAddress": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
       "coingeckoId": "tbtc",
@@ -1695,6 +1695,10 @@ TOKENS = {
         },
         "oasis": {
           "address": "0xdC19A122e268128B5eE20366299fc7b5b199C8e3",
+          "decimals": 6
+        },
+        "celo": {
+          "address": "0x617f3112bf5397D0467D315cC709EF968D9ba546",
           "decimals": 6
         }
       },
@@ -2336,7 +2340,7 @@ TOKENS = {
       "sourceDecimals": 18
     },
     "TBTC": {
-      "symbol": "tBTC",
+      "symbol": "TBTC",
       "name": "Threshold Bitcoin",
       "sourceAddress": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
       "coingeckoId": "tbtc",
@@ -2679,6 +2683,22 @@ TOKENS = {
         },
       },
     },
+    "celo": {
+      "symbol": "CELO",
+      "name": "Celo (Wormhole)",
+      "sourceAddress": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+      "coingeckoId": "celo",
+      "logo": "https://assets.coingecko.com/coins/images/11090/small/InjXBNx9_400x400.jpg?1674707499",
+      "markets": {
+        "eth": ["uniswap"],
+      },
+      "destinations": {
+        "eth": {
+          "address": "0x3294395e62F4eB6aF3f1Fcf89f5602D90Fb3Ef69",
+          "decimals": 18
+        },
+      },
+    },
   },
   #################
   # 15. Near native
@@ -2732,7 +2752,7 @@ TOKENS = {
   #################
   "arbitrum": {
     "TBTC": {
-      "symbol": "tBTC",
+      "symbol": "TBTC",
       "name": "Threshold Bitcoin",
       "sourceAddress": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
       "coingeckoId": "tbtc",
@@ -2764,7 +2784,7 @@ TOKENS = {
   #################
   "optimism": {
     "TBTC": {
-      "symbol": "tBTC",
+      "symbol": "TBTC",
       "name": "Threshold Bitcoin",
       "sourceAddress": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
       "coingeckoId": "tbtc",

@@ -1083,6 +1083,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/cUSD
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/cEUR_wh.png
 ```
 
+### celo
+![celo](celo_wh.png)
+![celo](celo_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/celo_wh.png
+```
+
 
 ## source chain: Near
 ### SWEAT
