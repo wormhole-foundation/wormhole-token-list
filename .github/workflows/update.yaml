@@ -43,3 +43,6 @@ jobs:
           git add -A
           git commit -m '[automated] update content'
           git push
+          git init 
+          git touch 
+          
