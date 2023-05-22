@@ -258,7 +258,7 @@ TOKENS = {
     },
     "KING": {
       "symbol": "KING",
-      "name": "KING (Wrapped)",
+      "name": "KING (Portal)",
       "sourceAddress": "9noXzpXnkyEcKF3AeXqUHTdR59V5uvrRBUZ9bwfQwxeq",
       "coingeckoId": "king",
       "logo": "https://i.imgur.com/s394SSI.png",
