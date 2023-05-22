@@ -667,6 +667,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SXP_
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SUSHI_wh.png
 ```
 
+### TBTC
+![TBTC](TBTC_wh.png)
+![TBTC](TBTC_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TBTC_wh.png
+```
+
 ### TOKE
 ![TOKE](TOKE_wh.png)
 ![TOKE](TOKE_wh_small.png)
@@ -961,6 +969,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MATI
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/QUICK_wh.png
 ```
 
+### TBTC
+![TBTC](TBTC_wh.png)
+![TBTC](TBTC_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TBTC_wh.png
+```
+
 ### USDCpo
 ![USDCpo](USDCpo_wh.png)
 ![USDCpo](USDCpo_wh_small.png)
@@ -1075,6 +1091,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/cUSD
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/cEUR_wh.png
 ```
 
+### celo
+![celo](celo_wh.png)
+![celo](celo_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/celo_wh.png
+```
+
 
 ## source chain: Near
 ### SWEAT
@@ -1095,7 +1119,23 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SWEA
 ## source chain: Aptos
 
 ## source chain: Arbitrum
+### TBTC
+![TBTC](TBTC_wh.png)
+![TBTC](TBTC_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TBTC_wh.png
+```
+
 
 ## source chain: Optimism
+### TBTC
+![TBTC](TBTC_wh.png)
+![TBTC](TBTC_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TBTC_wh.png
+```
+
 
 ## source chain: XPLA

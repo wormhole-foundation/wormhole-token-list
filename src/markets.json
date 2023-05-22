@@ -172,6 +172,10 @@
       "link": "https://celo.symm.fi/#/trade",
       "name": "Symmetric"
     },
+    "threshold": {
+      "link": "https://dashboard.threshold.network/TBTC/mint",
+      "name": "Threshold Network"
+    },
     "traderjoe": {
       "link": "https://traderjoexyz.com/#/trade",
       "name": "Trader Joe"
@@ -250,6 +254,11 @@
       },
       "18": {},
       "19": {
+        "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263": {
+          "markets": [
+            "helix"
+          ]
+        },
         "So11111111111111111111111111111111111111112": {
           "markets": [
             "helix"
@@ -579,6 +588,13 @@
             "jupiter"
           ]
         },
+        "0x617f3112bf5397D0467D315cC709EF968D9ba546": {
+          "markets": [
+            "saber",
+            "mercurial",
+            "jupiter"
+          ]
+        },
         "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207": {
           "markets": [
             "orca",
@@ -620,6 +636,16 @@
       "19": {},
       "2": {
         "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd": {
+          "markets": [
+            "curve"
+          ]
+        },
+        "0x471EcE3750Da237f93B8E339c536989b8978a438": {
+          "markets": [
+            "uniswap"
+          ]
+        },
+        "0x617f3112bf5397D0467D315cC709EF968D9ba546": {
           "markets": [
             "curve"
           ]
@@ -859,7 +885,14 @@
       "9": {}
     },
     "19": {
-      "1": {},
+      "1": {
+        "inj14rry9q6dym3dgcwzq79yay0e9azdz55jr465ch": {
+          "markets": [
+            "orca",
+            "jupiter"
+          ]
+        }
+      },
       "10": {},
       "11": {},
       "12": {},
@@ -869,6 +902,12 @@
       "16": {},
       "18": {},
       "2": {
+        "inj14rry9q6dym3dgcwzq79yay0e9azdz55jr465ch": {
+          "markets": [
+            "uniswap",
+            "curve"
+          ]
+        },
         "inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3": {
           "markets": [
             "uniswap"
@@ -876,12 +915,31 @@
         }
       },
       "22": {},
-      "23": {},
+      "23": {
+        "inj14rry9q6dym3dgcwzq79yay0e9azdz55jr465ch": {
+          "markets": [
+            "uniswap"
+          ]
+        }
+      },
       "24": {},
       "28": {},
       "3": {},
-      "4": {},
-      "5": {},
+      "4": {
+        "inj14rry9q6dym3dgcwzq79yay0e9azdz55jr465ch": {
+          "markets": [
+            "pancakeswap"
+          ]
+        }
+      },
+      "5": {
+        "inj14rry9q6dym3dgcwzq79yay0e9azdz55jr465ch": {
+          "markets": [
+            "quickswap",
+            "sushi"
+          ]
+        }
+      },
       "6": {},
       "7": {},
       "8": {},
@@ -1086,6 +1144,11 @@
       },
       "18": {},
       "19": {
+        "0x1151CB3d861920e07a38e03eEAd12C32178567F6": {
+          "markets": [
+            "helix"
+          ]
+        },
         "0xD31a59c85aE9D8edEFeC411D448f90841571b89c": {
           "markets": [
             "helix"
@@ -1112,9 +1175,20 @@
           "markets": [
             "uniswap"
           ]
+        },
+        "0x18084fbA666a33d37592fA2633fD49a74DD93a88": {
+          "markets": [
+            "threshold"
+          ]
         }
       },
-      "24": {},
+      "24": {
+        "0x18084fbA666a33d37592fA2633fD49a74DD93a88": {
+          "markets": [
+            "threshold"
+          ]
+        }
+      },
       "28": {},
       "3": {},
       "4": {
@@ -1149,6 +1223,11 @@
           "markets": [
             "quickswap",
             "sushi"
+          ]
+        },
+        "0x18084fbA666a33d37592fA2633fD49a74DD93a88": {
+          "markets": [
+            "threshold"
           ]
         },
         "0x566957eF80F9fd5526CD2BEF8BE67035C0b81130": {
@@ -1231,7 +1310,13 @@
         }
       },
       "18": {},
-      "19": {},
+      "19": {
+        "0x2a90fae71afc7460ee42b20ee49a9c9b29272905ad71fef92fbd8b3905a24b56": {
+          "markets": [
+            "helix"
+          ]
+        }
+      },
       "2": {
         "0x2a90fae71afc7460ee42b20ee49a9c9b29272905ad71fef92fbd8b3905a24b56": {
           "markets": [
@@ -1292,17 +1377,34 @@
       "15": {},
       "16": {},
       "18": {},
-      "19": {},
+      "19": {
+        "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74": {
+          "markets": [
+            "helix"
+          ]
+        }
+      },
       "2": {
         "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74": {
           "markets": [
             "uniswap",
             "curve"
           ]
+        },
+        "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+          "markets": [
+            "threshold"
+          ]
         }
       },
       "22": {},
-      "24": {},
+      "24": {
+        "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+          "markets": [
+            "threshold"
+          ]
+        }
+      },
       "28": {},
       "3": {},
       "4": {
@@ -1338,6 +1440,11 @@
             "quickswap",
             "sushi"
           ]
+        },
+        "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+          "markets": [
+            "threshold"
+          ]
         }
       },
       "6": {},
@@ -1356,13 +1463,31 @@
       "16": {},
       "18": {},
       "19": {},
-      "2": {},
+      "2": {
+        "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+          "markets": [
+            "threshold"
+          ]
+        }
+      },
       "22": {},
-      "23": {},
+      "23": {
+        "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+          "markets": [
+            "threshold"
+          ]
+        }
+      },
       "28": {},
       "3": {},
       "4": {},
-      "5": {},
+      "5": {
+        "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+          "markets": [
+            "threshold"
+          ]
+        }
+      },
       "6": {},
       "7": {},
       "8": {},
@@ -1807,6 +1932,11 @@
       },
       "18": {},
       "19": {
+        "0xA697e272a73744b343528C3Bc4702F2565b2F422": {
+          "markets": [
+            "helix"
+          ]
+        },
         "0xfA54fF1a158B5189Ebba6ae130CEd6bbd3aEA76e": {
           "markets": [
             "helix"
@@ -2070,12 +2200,22 @@
           "markets": [
             "helix"
           ]
+        },
+        "0xe5B49820e5A1063F6F4DdF851327b5E8B2301048": {
+          "markets": [
+            "helix"
+          ]
         }
       },
       "2": {
         "0x11CD37bb86F65419713f30673A480EA33c826872": {
           "markets": [
             "curve"
+          ]
+        },
+        "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b": {
+          "markets": [
+            "threshold"
           ]
         },
         "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
@@ -2126,13 +2266,24 @@
         }
       },
       "23": {
+        "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b": {
+          "markets": [
+            "threshold"
+          ]
+        },
         "0xe5B49820e5A1063F6F4DdF851327b5E8B2301048": {
           "markets": [
             "uniswap"
           ]
         }
       },
-      "24": {},
+      "24": {
+        "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b": {
+          "markets": [
+            "threshold"
+          ]
+        }
+      },
       "28": {},
       "3": {},
       "4": {
@@ -3245,6 +3396,14 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCet_wh.png",
         "symbol": "USDCet"
       },
+      "0x471EcE3750Da237f93B8E339c536989b8978a438": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/celo_wh.png",
+        "symbol": "celo"
+      },
+      "0x617f3112bf5397D0467D315cC709EF968D9ba546": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTet_wh.png",
+        "symbol": "USDTet"
+      },
       "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETH_wh.png",
         "symbol": "ETH"
@@ -3288,6 +3447,10 @@
     },
     "18": {},
     "19": {
+      "inj14rry9q6dym3dgcwzq79yay0e9azdz55jr465ch": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BONK_wh.png",
+        "symbol": "BONK"
+      },
       "inj1sthrn5ep8ls5vzz8f9gp89khhmedahhdkqa8z3": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SOL_wh.png",
         "symbol": "SOL"
@@ -3337,6 +3500,10 @@
       "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/GALA_wh.png",
         "symbol": "GALA"
+      },
+      "0x18084fbA666a33d37592fA2633fD49a74DD93a88": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TBTC_wh.png",
+        "symbol": "TBTC"
       },
       "0x18aaa7115705e8be94bffebde57af9bfc265b998": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AUDIO_wh.png",
@@ -3397,6 +3564,10 @@
       "0x30D20208d987713f46DFD34EF128Bb16C404D10f": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SD_wh.png",
         "symbol": "SD"
+      },
+      "0x3294395e62F4eB6aF3f1Fcf89f5602D90Fb3Ef69": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/celo_wh.png",
+        "symbol": "celo"
       },
       "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/FXS_wh.png",
@@ -3766,6 +3937,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WMX_wh.png",
         "symbol": "WMX"
       },
+      "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TBTC_wh.png",
+        "symbol": "TBTC"
+      },
       "0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WOM_wh.png",
         "symbol": "WOM"
@@ -3779,7 +3954,12 @@
         "symbol": "QUO"
       }
     },
-    "24": {},
+    "24": {
+      "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TBTC_wh.png",
+        "symbol": "TBTC"
+      }
+    },
     "28": {},
     "3": {
       "terra12dfv3f0e6m22z6cnhfn3nxk2en3z3zeqy6ctym": {
@@ -4113,6 +4293,10 @@
       "0x11CD37bb86F65419713f30673A480EA33c826872": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETH_wh.png",
         "symbol": "ETH"
+      },
+      "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/TBTC_wh.png",
+        "symbol": "TBTC"
       },
       "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCpo_wh.png",

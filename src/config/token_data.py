@@ -280,7 +280,8 @@ TOKENS = {
         ],
         "arbitrum": [
           "uniswap"
-        ]
+        ],
+        "injective": ["helix"]
       },
       "destinations": {
         "eth": {
@@ -302,7 +303,11 @@ TOKENS = {
         "arbitrum": {
           "address": "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74",
           "decimals": 5
-        },
+        },        
+        "injective": {
+          "address": "inj14rry9q6dym3dgcwzq79yay0e9azdz55jr465ch",
+          "decimals": 5
+        }
       },
       "sourceDecimals": 5
     },
@@ -1478,6 +1483,33 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "TBTC": {
+      "symbol": "TBTC",
+      "name": "Threshold Bitcoin",
+      "sourceAddress": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+      "coingeckoId": "tbtc",
+      "logo": "https://assets.coingecko.com/coins/images/11224/small/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1674474504",
+      "markets": {
+        "matic": ['threshold'],
+        "arbitrum": ['threshold'],
+        "optimism": ['threshold']
+      },
+      "destinations": {
+        "matic": {
+          "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+          "decimals": 18
+        },
+        "arbitrum": {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "decimals": 18
+        },
+        "optimism": {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    },
     "TOKE": {
       "symbol": "TOKE",
       "name": "Tokemak (Portal)",
@@ -1668,6 +1700,10 @@ TOKENS = {
         },
         "oasis": {
           "address": "0xdC19A122e268128B5eE20366299fc7b5b199C8e3",
+          "decimals": 6
+        },
+        "celo": {
+          "address": "0x617f3112bf5397D0467D315cC709EF968D9ba546",
           "decimals": 6
         }
       },
@@ -2322,6 +2358,33 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "TBTC": {
+      "symbol": "TBTC",
+      "name": "Threshold Bitcoin",
+      "sourceAddress": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+      "coingeckoId": "tbtc",
+      "logo": "https://assets.coingecko.com/coins/images/11224/small/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1674474504",
+      "markets": {
+        "eth": ['threshold'],
+        "arbitrum": ['threshold'],
+        "optimism": ['threshold']
+      },
+      "destinations": {
+        "eth": {
+          "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+          "decimals": 18
+        },
+        "arbitrum": {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "decimals": 18
+        },
+        "optimism": {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    },
     "USDCpo": {
       "symbol": "USDCpo",
       "name": "USD Coin (PoS) (Portal from Polygon)",
@@ -2639,6 +2702,22 @@ TOKENS = {
         },
       },
     },
+    "celo": {
+      "symbol": "CELO",
+      "name": "Celo (Wormhole)",
+      "sourceAddress": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+      "coingeckoId": "celo",
+      "logo": "https://assets.coingecko.com/coins/images/11090/small/InjXBNx9_400x400.jpg?1674707499",
+      "markets": {
+        "eth": ["uniswap"],
+      },
+      "destinations": {
+        "eth": {
+          "address": "0x3294395e62F4eB6aF3f1Fcf89f5602D90Fb3Ef69",
+          "decimals": 18
+        },
+      },
+    },
   },
   #################
   # 15. Near native
@@ -2691,11 +2770,65 @@ TOKENS = {
   # 23. Arbitrum native
   #################
   "arbitrum": {
+    "TBTC": {
+      "symbol": "TBTC",
+      "name": "Threshold Bitcoin",
+      "sourceAddress": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+      "coingeckoId": "tbtc",
+      "logo": "https://assets.coingecko.com/coins/images/11224/small/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1674474504",
+      "markets": {
+        "eth": ['threshold'],
+        "matic": ['threshold'],
+        "optimism": ['threshold']
+      },
+      "destinations": {
+        "eth": {
+          "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+          "decimals": 18
+        },
+        "matic": {
+          "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+          "decimals": 18
+        },
+        "optimism": {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    }
   },
   #################
   # 24. Optimism native
   #################
   "optimism": {
+    "TBTC": {
+      "symbol": "TBTC",
+      "name": "Threshold Bitcoin",
+      "sourceAddress": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+      "coingeckoId": "tbtc",
+      "logo": "https://assets.coingecko.com/coins/images/11224/small/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1674474504",
+      "markets": {
+        "eth": ['threshold'],
+        "matic": ['threshold'],
+        "arbitrum": ['threshold']
+      },
+      "destinations": {
+        "eth": {
+          "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+          "decimals": 18
+        },
+        "matic": {
+          "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+          "decimals": 18
+        },
+        "arbitrum": {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    }
   },
   #################
   # 28. XPLA native
