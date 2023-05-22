@@ -261,7 +261,7 @@ TOKENS = {
       "name": "KING (Portal)",
       "sourceAddress": "9noXzpXnkyEcKF3AeXqUHTdR59V5uvrRBUZ9bwfQwxeq",
       "coingeckoId": "king",
-      "logo": "https://i.imgur.com/s394SSI.png",
+      "logo": "https://static.wixstatic.com/media/326cf0_041cbca6882f4388b105ed00ac68188c~mv2.png/v1/crop/x_77,y_0,w_343,h_358/fill/w_319,h_332,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/326cf0_041cbca6882f4388b105ed00ac68188c~mv2.png",
       "markets": {
         "eth": [
           "uniswap",
