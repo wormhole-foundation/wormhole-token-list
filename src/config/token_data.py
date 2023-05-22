@@ -256,6 +256,30 @@ TOKENS = {
       },
       "sourceDecimals": 6
     },
+    "KING": {
+      "symbol": "KING",
+      "name": "KING (Wrapped)",
+      "sourceAddress": "9noXzpXnkyEcKF3AeXqUHTdR59V5uvrRBUZ9bwfQwxeq",
+      "coingeckoId": "king",
+      "logo": "https://i.imgur.com/s394SSI.png",
+      "markets": {
+        "eth": [
+          "uniswap",
+        ],
+        "sol": [
+          "orca",
+          "jupiter",
+          "raydium"
+        ],
+      },
+      "destinations": {
+        "eth": {
+          "address": "0xE28027c99C7746fFb56B0113e5d9708aC86fAE8f",
+          "decimals": 9
+        }
+      },
+      "sourceDecimals": 9
+    },
     "BONK": {
       "symbol": "BONK",
       "name": "BONK (Portal)",
