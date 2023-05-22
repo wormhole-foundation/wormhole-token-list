@@ -275,7 +275,7 @@ TOKENS = {
           "pancakeswap"
         ],
         "matic": [
-          "quickswap", 
+          "quickswap",
           "sushi"
         ],
         "arbitrum": [
@@ -303,7 +303,7 @@ TOKENS = {
         "arbitrum": {
           "address": "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74",
           "decimals": 5
-        },        
+        },
         "injective": {
           "address": "inj14rry9q6dym3dgcwzq79yay0e9azdz55jr465ch",
           "decimals": 5
@@ -742,7 +742,7 @@ TOKENS = {
         "oasis": ["yuzu"],
         "celo": ["ubeswap"],
         "moonbeam": ["stellaswap", "moonwell"],
-        "algorand": ["algofi", "pact"], 
+        "algorand": ["algofi", "pact"],
         "aptos": ["hippo", "ariesmarkets"],
       },
       "destinations": {
@@ -1646,7 +1646,7 @@ TOKENS = {
           "decimals": 6
         },
       },
-      
+
       "sourceDecimals": 6
     },
     "USDK": {
@@ -1718,7 +1718,7 @@ TOKENS = {
       "markets": {
         "moonbeam": ["stellaswap", "moonwell"],
         "sol": ["orca", "raydium"],
-        "algorand": ["pact"], 
+        "algorand": ["pact"],
       },
       "destinations": {
         "sol": {
@@ -1913,6 +1913,20 @@ TOKENS = {
           "address": "terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02",
           "decimals": 8
         }
+      },
+      "sourceDecimals": 18
+    },
+     "wTBT":{
+      "symbol": "wTBT",
+      "name": "wTBT Pool (Portal)",
+      "sourceAddress": "0xD38e031f4529a07996aaB977d2B79f0e00656C56",
+      "coingeckoId": "wtbt",
+      "logo": "https://raw.githubusercontent.com/TProtocol/Public/main/img/Token/WTBT.svg",
+      "destinations": {
+          "aptos":{
+              "address": "0xd916a950d4c1279df4aa0d6f32011842dc5c633a45c11ac5019232c159d115bb",
+              "decimals": 8
+          }
       },
       "sourceDecimals": 18
     }
@@ -2496,7 +2510,7 @@ TOKENS = {
       "symbol": "USDCeav",
       "name": "USD.e Coin (Portal from Avalanche)",
       "markets": {
-      }, 
+      },
       "sourceAddress": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
       "coingeckoId": "usd-coin",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AGqKX7F4mqJ8x2mUQVangJb5pWQJApaKoUfe5gXM53CV/logo.png",
@@ -2552,7 +2566,7 @@ TOKENS = {
       "symbol": "USDCav",
       "name": "USD Coin (Portal from Avalanche)",
       "markets": {
-      }, 
+      },
       "sourceAddress": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
       "coingeckoId": "usd-coin",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AGqKX7F4mqJ8x2mUQVangJb5pWQJApaKoUfe5gXM53CV/logo.png",
