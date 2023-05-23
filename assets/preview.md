@@ -97,6 +97,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ZBC_
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/XTAG_wh.png
 ```
 
+### KING
+![KING](KING_wh.png)
+![KING](KING_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/KING_wh.png
+```
+
 ### BONK
 ![BONK](BONK_wh.png)
 ![BONK](BONK_wh_small.png)
