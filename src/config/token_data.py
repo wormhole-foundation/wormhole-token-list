@@ -1077,6 +1077,22 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "KIN": {
+      "symbol": "KIN",
+      "name": "Kin1 Migration (Portal)",
+      "sourceAddress": "0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5",
+      "coingeckoId": "kin",
+      "logo": "https://etherscan.io/token/images/kin_28_3.png?v=2",
+      "markets": {
+      },
+      "destinations": {
+        "sol": {
+          "address": "YdYQS1RK1ZTwCMH69pmpWk3W7eLhf99Nfu9b8Rqd9SD",
+          "decimals": 8
+        }
+      },
+      "sourceDecimals": 18
+    },
     "KP3R": {
       "symbol": "KP3R",
       "name": "Keep3rV1 (Portal)",
