@@ -528,6 +528,21 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "BKN": {
+      "symbol": "BKN",
+      "name": "Brickken (Portal)",
+      "sourceAddress": "0x0A638F07ACc6969abF392bB009f216D22aDEa36d",
+      "coingeckoId": "brickken",
+      "markets": {},
+      "logo": "https://etherscan.io/token/images/brickken_32.png"
+      "destinations": {
+        "bsc": {
+          "address": "0x0e28bC9B03971E95acF9ae1326E51ecF9C55B498",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    },
     "BNT": {
       "symbol": "BNT",
       "name": "Bancor Network Token (Portal)",
