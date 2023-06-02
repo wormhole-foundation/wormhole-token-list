@@ -335,6 +335,30 @@ TOKENS = {
       },
       "sourceDecimals": 5
     },
+    "CTUS": {
+      "symbol": "CTUS",
+      "name": "Contractus (Portal)",
+      "sourceAddress": "4yeK2cCyxNNz28fVqEbkLYNCb1T9qPadsuJWeZ44Evcq",
+      "coingeckoId": "",
+      "logo": "https://raw.githubusercontent.com/ContractusTech/assets/main/token/logo.png",
+      "markets": {
+        "bsc": [
+          "pancakeswap",
+        ],
+        "sol": [
+          "orca",
+          "jupiter",
+          "raydium"
+        ],
+      },
+      "destinations": {
+        "bsc": {
+          "address": "0x3a7BEa5d56bBcDC599827444786C370CF4D62DfA",
+          "decimals": 9
+        }
+      },
+      "sourceDecimals": 9
+    },
   },
   #####################
   # 2. Ethereum native
