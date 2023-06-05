@@ -79,7 +79,7 @@ def get_base_logo(name):
       img = Image.open(tmp.name)
     # case 2: not
     else:
-      response = requests.get(logo_url)
+      response = requests.get(logo_url, headers={'User-Agent': 'Mozilla/5.0'})
       img = Image.open(BytesIO(response.content))
   return img.resize(STANDARD_DIM).convert('RGBA')
 
