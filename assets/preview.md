@@ -211,6 +211,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AXSe
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BAT_wh.png
 ```
 
+### BKN
+![BKN](BKN_wh.png)
+![BKN](BKN_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BKN_wh.png
+```
+
 ### BNT
 ![BNT](BNT_wh.png)
 ![BNT](BNT_wh_small.png)

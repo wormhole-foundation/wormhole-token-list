@@ -3489,6 +3489,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SPELL_wh.png",
         "symbol": "SPELL"
       },
+      "0x0A638F07ACc6969abF392bB009f216D22aDEa36d": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BKN_wh.png",
+        "symbol": "BKN"
+      },
       "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MANA_wh.png",
         "symbol": "MANA"
@@ -4143,6 +4147,10 @@
       "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CAKE_wh.png",
         "symbol": "CAKE"
+      },
+      "0x0e28bC9B03971E95acF9ae1326E51ecF9C55B498": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BKN_wh.png",
+        "symbol": "BKN"
       },
       "0x12BeffdCEcb547640DC30e1495E4B9cdc21922b4": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SRMso_wh.png",
