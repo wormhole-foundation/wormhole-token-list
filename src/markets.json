@@ -3361,6 +3361,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SOL_wh.png",
         "symbol": "SOL"
       },
+      "YdYQS1RK1ZTwCMH69pmpWk3W7eLhf99Nfu9b8Rqd9SD": {
+        "logo": "https://etherscan.io/token/images/kin_28_3.png?v=2",
+        "symbol": "KIN"
+      },
       "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/mSOL_wh.png",
         "symbol": "mSOL"
@@ -3720,6 +3724,10 @@
       "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/wstETH_wh.png",
         "symbol": "wstETH"
+      },
+      "0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5": {
+        "logo": "https://etherscan.io/token/images/kin_28_3.png?v=2",
+        "symbol": "KIN"
       },
       "0x8290333cef9e6d528dd5618fb97a76f268f3edd4": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ANKR_wh.png",
