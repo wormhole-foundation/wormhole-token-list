@@ -1,3 +1,5 @@
+cbowREADME.md
+
 # Wormhole Token List
 
 ## Update instructions
