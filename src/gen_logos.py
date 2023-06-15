@@ -48,7 +48,7 @@ def get_wormhole_logo(style=None):
   filename = 'wormhole' if style is None else 'wormhole_%s' % style
   path = os.path.join(SRC_PATH, 'logogen', 'components', filename + '.png')
   img = Image.open(path).resize(MINI_DIM).convert('RGBA')
-  img = add_margin(img, L-S-OFFSET, OFFSET, OFFSET, L-S-OFFSET)
+  img = add_margin(img, OFFSET, OFFSET, L-S-OFFSET, L-S-OFFSET)
   return img
 
 
@@ -74,9 +74,12 @@ def get_base_logo(name):
 
     # case 1: svg
     if logo_url.endswith('svg'):
-      tmp = tempfile.NamedTemporaryFile()
-      cairosvg.svg2png(url=logo_url, write_to=tmp.name)
-      img = Image.open(tmp.name)
+      with tempfile.NamedTemporaryFile(delete=False) as tmp:
+        tmp.close()
+        cairosvg.svg2png(url=logo_url, write_to=tmp.name)
+        with Image.open(tmp.name) as img:
+          img = img.copy()
+        os.unlink(tmp.name) 
     # case 2: not
     else:
       response = requests.get(logo_url, headers={'User-Agent': 'Mozilla/5.0'})
