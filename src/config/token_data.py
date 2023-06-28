@@ -1295,6 +1295,25 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "PENDLE": {
+      "symbol": "PENDLE",
+      "name": "Pendle",
+      "sourceAddress": "0x808507121B80c02388fAd14726482e061B8da827",
+      "coingeckoId": "pendle",
+      "logo": "https://docs.pendle.finance/img/TokenLogo.png",
+      "markets": {
+        "bsc": [
+          "pancakeswap",
+        ]
+      },
+      "destinations": {
+        "bsc": {
+          "address": "0xb3Ed0A426155B79B898849803E3B36552f7ED507",
+          "decimals": 18
+        },
+      },
+      "sourceDecimals": 18
+    },
     "PERP": {
       "symbol": "PERP",
       "name": "Perpetual Protocol (Portal)",
