@@ -1224,6 +1224,11 @@
             "pancakeswap"
           ]
         },
+        "0x808507121B80c02388fAd14726482e061B8da827": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
         "0xDe60aDfDdAAbaAAC3dAFa57B26AcC91Cb63728c4": {
           "markets": [
             "pancakeswap"
@@ -3725,6 +3730,10 @@
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/wstETH_wh.png",
         "symbol": "wstETH"
       },
+      "0x808507121B80c02388fAd14726482e061B8da827": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PENDLE_wh.png",
+        "symbol": "PENDLE"
+      },
       "0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5": {
         "logo": "https://etherscan.io/token/images/kin_28_3.png?v=2",
         "symbol": "KIN"
@@ -4287,6 +4296,10 @@
       "0xb1547683DA678f2e1F003A780143EC10Af8a832B": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/SHIB_wh.png",
         "symbol": "SHIB"
+      },
+      "0xb3Ed0A426155B79B898849803E3B36552f7ED507": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PENDLE_wh.png",
+        "symbol": "PENDLE"
       },
       "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BNB_wh.png",

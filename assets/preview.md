@@ -563,6 +563,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ORIO
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PAXG_wh.png
 ```
 
+### PENDLE
+![PENDLE](PENDLE_wh.png)
+![PENDLE](PENDLE_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/PENDLE_wh.png
+```
+
 ### PERP
 ![PERP](PERP_wh.png)
 ![PERP](PERP_wh_small.png)
