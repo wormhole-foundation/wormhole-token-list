@@ -116,13 +116,15 @@ def get_logo(name, wormhole=True, chain=None, style=None):
 
 
 def write_logo(name, outpath, wormhole=True, chain=None, style=None):
-  composite = get_logo(name, wormhole=wormhole, chain=chain, style=style)
-  composite.save(outpath)
+  try:
+    composite = get_logo(name, wormhole=wormhole, chain=chain, style=style)
+    composite.save(outpath)
 
-  preview = composite.resize((PREVIEW_SIZE, PREVIEW_SIZE)).convert('RGBA')
-  preview_path = outpath.replace('.png', '_small.png')
-  preview.save(preview_path)
-
+    preview = composite.resize((PREVIEW_SIZE, PREVIEW_SIZE)).convert('RGBA')
+    preview_path = outpath.replace('.png', '_small.png')
+    preview.save(preview_path)
+  except Exception as e:
+    print(f'Error writing logo for {name}')
 
 def write_logos(overwrite=False, style=None):
   text = ["by source chain:"]
