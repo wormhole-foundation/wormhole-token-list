@@ -467,6 +467,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ILV_
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/KEEP_wh.png
 ```
 
+### KIN
+![KIN](KIN_wh.png)
+![KIN](KIN_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/KIN_wh.png
+```
+
 ### KP3R
 ![KP3R](KP3R_wh.png)
 ![KP3R](KP3R_wh_small.png)

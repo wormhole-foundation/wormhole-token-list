@@ -1981,7 +1981,7 @@ TOKENS = {
       "name": "Stader SD (Portal)",
       "sourceAddress": "0x30D20208d987713f46DFD34EF128Bb16C404D10f",
       "coingeckoId": "stader",
-      "logo": "https://raw.githubusercontent.com/stader-labs/assets/main/eth/SD.png",
+      "logo": "https://raw.githubusercontent.com/stader-labs/assets/fb5f931ead18cea7480aff37c18c203ed3ba8ae3/eth/SD.png",
       "destinations": {
         "terra": {
           "address": "terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02",
