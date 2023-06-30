@@ -2829,7 +2829,13 @@
       "24": {},
       "28": {},
       "3": {},
-      "4": {},
+      "4": {
+        "1134696561": {
+          "markets": [
+            "pancakeswap"
+          ]
+        }
+      },
       "5": {},
       "6": {},
       "7": {},
@@ -3367,7 +3373,7 @@
         "symbol": "SOL"
       },
       "YdYQS1RK1ZTwCMH69pmpWk3W7eLhf99Nfu9b8Rqd9SD": {
-        "logo": "https://etherscan.io/token/images/kin_28_3.png?v=2",
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/KIN_wh.png",
         "symbol": "KIN"
       },
       "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So": {
@@ -3735,7 +3741,7 @@
         "symbol": "PENDLE"
       },
       "0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5": {
-        "logo": "https://etherscan.io/token/images/kin_28_3.png?v=2",
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/KIN_wh.png",
         "symbol": "KIN"
       },
       "0x8290333cef9e6d528dd5618fb97a76f268f3edd4": {
@@ -4153,6 +4159,10 @@
       }
     },
     "4": {
+      "0x0034719300501B06E10Ebb1D07ea5967301F0941": {
+        "logo": "",
+        "symbol": "xALGO"
+      },
       "0x035de3679E692C471072d1A09bEb9298fBB2BD31": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/BUSDet_wh.png",
         "symbol": "BUSDet"
@@ -4584,6 +4594,10 @@
       "1058926737": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WBTC_wh.png",
         "symbol": "WBTC"
+      },
+      "1134696561": {
+        "logo": "",
+        "symbol": "xALGO"
       }
     },
     "9": {
