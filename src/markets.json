@@ -1440,6 +1440,11 @@
             "pancakeswap"
           ]
         },
+        "0xF73Ce9D8F7BDDCC38Cb3e662Cb93622B2145a47f": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
         "0xa61F74247455A40b01b0559ff6274441FAfa22A3": {
           "markets": [
             "pancakeswap"
@@ -3367,7 +3372,7 @@
         "symbol": "SOL"
       },
       "YdYQS1RK1ZTwCMH69pmpWk3W7eLhf99Nfu9b8Rqd9SD": {
-        "logo": "https://etherscan.io/token/images/kin_28_3.png?v=2",
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/KIN_wh.png",
         "symbol": "KIN"
       },
       "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So": {
@@ -3735,7 +3740,7 @@
         "symbol": "PENDLE"
       },
       "0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5": {
-        "logo": "https://etherscan.io/token/images/kin_28_3.png?v=2",
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/KIN_wh.png",
         "symbol": "KIN"
       },
       "0x8290333cef9e6d528dd5618fb97a76f268f3edd4": {
@@ -3977,6 +3982,10 @@
       "0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WOM_wh.png",
         "symbol": "WOM"
+      },
+      "0xF73Ce9D8F7BDDCC38Cb3e662Cb93622B2145a47f": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/UNW_wh.png",
+        "symbol": "UNW"
       },
       "0xa61F74247455A40b01b0559ff6274441FAfa22A3": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/MGP_wh.png",
@@ -4236,6 +4245,10 @@
       "0x55d398326f99059fF775485246999027B3197955": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDTbs_wh.png",
         "symbol": "USDTbs"
+      },
+      "0x5b65cd9feb54F1Df3D0C60576003344079f8Dc06": {
+        "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/UNW_wh.png",
+        "symbol": "UNW"
       },
       "0x672147dD47674757C457eB155BAA382cc10705Dd": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCpo_wh.png",
