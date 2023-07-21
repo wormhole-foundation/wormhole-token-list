@@ -2354,6 +2354,23 @@ TOKENS = {
         }
       },
       "sourceDecimals": 18
+    },
+    "UNW": {
+      "symbol": "UNW",
+      "name": "Uniwhale Token",
+      "sourceAddress": "0x5b65cd9feb54F1Df3D0C60576003344079f8Dc06",
+      "coingeckoId": "uniwhale",
+      "logo": "https://assets.coingecko.com/coins/images/29531/small/token-256x256.png?1680260871",
+      "markets": {
+        "bsc": ["pancakeswap"],
+      },
+      "destinations": {
+        "arbitrum": {
+          "address": "0xF73Ce9D8F7BDDCC38Cb3e662Cb93622B2145a47f",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
     }
   },
   #####################
