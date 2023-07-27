@@ -2707,6 +2707,23 @@ TOKENS = {
   # 8. Algorand native
   #################
   "algorand": {
+      "xALGO": {
+      "symbol": "xALGO",
+      "name": "Governance xAlgo",
+      "markets": {
+         "bsc": ["pancakeswap"],
+      },
+      "sourceAddress": "1134696561",
+      "coingeckoId": "",
+      "logo": "",
+      "destinations": {
+       "bsc": {
+          "address": "0x0034719300501B06E10Ebb1D07ea5967301F0941",
+          "decimals": 6
+        },  
+      },
+      "sourceDecimals": 6
+    }
   },
   #################
   # 9. Aurora native

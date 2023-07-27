@@ -1087,6 +1087,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ROSE
 
 
 ## source chain: Algorand
+### xALGO
+![xALGO](xALGO_wh.png)
+![xALGO](xALGO_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/xALGO_wh.png
+```
+
 
 ## source chain: Aurora
 
