@@ -2,6 +2,7 @@
 
 # python
 *.pyc
+.venv
 
 # dependencies
 /node_modules

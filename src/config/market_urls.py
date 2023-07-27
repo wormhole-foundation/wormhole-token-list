@@ -28,7 +28,7 @@ MARKETS = {
   },
   "saber": {
     "name": "Saber",
-    "link": "https://www.saber.so/"
+    "link": "https://app.saber.so/"
   },
   "mercurial": {
     "name": "Mercurial",
