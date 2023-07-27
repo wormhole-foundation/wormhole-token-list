@@ -72,7 +72,7 @@ def _link_source_address(source_chain, source_addr):
 def _get_img(tok):
   filepath = os.path.join(ASSET_PATH, '%s_wh.png' % tok)
   if os.path.exists(filepath):
-    return '![%s](https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/%s_wh.png)' % (tok, tok)
+    return '![%s](https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/%s_wh.png)' % (tok, tok)
   else:
     return ''
 
@@ -171,7 +171,7 @@ def gen_dest_info(dest):
   header = """
 Known tokens (wormholed to %s)
 ===================================
-_See [by_dest.csv](by_dest.csv) ([raw](https://raw.githubusercontent.com/certusone/wormhole-token-list/main/content/by_dest.csv)) for a superset of this data in csv._
+_See [by_dest.csv](by_dest.csv) ([raw](https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/content/by_dest.csv)) for a superset of this data in csv._
 
   """ % dest_full
   outpath = os.path.join(CONTENT_PATH, 'dest_%s.md' % dest_full.lower())
@@ -260,7 +260,7 @@ def gen_source_info(source):
   txt = df.to_markdown(index=False).replace('symbol_reprise', 'symbol')
   header = """
 Resultant wrapped-asset addresses (wormholing from %s)
-_See [by_source.csv](by_source.csv) ([raw](https://raw.githubusercontent.com/certusone/wormhole-token-list/main/content/by_source.csv)) for a superset of this data in csv._
+_See [by_source.csv](by_source.csv) ([raw](https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/content/by_source.csv)) for a superset of this data in csv._
 =========================================================================
   """ % source_full
   outpath = os.path.join(CONTENT_PATH, 'source_%s.md' % source_full.lower())
