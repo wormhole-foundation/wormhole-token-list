@@ -533,7 +533,9 @@ TOKENS = {
       "name": "Brickken (Portal)",
       "sourceAddress": "0x0A638F07ACc6969abF392bB009f216D22aDEa36d",
       "coingeckoId": "brickken",
-      "markets": {},
+      "markets": {
+        "eth": ["uniswap"]
+      },
       "logo": "https://etherscan.io/token/images/brickken_32.png",
       "destinations": {
         "bsc": {
