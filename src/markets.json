@@ -1966,6 +1966,11 @@
         }
       },
       "2": {
+        "0x0e28bC9B03971E95acF9ae1326E51ecF9C55B498": {
+          "markets": [
+            "uniswap"
+          ]
+        },
         "0x3413a030EF81a3dD5a302F4B4D11d911e12ed337": {
           "markets": [
             "curve"
