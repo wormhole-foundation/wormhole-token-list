@@ -1568,7 +1568,8 @@ TOKENS = {
       "markets": {
         "matic": ['threshold'],
         "arbitrum": ['threshold'],
-        "optimism": ['threshold']
+        "optimism": ['threshold'],
+        "base": ['threshold'],
       },
       "destinations": {
         "matic": {
@@ -2450,7 +2451,8 @@ TOKENS = {
       "markets": {
         "eth": ['threshold'],
         "arbitrum": ['threshold'],
-        "optimism": ['threshold']
+        "optimism": ['threshold'],
+        "base": ['threshold'],
       },
       "destinations": {
         "eth": {
@@ -2866,7 +2868,8 @@ TOKENS = {
       "markets": {
         "eth": ['threshold'],
         "matic": ['threshold'],
-        "optimism": ['threshold']
+        "optimism": ['threshold'],
+        "base": ['threshold'],
       },
       "destinations": {
         "eth": {
@@ -2902,7 +2905,8 @@ TOKENS = {
       "markets": {
         "eth": ['threshold'],
         "matic": ['threshold'],
-        "arbitrum": ['threshold']
+        "arbitrum": ['threshold'],
+        "base": ['threshold'],
       },
       "destinations": {
         "eth": {
