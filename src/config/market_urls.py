@@ -227,6 +227,14 @@ MARKETS = {
     "name": "Moonwell",
     "link": "https://moonwell.fi/artemis/"
   },
+  "beamswap":{
+  "name": "Beamswap",
+  "link": "https://app.beamswap.io/"
+  },
+  "beamex":{
+  "name": "Beamex",
+  "link": "https://beamex.exchange"
+  },
   #######################
   # 19. injective markets
   #######################

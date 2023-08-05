@@ -782,7 +782,7 @@ TOKENS = {
         "sol": ["orca", "saber", "tulip", "port", "francium", "raydium","dexlab"],
         "oasis": ["yuzu"],
         "celo": ["ubeswap"],
-        "moonbeam": ["stellaswap", "moonwell"],
+        "moonbeam": ["stellaswap", "moonwell","beamex"],
         "algorand": ["algofi", "pact"], 
         "aptos": ["hippo", "ariesmarkets"],
       },
@@ -1682,7 +1682,7 @@ TOKENS = {
 #         "matic": ["quickswap"],
         "karura": ["karura"],
         "celo": ["ubeswap"],
-        "moonbeam": ["stellaswap", "moonwell"],
+        "moonbeam": ["stellaswap", "moonwell","beamswap"],
         "aptos": ["hippo", "liquidswap", "ariesmarkets"]
       },
       "destinations": {
@@ -1797,7 +1797,7 @@ TOKENS = {
       "coingeckoId": "wrapped-bitcoin",
       "logo": "https://etherscan.io/token/images/wbtc_28.png?v=1",
       "markets": {
-        "moonbeam": ["stellaswap", "moonwell"],
+        "moonbeam": ["stellaswap", "moonwell","beamex"],
         "sol": ["orca", "raydium"],
         "algorand": ["pact"], 
       },
