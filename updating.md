@@ -49,6 +49,9 @@ The market names must be defined in [src/config/market_urls.py](src/config/marke
 to add to this if defining a new market.
 
 ## Generating output
+
+> For contributors with write privileges, an action should automatically run on your PR to perform the update.
+
 After updating the above files, run the below to update the `.md` and `.json` outputs:
 ```
 npm run gen
