@@ -1144,6 +1144,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 
 
 ## source chain: Moonbeam
+### WELL
+![WELL](WELL_wh.png)
+![WELL](WELL_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/WELL_wh.png
+```
+
 
 ## source chain: Terra2
 

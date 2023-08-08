@@ -3590,6 +3590,10 @@
       }
     },
     "16": {
+      "0x511ab53f793683763e5a8829738301368a2411e3": {
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/WELL_wh.png",
+        "symbol": "WELL"
+      },
       "0x692C57641fc054c2Ad6551Ccc6566EbA599de1BA": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/BUSDbs_wh.png",
         "symbol": "BUSDbs"
@@ -4297,6 +4301,10 @@
       "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/TBTC_wh.png",
         "symbol": "TBTC"
+      },
+      "0xff8adec2221f9f4d8dfbafa6b9a297d17603493d": {
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/WELL_wh.png",
+        "symbol": "WELL"
       }
     },
     "4": {
