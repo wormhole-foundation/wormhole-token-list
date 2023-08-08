@@ -2844,13 +2844,13 @@ TOKENS = {
       "name": "Moonwell",
       "sourceAddress": "0x511ab53f793683763e5a8829738301368a2411e3",
       "coingeckoId": "moonwell",
-      "logo": "https://assets.coingecko.com/coins/images/26133/small/WELL.png?1690178473"
+      "logo": "https://assets.coingecko.com/coins/images/26133/small/WELL.png?1690178473",
       "destinations": {
         "base": {
           "address": "0xff8adec2221f9f4d8dfbafa6b9a297d17603493d",
           "decimals": 18
         }
-      }
+      },
       "sourceDecimals": 18
     }
   },
