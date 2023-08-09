@@ -1559,6 +1559,22 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "T": {
+      "symbol": "T",
+      "name": "Threshold Network Token",
+      "sourceAddress": "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5",
+      "coingeckoId": "threshold-network-token",
+      "logo": "https://assets.coingecko.com/coins/images/22228/small/nFPNiSbL_400x400.jpg?1641220340",
+      "markets": {
+      },
+      "destinations": {
+        "sol": {
+          "address": "4Njvi3928U3figEF5tf8xvjLC5GqUN33oe4XTJNe7xXC",
+          "decimals": 8
+        }
+      },
+      "sourceDecimals": 18
+    },
     "TBTC": {
       "symbol": "TBTC",
       "name": "Threshold Bitcoin",
