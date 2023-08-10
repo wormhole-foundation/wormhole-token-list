@@ -66,6 +66,10 @@ MARKETS = {
     "name": "Larix",
     "link": "https://projectlarix.com/"
   },
+    "openbook": {
+    "name": "OpenBook",
+    "link": "https://openserum.io/"
+  },
 
   #################
   # 2. eth markets
