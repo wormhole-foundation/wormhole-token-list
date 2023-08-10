@@ -607,6 +607,29 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "CHAI": {
+      "symbol": "CHAI",
+      "name": "CHAI (Portal)",
+      "sourceAddress": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
+      "logo": "https://github.com/lucasvo/chui/blob/master/src/assets/logostill.png",
+      "markets": {
+        "eth": [
+          "curve"
+        ],
+        "sol": [
+          "openbook",
+          "raydium",
+          "jupiter",
+        ]
+      },
+      "destinations": {
+        "sol": {
+          "address": "3jsFX1tx2Z8ewmamiwSU851GzyzM2DJMq7KWW5DM8Py3",
+          "decimals": 8
+        },
+      },
+      "sourceDecimals": 18
+    },
     "COMP": {
       "symbol": "COMP",
       "name": "Compound (Portal)",
