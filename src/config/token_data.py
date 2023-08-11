@@ -611,7 +611,7 @@ TOKENS = {
       "symbol": "CHAI",
       "name": "CHAI (Portal)",
       "sourceAddress": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
-      "logo": "https://github.com/lucasvo/chui/blob/master/src/assets/logostill.png",
+      "logo": "https://raw.githubusercontent.com/lucasvo/chui/master/src/assets/logostill.png",
       "markets": {
         "eth": [
           "curve"
