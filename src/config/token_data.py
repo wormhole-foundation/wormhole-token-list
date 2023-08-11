@@ -1996,7 +1996,24 @@ TOKENS = {
         }
       },
       "sourceDecimals": 18
-    }
+    },
+    "PIP": {
+      "symbol": "PIP",
+      "name": "PIP (Wormhole)",
+      "sourceAddress": "0x76ff2AB6b34142421F44A68cC8Dd08f45F9Ee2F2",
+      "coingeckoId": "pip",
+      "logo": "https://attest.getpip.com/token/common/pip.png",
+      "markets": {
+        "eth": ["uniswap"],
+      },
+      "destinations": {
+        "solana": {
+          "address": "2zNqYQJ3iM4AkPaA3ZrY5KTS7j2WE2KVemq7wCiPmqwQ",
+          "decimals": 8
+        }
+      },
+      "sourceDecimals": 9
+    }    
   },
   #####################
   # 3. Terra native
