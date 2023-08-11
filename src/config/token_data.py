@@ -2842,6 +2842,9 @@ TOKENS = {
     "WELL": {
       "symbol": "WELL",
       "name": "Moonwell",
+      "markets": {
+        "base": ["balancer"],
+      },
       "sourceAddress": "0x511ab53f793683763e5a8829738301368a2411e3",
       "coingeckoId": "moonwell",
       "logo": "https://assets.coingecko.com/coins/images/26133/small/WELL.png?1690178473",
