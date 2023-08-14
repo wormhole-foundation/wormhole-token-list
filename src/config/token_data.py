@@ -115,6 +115,43 @@ TOKENS = {
       },
       "sourceDecimals": 6
     },
+    "TBTC": {
+      "symbol": "TBTC",
+      "name": "Threshold Bitcoin",
+      "sourceAddress": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
+      "coingeckoId": "tbtc",
+      "logo": "https://assets.coingecko.com/coins/images/11224/small/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1674474504",
+      "markets": {
+        "eth": ['threshold'],
+        "matic": ['threshold'],
+        "arbitrum": ['threshold'],
+        "optimism": ['threshold'],
+        "base": ['threshold']
+      },
+      "destinations": {
+        "eth": {
+          "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+          "decimals": 8
+        },
+        "matic": {
+          "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+          "decimals": 8
+        },
+        "arbitrum": {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "decimals": 8
+        },
+        "optimism": {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "decimals": 8
+        },
+        "base": {
+          "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+          "decimals": 8
+        }
+      },
+      "sourceDecimals": 18
+    },
     "USDCso": {
       "symbol": "USDCso",
       "name": "USD Coin (Portal from Solana)",
@@ -1589,6 +1626,7 @@ TOKENS = {
       "coingeckoId": "threshold-network-token",
       "logo": "https://assets.coingecko.com/coins/images/22228/small/nFPNiSbL_400x400.jpg?1641220340",
       "markets": {
+          "sol": ['threshold']
       },
       "destinations": {
         "sol": {
@@ -1609,23 +1647,28 @@ TOKENS = {
         "arbitrum": ['threshold'],
         "optimism": ['threshold'],
         "base": ['threshold'],
+        "sol": ['threshold']
       },
       "destinations": {
         "matic": {
           "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
-          "decimals": 18
+          "decimals": 8
         },
         "arbitrum": {
           "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
-          "decimals": 18
+          "decimals": 8
         },
         "optimism": {
           "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
-          "decimals": 18
+          "decimals": 8
         },
         "base": {
           "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
-          "decimals": 18
+          "decimals": 8
+        },
+        "sol": {
+            "address": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
+            "decimals": 8
         }
       },
       "sourceDecimals": 18
@@ -2492,23 +2535,28 @@ TOKENS = {
         "arbitrum": ['threshold'],
         "optimism": ['threshold'],
         "base": ['threshold'],
+        "sol": ['threshold']
       },
       "destinations": {
         "eth": {
           "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
-          "decimals": 18
+          "decimals": 8
         },
         "arbitrum": {
           "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
-          "decimals": 18
+          "decimals": 8
         },
         "optimism": {
           "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
-          "decimals": 18
+          "decimals": 8
         },
         "base": {
           "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
-          "decimals": 18
+          "decimals": 8
+        },
+        "sol": {
+            "address": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
+            "decimals": 8
         }
       },
       "sourceDecimals": 18
@@ -2926,23 +2974,28 @@ TOKENS = {
         "matic": ['threshold'],
         "optimism": ['threshold'],
         "base": ['threshold'],
+        "sol": ['threshold']
       },
       "destinations": {
         "eth": {
           "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
-          "decimals": 18
+          "decimals": 8
         },
         "matic": {
           "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
-          "decimals": 18
+          "decimals": 8
         },
         "optimism": {
           "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
-          "decimals": 18
+          "decimals": 8
         },
         "base": {
           "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
-          "decimals": 18
+          "decimals": 8
+        },
+        "sol": {
+            "address": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
+            "decimals": 8
         }
       },
       "sourceDecimals": 18
@@ -2963,23 +3016,28 @@ TOKENS = {
         "matic": ['threshold'],
         "arbitrum": ['threshold'],
         "base": ['threshold'],
+        "sol": ['threshold']
       },
       "destinations": {
         "eth": {
           "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
-          "decimals": 18
+          "decimals": 8
         },
         "matic": {
           "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
-          "decimals": 18
+          "decimals": 8
         },
         "arbitrum": {
           "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
-          "decimals": 18
+          "decimals": 8
         },
         "base": {
           "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
-          "decimals": 18
+          "decimals": 8
+        },
+        "sol": {
+            "address": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
+            "decimals": 8
         }
       },
       "sourceDecimals": 18
@@ -3003,24 +3061,29 @@ TOKENS = {
       "markets": {
         "eth": ['threshold'],
         "matic": ['threshold'],
-        "arbitrum": ['threshold']
+        "arbitrum": ['threshold'],
+        "sol": ['threshold']
       },
       "destinations": {
         "eth": {
           "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
-          "decimals": 18
+          "decimals": 8
         },
         "matic": {
           "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
-          "decimals": 18
+          "decimals": 8
         },
         "arbitrum": {
           "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
-          "decimals": 18
+          "decimals": 8
         },
         "optimism": {
           "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
-          "decimals": 18
+          "decimals": 8
+        },
+        "sol": {
+            "address": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
+            "decimals": 8
         }
       },
       "sourceDecimals": 18
