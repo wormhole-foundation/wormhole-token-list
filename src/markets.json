@@ -120,6 +120,10 @@
       "link": "https://moonwell.fi/artemis/",
       "name": "Moonwell"
     },
+    "openbook": {
+      "link": "https://openserum.io/",
+      "name": "OpenBook"
+    },
     "orca": {
       "link": "https://www.orca.so/",
       "name": "Orca"
@@ -277,6 +281,11 @@
         }
       },
       "2": {
+        "3jsFX1tx2Z8ewmamiwSU851GzyzM2DJMq7KWW5DM8Py3": {
+          "markets": [
+            "curve"
+          ]
+        },
         "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F": {
           "markets": [
             "curve"
@@ -856,7 +865,13 @@
       "24": {},
       "28": {},
       "3": {},
-      "30": {},
+      "30": {
+        "0x511ab53f793683763e5a8829738301368a2411e3": {
+          "markets": [
+            "balancer"
+          ]
+        }
+      },
       "4": {
         "0x692C57641fc054c2Ad6551Ccc6566EbA599de1BA": {
           "markets": [
@@ -976,6 +991,13 @@
     },
     "2": {
       "1": {
+        "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215": {
+          "markets": [
+            "openbook",
+            "raydium",
+            "jupiter"
+          ]
+        },
         "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942": {
           "markets": [
             "raydium"
@@ -3095,6 +3117,10 @@
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/KP3R_wh.png",
         "symbol": "KP3R"
       },
+      "3jsFX1tx2Z8ewmamiwSU851GzyzM2DJMq7KWW5DM8Py3": {
+        "logo": "https://raw.githubusercontent.com/lucasvo/chui/master/src/assets/logostill.png",
+        "symbol": "CHAI"
+      },
       "3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/AAVE_wh.png",
         "symbol": "AAVE"
@@ -3118,6 +3144,10 @@
       "4Hx6Bj56eGyw8EJrrheM6LBQAvVYRikYCWsALeTrwyRU": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/DYDX_wh.png",
         "symbol": "DYDX"
+      },
+      "4Njvi3928U3figEF5tf8xvjLC5GqUN33oe4XTJNe7xXC": {
+        "logo": "https://assets.coingecko.com/coins/images/22228/small/nFPNiSbL_400x400.jpg?1641220340",
+        "symbol": "T"
       },
       "4ThReWAbAVZjNVgs5Ui9Pk3cZ5TYaD9u6Y89fp6EFzoF": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/1SOL_wh.png",
@@ -3631,6 +3661,10 @@
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/HBTC_wh.png",
         "symbol": "HBTC"
       },
+      "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215": {
+        "logo": "https://raw.githubusercontent.com/lucasvo/chui/master/src/assets/logostill.png",
+        "symbol": "CHAI"
+      },
       "0x08d967bb0134f2d07f7cfb6e246680c53927dd30": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/MATH_wh.png",
         "symbol": "MATH"
@@ -3934,6 +3968,10 @@
       "0xC22956c3CFeC3Ee9A9925abeE044F05Bc47f6632": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/cUSD_wh.png",
         "symbol": "cUSD"
+      },
+      "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5": {
+        "logo": "https://assets.coingecko.com/coins/images/22228/small/nFPNiSbL_400x400.jpg?1641220340",
+        "symbol": "T"
       },
       "0xD31a59c85aE9D8edEFeC411D448f90841571b89c": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/SOL_wh.png",

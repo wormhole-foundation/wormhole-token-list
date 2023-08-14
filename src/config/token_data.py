@@ -607,6 +607,29 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "CHAI": {
+      "symbol": "CHAI",
+      "name": "CHAI (Portal)",
+      "sourceAddress": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
+      "logo": "https://raw.githubusercontent.com/lucasvo/chui/master/src/assets/logostill.png",
+      "markets": {
+        "eth": [
+          "curve"
+        ],
+        "sol": [
+          "openbook",
+          "raydium",
+          "jupiter",
+        ]
+      },
+      "destinations": {
+        "sol": {
+          "address": "3jsFX1tx2Z8ewmamiwSU851GzyzM2DJMq7KWW5DM8Py3",
+          "decimals": 8
+        },
+      },
+      "sourceDecimals": 18
+    },
     "COMP": {
       "symbol": "COMP",
       "name": "Compound (Portal)",
@@ -1554,6 +1577,22 @@ TOKENS = {
         },
         "terra": {
           "address": "terra1csvuzlf92nyemu6tv25h0l79etpe8hz3h5vn4a",
+          "decimals": 8
+        }
+      },
+      "sourceDecimals": 18
+    },
+    "T": {
+      "symbol": "T",
+      "name": "Threshold Network Token",
+      "sourceAddress": "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5",
+      "coingeckoId": "threshold-network-token",
+      "logo": "https://assets.coingecko.com/coins/images/22228/small/nFPNiSbL_400x400.jpg?1641220340",
+      "markets": {
+      },
+      "destinations": {
+        "sol": {
+          "address": "4Njvi3928U3figEF5tf8xvjLC5GqUN33oe4XTJNe7xXC",
           "decimals": 8
         }
       },
@@ -2859,6 +2898,9 @@ TOKENS = {
     "WELL": {
       "symbol": "WELL",
       "name": "Moonwell",
+      "markets": {
+        "base": ["balancer"],
+      },
       "sourceAddress": "0x511ab53f793683763e5a8829738301368a2411e3",
       "coingeckoId": "moonwell",
       "logo": "https://assets.coingecko.com/coins/images/26133/small/WELL.png?1690178473",
