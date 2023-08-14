@@ -252,6 +252,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/CHZ_wh.png
 ```
 
+### CHAI
+![CHAI](CHAI_wh.png)
+![CHAI](CHAI_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/CHAI_wh.png
+```
+
 ### COMP
 ![COMP](COMP_wh.png)
 ![COMP](COMP_wh_small.png)
@@ -700,6 +708,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/SUSHI_wh.png
 ```
 
+### T
+![T](T_wh.png)
+![T](T_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/T_wh.png
+```
+
 ### TBTC
 ![TBTC](TBTC_wh.png)
 ![TBTC](TBTC_wh_small.png)
@@ -866,6 +882,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 
 ```
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/SD_wh.png
+```
+
+### PIP
+![PIP](PIP_wh.png)
+![PIP](PIP_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/PIP_wh.png
 ```
 
 

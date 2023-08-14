@@ -281,6 +281,11 @@
         }
       },
       "2": {
+        "2zNqYQJ3iM4AkPaA3ZrY5KTS7j2WE2KVemq7wCiPmqwQ": {
+          "markets": [
+            "uniswap"
+          ]
+        },
         "3jsFX1tx2Z8ewmamiwSU851GzyzM2DJMq7KWW5DM8Py3": {
           "markets": [
             "curve"
@@ -1066,6 +1071,11 @@
           ]
         },
         "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2": {
+          "markets": [
+            "raydium"
+          ]
+        },
+        "0x76ff2AB6b34142421F44A68cC8Dd08f45F9Ee2F2": {
           "markets": [
             "raydium"
           ]
@@ -3093,6 +3103,10 @@
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/LINK_wh.png",
         "symbol": "LINK"
       },
+      "2zNqYQJ3iM4AkPaA3ZrY5KTS7j2WE2KVemq7wCiPmqwQ": {
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/PIP_wh.png",
+        "symbol": "PIP"
+      },
       "33fsBLA8djQm82RpHmE3SuVrPGtZBWNYExsEUeKX1HXX": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/BUSDet_wh.png",
         "symbol": "BUSDet"
@@ -3118,7 +3132,7 @@
         "symbol": "KP3R"
       },
       "3jsFX1tx2Z8ewmamiwSU851GzyzM2DJMq7KWW5DM8Py3": {
-        "logo": "https://raw.githubusercontent.com/lucasvo/chui/master/src/assets/logostill.png",
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/CHAI_wh.png",
         "symbol": "CHAI"
       },
       "3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg": {
@@ -3146,7 +3160,7 @@
         "symbol": "DYDX"
       },
       "4Njvi3928U3figEF5tf8xvjLC5GqUN33oe4XTJNe7xXC": {
-        "logo": "https://assets.coingecko.com/coins/images/22228/small/nFPNiSbL_400x400.jpg?1641220340",
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/T_wh.png",
         "symbol": "T"
       },
       "4ThReWAbAVZjNVgs5Ui9Pk3cZ5TYaD9u6Y89fp6EFzoF": {
@@ -3662,7 +3676,7 @@
         "symbol": "HBTC"
       },
       "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215": {
-        "logo": "https://raw.githubusercontent.com/lucasvo/chui/master/src/assets/logostill.png",
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/CHAI_wh.png",
         "symbol": "CHAI"
       },
       "0x08d967bb0134f2d07f7cfb6e246680c53927dd30": {
@@ -3869,6 +3883,10 @@
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/ILV_wh.png",
         "symbol": "ILV"
       },
+      "0x76ff2AB6b34142421F44A68cC8Dd08f45F9Ee2F2": {
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/PIP_wh.png",
+        "symbol": "PIP"
+      },
       "0x7968bc6a03017ea2de509aaa816f163db0f35148": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/HGET_wh.png",
         "symbol": "HGET"
@@ -3970,7 +3988,7 @@
         "symbol": "cUSD"
       },
       "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5": {
-        "logo": "https://assets.coingecko.com/coins/images/22228/small/nFPNiSbL_400x400.jpg?1641220340",
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/T_wh.png",
         "symbol": "T"
       },
       "0xD31a59c85aE9D8edEFeC411D448f90841571b89c": {

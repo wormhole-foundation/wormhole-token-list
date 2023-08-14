@@ -2041,12 +2041,13 @@ TOKENS = {
       "name": "PIP (Wormhole)",
       "sourceAddress": "0x76ff2AB6b34142421F44A68cC8Dd08f45F9Ee2F2",
       "coingeckoId": "pip",
-      "logo": "https://attest.getpip.com/token/common/pip.png",
+      "logo": "https://attest.getpip.com/token/common/PIP_wh.png",
       "markets": {
         "eth": ["uniswap"],
+        "sol": ["raydium"]
       },
       "destinations": {
-        "solana": {
+        "sol": {
           "address": "2zNqYQJ3iM4AkPaA3ZrY5KTS7j2WE2KVemq7wCiPmqwQ",
           "decimals": 8
         }
