@@ -296,6 +296,11 @@
             "curve"
           ]
         },
+        "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU": {
+          "markets": [
+            "threshold"
+          ]
+        },
         "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs": {
           "markets": [
             "curve"
@@ -364,16 +369,33 @@
         }
       },
       "23": {
+        "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU": {
+          "markets": [
+            "threshold"
+          ]
+        },
         "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263": {
           "markets": [
             "uniswap"
           ]
         }
       },
-      "24": {},
+      "24": {
+        "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU": {
+          "markets": [
+            "threshold"
+          ]
+        }
+      },
       "28": {},
       "3": {},
-      "30": {},
+      "30": {
+        "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU": {
+          "markets": [
+            "threshold"
+          ]
+        }
+      },
       "4": {
         "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2": {
           "markets": [
@@ -411,6 +433,11 @@
           "markets": [
             "quickswap",
             "sushi"
+          ]
+        },
+        "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU": {
+          "markets": [
+            "threshold"
           ]
         },
         "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263": {
@@ -1014,6 +1041,11 @@
             "jupiter"
           ]
         },
+        "0x18084fbA666a33d37592fA2633fD49a74DD93a88": {
+          "markets": [
+            "threshold"
+          ]
+        },
         "0x1c48f86ae57291f7686349f12601910bd8d470bb": {
           "markets": [
             "saber"
@@ -1107,6 +1139,11 @@
         "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce": {
           "markets": [
             "raydium"
+          ]
+        },
+        "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5": {
+          "markets": [
+            "threshold"
           ]
         },
         "0xDe60aDfDdAAbaAAC3dAFa57B26AcC91Cb63728c4": {
@@ -1452,6 +1489,11 @@
             "orca",
             "jupiter"
           ]
+        },
+        "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+          "markets": [
+            "threshold"
+          ]
         }
       },
       "10": {},
@@ -1550,7 +1592,13 @@
       "9": {}
     },
     "24": {
-      "1": {},
+      "1": {
+        "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
+          "markets": [
+            "threshold"
+          ]
+        }
+      },
       "10": {},
       "11": {},
       "12": {},
@@ -1897,7 +1945,13 @@
       "9": {}
     },
     "30": {
-      "1": {},
+      "1": {
+        "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b": {
+          "markets": [
+            "threshold"
+          ]
+        }
+      },
       "10": {},
       "11": {},
       "12": {},
@@ -2251,6 +2305,11 @@
             "francium",
             "raydium",
             "dexlab"
+          ]
+        },
+        "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b": {
+          "markets": [
+            "threshold"
           ]
         },
         "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
@@ -3206,6 +3265,10 @@
       "64L6o4G2H7Ln1vN7AHZsUMW4pbFciHyuwn4wUdSbcFxh": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/KEEP_wh.png",
         "symbol": "KEEP"
+      },
+      "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU": {
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/TBTC_wh.png",
+        "symbol": "TBTC"
       },
       "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/FXS_wh.png",
