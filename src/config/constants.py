@@ -24,6 +24,7 @@ CHAIN_IDS_TO_NAMES = OrderedDict([
   (23, 'arbitrum'),
   (24, 'optimism'),
   (28, 'xpla'),
+  (30, 'base'),
 ])
 CHAIN_NAMES_TO_IDS = OrderedDict([(v, k) for (k, v) in CHAIN_IDS_TO_NAMES.items()])
 
@@ -50,6 +51,7 @@ SOURCE_INFO = OrderedDict([
   ('optimism', ('Optimism', 'op', "https://optimistic.etherscan.io/", "https://optimistic.etherscan.io/token/0x94b008aa00579c1307b0ef2c499ad98a8ce58e58")),
   ('arbitrum', ('Arbitrum', 'ab', "https://arbiscan.io/", "https://arbiscan.io/token/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9")),
   ('aptos', ('Aptos', 'ap', "https://explorer.aptoslabs.com/", "https://explorer.aptoslabs.com/account/0x576410486a2da45eee6c949c995670112ddf2fbeedab20350d506328eefc9d4f")),
+  ('base', ('Base', 'ba', "https://basescan.org/", "https://basescan.org/address/0x8d2de8d2f73f1f4cab472ac9a881c9b123c79627")),
 ])
 
 SUFFIXES = [x[1] for x in SOURCE_INFO.values()]

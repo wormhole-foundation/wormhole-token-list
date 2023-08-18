@@ -115,6 +115,43 @@ TOKENS = {
       },
       "sourceDecimals": 6
     },
+    "TBTC": {
+      "symbol": "TBTC",
+      "name": "Threshold Bitcoin",
+      "sourceAddress": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
+      "coingeckoId": "tbtc",
+      "logo": "https://assets.coingecko.com/coins/images/11224/small/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1674474504",
+      "markets": {
+        "eth": ['threshold'],
+        "matic": ['threshold'],
+        "arbitrum": ['threshold'],
+        "optimism": ['threshold'],
+        "base": ['threshold']
+      },
+      "destinations": {
+        "eth": {
+          "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+          "decimals": 8
+        },
+        "matic": {
+          "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+          "decimals": 8
+        },
+        "arbitrum": {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "decimals": 8
+        },
+        "optimism": {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "decimals": 8
+        },
+        "base": {
+          "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+          "decimals": 8
+        }
+      },
+      "sourceDecimals": 18
+    },
     "USDCso": {
       "symbol": "USDCso",
       "name": "USD Coin (Portal from Solana)",
@@ -552,6 +589,23 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "BKN": {
+      "symbol": "BKN",
+      "name": "Brickken (Portal)",
+      "sourceAddress": "0x0A638F07ACc6969abF392bB009f216D22aDEa36d",
+      "coingeckoId": "brickken",
+      "markets": {
+        "eth": ["uniswap"]
+      },
+      "logo": "https://etherscan.io/token/images/brickken_32.png",
+      "destinations": {
+        "bsc": {
+          "address": "0x0e28bC9B03971E95acF9ae1326E51ecF9C55B498",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    },
     "BNT": {
       "symbol": "BNT",
       "name": "Bancor Network Token (Portal)",
@@ -611,6 +665,29 @@ TOKENS = {
           "address": "5TtSKAamFq88grN1QGrEaZ1AjjyciqnCya1aiMhAgFvG",
           "decimals": 8
         }
+      },
+      "sourceDecimals": 18
+    },
+    "CHAI": {
+      "symbol": "CHAI",
+      "name": "CHAI (Portal)",
+      "sourceAddress": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
+      "logo": "https://raw.githubusercontent.com/lucasvo/chui/master/src/assets/logostill.png",
+      "markets": {
+        "eth": [
+          "curve"
+        ],
+        "sol": [
+          "openbook",
+          "raydium",
+          "jupiter",
+        ]
+      },
+      "destinations": {
+        "sol": {
+          "address": "3jsFX1tx2Z8ewmamiwSU851GzyzM2DJMq7KWW5DM8Py3",
+          "decimals": 8
+        },
       },
       "sourceDecimals": 18
     },
@@ -789,7 +866,7 @@ TOKENS = {
         "sol": ["orca", "saber", "tulip", "port", "francium", "raydium","dexlab"],
         "oasis": ["yuzu"],
         "celo": ["ubeswap"],
-        "moonbeam": ["stellaswap", "moonwell"],
+        "moonbeam": ["stellaswap", "moonwell","beamex"],
         "algorand": ["algofi", "pact"], 
         "aptos": ["hippo", "ariesmarkets"],
       },
@@ -1086,6 +1163,22 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "KIN": {
+      "symbol": "KIN",
+      "name": "Kin1 Migration (Portal)",
+      "sourceAddress": "0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5",
+      "coingeckoId": "kin",
+      "logo": "https://etherscan.io/token/images/kin_28_3.png?v=2",
+      "markets": {
+      },
+      "destinations": {
+        "sol": {
+          "address": "YdYQS1RK1ZTwCMH69pmpWk3W7eLhf99Nfu9b8Rqd9SD",
+          "decimals": 8
+        }
+      },
+      "sourceDecimals": 18
+    },
     "KP3R": {
       "symbol": "KP3R",
       "name": "Keep3rV1 (Portal)",
@@ -1285,6 +1378,25 @@ TOKENS = {
           "address": "C6oFsE8nXRDThzrMEQ5SxaNFGKoyyfWDDVPw37JKvPTe",
           "decimals": 8
         }
+      },
+      "sourceDecimals": 18
+    },
+    "PENDLE": {
+      "symbol": "PENDLE",
+      "name": "Pendle",
+      "sourceAddress": "0x808507121B80c02388fAd14726482e061B8da827",
+      "coingeckoId": "pendle",
+      "logo": "https://docs.pendle.finance/img/TokenLogo.png",
+      "markets": {
+        "bsc": [
+          "pancakeswap",
+        ]
+      },
+      "destinations": {
+        "bsc": {
+          "address": "0xb3Ed0A426155B79B898849803E3B36552f7ED507",
+          "decimals": 18
+        },
       },
       "sourceDecimals": 18
     },
@@ -1531,6 +1643,23 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "T": {
+      "symbol": "T",
+      "name": "Threshold Network Token",
+      "sourceAddress": "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5",
+      "coingeckoId": "threshold-network-token",
+      "logo": "https://assets.coingecko.com/coins/images/22228/small/nFPNiSbL_400x400.jpg?1641220340",
+      "markets": {
+          "sol": ['threshold']
+      },
+      "destinations": {
+        "sol": {
+          "address": "4Njvi3928U3figEF5tf8xvjLC5GqUN33oe4XTJNe7xXC",
+          "decimals": 8
+        }
+      },
+      "sourceDecimals": 18
+    },
     "TBTC": {
       "symbol": "TBTC",
       "name": "Threshold Bitcoin",
@@ -1540,20 +1669,30 @@ TOKENS = {
       "markets": {
         "matic": ['threshold'],
         "arbitrum": ['threshold'],
-        "optimism": ['threshold']
+        "optimism": ['threshold'],
+        "base": ['threshold'],
+        "sol": ['threshold']
       },
       "destinations": {
         "matic": {
           "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
-          "decimals": 18
+          "decimals": 8
         },
         "arbitrum": {
           "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
-          "decimals": 18
+          "decimals": 8
         },
         "optimism": {
           "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
-          "decimals": 18
+          "decimals": 8
+        },
+        "base": {
+          "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+          "decimals": 8
+        },
+        "sol": {
+            "address": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
+            "decimals": 8
         }
       },
       "sourceDecimals": 18
@@ -1649,7 +1788,7 @@ TOKENS = {
 #         "matic": ["quickswap"],
         "karura": ["karura"],
         "celo": ["ubeswap"],
-        "moonbeam": ["stellaswap", "moonwell"],
+        "moonbeam": ["stellaswap", "moonwell","beamswap"],
         "aptos": ["hippo", "liquidswap", "ariesmarkets"]
       },
       "destinations": {
@@ -1764,7 +1903,7 @@ TOKENS = {
       "coingeckoId": "wrapped-bitcoin",
       "logo": "https://etherscan.io/token/images/wbtc_28.png?v=1",
       "markets": {
-        "moonbeam": ["stellaswap", "moonwell"],
+        "moonbeam": ["stellaswap", "moonwell","beamex"],
         "sol": ["orca", "raydium"],
         "algorand": ["pact"], 
       },
@@ -1955,7 +2094,7 @@ TOKENS = {
       "name": "Stader SD (Portal)",
       "sourceAddress": "0x30D20208d987713f46DFD34EF128Bb16C404D10f",
       "coingeckoId": "stader",
-      "logo": "https://raw.githubusercontent.com/stader-labs/assets/main/eth/SD.png",
+      "logo": "https://raw.githubusercontent.com/stader-labs/assets/fb5f931ead18cea7480aff37c18c203ed3ba8ae3/eth/SD.png",
       "destinations": {
         "terra": {
           "address": "terra1ustvnmngueq0p4jd7gfnutgvdc6ujpsjhsjd02",
@@ -2328,6 +2467,23 @@ TOKENS = {
         }
       },
       "sourceDecimals": 18
+    },
+    "UNW": {
+      "symbol": "UNW",
+      "name": "Uniwhale Token",
+      "sourceAddress": "0x5b65cd9feb54F1Df3D0C60576003344079f8Dc06",
+      "coingeckoId": "uniwhale",
+      "logo": "https://assets.coingecko.com/coins/images/29531/small/token-256x256.png?1680260871",
+      "markets": {
+        "bsc": ["pancakeswap"],
+      },
+      "destinations": {
+        "arbitrum": {
+          "address": "0xF73Ce9D8F7BDDCC38Cb3e662Cb93622B2145a47f",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
     }
   },
   #####################
@@ -2401,20 +2557,30 @@ TOKENS = {
       "markets": {
         "eth": ['threshold'],
         "arbitrum": ['threshold'],
-        "optimism": ['threshold']
+        "optimism": ['threshold'],
+        "base": ['threshold'],
+        "sol": ['threshold']
       },
       "destinations": {
         "eth": {
           "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
-          "decimals": 18
+          "decimals": 8
         },
         "arbitrum": {
           "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
-          "decimals": 18
+          "decimals": 8
         },
         "optimism": {
           "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
-          "decimals": 18
+          "decimals": 8
+        },
+        "base": {
+          "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+          "decimals": 8
+        },
+        "sol": {
+            "address": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
+            "decimals": 8
         }
       },
       "sourceDecimals": 18
@@ -2784,6 +2950,23 @@ TOKENS = {
   # 16. Moonbeam native
   #################
   "moonbeam": {
+    "WELL": {
+      "symbol": "WELL",
+      "name": "Moonwell",
+      "markets": {
+        "base": ["balancer"],
+      },
+      "sourceAddress": "0x511ab53f793683763e5a8829738301368a2411e3",
+      "coingeckoId": "moonwell",
+      "logo": "https://assets.coingecko.com/coins/images/26133/small/WELL.png?1690178473",
+      "destinations": {
+        "base": {
+          "address": "0xff8adec2221f9f4d8dfbafa6b9a297d17603493d",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    }
   },
   #################
   # 18. Terra2 native
@@ -2813,20 +2996,30 @@ TOKENS = {
       "markets": {
         "eth": ['threshold'],
         "matic": ['threshold'],
-        "optimism": ['threshold']
+        "optimism": ['threshold'],
+        "base": ['threshold'],
+        "sol": ['threshold']
       },
       "destinations": {
         "eth": {
           "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
-          "decimals": 18
+          "decimals": 8
         },
         "matic": {
           "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
-          "decimals": 18
+          "decimals": 8
         },
         "optimism": {
           "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
-          "decimals": 18
+          "decimals": 8
+        },
+        "base": {
+          "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+          "decimals": 8
+        },
+        "sol": {
+            "address": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
+            "decimals": 8
         }
       },
       "sourceDecimals": 18
@@ -2845,20 +3038,30 @@ TOKENS = {
       "markets": {
         "eth": ['threshold'],
         "matic": ['threshold'],
-        "arbitrum": ['threshold']
+        "arbitrum": ['threshold'],
+        "base": ['threshold'],
+        "sol": ['threshold']
       },
       "destinations": {
         "eth": {
           "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
-          "decimals": 18
+          "decimals": 8
         },
         "matic": {
           "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
-          "decimals": 18
+          "decimals": 8
         },
         "arbitrum": {
           "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
-          "decimals": 18
+          "decimals": 8
+        },
+        "base": {
+          "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+          "decimals": 8
+        },
+        "sol": {
+            "address": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
+            "decimals": 8
         }
       },
       "sourceDecimals": 18
@@ -2868,5 +3071,46 @@ TOKENS = {
   # 28. XPLA native
   #################
   "xpla": {
+  },
+  #################
+  # 30. Base native
+  #################
+  "base": {
+    "TBTC": {
+      "symbol": "TBTC",
+      "name": "Threshold Bitcoin",
+      "sourceAddress": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+      "coingeckoId": "tbtc",
+      "logo": "https://assets.coingecko.com/coins/images/11224/small/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1674474504",
+      "markets": {
+        "eth": ['threshold'],
+        "matic": ['threshold'],
+        "arbitrum": ['threshold'],
+        "sol": ['threshold']
+      },
+      "destinations": {
+        "eth": {
+          "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+          "decimals": 8
+        },
+        "matic": {
+          "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+          "decimals": 8
+        },
+        "arbitrum": {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "decimals": 8
+        },
+        "optimism": {
+          "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+          "decimals": 8
+        },
+        "sol": {
+            "address": "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU",
+            "decimals": 8
+        }
+      },
+      "sourceDecimals": 18
+    }
   }
 }

@@ -13,7 +13,7 @@ from common import SRC_PATH, ASSET_PATH, get_logo_path, get_logo_raw_url
 
 
 L = 120  # dim of image
-S = int(L * 0.35)  # dim of wormhole logo
+S = int(L * 0.5)  # dim of wormhole logo
 OFFSET = 0
 REM = L-S
 STANDARD_DIM = (L, L)
@@ -48,7 +48,7 @@ def get_wormhole_logo(style=None):
   filename = 'wormhole' if style is None else 'wormhole_%s' % style
   path = os.path.join(SRC_PATH, 'logogen', 'components', filename + '.png')
   img = Image.open(path).resize(MINI_DIM).convert('RGBA')
-  img = add_margin(img, L-S-OFFSET, OFFSET, OFFSET, L-S-OFFSET)
+  img = add_margin(img, OFFSET, OFFSET, L-S-OFFSET, L-S-OFFSET)
   return img
 
 
@@ -74,18 +74,35 @@ def get_base_logo(name):
 
     # case 1: svg
     if logo_url.endswith('svg'):
-      tmp = tempfile.NamedTemporaryFile()
-      cairosvg.svg2png(url=logo_url, write_to=tmp.name)
-      img = Image.open(tmp.name)
+      with tempfile.NamedTemporaryFile(delete=False) as tmp:
+        tmp.close()
+        cairosvg.svg2png(url=logo_url, write_to=tmp.name)
+        with Image.open(tmp.name) as img:
+          img = img.copy()
+        os.unlink(tmp.name) 
     # case 2: not
     else:
-      response = requests.get(logo_url)
+      response = requests.get(logo_url, headers={'User-Agent': 'Mozilla/5.0'})
       img = Image.open(BytesIO(response.content))
-  return img.resize(STANDARD_DIM).convert('RGBA')
+  
+  SMALLER_DIM = (L - 30, L - 30) # subtract to account for margins of base logo
+  img = img.resize(SMALLER_DIM).convert('RGBA')
+
+  # calculate margins to make it back to STANDARD_DIM
+  margin_horizontal = (STANDARD_DIM[0] - SMALLER_DIM[0]) // 2
+  margin_vertical = (STANDARD_DIM[1] - SMALLER_DIM[1]) // 2
+
+  # add margins
+  img = add_margin(img, margin_vertical, margin_horizontal, margin_vertical, margin_horizontal)
+
+  return img
 
 
 def get_logo(name, wormhole=True, chain=None, style=None):
-  stack = [get_base_logo(name)]
+  # Get base logo and add margin to it
+  base_logo = get_base_logo(name)
+
+  stack = [base_logo]
   if wormhole:
     stack.append(get_wormhole_logo(style=style))
   if chain is not None:
@@ -97,14 +114,17 @@ def get_logo(name, wormhole=True, chain=None, style=None):
   return composite
 
 
+
 def write_logo(name, outpath, wormhole=True, chain=None, style=None):
-  composite = get_logo(name, wormhole=wormhole, chain=chain, style=style)
-  composite.save(outpath)
+  try:
+    composite = get_logo(name, wormhole=wormhole, chain=chain, style=style)
+    composite.save(outpath)
 
-  preview = composite.resize((PREVIEW_SIZE, PREVIEW_SIZE)).convert('RGBA')
-  preview_path = outpath.replace('.png', '_small.png')
-  preview.save(preview_path)
-
+    preview = composite.resize((PREVIEW_SIZE, PREVIEW_SIZE)).convert('RGBA')
+    preview_path = outpath.replace('.png', '_small.png')
+    preview.save(preview_path)
+  except Exception as e:
+    print(f'Error writing logo for {name}')
 
 def write_logos(overwrite=False, style=None):
   text = ["by source chain:"]

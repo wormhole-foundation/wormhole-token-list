@@ -28,7 +28,7 @@ MARKETS = {
   },
   "saber": {
     "name": "Saber",
-    "link": "https://www.saber.so/"
+    "link": "https://app.saber.so/"
   },
   "mercurial": {
     "name": "Mercurial",
@@ -65,6 +65,10 @@ MARKETS = {
    "larix": {
     "name": "Larix",
     "link": "https://projectlarix.com/"
+  },
+    "openbook": {
+    "name": "OpenBook",
+    "link": "https://openserum.io/"
   },
 
   #################
@@ -226,6 +230,14 @@ MARKETS = {
   "moonwell":{
     "name": "Moonwell",
     "link": "https://moonwell.fi/artemis/"
+  },
+  "beamswap":{
+  "name": "Beamswap",
+  "link": "https://app.beamswap.io/"
+  },
+  "beamex":{
+  "name": "Beamex",
+  "link": "https://beamex.exchange"
   },
   #######################
   # 19. injective markets
