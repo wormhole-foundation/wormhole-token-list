@@ -376,7 +376,7 @@ TOKENS = {
       "symbol": "CTUS",
       "name": "Contractus (Portal)",
       "sourceAddress": "4yeK2cCyxNNz28fVqEbkLYNCb1T9qPadsuJWeZ44Evcq",
-      "coingeckoId": "",
+      "coingeckoId": "contractus",
       "logo": "https://raw.githubusercontent.com/ContractusTech/assets/main/token/logo.png",
       "markets": {
         "bsc": [
