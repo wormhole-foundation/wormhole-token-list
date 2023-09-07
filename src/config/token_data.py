@@ -771,6 +771,21 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "DEXE": {
+      "symbol": "DEXE",
+      "name": "DeXe (Portal)",
+      "sourceAddress": "0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6",
+      "coingeckoId": "dexe",
+      "logo": "https://github.com/trustwallet/assets/blob/master/blockchains/ethereum/assets/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6/logo.png",
+      "markets": {},
+      "destinations": {
+        "bsc": {
+          "address": "0x6e88056e8376ae7709496ba64d37fa2f8015ce3e",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    },
     "DYDX": {
       "symbol": "DYDX",
       "name": "dYdX (Portal)",
