@@ -58,6 +58,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/SRMso_wh.png
 ```
 
+### TBTC
+![TBTC](TBTC_wh.png)
+![TBTC](TBTC_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/TBTC_wh.png
+```
+
 ### USDCso
 ![USDCso](USDCso_wh.png)
 ![USDCso](USDCso_wh_small.png)
@@ -252,6 +260,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/CHZ_wh.png
 ```
 
+### CHAI
+![CHAI](CHAI_wh.png)
+![CHAI](CHAI_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/CHAI_wh.png
+```
+
 ### COMP
 ![COMP](COMP_wh.png)
 ![COMP](COMP_wh_small.png)
@@ -298,6 +314,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 
 ```
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/DAI_wh.png
+```
+
+### DEXE
+![DEXE](DEXE_wh.png)
+![DEXE](DEXE_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/DEXE_wh.png
 ```
 
 ### DYDX
@@ -698,6 +722,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 
 ```
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/SUSHI_wh.png
+```
+
+### T
+![T](T_wh.png)
+![T](T_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/T_wh.png
 ```
 
 ### TBTC
