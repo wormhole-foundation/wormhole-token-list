@@ -4164,6 +4164,10 @@
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/USDTet_wh.png",
         "symbol": "USDTet"
       },
+      "0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6": {
+        "logo": "https://github.com/trustwallet/assets/blob/master/blockchains/ethereum/assets/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6/logo.png",
+        "symbol": "DEXE"
+      },
       "0xdf574c24545e5ffecb9a659c229253d4111d87e1": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/HUSD_wh.png",
         "symbol": "HUSD"
@@ -4504,6 +4508,10 @@
       "0x6c6D604D3f07aBE287C1A3dF0281e999A83495C0": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/ROSE_wh.png",
         "symbol": "ROSE"
+      },
+      "0x6e88056e8376ae7709496ba64d37fa2f8015ce3e": {
+        "logo": "https://github.com/trustwallet/assets/blob/master/blockchains/ethereum/assets/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6/logo.png",
+        "symbol": "DEXE"
       },
       "0x75344E5693ed5ecAdF4f292fFeb866c2cF8afCF1": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/SBR_wh.png",
