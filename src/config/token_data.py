@@ -776,7 +776,7 @@ TOKENS = {
       "name": "DeXe (Portal)",
       "sourceAddress": "0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6",
       "coingeckoId": "dexe",
-      "logo": "https://github.com/trustwallet/assets/blob/master/blockchains/ethereum/assets/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6/logo.png",
+      "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6/logo.png",
       "markets": {},
       "destinations": {
         "bsc": {
