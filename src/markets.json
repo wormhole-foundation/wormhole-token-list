@@ -391,6 +391,7 @@
           ]
         }
       },
+      "31": {},
       "4": {
         "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2": {
           "markets": [
@@ -558,6 +559,7 @@
       "28": {},
       "3": {},
       "30": {},
+      "31": {},
       "4": {},
       "5": {},
       "6": {},
@@ -582,6 +584,7 @@
       "28": {},
       "3": {},
       "30": {},
+      "31": {},
       "4": {},
       "5": {},
       "6": {},
@@ -606,6 +609,7 @@
       "28": {},
       "3": {},
       "30": {},
+      "31": {},
       "4": {},
       "5": {},
       "6": {},
@@ -630,6 +634,7 @@
       "28": {},
       "3": {},
       "30": {},
+      "31": {},
       "4": {},
       "5": {},
       "6": {},
@@ -752,6 +757,7 @@
       "28": {},
       "3": {},
       "30": {},
+      "31": {},
       "4": {},
       "5": {},
       "6": {},
@@ -795,6 +801,7 @@
       "28": {},
       "3": {},
       "30": {},
+      "31": {},
       "4": {},
       "5": {},
       "6": {},
@@ -899,6 +906,7 @@
           ]
         }
       },
+      "31": {},
       "4": {
         "0x692C57641fc054c2Ad6551Ccc6566EbA599de1BA": {
           "markets": [
@@ -947,6 +955,7 @@
       "28": {},
       "3": {},
       "30": {},
+      "31": {},
       "4": {},
       "5": {},
       "6": {},
@@ -996,6 +1005,7 @@
       "28": {},
       "3": {},
       "30": {},
+      "31": {},
       "4": {
         "inj14rry9q6dym3dgcwzq79yay0e9azdz55jr465ch": {
           "markets": [
@@ -1296,6 +1306,7 @@
           ]
         }
       },
+      "31": {},
       "4": {
         "0x1151CB3d861920e07a38e03eEAd12C32178567F6": {
           "markets": [
@@ -1452,6 +1463,7 @@
       "28": {},
       "3": {},
       "30": {},
+      "31": {},
       "4": {
         "0x2a90fae71afc7460ee42b20ee49a9c9b29272905ad71fef92fbd8b3905a24b56": {
           "markets": [
@@ -1531,6 +1543,7 @@
           ]
         }
       },
+      "31": {},
       "4": {
         "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74": {
           "markets": [
@@ -1622,6 +1635,7 @@
           ]
         }
       },
+      "31": {},
       "4": {},
       "5": {
         "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40": {
@@ -1652,6 +1666,7 @@
       "24": {},
       "3": {},
       "30": {},
+      "31": {},
       "4": {},
       "5": {},
       "6": {},
@@ -1874,6 +1889,7 @@
       "24": {},
       "28": {},
       "30": {},
+      "31": {},
       "4": {
         "terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8": {
           "markets": [
@@ -1975,6 +1991,7 @@
       },
       "28": {},
       "3": {},
+      "31": {},
       "4": {},
       "5": {
         "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b": {
@@ -1983,6 +2000,31 @@
           ]
         }
       },
+      "6": {},
+      "7": {},
+      "8": {},
+      "9": {}
+    },
+    "31": {
+      "1": {},
+      "10": {},
+      "11": {},
+      "12": {},
+      "13": {},
+      "14": {},
+      "15": {},
+      "16": {},
+      "18": {},
+      "19": {},
+      "2": {},
+      "22": {},
+      "23": {},
+      "24": {},
+      "28": {},
+      "3": {},
+      "30": {},
+      "4": {},
+      "5": {},
       "6": {},
       "7": {},
       "8": {},
@@ -2245,6 +2287,7 @@
       "28": {},
       "3": {},
       "30": {},
+      "31": {},
       "5": {
         "0x672147dD47674757C457eB155BAA382cc10705Dd": {
           "markets": [
@@ -2510,6 +2553,7 @@
           ]
         }
       },
+      "31": {},
       "4": {
         "0xa8d394fe7380b8ce6145d5f85e6ac22d4e91acde": {
           "markets": [
@@ -2716,6 +2760,7 @@
       "28": {},
       "3": {},
       "30": {},
+      "31": {},
       "4": {
         "0x442F7f22b1EE2c842bEAFf52880d4573E9201158": {
           "markets": [
@@ -2953,6 +2998,7 @@
       "28": {},
       "3": {},
       "30": {},
+      "31": {},
       "4": {
         "0x366EF31C8dc715cbeff5fA54Ad106dC9c25C6153": {
           "markets": [
@@ -3045,6 +3091,7 @@
       "28": {},
       "3": {},
       "30": {},
+      "31": {},
       "4": {},
       "5": {},
       "6": {},
@@ -3118,6 +3165,7 @@
       "28": {},
       "3": {},
       "30": {},
+      "31": {},
       "4": {},
       "5": {},
       "6": {},
@@ -3177,7 +3225,7 @@
         "symbol": "KP3R"
       },
       "3jsFX1tx2Z8ewmamiwSU851GzyzM2DJMq7KWW5DM8Py3": {
-        "logo": "https://raw.githubusercontent.com/lucasvo/chui/master/src/assets/logostill.png",
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/CHAI_wh.png",
         "symbol": "CHAI"
       },
       "3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg": {
@@ -3205,7 +3253,7 @@
         "symbol": "DYDX"
       },
       "4Njvi3928U3figEF5tf8xvjLC5GqUN33oe4XTJNe7xXC": {
-        "logo": "https://assets.coingecko.com/coins/images/22228/small/nFPNiSbL_400x400.jpg?1641220340",
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/T_wh.png",
         "symbol": "T"
       },
       "4ThReWAbAVZjNVgs5Ui9Pk3cZ5TYaD9u6Y89fp6EFzoF": {
@@ -3725,7 +3773,7 @@
         "symbol": "HBTC"
       },
       "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215": {
-        "logo": "https://raw.githubusercontent.com/lucasvo/chui/master/src/assets/logostill.png",
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/CHAI_wh.png",
         "symbol": "CHAI"
       },
       "0x08d967bb0134f2d07f7cfb6e246680c53927dd30": {
@@ -4033,7 +4081,7 @@
         "symbol": "cUSD"
       },
       "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5": {
-        "logo": "https://assets.coingecko.com/coins/images/22228/small/nFPNiSbL_400x400.jpg?1641220340",
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/T_wh.png",
         "symbol": "T"
       },
       "0xD31a59c85aE9D8edEFeC411D448f90841571b89c": {
@@ -4165,7 +4213,7 @@
         "symbol": "USDTet"
       },
       "0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6": {
-        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6/logo.png",
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/DEXE_wh.png",
         "symbol": "DEXE"
       },
       "0xdf574c24545e5ffecb9a659c229253d4111d87e1": {
@@ -4412,6 +4460,68 @@
         "symbol": "WELL"
       }
     },
+    "31": {
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3Ri4N719RQfQaudHiB9CMCYACtK3aieoz1q1Ph24VdAb": {
+        "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
+        "symbol": "USDC.bsc"
+      },
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3VKKYtbQ9iq8f9CaZfgR6Cr3TUj6ypXPAn6kco6wjcAu": {
+        "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
+        "symbol": "USDC.op"
+      },
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7edDfnf4mku8So3t4Do215GNHwASEwCWrdhM5GqD51xZ": {
+        "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
+        "symbol": "USDC.arb"
+      },
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br": {
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/WBTC_wh.png",
+        "symbol": "WBTC"
+      },
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/871jbn9unTavWsAe83f2Ma9GJWSv6BKsyWYLiQ6z3Pva": {
+        "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg",
+        "symbol": "USDT.bsc"
+      },
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9fELvUhFo6yWL34ZaLgPbCPzdk9MD1tAzMycgH45qShH": {
+        "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
+        "symbol": "USDC.sol"
+      },
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9hJDBDaxqQQhF5HhaPUykeLncBa38XQ5uoNxN3tPQu5r": {
+        "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/weth.png",
+        "symbol": "WETHar"
+      },
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9tTHn18vLnfyBvrQaia6N15zwrfRCAebZDshoPZ39ahN": {
+        "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/weth.png",
+        "symbol": "WETHbs"
+      },
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/DUVFMY2neJdL8aE4d3stcpttDDm5aoyfGyVvm29iA9Yp": {
+        "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
+        "symbol": "USDC.matic"
+      },
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/HktfLoADCk9mnjv7XJiN4YXK9ayE6xinLzt8wzcsR2rY": {
+        "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg",
+        "symbol": "USDT.eth"
+      },
+      "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H": {
+        "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
+        "symbol": "USDC.eth"
+      },
+      "factory/sei1dkdwdvknx0qav5cp5kw68mkn3r99m3svkyjfvkztwh97dv2lm0ksj6xrak/8QZuMFhH8FYUGpJNs9YhtuEm76pEzo4NjAYQiYM1vY8y": {
+        "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polygon/images/wmatic.png",
+        "symbol": "WMATIC"
+      },
+      "factory/sei1dkdwdvknx0qav5cp5kw68mkn3r99m3svkyjfvkztwh97dv2lm0ksj6xrak/AAxKX63hpBQrGGf6uhB21dJuXupvHxNTHJaktAETVGh6": {
+        "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/weth.png",
+        "symbol": "WETH"
+      },
+      "factory/sei1dkdwdvknx0qav5cp5kw68mkn3r99m3svkyjfvkztwh97dv2lm0ksj6xrak/Fg1hDnTsAyWPVjDUN2vqjwVThwmnuEXBg2eGUGewWDUp": {
+        "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/avalanche/images/wavax.svg",
+        "symbol": "WAVAX"
+      },
+      "factory/sei1dkdwdvknx0qav5cp5kw68mkn3r99m3svkyjfvkztwh97dv2lm0ksj6xrak/GotfBk8VUDfbqgTJgF1nhV7bfZgUxfWiwADNLKv5PEMS": {
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/SOL_wh.png",
+        "symbol": "SOL"
+      }
+    },
     "4": {
       "0x035de3679E692C471072d1A09bEb9298fBB2BD31": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/BUSDet_wh.png",
@@ -4510,7 +4620,7 @@
         "symbol": "ROSE"
       },
       "0x6e88056e8376ae7709496ba64d37fa2f8015ce3e": {
-        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6/logo.png",
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/DEXE_wh.png",
         "symbol": "DEXE"
       },
       "0x75344E5693ed5ecAdF4f292fFeb866c2cF8afCF1": {

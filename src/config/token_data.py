@@ -3268,5 +3268,5 @@ TOKENS = {
       "destinations": {},
       "sourceDecimals": 8
     }
-  },
+  } 
 }
