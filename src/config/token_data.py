@@ -3103,5 +3103,170 @@ TOKENS = {
       },
       "sourceDecimals": 18
     }
-  }
+  },
+  #################
+  # 31. Sei
+  #################
+  "sei": {
+    "WETH": {
+      "symbol": "WETH",
+      "name": "Wrapped Ether from Ethereum (Wormhole)",
+      "markets": {},
+      "sourceAddress": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
+      "coingeckoId": "weth",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/weth.png",
+      "destinations": {},
+      "sourceDecimals": 8
+    },
+    "USDC.eth": {
+      "symbol": "USDC.eth",
+      "name": "Wrapped USDC from Ethereum (Wormhole)",
+      "markets": {},
+      "sourceAddress": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H",
+      "coingeckoId": "usd-coin",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
+      "destinations": {},
+      "sourceDecimals": 6
+    },
+    "USDT.eth": {
+      "symbol": "USDT.eth",
+      "name": "Wrapped Tether USD from Ethereum (Wormhole)",
+      "markets": {},
+      "sourceAddress": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/HktfLoADCk9mnjv7XJiN4YXK9ayE6xinLzt8wzcsR2rY",
+      "coingeckoId": "tether",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg",
+      "destinations": {},
+      "sourceDecimals": 6
+    },
+    "WBTC": {
+      "symbol": "WBTC",
+      "name": "Wrapped Bitcoin from Ethereum (Wormhole)",
+      "markets": {},
+      "sourceAddress": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br",
+      "coingeckoId": "bitcoin",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/weth.png",
+      "destinations": {},
+      "sourceDecimals": 8
+    },
+    "USDC.arb": {
+      "symbol": "USDC.arb",
+      "name": "Wrapped USDC from Arbitrum (Wormhole)",
+      "markets": {},
+      "sourceAddress": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7edDfnf4mku8So3t4Do215GNHwASEwCWrdhM5GqD51xZ",
+      "coingeckoId": "usd-coin",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
+      "destinations": {},
+      "sourceDecimals": 6
+    },
+    "WETHar": {
+      "symbol": "WETHar",
+      "name": "Wrapped Ether from Arbitrum (Wormhole)",
+      "markets": {},
+      "sourceAddress": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9hJDBDaxqQQhF5HhaPUykeLncBa38XQ5uoNxN3tPQu5r",
+      "coingeckoId": "weth",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/weth.png",
+      "destinations": {},
+      "sourceDecimals": 8
+    },
+    "USDC.matic": {
+      "symbol": "USDC.matic",
+      "name": "Wrapped USDC from Polygon (Wormhole)",
+      "markets": {},
+      "sourceAddress": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/DUVFMY2neJdL8aE4d3stcpttDDm5aoyfGyVvm29iA9Yp",
+      "coingeckoId": "usd-coin",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
+      "destinations": {},
+      "sourceDecimals": 6
+    },
+    "USDC.op": {
+      "symbol": "USDC.op",
+      "name": "Wrapped USDC from Optimism (Wormhole)",
+      "markets": {},
+      "sourceAddress": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3VKKYtbQ9iq8f9CaZfgR6Cr3TUj6ypXPAn6kco6wjcAu",
+      "coingeckoId": "usd-coin",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
+      "destinations": {},
+      "sourceDecimals": 6
+    },
+    "USDC.sol": {
+      "symbol": "USDC.sol",
+      "name": "Wrapped USDC from Solana (Wormhole)",
+      "markets": {},
+      "sourceAddress": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9fELvUhFo6yWL34ZaLgPbCPzdk9MD1tAzMycgH45qShH",
+      "coingeckoId": "usd-coin",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
+      "destinations": {},
+      "sourceDecimals": 6
+    },
+    "USDC.bsc": {
+      "symbol": "USDC.bsc",
+      "name": "Wrapped USDC from BSC (Wormhole)",
+      "markets": {},
+      "sourceAddress": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/3Ri4N719RQfQaudHiB9CMCYACtK3aieoz1q1Ph24VdAb",
+      "coingeckoId": "usd-coin",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
+      "destinations": {},
+      "sourceDecimals": 8
+    },
+    "WETHbs": {
+      "symbol": "WETHbs",
+      "name": "Wrapped Ether from BSC (Wormhole)",
+      "markets": {},
+      "sourceAddress": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/9tTHn18vLnfyBvrQaia6N15zwrfRCAebZDshoPZ39ahN",
+      "coingeckoId": "weth",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/weth.png",
+      "destinations": {},
+      "sourceDecimals": 8
+    },
+    "USDT.bsc": {
+      "symbol": "USDT.bsc",
+      "name": "Wrapped USDT (Wormhole from BSC)",
+      "markets": {},
+      "sourceAddress": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/871jbn9unTavWsAe83f2Ma9GJWSv6BKsyWYLiQ6z3Pva",
+      "coingeckoId": "tether",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg",
+      "destinations": {},
+      "sourceDecimals": 8
+    },
+    "WETH": {
+      "symbol": "WETH",
+      "name": "Wrapped Ether from Wormhole",
+      "markets": {},
+      "sourceAddress": "factory/sei1dkdwdvknx0qav5cp5kw68mkn3r99m3svkyjfvkztwh97dv2lm0ksj6xrak/AAxKX63hpBQrGGf6uhB21dJuXupvHxNTHJaktAETVGh6",
+      "coingeckoId": "weth",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/weth.png",
+      "destinations": {},
+      "sourceDecimals": 8
+    },
+    "WMATIC": {
+      "symbol": "WMATIC",
+      "name": "Wrapped Matic from Wormhole",
+      "markets": {},
+      "sourceAddress": "factory/sei1dkdwdvknx0qav5cp5kw68mkn3r99m3svkyjfvkztwh97dv2lm0ksj6xrak/8QZuMFhH8FYUGpJNs9YhtuEm76pEzo4NjAYQiYM1vY8y",
+      "coingeckoId": "matic-network",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polygon/images/wmatic.png",
+      "destinations": {},
+      "sourceDecimals": 8
+    },
+    "WAVAX": {
+      "symbol": "WAVAX",
+      "name": "Wrapped AVAX from Wormhole",
+      "markets": {},
+      "sourceAddress": "factory/sei1dkdwdvknx0qav5cp5kw68mkn3r99m3svkyjfvkztwh97dv2lm0ksj6xrak/Fg1hDnTsAyWPVjDUN2vqjwVThwmnuEXBg2eGUGewWDUp",
+      "coingeckoId": "avalanche-2",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/avalanche/images/wavax.svg",
+      "destinations": {},
+      "sourceDecimals": 8
+    },
+    "SOL": {
+      "symbol": "SOL",
+      "name": "Wrapped SOL from Wormhole",
+      "markets": {},
+      "sourceAddress": "factory/sei1dkdwdvknx0qav5cp5kw68mkn3r99m3svkyjfvkztwh97dv2lm0ksj6xrak/GotfBk8VUDfbqgTJgF1nhV7bfZgUxfWiwADNLKv5PEMS",
+      "coingeckoId": "sol-wormhole",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/sol.png",
+      "destinations": {},
+      "sourceDecimals": 8
+    }
+  },
 }
