@@ -1008,6 +1008,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/UNW_wh.png
 ```
 
+### KALM
+![KALM](KALM_wh.png)
+![KALM](KALM_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/KALM_wh.png
+```
+
 
 ## source chain: Polygon
 ### DAIpo
