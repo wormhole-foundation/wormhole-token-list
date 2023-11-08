@@ -929,9 +929,9 @@ TOKENS = {
     },
     "EURC": {
       "symbol": "EURC",
-      "name": "EURC (Portal)",
+      "name": "Euro Coin (Portal from Ethereum))",
       "sourceAddress": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
-      "coingeckoId": "eurc",
+      "coingeckoId": "euro-coin",
       "markets": {},
       "destinations": {},
       "sourceDecimals": 6
