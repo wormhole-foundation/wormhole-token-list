@@ -927,6 +927,15 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "EURC": {
+      "symbol": "EURC",
+      "name": "EURC (Portal)",
+      "sourceAddress": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+      "coingeckoId": "eurc",
+      "markets": {},
+      "destinations": {},
+      "sourceDecimals": 6
+    },
     "FRAX": {
       "symbol": "FRAX",
       "name": "Frax (Portal)",

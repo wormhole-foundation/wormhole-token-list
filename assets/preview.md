@@ -372,6 +372,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/ETHIX_wh.png
 ```
 
+### EURC
+![EURC](EURC_wh.png)
+![EURC](EURC_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/EURC_wh.png
+```
+
 ### FRAX
 ![FRAX](FRAX_wh.png)
 ![FRAX](FRAX_wh_small.png)
