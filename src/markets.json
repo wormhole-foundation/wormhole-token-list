@@ -3784,6 +3784,10 @@
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/agEUR_wh.png",
         "symbol": "agEUR"
       },
+      "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c": {
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/EURC_wh.png",
+        "symbol": "EURC"
+      },
       "0x1c48f86ae57291f7686349f12601910bd8d470bb": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/USDK_wh.png",
         "symbol": "USDK"
