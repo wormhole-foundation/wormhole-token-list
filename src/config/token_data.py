@@ -2404,11 +2404,32 @@ TOKENS = {
       "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/19623.png",
       "markets": {
         "bsc": ["pancakeswap"], #revert to native asset
-        "arbitrum": ["uniswap"]
+        "arbitrum": ["uniswap"],
+        "eth": ["pancakeswap"]
       },
       "destinations": {
         "arbitrum": {
           "address": "0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96",
+          "decimals": 18
+        },
+        "eth": {
+          "address": "0xc0B314a8c08637685Fc3daFC477b92028c540CFB",
+          "decimals": 18
+        },
+        "avax": {
+          "address": "0xa15E4544D141aa98C4581a1EA10Eb9048c3b3382",
+          "decimals": 18
+        },
+        "optimism": {
+          "address": "0xD2612B256F6f76feA8C6fbca0BF3166D0d13a668",
+          "decimals": 18
+        },
+        "base": {
+          "address": "0xD9541B08B375D58ae104EC247d7443D2D7235D64",
+          "decimals": 18
+        },
+        "matic": {
+          "address": "0x77749d37A87BFf80060c00152B213F61341A6de5",
           "decimals": 18
         }
       },
