@@ -28,7 +28,7 @@ MARKETS = {
   },
   "saber": {
     "name": "Saber",
-    "link": "https://www.saber.so/"
+    "link": "https://app.saber.so/"
   },
   "mercurial": {
     "name": "Mercurial",
@@ -66,6 +66,10 @@ MARKETS = {
     "name": "Larix",
     "link": "https://projectlarix.com/"
   },
+    "openbook": {
+    "name": "OpenBook",
+    "link": "https://openserum.io/"
+  },
 
   #################
   # 2. eth markets
@@ -89,6 +93,10 @@ MARKETS = {
   "balancer": {
     "name": "Balancer",
     "link": "https://app.balancer.fi/#/trade"
+  },
+  "threshold": {
+    "name": "Threshold Network",
+    "link": "https://dashboard.threshold.network/TBTC/mint"
   },
 
   ##################
@@ -122,7 +130,6 @@ MARKETS = {
     "name": "Quickswap",
     "link": "https://quickswap.exchange/"
   },
-
   #######################
   # 6. avalanche markets
   #######################
@@ -224,11 +231,41 @@ MARKETS = {
     "name": "Moonwell",
     "link": "https://moonwell.fi/artemis/"
   },
+  "beamswap":{
+  "name": "Beamswap",
+  "link": "https://app.beamswap.io/"
+  },
+  "beamex":{
+  "name": "Beamex",
+  "link": "https://beamex.exchange"
+  },
   #######################
   # 19. injective markets
   #######################
   "helix":{
     "name": "Helix",
     "link": "https://helixapp.com/"
+  },
+  #######################
+  # 22. aptos markets
+  #######################
+  "hippo":{
+    "name": "Hippo",
+    "link": "https://hippo.space/home"
+  },
+    "liquidswap":{
+    "name": "Liquidswap",
+    "link": "https://liquidswap.com/#/"
+  },
+    "ariesmarkets":{
+    "name": "Aries Markets",
+    "link": "https://app.ariesmarkets.xyz/swap"
+  },
+  #######################
+  # 23. arb markets
+  #######################
+  "camelot":{
+    "name": "Camelot",
+    "link": "https://app.camelot.exchange/"
   }
 }

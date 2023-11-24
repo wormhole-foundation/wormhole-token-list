@@ -33,7 +33,8 @@
         "22": { "$ref": "#/$defs/tokenSourceChain" },
         "23": { "$ref": "#/$defs/tokenSourceChain" },
         "24": { "$ref": "#/$defs/tokenSourceChain" },
-        "28": { "$ref": "#/$defs/tokenSourceChain" }
+        "28": { "$ref": "#/$defs/tokenSourceChain" },
+        "30": { "$ref": "#/$defs/tokenSourceChain" }
       },
       "additionalProperties": false
     },
@@ -62,7 +63,8 @@
         "22": { "$ref": "#/$defs/tokenMarketSourceChain" },
         "23": { "$ref": "#/$defs/tokenMarketSourceChain" },
         "24": { "$ref": "#/$defs/tokenMarketSourceChain" },
-        "28": { "$ref": "#/$defs/tokenMarketSourceChain" }
+        "28": { "$ref": "#/$defs/tokenMarketSourceChain" },
+        "30": { "$ref": "#/$defs/tokenMarketSourceChain" }
       },
       "additionalProperties": false
     }
@@ -128,7 +130,8 @@
         "22": { "$ref": "#/$defs/tokenMarketTargetChain" },
         "23": { "$ref": "#/$defs/tokenMarketTargetChain" },
         "24": { "$ref": "#/$defs/tokenMarketTargetChain" },
-        "28": { "$ref": "#/$defs/tokenMarketTargetChain" }
+        "28": { "$ref": "#/$defs/tokenMarketTargetChain" },
+        "30": { "$ref": "#/$defs/tokenMarketTargetChain" }
       },
       "additionalProperties": false
     },

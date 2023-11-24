@@ -1,10 +1,11 @@
 name: Update Content
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - "*"
-      - "!master"
+      - "!main"
 
 jobs:
   build:
@@ -15,7 +16,7 @@ jobs:
         with:
           node-version: 12
 
-      - name: Install dependencies
+      - name: Install python dependencies
         run: python -m pip install -r requirements.txt
 
       - name: Update logos
@@ -23,6 +24,12 @@ jobs:
 
       - name: Update content
         run: npm run gen
+
+      - name: Install node dependencies
+        run: npm ci
+
+      - name: Test updated files
+        run: npm test
 
       - name: Check for modified files
         id: git-check
