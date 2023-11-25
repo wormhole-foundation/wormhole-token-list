@@ -2550,6 +2550,11 @@
             "uniswap"
           ]
         },
+        "0xad6742a35fb341a9cc6ad674738dd8da98b94fb1": {
+          "markets": [
+            "uniswap"
+          ]
+        },
         "0xe5B49820e5A1063F6F4DdF851327b5E8B2301048": {
           "markets": [
             "uniswap"
@@ -2579,6 +2584,11 @@
           ]
         },
         "0xa8d394fe7380b8ce6145d5f85e6ac22d4e91acde": {
+          "markets": [
+            "pancakeswap"
+          ]
+        },
+        "0xad6742a35fb341a9cc6ad674738dd8da98b94fb1": {
           "markets": [
             "pancakeswap"
           ]
@@ -4761,6 +4771,10 @@
       "0xa8d394fe7380b8ce6145d5f85e6ac22d4e91acde": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/BUSDbs_wh.png",
         "symbol": "BUSDbs"
+      },
+      "0xad6742a35fb341a9cc6ad674738dd8da98b94fb1": {
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/WOM_wh.png",
+        "symbol": "WOM"
       },
       "0xc2132d05d31c914a87c6611c10748aeb04b58e8f": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/USDTpo_wh.png",
