@@ -3,6 +3,17 @@ TOKENS = {
   # 1. Solana native
   ###################
   "sol": {
+    "PYTH": {
+      "symbol": "PYTH",
+      "name": "Pyth Network",
+      "sourceAddress": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
+      "coingeckoId": "pyth-network",
+      "markets": {
+      },
+      "destinations": {
+      },
+      "sourceDecimals": 6
+    },
     "RAY": {
       "symbol": "RAY",
       "name": "Raydium (Portal)",
