@@ -73,6 +73,10 @@ TOKENS = {
           "address": "0xD31a59c85aE9D8edEFeC411D448f90841571b89c",
           "decimals": 9
         },
+        "terra2": {
+          "address": "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg",
+          "decimals": 8
+        },
         "terra": {
           "address": "terra190tqwgqx7s8qrknz6kckct7v607cu068gfujpk",
           "decimals": 8
@@ -880,6 +884,10 @@ TOKENS = {
         "bsc": {
           "address": "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA",
           "decimals": 18
+        },
+        "terra2": {
+          "address": "terra15hhqg8gyz04zapynqtk7uvlsp7lzay7etrt9ann0276v94yae63sxygeat",
+          "decimals": 8
         },
         "terra": {
           "address": "terra14tl83xcwqjy0ken9peu4pjjuu755lrry2uy25r",
@@ -2128,6 +2136,10 @@ TOKENS = {
       "markets": {
       },
       "destinations": {
+        "terra2": {
+          "address": "terra1rwg5kt6kcyxtz69acjgpeut7dgr4y3r7tvntdxqt03dvpqktrfxq4jrvpq",
+          "decimals": 6
+        },
         "sol": {
           "address": "9vMJfxuKxXBoEa7rM12mYLMwTacLMLDJqHozw96WQL8i",
           "decimals": 6
@@ -2179,6 +2191,10 @@ TOKENS = {
         "eth": {
           "address": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
           "decimals": 6
+        },
+        "terra2" : {
+          "address" : "terra16h7keds26d52xj8rn9jfx6lj2x0ja79lt56yxnmlm4xsttf5mu5smq5f78",
+          "decimals" : 6
         },
         "bsc": {
           "address": "0x156ab3346823B651294766e23e6Cf87254d68962",
@@ -2249,6 +2265,10 @@ TOKENS = {
         "eth": {
           "address": "0x418D75f65a02b3D53B2418FB8E1fe493759c7605",
           "decimals": 18
+        },
+        "terra2": {
+          "address": "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388",
+          "decimals": 8
         },
         "terra": {
           "address": "terra1cetg5wruw2wsdjp7j46rj44xdel00z006e9yg8",
@@ -2720,6 +2740,10 @@ TOKENS = {
         "eth": {
           "address": "0x85f138bfEE4ef8e540890CFb48F620571d67Eda3",
           "decimals": 18
+        },
+        "terra2": {
+          "address": "terra1qmnxhecc3vnmhef9q7vap7spx9tgpnw9fqe8ljqfwrlz7rur9y5qu2dlp6",
+          "decimals": 8
         },
         "terra": {
           "address": "terra1hj8de24c3yqvcsv9r8chr03fzwsak3hgd8gv3m",
