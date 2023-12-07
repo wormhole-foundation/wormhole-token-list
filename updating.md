@@ -14,7 +14,7 @@ then are dictionaries with the following entries:
 * `symbol`: e.g. `ATLAS`
 * `name`: e.g. `Star Atlas (Portal)`
 * `sourceAddress`: the address on the source chain
-* `destAddresses`: a dictionary mapping dest chains to addresses (use the [Token Origin Verifier](https://wormholebridge.com/#/token-origin-verifier) to look this up)
+* `destAddresses`: a dictionary mapping dest chains to addresses (use the [Token Origin Verifier](https://portalbridge.com/advanced-tools/#/token-origin-verifier) to look this up)
 * `markets`: a dictionary mapping dest chains to a list of market names where the wrapped asset is tradable
 * `coingeckoId`: the API id on the 'Info' section of coingecko, generally the last part of the url
   * e.g. `star-atlas` if the coingecko url is `https://www.coingecko.com/en/coins/star-atlas`

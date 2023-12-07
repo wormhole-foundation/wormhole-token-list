@@ -26,6 +26,14 @@ by source chain:
 * [Base](#source-chain-base)
 
 ## source chain: Solana
+### PYTH
+![PYTH](PYTH_wh.png)
+![PYTH](PYTH_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/PYTH_wh.png
+```
+
 ### RAY
 ![RAY](RAY_wh.png)
 ![RAY](RAY_wh_small.png)
@@ -370,6 +378,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 
 ```
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/ETHIX_wh.png
+```
+
+### EURC
+![EURC](EURC_wh.png)
+![EURC](EURC_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/EURC_wh.png
 ```
 
 ### FRAX
@@ -1064,6 +1080,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 
 ```
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/USDTpo_wh.png
+```
+
+### WOM
+![WOM](WOM_wh.png)
+![WOM](WOM_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/WOM_wh.png
 ```
 
 
