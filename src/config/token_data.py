@@ -1363,6 +1363,22 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "OLAS": {
+      "symbol": "OLAS",
+      "name": "Autonolas (Portal)",
+      "sourceAddress": "0x0001A500A6B18995B03f44bb040A5fFc28E45CB0",
+      "coingeckoId": "autonolas",
+      "markets": {
+      },
+      "destinations": {
+        "sol": {
+          "address": "Ez3nzG9ofodYCvEmw73XhQ87LWNYVRM2s7diB5tBZPyM",
+          "decimals": 8
+        }
+      },
+      "logo": "https://assets.coingecko.com/coins/images/31099/standard/OLAS-token.png",
+      "sourceDecimals": 18
+    },
     "ORION": {
       "symbol": "ORION",
       "name": "Orion Money (Portal)",
