@@ -291,13 +291,13 @@
   },
   "ELON": {
     "symbol": "ELON",
-    "name": "Dogelon Mars (Wormhole)",
-    "address": "6nKUU36URHkewHg5GGGAgxs6szkE4VTioGUT5txQqJFU",
+    "name": "Dogelon (Wormhole)",
+    "address": "7ZCm8WBN9aLa3o47SoYctU6iLdj7wkGG5SV2hE5CgtD5",
     "origin": "eth",
-    "sourceAddress": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
-    "sourceContract": "https://etherscan.io/address/0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+    "sourceAddress": "0x9EFe7414D991769282b8c27bb2E53B7a34F60Bc2",
+    "sourceContract": "https://etherscan.io/address/0x9EFe7414D991769282b8c27bb2E53B7a34F60Bc2",
     "coingeckoId": "dogelon-mars",
-    "decimals": 8
+    "decimals": 4
   },
   "ENJ": {
     "symbol": "ENJ",

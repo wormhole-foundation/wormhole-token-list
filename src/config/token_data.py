@@ -822,17 +822,17 @@ TOKENS = {
     },
     "ELON": {
       "symbol": "ELON",
-      "name": "Dogelon Mars (Portal)",
-      "sourceAddress": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+      "name": "Dogelon (Portal)",
+      "sourceAddress": "0x9EFe7414D991769282b8c27bb2E53B7a34F60Bc2",
       "coingeckoId": "dogelon-mars",
       "markets": {},
       "destinations": {
         "sol": {
-          "address": "6nKUU36URHkewHg5GGGAgxs6szkE4VTioGUT5txQqJFU",
-          "decimals": 8
+          "address": "7ZCm8WBN9aLa3o47SoYctU6iLdj7wkGG5SV2hE5CgtD5",
+          "decimals": 4
         }
       },
-      "sourceDecimals": 18
+      "sourceDecimals": 4
     },
     "ENJ": {
       "symbol": "ENJ",
