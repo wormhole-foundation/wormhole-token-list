@@ -4068,6 +4068,10 @@
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/USDCso_wh.png",
         "symbol": "USDCso"
       },
+      "0x4548F48FDbb0a9fc952c201b28671D9F58aa16D3": {
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/KALM_wh.png",
+        "symbol": "KALM"
+      },
       "0x45804880de22913dafe09f4980848ece6ecbaf78": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/PAXG_wh.png",
         "symbol": "PAXG"
@@ -4696,6 +4700,10 @@
       "0x49d5cC521F75e13fa8eb4E89E9D381352C897c96": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/USDTso_wh.png",
         "symbol": "USDTso"
+      },
+      "0x4BA0057f784858a48fe351445C672FF2a3d43515": {
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/200x200/10099.png",
+        "symbol": "KALM"
       },
       "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/ETH_wh.png",

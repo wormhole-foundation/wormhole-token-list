@@ -2536,7 +2536,21 @@ TOKENS = {
         }
       },
       "sourceDecimals": 18
-    }
+    },
+    "KALM": {
+      "symbol": "KALM",
+      "name": "Kalmar Token",
+      "sourceAddress": "0x4BA0057f784858a48fe351445C672FF2a3d43515",
+      "coingeckoId": "kalm",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/200x200/10099.png",
+      "destinations": {
+        "eth": {
+          "address": "0x4548F48FDbb0a9fc952c201b28671D9F58aa16D3",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    },
   },
   #####################
   # 5. Polygon native
