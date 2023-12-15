@@ -801,6 +801,21 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "DIMO": {
+      "symbol": "DIMO",
+      "name": "Dimo",
+      "sourceAddress": "0x5fab9761d60419C9eeEbe3915A8FA1ed7e8d2E1B",
+      "destinations": {
+        "sol": {
+            "address": "3vx72dR2UpYSQL2EL2nBv2cyMEnyTs2qmmTwxp6Ffo6v",
+            "decimals": 8   
+        }
+      },
+      "markets": {},
+      "coingeckoId": "dimo",
+      "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/src/logogen/base/DIMO.png",
+      "sourceDecimals": 18
+    },
     "DYDX": {
       "symbol": "DYDX",
       "name": "dYdX (Portal)",
