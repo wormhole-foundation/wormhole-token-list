@@ -2121,6 +2121,27 @@ TOKENS = {
         }
       },
       "sourceDecimals": 18
+    },
+    "PUSH": {
+      "symbol": "PUSH",
+      "name": "Push Protocol (Portal)",
+      "sourceAddress": "0xf418588522d5dd018b425E472991E52EBBeEEEEE",
+      "coingeckoId": "push-protocol",
+      "logo": "https://assets.coingecko.com/coins/images/14769/small/aiOxYOJI_400x400.jpeg?1664499790",
+      "markets": {
+				"eth": ["uniswap"]
+      },      
+			"destinations": {
+        "polygon": {
+          "address": "0xaC686E2b0842d991F2579661B57b1b92E0E71f6E",
+          "decimals": 18
+        },
+				"bsc": {
+          "address": "0x0b932Dd3a7f163861018cdc121737fdFfb2eb157",
+          "decimals": 18
+        },
+      },
+      "sourceDecimals": 18
     }
   },
   #####################
