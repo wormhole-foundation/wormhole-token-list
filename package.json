@@ -6,7 +6,7 @@
   "repository": "https://github.com/wormhole-foundation/wormhole-token-list",
   "scripts": {
     "test": "jest --config jestconfig.json --verbose",
-    "gen": "python3 src/gen.py",
+    "gen": "python src/gen.py",
     "gen-logos": "python3 src/gen_logos.py",
     "gen-logos-overwrite": "python3 src/gen_logos.py --overwrite"
   },
