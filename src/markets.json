@@ -342,6 +342,11 @@
             "curve"
           ]
         },
+        "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr": {
+          "markets": [
+            "uniswap"
+          ]
+        },
         "So11111111111111111111111111111111111111112": {
           "markets": [
             "uniswap"
@@ -1255,6 +1260,11 @@
             "saber",
             "mercurial",
             "jupiter"
+          ]
+        },
+        "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c": {
+          "markets": [
+            "raydium"
           ]
         }
       },
@@ -3439,13 +3449,13 @@
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/SOS_wh.png",
         "symbol": "SOS"
       },
-      "7ZCm8WBN9aLa3o47SoYctU6iLdj7wkGG5SV2hE5CgtD5": {
-        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/ELON_wh.png",
-        "symbol": "ELON"
-      },
       "7VQo3HFLNH5QqGtM8eC3XQbPkJUu7nS9LeGWjerRh5Sw": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/HUSD_wh.png",
         "symbol": "HUSD"
+      },
+      "7ZCm8WBN9aLa3o47SoYctU6iLdj7wkGG5SV2hE5CgtD5": {
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/ELON_wh.png",
+        "symbol": "ELON"
       },
       "7dVH61ChzgmN9BwG4PkzwRP8PbYwPJ7ZPNF2vamKT2H8": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/HBTC_wh.png",
@@ -3746,6 +3756,10 @@
       "HysWcbHiYY9888pHbaqhwLYZQeZrcQMXKQWRqS7zcPK5": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/AXSet_wh.png",
         "symbol": "AXSet"
+      },
+      "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr": {
+        "logo": "https://assets.coingecko.com/coins/images/31401/standard/sticker_%281%29.jpg?1702371083",
+        "symbol": "SPX6900"
       },
       "J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/CAKE_wh.png",
@@ -4128,10 +4142,6 @@
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/mSOL_wh.png",
         "symbol": "mSOL"
       },
-      "0x9EFe7414D991769282b8c27bb2E53B7a34F60Bc2": {
-        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/ELON_wh.png",
-        "symbol": "ELON"
-      },
       "0x7659CE147D0e714454073a5dd7003544234b6Aa0": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/XCAD_wh.png",
         "symbol": "XCAD"
@@ -4231,6 +4241,10 @@
       "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/MIMet_wh.png",
         "symbol": "MIMet"
+      },
+      "0x9EFe7414D991769282b8c27bb2E53B7a34F60Bc2": {
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/ELON_wh.png",
+        "symbol": "ELON"
       },
       "0xB4b9DC1C77bdbb135eA907fd5a08094d98883A35": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/SWEAT_wh.png",
@@ -4383,6 +4397,10 @@
       "0xdf574c24545e5ffecb9a659c229253d4111d87e1": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/HUSD_wh.png",
         "symbol": "HUSD"
+      },
+      "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c": {
+        "logo": "https://assets.coingecko.com/coins/images/31401/standard/sticker_%281%29.jpg?1702371083",
+        "symbol": "SPX6900"
       },
       "0xe41d2489571d322189246dafa5ebde1f4699f498": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/ZRX_wh.png",
