@@ -342,6 +342,11 @@
             "curve"
           ]
         },
+        "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr": {
+          "markets": [
+            "uniswap"
+          ]
+        },
         "So11111111111111111111111111111111111111112": {
           "markets": [
             "uniswap"
@@ -1255,6 +1260,11 @@
             "saber",
             "mercurial",
             "jupiter"
+          ]
+        },
+        "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c": {
+          "markets": [
+            "raydium"
           ]
         }
       },
@@ -3751,6 +3761,10 @@
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/AXSet_wh.png",
         "symbol": "AXSet"
       },
+      "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr": {
+        "logo": "https://assets.coingecko.com/coins/images/31401/standard/sticker_%281%29.jpg?1702371083",
+        "symbol": "SPX6900"
+      },
       "J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/CAKE_wh.png",
         "symbol": "CAKE"
@@ -4391,6 +4405,10 @@
       "0xdf574c24545e5ffecb9a659c229253d4111d87e1": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/HUSD_wh.png",
         "symbol": "HUSD"
+      },
+      "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c": {
+        "logo": "https://assets.coingecko.com/coins/images/31401/standard/sticker_%281%29.jpg?1702371083",
+        "symbol": "SPX6900"
       },
       "0xe41d2489571d322189246dafa5ebde1f4699f498": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/ZRX_wh.png",
