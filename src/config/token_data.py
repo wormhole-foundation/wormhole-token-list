@@ -2129,8 +2129,8 @@ TOKENS = {
       "coingeckoId": "wagmicatgirlkanye420etfmoon1000x",
       "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/src/logogen/base/HOOD.png",
       "markets": {
-          "eth" ["uniswap"],
-          "sol" ["raydium"]
+          "eth": ["uniswap"],
+          "sol": ["raydium"]
       },
       "destinations": {
         "sol": {
