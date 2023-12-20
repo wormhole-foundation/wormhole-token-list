@@ -332,6 +332,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/DEXE_wh.png
 ```
 
+### DIMO
+![DIMO](DIMO_wh.png)
+![DIMO](DIMO_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/DIMO_wh.png
+```
+
 ### DYDX
 ![DYDX](DYDX_wh.png)
 ![DYDX](DYDX_wh_small.png)

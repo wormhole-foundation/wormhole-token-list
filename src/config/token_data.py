@@ -801,6 +801,21 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "DIMO": {
+      "symbol": "DIMO",
+      "name": "Dimo",
+      "sourceAddress": "0x5fab9761d60419C9eeEbe3915A8FA1ed7e8d2E1B",
+      "destinations": {
+        "sol": {
+            "address": "3vx72dR2UpYSQL2EL2nBv2cyMEnyTs2qmmTwxp6Ffo6v",
+            "decimals": 8   
+        }
+      },
+      "markets": {},
+      "coingeckoId": "dimo",
+      "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/src/logogen/base/DIMO.png",
+      "sourceDecimals": 18
+    },
     "DYDX": {
       "symbol": "DYDX",
       "name": "dYdX (Portal)",
@@ -1548,6 +1563,21 @@ TOKENS = {
       },
       "sourceDecimals": 0
     },
+      "SPX6900": {
+            "symbol": "SPX",
+            "name": "SPX6900",
+            "sourceAddress": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c",
+            "coingeckoId": "spx6900",
+            "logo": "https://assets.coingecko.com/coins/images/31401/standard/sticker_%281%29.jpg?1702371083",
+            "markets": {"eth": ["uniswap"], "sol": ["raydium"]},
+            "destinations": {
+                "sol": {
+                    "address": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr",
+                    "decimals": 8,
+                }
+            },
+            "sourceDecimals": 8,
+        },
     "SNX": {
       "symbol": "SNX",
       "name": "Synthetix Network Token (Portal)",

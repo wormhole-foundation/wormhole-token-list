@@ -347,6 +347,11 @@
             "curve"
           ]
         },
+        "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr": {
+          "markets": [
+            "uniswap"
+          ]
+        },
         "So11111111111111111111111111111111111111112": {
           "markets": [
             "uniswap"
@@ -1265,6 +1270,11 @@
             "saber",
             "mercurial",
             "jupiter"
+          ]
+        },
+        "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c": {
+          "markets": [
+            "raydium"
           ]
         }
       },
@@ -3369,6 +3379,10 @@
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/AAVE_wh.png",
         "symbol": "AAVE"
       },
+      "3vx72dR2UpYSQL2EL2nBv2cyMEnyTs2qmmTwxp6Ffo6v": {
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/DIMO_wh.png",
+        "symbol": "DIMO"
+      },
       "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/USDK_wh.png",
         "symbol": "USDK"
@@ -3761,6 +3775,10 @@
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/AXSet_wh.png",
         "symbol": "AXSet"
       },
+      "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr": {
+        "logo": "https://assets.coingecko.com/coins/images/31401/standard/sticker_%281%29.jpg?1702371083",
+        "symbol": "SPX6900"
+      },
       "J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/CAKE_wh.png",
         "symbol": "CAKE"
@@ -4126,6 +4144,10 @@
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/LDO_wh.png",
         "symbol": "LDO"
       },
+      "0x5fab9761d60419C9eeEbe3915A8FA1ed7e8d2E1B": {
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/DIMO_wh.png",
+        "symbol": "DIMO"
+      },
       "0x6b175474e89094c44da98b954eedeac495271d0f": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/DAI_wh.png",
         "symbol": "DAI"
@@ -4401,6 +4423,10 @@
       "0xdf574c24545e5ffecb9a659c229253d4111d87e1": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/HUSD_wh.png",
         "symbol": "HUSD"
+      },
+      "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c": {
+        "logo": "https://assets.coingecko.com/coins/images/31401/standard/sticker_%281%29.jpg?1702371083",
+        "symbol": "SPX6900"
       },
       "0xe41d2489571d322189246dafa5ebde1f4699f498": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/ZRX_wh.png",
