@@ -311,6 +311,11 @@
             "curve"
           ]
         },
+        "AGyUuFvYGnUUXWG6GUKga4B3MGmBuEZ9hGqY73n76XpJ": {
+          "markets": [
+            "uniswap"
+          ]
+        },
         "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263": {
           "markets": [
             "uniswap",
@@ -1105,6 +1110,11 @@
     },
     "2": {
       "1": {
+        "0x04815313E9329e8905A77251A1781CfA7934259a": {
+          "markets": [
+            "raydium"
+          ]
+        },
         "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215": {
           "markets": [
             "openbook",
@@ -3537,6 +3547,10 @@
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/USDCeav_wh.png",
         "symbol": "USDCeav"
       },
+      "AGyUuFvYGnUUXWG6GUKga4B3MGmBuEZ9hGqY73n76XpJ": {
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/HOOD_wh.png",
+        "symbol": "HOOD"
+      },
       "ASk8bss7PoxfFVJfXnSJepj9KupTX15QaRnhdjs6DdYe": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/RGT_wh.png",
         "symbol": "RGT"
@@ -3945,6 +3959,10 @@
       "0x0316eb71485b0ab14103307bf65a021042c6d380": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/HBTC_wh.png",
         "symbol": "HBTC"
+      },
+      "0x04815313E9329e8905A77251A1781CfA7934259a": {
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/HOOD_wh.png",
+        "symbol": "HOOD"
       },
       "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/CHAI_wh.png",
