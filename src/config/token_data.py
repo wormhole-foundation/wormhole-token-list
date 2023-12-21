@@ -2151,7 +2151,25 @@ TOKENS = {
         }
       },
       "sourceDecimals": 18
-    }
+    },
+    "HOOD": {
+      "symbol": "HOOD",
+      "name": "wagmicatgirlkanye420etfmoon1000x",
+      "sourceAddress": "0x04815313E9329e8905A77251A1781CfA7934259a",
+      "coingeckoId": "wagmicatgirlkanye420etfmoon1000x",
+      "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/src/logogen/base/HOOD.png",
+      "markets": {
+          "eth": ["uniswap"],
+          "sol": ["raydium"]
+      },
+      "destinations": {
+        "sol": {
+          "address": "AGyUuFvYGnUUXWG6GUKga4B3MGmBuEZ9hGqY73n76XpJ",
+          "decimals": 8
+        }
+      },
+      "sourceDecimals": 18
+    },
   },
   #####################
   # 3. Terra native
