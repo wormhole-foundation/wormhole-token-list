@@ -26,6 +26,14 @@ by source chain:
 * [Base](#source-chain-base)
 
 ## source chain: Solana
+### PYTH
+![PYTH](PYTH_wh.png)
+![PYTH](PYTH_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/PYTH_wh.png
+```
+
 ### RAY
 ![RAY](RAY_wh.png)
 ![RAY](RAY_wh_small.png)
@@ -56,6 +64,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 
 ```
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/SRMso_wh.png
+```
+
+### TBTC
+![TBTC](TBTC_wh.png)
+![TBTC](TBTC_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/TBTC_wh.png
 ```
 
 ### USDCso
@@ -252,6 +268,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/CHZ_wh.png
 ```
 
+### CHAI
+![CHAI](CHAI_wh.png)
+![CHAI](CHAI_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/CHAI_wh.png
+```
+
 ### COMP
 ![COMP](COMP_wh.png)
 ![COMP](COMP_wh_small.png)
@@ -300,6 +324,22 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/DAI_wh.png
 ```
 
+### DEXE
+![DEXE](DEXE_wh.png)
+![DEXE](DEXE_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/DEXE_wh.png
+```
+
+### DIMO
+![DIMO](DIMO_wh.png)
+![DIMO](DIMO_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/DIMO_wh.png
+```
+
 ### DYDX
 ![DYDX](DYDX_wh.png)
 ![DYDX](DYDX_wh_small.png)
@@ -346,6 +386,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 
 ```
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/ETHIX_wh.png
+```
+
+### EURC
+![EURC](EURC_wh.png)
+![EURC](EURC_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/EURC_wh.png
 ```
 
 ### FRAX
@@ -700,6 +748,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/SUSHI_wh.png
 ```
 
+### T
+![T](T_wh.png)
+![T](T_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/T_wh.png
+```
+
 ### TBTC
 ![TBTC](TBTC_wh.png)
 ![TBTC](TBTC_wh_small.png)
@@ -1024,6 +1080,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 
 ```
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/USDTpo_wh.png
+```
+
+### WOM
+![WOM](WOM_wh.png)
+![WOM](WOM_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/WOM_wh.png
 ```
 
 
