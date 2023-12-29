@@ -347,6 +347,11 @@
             "curve"
           ]
         },
+        "Fm22RbypFLJeR3tjUKK2EGERj78PZVoNwE5wiDYqPHvN": {
+          "markets": [
+            "uniswap"
+          ]
+        },
         "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr": {
           "markets": [
             "uniswap"
@@ -1110,6 +1115,11 @@
     },
     "2": {
       "1": {
+        "0x00c5CA160A968f47e7272A0CFCda36428F386CB6": {
+          "markets": [
+            "raydium"
+          ]
+        },
         "0x04815313E9329e8905A77251A1781CfA7934259a": {
           "markets": [
             "raydium"
@@ -3719,6 +3729,10 @@
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/gOHM_wh.png",
         "symbol": "gOHM"
       },
+      "Fm22RbypFLJeR3tjUKK2EGERj78PZVoNwE5wiDYqPHvN": {
+        "logo": "https://arweave.net/PciqoFqwMJMbXLVzSJzDbdltdFmWA9IrF3935p09Nj0?ext=png",
+        "symbol": "USDEBT"
+      },
       "GJa1VeEYLTRoHbaeqcxfzHmjGCGtZGF3CUqxv9znZZAY": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/ZRX_wh.png",
         "symbol": "ZRX"
@@ -3955,6 +3969,10 @@
       "0x009178997aff09a67d4caccfeb897fb79d036214": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/1SOL_wh.png",
         "symbol": "1SOL"
+      },
+      "0x00c5CA160A968f47e7272A0CFCda36428F386CB6": {
+        "logo": "https://arweave.net/PciqoFqwMJMbXLVzSJzDbdltdFmWA9IrF3935p09Nj0?ext=png",
+        "symbol": "USDEBT"
       },
       "0x0316eb71485b0ab14103307bf65a021042c6d380": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/HBTC_wh.png",

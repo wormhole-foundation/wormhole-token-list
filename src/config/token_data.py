@@ -2170,6 +2170,24 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "USDEBT": {
+      "symbol": "USDEBT",
+      "name": "USDEBT (Wormhole)",
+      "sourceAddress": "0x00c5CA160A968f47e7272A0CFCda36428F386CB6",
+      "coingeckoId": "usdebt",
+      "logo": "https://arweave.net/PciqoFqwMJMbXLVzSJzDbdltdFmWA9IrF3935p09Nj0?ext=png",
+      "markets": {
+          "eth": ["uniswap"],
+          "sol": ["raydium"]
+      },
+      "destinations": {
+        "sol": {
+          "address": "Fm22RbypFLJeR3tjUKK2EGERj78PZVoNwE5wiDYqPHvN",
+          "decimals": 8
+        }
+      },
+      "sourceDecimals": 18
+    },
   },
   #####################
   # 3. Terra native
