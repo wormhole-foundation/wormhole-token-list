@@ -291,6 +291,11 @@
             "curve"
           ]
         },
+        "5zbUuCeYLHVApzANWNSXkKwcEoZsbMghoh8z8HbWTJbJ": {
+          "markets": [
+            "uniswap"
+          ]
+        },
         "6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU": {
           "markets": [
             "threshold"
@@ -1231,6 +1236,11 @@
         "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5": {
           "markets": [
             "threshold"
+          ]
+        },
+        "0xD96e84DDBc7CbE1D73c55B6fe8c64f3a6550deea": {
+          "markets": [
+            "raydium"
           ]
         },
         "0xDe60aDfDdAAbaAAC3dAFa57B26AcC91Cb63728c4": {
@@ -3447,6 +3457,10 @@
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/QUICK_wh.png",
         "symbol": "QUICK"
       },
+      "5zbUuCeYLHVApzANWNSXkKwcEoZsbMghoh8z8HbWTJbJ": {
+        "logo": "https://assets.coingecko.com/coins/images/32334/standard/gmac-200x200.png?1697452788",
+        "symbol": "GMAC"
+      },
       "64L6o4G2H7Ln1vN7AHZsUMW4pbFciHyuwn4wUdSbcFxh": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/KEEP_wh.png",
         "symbol": "KEEP"
@@ -4287,6 +4301,10 @@
       "0xD31a59c85aE9D8edEFeC411D448f90841571b89c": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/SOL_wh.png",
         "symbol": "SOL"
+      },
+      "0xD96e84DDBc7CbE1D73c55B6fe8c64f3a6550deea": {
+        "logo": "https://assets.coingecko.com/coins/images/32334/standard/gmac-200x200.png?1697452788",
+        "symbol": "GMAC"
       },
       "0xDe60aDfDdAAbaAAC3dAFa57B26AcC91Cb63728c4": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/USDTbs_wh.png",
