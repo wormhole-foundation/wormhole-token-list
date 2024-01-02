@@ -2170,6 +2170,24 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "GMAC": {
+      "symbol": "GMAC",
+      "name": "Gemach",
+      "sourceAddress": "0xD96e84DDBc7CbE1D73c55B6fe8c64f3a6550deea",
+      "coingeckoId": "gemach",
+      "logo": "https://assets.coingecko.com/coins/images/32334/standard/gmac-200x200.png?1697452788",
+      "markets": {
+          "eth": ["uniswap"],
+          "sol": ["raydium"]
+      },
+      "destinations": {
+        "sol": {
+          "address": "5zbUuCeYLHVApzANWNSXkKwcEoZsbMghoh8z8HbWTJbJ",
+          "decimals": 8
+        }
+      },
+      "sourceDecimals": 18
+    },
   },
   #####################
   # 3. Terra native
@@ -2289,7 +2307,7 @@ TOKENS = {
         }
       },
       "sourceDecimals": 6
-    }
+    },
   },
   #####################
   # 4. BSC native
