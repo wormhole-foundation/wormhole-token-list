@@ -1945,6 +1945,22 @@ TOKENS = {
       },
       "sourceDecimals": 6
     },
+    "VCX": {
+      "symbol": "VCX",
+      "name": "VaultCraft (Portal)",
+      "sourceAddress": "0xcE246eEa10988C495B4A90a905Ee9237a0f91543",
+      "destinations": {
+        "sol": {
+          "address": "CVjKUDxvLYDLM4TFd6UH9b4YMqCsWY36bH3HkSTEyvFA",
+          "decimals": 8
+        }
+      },
+      "markets": {
+      "eth": ["balancer"],
+      },
+      "coingeckoId": "vaultcraft",
+      "logo": "https://app.vaultcraft.io/images/tokens/vcx.svg"
+      },
     "WBTC": {
       "symbol": "WBTC",
       "name": "Wrapped BTC (Portal)",
