@@ -2175,7 +2175,7 @@ TOKENS = {
       "name": "USDEBT (Wormhole)",
       "sourceAddress": "0x00c5CA160A968f47e7272A0CFCda36428F386CB6",
       "coingeckoId": "usdebt",
-      "logo": "https://arweave.net/PciqoFqwMJMbXLVzSJzDbdltdFmWA9IrF3935p09Nj0?ext=png",
+      "logo": "https://arweave.net/_Ab6TsAIHVYU_QRbcZoPIvY_MuV99HOuV8tpk-VnT0s?ext=jpg",
       "markets": {
           "eth": ["uniswap"],
           "sol": ["raydium"]
