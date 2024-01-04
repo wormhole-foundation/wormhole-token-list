@@ -2179,7 +2179,7 @@ TOKENS = {
       "name": "USDEBT (Wormhole)",
       "sourceAddress": "0x00c5CA160A968f47e7272A0CFCda36428F386CB6",
       "coingeckoId": "usdebt",
-      "logo": "https://arweave.net/_Ab6TsAIHVYU_QRbcZoPIvY_MuV99HOuV8tpk-VnT0s?ext=jpg",
+      "logo": "https://raw.githubusercontent.com/denysnizamiiev/wormhole-token-list/main/assets/USDEBT_wh.png",
       "markets": {
           "eth": ["uniswap"],
           "sol": ["raydium"]

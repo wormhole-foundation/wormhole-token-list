@@ -692,6 +692,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/SLP_wh.png
 ```
 
+### SPX6900
+![SPX6900](SPX6900_wh.png)
+![SPX6900](SPX6900_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/SPX6900_wh.png
+```
+
 ### SNX
 ![SNX](SNX_wh.png)
 ![SNX](SNX_wh_small.png)
@@ -922,6 +930,22 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 
 ```
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/SD_wh.png
+```
+
+### HOOD
+![HOOD](HOOD_wh.png)
+![HOOD](HOOD_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/HOOD_wh.png
+```
+
+### USDEBT
+![USDEBT](USDEBT_wh.png)
+![USDEBT](USDEBT_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/USDEBT_wh.png
 ```
 
 
