@@ -347,6 +347,11 @@
             "curve"
           ]
         },
+        "Fm22RbypFLJeR3tjUKK2EGERj78PZVoNwE5wiDYqPHvN": {
+          "markets": [
+            "uniswap"
+          ]
+        },
         "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr": {
           "markets": [
             "uniswap"
@@ -1115,6 +1120,11 @@
     },
     "2": {
       "1": {
+        "0x00c5CA160A968f47e7272A0CFCda36428F386CB6": {
+          "markets": [
+            "raydium"
+          ]
+        },
         "0x04815313E9329e8905A77251A1781CfA7934259a": {
           "markets": [
             "raydium"
@@ -3739,6 +3749,10 @@
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/gOHM_wh.png",
         "symbol": "gOHM"
       },
+      "Fm22RbypFLJeR3tjUKK2EGERj78PZVoNwE5wiDYqPHvN": {
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/USDEBT_wh.png",
+        "symbol": "USDEBT"
+      },
       "GJa1VeEYLTRoHbaeqcxfzHmjGCGtZGF3CUqxv9znZZAY": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/ZRX_wh.png",
         "symbol": "ZRX"
@@ -3796,7 +3810,7 @@
         "symbol": "AXSet"
       },
       "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr": {
-        "logo": "https://assets.coingecko.com/coins/images/31401/standard/sticker_%281%29.jpg?1702371083",
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/SPX6900_wh.png",
         "symbol": "SPX6900"
       },
       "J8LKx7pr9Zxh9nMhhT7X3EBmj5RzuhFrHKyJAe2F2i9S": {
@@ -3975,6 +3989,10 @@
       "0x009178997aff09a67d4caccfeb897fb79d036214": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/1SOL_wh.png",
         "symbol": "1SOL"
+      },
+      "0x00c5CA160A968f47e7272A0CFCda36428F386CB6": {
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/USDEBT_wh.png",
+        "symbol": "USDEBT"
       },
       "0x0316eb71485b0ab14103307bf65a021042c6d380": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/HBTC_wh.png",
@@ -4445,7 +4463,7 @@
         "symbol": "HUSD"
       },
       "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c": {
-        "logo": "https://assets.coingecko.com/coins/images/31401/standard/sticker_%281%29.jpg?1702371083",
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/SPX6900_wh.png",
         "symbol": "SPX6900"
       },
       "0xe41d2489571d322189246dafa5ebde1f4699f498": {
@@ -4688,7 +4706,7 @@
         "symbol": "TBTC"
       },
       "0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C": {
-        "logo": "https://assets.coingecko.com/coins/images/31401/standard/sticker_%281%29.jpg?1702371083",
+        "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/SPX6900_wh.png",
         "symbol": "SPX6900"
       },
       "0xD9541B08B375D58ae104EC247d7443D2D7235D64": {
