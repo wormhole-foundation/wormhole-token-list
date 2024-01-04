@@ -1569,11 +1569,15 @@ TOKENS = {
             "sourceAddress": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c",
             "coingeckoId": "spx6900",
             "logo": "https://assets.coingecko.com/coins/images/31401/standard/sticker_%281%29.jpg?1702371083",
-            "markets": {"eth": ["uniswap"], "sol": ["raydium"]},
+            "markets": {"eth": ["uniswap"], "sol": ["raydium"], "base": ["uniswap"]},
             "destinations": {
                 "sol": {
                     "address": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr",
                     "decimals": 8,
+                },
+                "base":{
+                  "address": "0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C",
+                  "decimals": 8,
                 }
             },
             "sourceDecimals": 8,

@@ -404,6 +404,11 @@
           "markets": [
             "threshold"
           ]
+        },
+        "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr": {
+          "markets": [
+            "uniswap"
+          ]
         }
       },
       "4": {
@@ -1411,6 +1416,11 @@
           "markets": [
             "threshold"
           ]
+        },
+        "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c": {
+          "markets": [
+            "uniswap"
+          ]
         }
       },
       "4": {
@@ -2083,6 +2093,11 @@
           "markets": [
             "threshold"
           ]
+        },
+        "0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C": {
+          "markets": [
+            "raydium"
+          ]
         }
       },
       "10": {},
@@ -2098,6 +2113,11 @@
         "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b": {
           "markets": [
             "threshold"
+          ]
+        },
+        "0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C": {
+          "markets": [
+            "uniswap"
           ]
         },
         "0xD9541B08B375D58ae104EC247d7443D2D7235D64": {
@@ -4684,6 +4704,10 @@
       "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/TBTC_wh.png",
         "symbol": "TBTC"
+      },
+      "0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C": {
+        "logo": "https://assets.coingecko.com/coins/images/31401/standard/sticker_%281%29.jpg?1702371083",
+        "symbol": "SPX6900"
       },
       "0xD9541B08B375D58ae104EC247d7443D2D7235D64": {
         "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/WOM_wh.png",
