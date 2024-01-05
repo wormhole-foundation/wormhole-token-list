@@ -2174,6 +2174,21 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+      "MAGA (Wormhole)": {
+      "symbol": "TRUMP",
+      "name": "MAGA (Wormhole)",
+      "sourceAddress": "0x576e2bed8f7b46d34016198911cdf9886f78bea7",
+      "coingeckoId": "maga",
+      "logo": "https://magamemecoin.com/wp-content/uploads/cropped-MAGA-Memecoin-Favicon.png",
+      "markets": {"eth": ["uniswap"], "sol": ["raydium"]},
+      "destinations": {
+        "sol": {
+          "address": "HaP8r3ksG76PhQLTqR8FYBeNiQpejcFbQmiHbg787Ut1",
+          "decimals": 8,
+        }
+      },
+      "sourceDecimals": 8,
+    },
   },
   #####################
   # 3. Terra native
@@ -2295,6 +2310,7 @@ TOKENS = {
       "sourceDecimals": 6
     }
   },
+  
   #####################
   # 4. BSC native
   #####################
