@@ -387,6 +387,23 @@ TOKENS = {
       },
       "sourceDecimals": 5
     },
+    "AMU": {
+      "symbol": "AMU",
+      "name": "Amulet",
+      "sourceAddress": "AMUwxPsqWSd1fbCGzWsrRKDcNoduuWMkdR38qPdit8G8",
+      "logo": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/src/logogen/base/AMU.png",
+      "destinations": {
+        "eth": {
+          "address": "0x174c47D6A4E548ED2B7d369dC0fFb2E60A6ac0F8",
+          "decimals": 9
+        },
+        "optimism": {
+          "address": "0x5C0Ea461FE5E6f3b4f90a071E72243C14C6abfd7",
+          "decimals": 9
+        }
+      },
+      "sourceDecimals": 9
+    },
   },
   #####################
   # 2. Ethereum native
