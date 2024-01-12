@@ -130,6 +130,14 @@ https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/a
 https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/BONK_wh.png
 ```
 
+### AMU
+![AMU](AMU_wh.png)
+![AMU](AMU_wh_small.png)
+
+```
+https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/AMU_wh.png
+```
+
 
 ## source chain: Ethereum
 ### 1INCH
