@@ -387,6 +387,25 @@ TOKENS = {
       },
       "sourceDecimals": 5
     },
+    "Cryowar (Portal)": {
+      "symbol": "CWAR",
+      "name": "Cryowar (Portal)",
+      "sourceAddress": "HfYFjMKNZygfMC8LsQ8LtpPsPxEJoXJx4M6tqi75Hajo",
+      "coingeckoId": "cryowar",
+      "logo": "https://assets.coingecko.com/coins/images/20227/standard/CWAR_round_200_200.png",
+      "markets": {
+        "sol": [
+          "raydium"
+        ],
+      },
+      "destinations": {
+         "matic": {
+          "address": "0x56726266D820Ecf8130CE5fb41f8693000193838",
+          "decimals": 9
+        },
+      },
+      "sourceDecimals": 9
+    },
   },
   #####################
   # 2. Ethereum native
