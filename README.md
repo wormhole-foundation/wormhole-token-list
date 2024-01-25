@@ -1,6 +1,14 @@
 # Wormhole Token List
 
-## Update instructions
+This repository served as a reference guide, designed for both community members and developers. The purpose of this list was to provide detailed information about various tokens within the Wormhole ecosystem. This list is not used to determine the tokens listed on portalbridge.com.
+
+Additional context:
+- Before November 2023, some information in this repository was *also* used to populate the token list and display metadata about the tokens on the main page of portalbridge.com. 
+- As of January 2024, the legacy 'Advanced Tools' part of Portal Bridge still uses some of that data. To keep legacy functionality intact after the archival of this repository, a snapshot of the data has been extracted and placed in the [official Portal repository](https://github.com/XLabs/portal-bridge-ui). As a consequence, from January 2024, no downstream product officially uses the wormhole-token-list repo.
+- To request your metadata to be updated in the legacy part of Portal, please ask on the Discord server: https://discord.gg/wormholecrypto
+- Adding or updating tokens in this manner does not mean that the token's metadata will be propagated across other Wormhole applications or Block Explorers, nor does it mean that the token being present in the list is a requirement to be supported by Wormhole as an xAsset. The inclusion in this list was a separate process from integration into individual Wormhole apps.
+
+## Update instructions (legacy)
 
 - [Update instructions](updating.md)
 
