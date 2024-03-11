@@ -983,8 +983,14 @@ TOKENS = {
       "name": "Euro Coin (Portal from Ethereum))",
       "sourceAddress": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
       "coingeckoId": "euro-coin",
-      "markets": {},
-      "destinations": {},
+      "markets": {
+        "celo": ["uniswap"],
+      },
+      "destinations": {
+        "celo": {
+          "address": "0xBddC3554269053544bE0d6d027a73271225E9859",
+          "decimals": 6
+      },
       "sourceDecimals": 6
     },
     "FRAX": {
